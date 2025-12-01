@@ -25,7 +25,7 @@ app.use(express.static(__dirname));
 const rooms = {}; // { roomCode: { status, players, currentQuestionIndex, timerInterval, answers, gameQuestions, questionStartTime, answerTimes } }
 
 // Constants
-const QUESTION_TIME = 15;
+const QUESTION_TIME = 59;
 const SCORE_CORRECT = 5;
 const SCORE_WRONG = -5;
 const SPEED_BONUS_MAX = 10; // Maximum bonus points for fastest answer
