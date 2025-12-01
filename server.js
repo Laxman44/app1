@@ -59,12 +59,32 @@ io.on('connection', (socket) => {
 
         // --- CUSTOM LOGIC: FILTER QUESTIONS HERE ---
         // Currently set to: Play questions with ID 5 to 10
-        room.gameQuestions = questionsData.filter(q => q.id >= 5 && q.id <= 10);
+     // ...existing code...
+socket.on('host_start_game', ({ roomCode }) => {
+    const room = rooms[roomCode];
+    if (!room || room.hostId !== socket.id) return;
 
-        // Fallback: If filter finds nothing (or you want all), load all questions
-        if (room.gameQuestions.length === 0) {
-            console.log("Filter returned empty, loading all questions.");
-            room.gameQuestions = [...questionsData];
+    // --- CUSTOM LOGIC: FILTER AND RANDOMIZE QUESTIONS ---
+    // First filter questions (currently set to: ID 5 to 10)
+    let filteredQuestions = questionsData.filter(q => q.id >= 5 && q.id <= 10);
+    
+    // Fallback: If filter finds nothing, load all questions
+    if (filteredQuestions.length === 0) {
+        console.log("Filter returned empty, loading all questions.");
+        filteredQuestions = [...questionsData];
+    }
+    
+    // Randomize the questions using Fisher-Yates shuffle algorithm
+    for (let i = filteredQuestions.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [filteredQuestions[i], filteredQuestions[j]] = [filteredQuestions[j], filteredQuestions[i]];
+    }
+    
+    room.gameQuestions = filteredQuestions;
+    console.log(Starting game with ${room.gameQuestions.length} randomized questions);
+    // -------------------------------------------
+
+    // ...existing code...
         }
         
         console.log(`Starting game with ${room.gameQuestions.length} questions`);
