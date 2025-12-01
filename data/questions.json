@@ -1,90 +1,972 @@
 [
   {
     "id": 1,
+    "text": "A person throws balls into air vertically upward in regular intervals of time of one second. The next ball is thrown when velocity of ball thrown earlier becomes zero, height to which ball rise is, ($g=10~ms^{-2}$)",
+    "options": [
+      "**5m**",
+      "7.5m",
+      "10m",
+      "20m"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 2,
+    "text": "A student unable to answer on Newton's law of motion attempts to pull himself up by tugging on his hair. He will not success",
+    "options": [
+      "as force exerted is small",
+      "**as force applied is internal to system**",
+      "Newton's law of inertia is not applicable to living beings",
+      "None of above"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 3,
+    "text": "A ball is dropped from height h. As it bounces off floor, its speed is 80% of what it was just before it hit floor. Ball will then rise to height of most nearly",
+    "options": [
+      "0.94h",
+      "0.75 h",
+      "**0.64 h**",
+      "0.50 h"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 4,
+    "text": "Weight of an object on Moon is $\\frac{1}{6}$ of its weight on Earth. A pendulum clock that ticks once per second on Earth is taken to moon. On Moon clock would tick one every",
+    "options": [
+      "**$\\sqrt{6}sec$**",
+      "$\\frac{1}{6}sec$",
+      "6 sec",
+      "1 sec"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 5,
+    "text": "What will be the effect on weight of body placed on surface of earth? If earth suddenly starts rotating with half of its angular velocity of rotation?",
+    "options": [
+      "No effect",
+      "**Weight will increase**",
+      "Weight will decrease",
+      "Weight will become zero"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 6,
+    "text": "If K.E. of body increases by 44% percentage increase in linear momentum is",
+    "options": [
+      "50%",
+      "**20%**",
+      "100%",
+      "22%"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 7,
+    "text": "Conservative force F satisfies relation",
+    "options": [
+      "**$\\nabla\\times\\vec{F}=0$**",
+      "$\\nabla\\times\\vec{F}>0$",
+      "$\\nabla.\\vec{F}=0$",
+      "$\\nabla\\times\\vec{F}<0$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 8,
+    "text": "A body under inverse square force will move along circular path if total energy is",
+    "options": [
+      "zero",
+      "positive",
+      "**negative**",
+      "infinite"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 9,
+    "text": "If total energy of particle is negative but not minimum, path is",
+    "options": [
+      "hyperbolic",
+      "**elliptical**",
+      "parabolic",
+      "circular"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 10,
+    "text": "A thin uniform rod of mass M and length L is positioned vertically above an anchored frictionless pivot point, and then allowed to fall to ground. With what speed does free end of rod strike ground?",
+    "options": [
+      "$\\sqrt{\\frac{1}{3}gL}$",
+      "**$\\sqrt{3gL}$**",
+      "$\\sqrt{12gL}$",
+      "$\\sqrt{gL}$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 11,
+    "text": "A ball of mass m, suspended on end of wire, is released from height 'h' and collides elastically, when it is at its lowest point, with block of mass 2m at rest on frictionless surface. After collision, ball rises to final height equals to,",
+    "options": [
+      "**$\\frac{1}{9}h$**",
+      "$\\frac{1}{8}h$",
+      "$\\frac{1}{3}h$",
+      "$\\frac{2}{3}h$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 12,
+    "text": "If $\\frac{dA}{dt}$ be areal velocity of planet around Sun angular momentum L may be expressed as ($M=$ mass of planet).",
+    "options": [
+      "$M\\frac{dA}{dt}$",
+      "**$2M\\frac{dA}{dt}$**",
+      "$\\frac{1}{2}M\\frac{dA}{dt}$",
+      "$M(\\frac{dA}{dt})^{2}$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 13,
+    "text": "Trajectory of particle is elliptical if eccentricity is",
+    "options": [
+      "$e=0$",
+      "$e=1$",
+      "**$e<1$**",
+      "$e>1$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 14,
+    "text": "Speed of rocket is equal to exhaust speed if",
+    "options": [
+      "$\\frac{M_{0}}{M}=e^{2}$",
+      "$\\frac{M_{o}}{M}=1$",
+      "**$\\frac{M_{\\circ}}{M}=e$**",
+      "$\\frac{M_{o}}{M}=2$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 15,
+    "text": "Empty stages of 2 stage rocket separately weight 6000 and 500 kg and contains 40000 and 35000 kg fuel respectively. If exhaust velocity is $1.8~ms^{-1}$, final velocity is $2.3~kms^{-1}$",
+    "options": [
+      "**$6.6~kms^{-1}$**",
+      "$5.9~kms^{-1}$",
+      "$2.9~kms^{-1}$",
+      "$2.3~kms^{-1}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 16,
+    "text": "Percentage decrease in K.E. of neutron when it makes head on collision with carbon atom at rest is",
+    "options": [
+      "27%",
+      "**28%**",
+      "40%",
+      "90%"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 17,
+    "text": "A bomb of 12 kg at rest explodes, into pieces of mass as 4 kg and 8 kg, velocity of 8 kg mass is $6ms^{-1}$ Then K.E. of 4 kg mass is",
+    "options": [
+      "24 J",
+      "48 J",
+      "**288 J**",
+      "328 J"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 18,
+    "text": "A body of mass m, makes head on elastic collision on with body of mass 3m, which is initially at rest. Fraction of initial K.E. lost by first particle during collision is",
+    "options": [
+      "$\\frac{1}{2}$",
+      "$\\frac{1}{3}$",
+      "$\\frac{2}{3}$",
+      "**$\\frac{8}{9}$**"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 19,
+    "text": "In head on elastic collision between two particles, transference of energy is maximum when their mass ratio is",
+    "options": [
+      "**unity**",
+      "very small",
+      "very large",
+      "equal to zero"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 20,
+    "text": "In case of central force acting between two particles, velocity and acceleration of centre of mass are respectively.",
+    "options": [
+      "Zero and constant",
+      "**Constant and zero**",
+      "Both zero",
+      "Both constant"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 21,
+    "text": "Two planets are moving round the Sun. There mean orbital radii are $r_{1}$ and $r_{2}$. Ratio of their time period $(\\frac{T_{1}}{T_{2}})$ is equal to",
+    "options": [
+      "$(\\frac{r_{1}}{r_{2}})^{3}$",
+      "**$(\\frac{r_{1}}{r_{2}})^{3/2}$**",
+      "$\\frac{r_{1}}{r_{2}}$",
+      "$(\\frac{r_{1}}{r_{2}})^{1/2}$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 22,
+    "text": "Satellite is moving very close to planet of density $\\rho$. Time period of satellite is",
+    "options": [
+      "**$(\\frac{3\\pi}{G\\rho})^{1/2}$**",
+      "$(\\frac{3\\pi}{G\\rho})^{32}$",
+      "$(\\frac{3\\pi}{G\\rho})^{2}$",
+      "$(\\frac{3\\pi}{G\\rho})^{3}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 23,
+    "text": "Ratio of energy required to raise satellite to height h above earth to that required to put, into orbit at that height is",
+    "options": [
+      "$\\frac{h}{R}$",
+      "$\\frac{R}{h}$",
+      "$\\frac{2R}{h}$",
+      "**$\\frac{2h}{R}$**"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 24,
+    "text": "Total energy of satellite of mass 'm' orbiting around earth in circular orbit of radius r is (mass of earth is M)",
+    "options": [
+      "$\\frac{GMm}{r}$",
+      "**$-\\frac{GMm}{2r}$**",
+      "$\\frac{GMm}{2r}$",
+      "$-\\frac{GMn}{r}$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 25,
+    "text": "Gravitational field intensity (E) at point inside solid sphere distance 'r' from its centre varies as",
+    "options": [
+      "$E\\propto\\frac{1}{r^{2}}$",
+      "$E\\propto r^{2}$",
+      "$E\\propto\\frac{1}{r}$",
+      "**$E\\propto r$**"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 26,
+    "text": "Gravitational potential at distance 'r' from centre of solid sphere of radius 'R' is",
+    "options": [
+      "$-\\frac{GM}{R^{2}}(3R^{2}-r^{2})$",
+      "$-\\frac{GM}{2R^{2}}(R^{2}-3r^{2})$",
+      "**$-\\frac{GM}{2R}(3R^{2}-r^{2})$**",
+      "$-\\frac{3}{2}\\frac{GM}{R^{2}}(R^{2}-r^{2})$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 27,
+    "text": "Gravitational self energy of Sun, taking its mass equal to $2\\times10^{30}kg$ and its radius to be nearly $7\\times10^{8}m$ is",
+    "options": [
+      "$2.4\\times10^{41}J$",
+      "$3.4\\times10^{8}cJ$",
+      "$-1.6\\times10^{14}J$",
+      "**$-2.4\\times10^{41}J$**"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 28,
+    "text": "Relation between escape velocity $v_e$ and orbital velocity $v_{o}$ is given by,",
+    "options": [
+      "**$v_{e}=\\sqrt{2}v_{o}$**",
+      "$v_{0}=2v_{0}$",
+      "$v_{e}=\\frac{v_{0}}{\\sqrt{2}}$",
+      "$v_{e}=\\frac{v_{o}}{2}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 29,
+    "text": "In region, gravitational force is zero. Gravitational potential in this region",
+    "options": [
+      "must be variable",
+      "**must be constant**",
+      "can't be zero",
+      "must be zero"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 30,
+    "text": "Gravitational potential and field at a point x from centre inside spherical shell of mass m and radius R is",
+    "options": [
+      "$-\\frac{GM(R-x)}{R},-\\frac{GM}{R}$",
+      "$-\\frac{GM}{x},-\\frac{GM}{x^{2}}$",
+      "**$-\\frac{GM}{R}$, 0**",
+      "Both are zero"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 31,
+    "text": "A cylinder with moment of inertia 4 kgm² about fixed axis initially rotates at 80 rad/sec about this axis. A constant torque is applied to slow it down to 40 rad/sec. Kinetic energy lost by cylinder is",
+    "options": [
+      "80 J",
+      "4,000 J",
+      "**9,600 J**",
+      "19,200 J"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 32,
+    "text": "If stone of mass 500g revolving at end of 40 cm long string at rate of 2 rev/sec. is applied torque for 30 sec. and revolution decrease to 0.5 rev/sec, torque imposed is",
+    "options": [
+      "**0.025 Nm**",
+      "3 Nm",
+      "4 Nm",
+      "0"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 33,
+    "text": "Moment of inertia of angular ring or disc about an axis through its centre and perpendicular to its plane is (R and r are outer and inner radii).",
+    "options": [
+      "$\\frac{M(r^{2}-R^{2})}{2}$",
+      "$\\frac{M(R^{2}-r^{2})}{2}$",
+      "**$\\frac{M(R^{2}+r^{2})}{2}$**",
+      "$\\frac{2M}{3}(R^{2}+r^{2})$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 34,
+    "text": "Moment of inertia of solid sphere about tangent drawn on its surface is",
+    "options": [
+      "$\\frac{2}{5}MR^{2}$",
+      "$\\frac{2}{3}MR^{2}$",
+      "$\\frac{5}{3}MR^{2}$",
+      "**$\\frac{7}{5}MR^{2}$**"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 35,
+    "text": "A thin hollow cylinder, open at both ends and mass M (a) slides with velocity without rotating (b) rolls without slipping, with same speed. Ratio of kinetic energy possesses in 2 cases is",
+    "options": [
+      "**1:2**",
+      "2:5",
+      "2:6",
+      "4:9"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 36,
+    "text": "A solid cylinder (a) rolls (b) slides from rest down inclined plane. Ration of velocities in both cases as cylinder reaches bottom is",
+    "options": [
+      "1:2.5",
+      "**1:1.225**",
+      "2:3.5",
+      "1:3.6"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 37,
+    "text": "Time taken by solid sphere to roll down an inclined plane 8 m long and having slope $\\sin\\theta=\\frac{1}{2}$ is",
+    "options": [
+      "**2.13 sec**",
+      "3.33 sec",
+      "4.89 sec",
+      "1.69 sec"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 38,
+    "text": "Radius to gyration (K) of spherical shell of radius R is",
+    "options": [
+      "$K=\\sqrt{\\frac{5}{3}}R$",
+      "$K=\\sqrt{\\frac{2}{5}}R$",
+      "**$K=\\sqrt{\\frac{2}{3}}R$**",
+      "$\\sqrt{\\frac{1}{2}}R$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 39,
+    "text": "Acceleration of body rolling down an inclined plane is",
+    "options": [
+      "$\\frac{R^{2}}{K^{2}-R^{2}}g\\sin\\theta$",
+      "**$\\frac{R^{2}}{R^{2}+K^{2}}g\\sin\\theta$**",
+      "$\\frac{K^{2}}{R^{2}-K^{2}}g\\sin\\theta$",
+      "$\\frac{K^{2}}{R^{2}+K^{2}}g\\sin\\theta$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 40,
+    "text": "A solid spherical ball rolls on horizontal table. Fraction of its total kinetic energy to be rotational is,",
+    "options": [
+      "$\\frac{2}{3}$",
+      "**$\\frac{2}{7}$**",
+      "$\\frac{8}{9}$",
+      "$\\frac{6}{11}$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 41,
+    "text": "Spring of force constant K is stretched certain in distance. It takes twice as much work to stretch second spring by half this distance. Force constant of second spring is",
+    "options": [
+      "K",
+      "2K",
+      "8K",
+      "**16K**"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 42,
+    "text": "A simple pendulum of length $l$ is suspended from ceiling of an elevator that is accelerating upward with constant acceleration 'a'. For small oscillation period, T of pendulum is",
+    "options": [
+      "$T=2\\pi\\sqrt{\\frac{l}{g}}$",
+      "**$T=2\\pi\\sqrt{\\frac{l}{g+a}}$**",
+      "$T=2\\pi\\sqrt{\\frac{l}{g-a}}$",
+      "$T=\\sqrt{\\frac{l}{g}}$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 43,
+    "text": "In simple harmonic motion, magnitude of acceleration is greatest when",
+    "options": [
+      "force is zero",
+      "speed is maximum",
+      "**displacement is maximum**",
+      "displacement is zero"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 44,
+    "text": "If earth were homogeneous sphere of radius R, then time period of particle dropped into straight hole bored through its centre is",
+    "options": [
+      "**$T=2\\pi\\sqrt{\\frac{R}{g}}$**",
+      "$T=2\\pi\\sqrt{\\frac{8R}{g}}$",
+      "$T=\\sqrt{\\frac{R}{g}}$",
+      "None of above"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 45,
+    "text": "When tunnel is dug through earth and ball is dropped into it, motion of ball is",
+    "options": [
+      "**SHM about centre of earth**",
+      "SHM about centre of tunnel",
+      "SHM about one end of tunnel",
+      "None of all"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 46,
+    "text": "Period of torsional pendulum of bob of radius 0.05m and mass 3.5 kg suspended by wire of torsional rigidity $6\\times10^{-3}$ Nm/rad is",
+    "options": [
+      "2.0 sec",
+      "4.0 sec",
+      "**4.8 sec**",
+      "2.4 sec"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 47,
+    "text": "Time period of compound pendulum is minimum when",
+    "options": [
+      "**$l=K$**",
+      "$l<K$",
+      "$l>K$",
+      "$l=0$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 48,
+    "text": "A thin uniform bar of length 120 cm is made to oscillate about on axis through its end Time period of oscillation is",
+    "options": [
+      "4.8 sec",
+      "3.8 sec",
+      "2.8 sec",
+      "**1.8 sec**"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 49,
+    "text": "A mass less spring with force constant K, launches ball of mass m. In order for ball to reach speed v, by what displacement S should spring be compressed?",
+    "options": [
+      "**$S=v\\sqrt{\\frac{m}{K}}$**",
+      "$S=v\\sqrt{\\frac{K}{m}}$",
+      "$S=v\\sqrt{\\frac{2K}{m}}$",
+      "$S=v\\frac{m}{K}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 50,
+    "text": "The differentiate equation of SHM is gives by $\\frac{d^{2}y}{dt^{2}}+100y=0,$ the frequency of motion is,",
+    "options": [
+      "1",
+      "10",
+      "**$\\frac{10}{2\\pi}$**",
+      "$\\frac{100}{2\\pi}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 51,
+    "text": "Which one of following is property of progressive wave?",
+    "options": [
+      "**each particle in medium has constant and same amplitude**",
+      "there is no flow of energy across any plane",
+      "some particles in medium is permanently at rest",
+      "No particle transfers its motion to next at any time"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 52,
+    "text": "Angle between particle velocity and wave velocity in transverse waves is",
+    "options": [
+      "$\\pi$",
+      "**$\\frac{\\pi}{2}$**",
+      "$\\frac{\\pi}{4}$",
+      "0"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 53,
+    "text": "Equation of plane progressive wave is given below $y=10\\sin\\pi[0.01x-2.00t]$ Where y and x are in metre, phase difference between two points 40 cm apart is",
+    "options": [
+      "**$\\pi$**",
+      "$\\frac{\\pi}{2}$",
+      "$\\frac{3}{4}\\pi$",
+      "$\\frac{2}{5}\\pi$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 54,
+    "text": "Equation $y=A\\sin 2\\pi(\\frac{t}{T}-\\frac{x}{\\lambda}),$ where A, T and $\\lambda$ are positive constants, represents wave whose",
+    "options": [
+      "amplitude is 2A",
+      "period is $\\frac{T}{\\lambda}$",
+      "**speed is $\\frac{\\lambda}{T}$**",
+      "speed is $\\frac{x}{t}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 55,
+    "text": "Pressure amplitude of plane harmonic wave of frequency 500 Hz with displacement amplitude $1\\times10^{-5}m$ is",
+    "options": [
+      "$12~Nm^{-2}$",
+      "**$13.8~Nm^{-2}$**",
+      "$10~Nm^{-2}$",
+      "$20~Nm^{-2}$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 56,
+    "text": "Velocity of transverse wave in string is given by",
+    "options": [
+      "$v=\\sqrt{\\frac{T}{\\rho}}$",
+      "$v=\\frac{T}{\\sqrt{\\rho}}$",
+      "**$v=\\sqrt{\\frac{T}{\\mu}}$**",
+      "$v=\\frac{T}{\\rho}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 57,
+    "text": "A plane progressive wave of frequency 256 Hz and amplitude $1\\mu m$ is propagating through air of density $1.29~kg/m^{3}$. Energy density of wave is",
+    "options": [
+      "**$1.67\\times10^{-6}Jm^{-3}$**",
+      "$2.34\\times10^{-6}Jm^{-3}$",
+      "$3.68\\times10^{-6}Jm^{-3}$",
+      "$4.2\\times10^{-6}Jm^{-3}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 58,
+    "text": "In equation of progressive wave $y=A\\sin (\\omega t-kx)$, maximum particle velocity is",
+    "options": [
+      "$\\frac{x}{t}$",
+      "$\\frac{\\omega}{k}$",
+      "$\\frac{d\\omega}{dk}$",
+      "**$A\\omega$**"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 59,
+    "text": "When sound wave is refracted from air to water, which of following will remain unchanged?",
+    "options": [
+      "**Frequency**",
+      "Wave number",
+      "Wavelength",
+      "Wave velocity"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 60,
+    "text": "Relation between path difference $x$ and phase difference $\\phi$ is",
+    "options": [
+      "$\\phi=2\\pi x$",
+      "**$\\phi=\\frac{2\\pi}{\\lambda}x$**",
+      "$\\frac{2\\pi\\lambda}{x}$",
+      "$\\frac{2\\pi}{\\lambda x}$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 61,
+    "text": "Relation between Y, $\\eta$ and $\\sigma$ is",
+    "options": [
+      "**$Y=2\\eta(1+\\sigma)$**",
+      "$\\eta=2Y(1+\\sigma)$",
+      "$\\sigma=2Y(1+\\eta)$",
+      "$Y=\\eta(1+\\sigma)$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 62,
+    "text": "Relation between Y, $\\eta$ and K is",
+    "options": [
+      "**$\\frac{3}{Y}=\\frac{1}{\\eta}+\\frac{1}{3K}$**",
+      "$\\frac{1}{Y}=\\frac{1}{9K}+\\frac{1}{3\\eta}$",
+      "$\\frac{9}{Y}=\\frac{1}{K}+\\frac{3}{\\eta}$",
+      "$\\frac{1}{\\eta}=\\frac{1}{K}+\\frac{1}{\\eta Y}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 63,
+    "text": "Amount of work done in twisting steel wire of radius 1mm and length 25 cm through $45^{\\circ}$ is (given $\\eta$ for steel is $8\\times10^{11}~dyne~per~cm^2$)",
+    "options": [
+      "$12\\times10^{4}~erg$",
+      "**$15.47\\times10^{6}~erg$**",
+      "$8\\times10^{5}~erg$",
+      "Zero"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 64,
+    "text": "Upper end of wire, 1 m long and 4mm radius, is clamped. Lower end is twisted by an angle of $30^{\\circ}$. Angle of shear is",
+    "options": [
+      "**$12^{\\circ}$**",
+      "$1.2^{\\circ}$",
+      "$0.12^{\\circ}$",
+      "$0.012^{\\circ}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 65,
+    "text": "Solid cylinder of radius 5cm is converted into hollow cylinder of same mass and length and external radius 7cm. Ratio of torsional rigidities of solid to hollow cylinder is",
+    "options": [
+      "**1.96**",
+      "2.1",
+      "2.92",
+      "4.6"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 66,
+    "text": "Two cylindrical rods of length $l$ and $2l$ and radii $2r$ and $r$ are welded co-axially. One end being held fast, other twisted by $330^{\\circ}$. Twist of thicker rod is",
+    "options": [
+      "**$10^{\\circ}$**",
+      "$15^{\\circ}$",
+      "$20^{\\circ}$",
+      "$45^{\\circ}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 67,
+    "text": "A rectangular beam is bent into the arc of a circle, the strain produced in the beam is",
+    "options": [
+      "Extension only",
+      "Compression only",
+      "**Both**",
+      "Shearing"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 68,
+    "text": "A beam of cross section area A is made of a material of Young Modulus Y. The beam is bent into the arc of a circle of radius R. The bending moment is proportional to",
+    "options": [
+      "**$\\frac{Y}{R}$**",
+      "$\\frac{Y}{RA}$",
+      "$\\frac{R}{Y}$",
+      "$YR$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 69,
+    "text": "For a beam of rectangular cross-section the depression $(\\delta)$ at the middle is related to the thickness $(d)$ of the beam as,",
+    "options": [
+      "$\\delta\\propto d$",
+      "$\\delta\\propto\\frac{1}{d}$",
+      "**$\\delta\\propto\\frac{1}{d^{3}}$**",
+      "$\\delta\\propto d^{3}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 70,
+    "text": "A cable is cut to half of its original length. The maximum load that it can support is",
+    "options": [
+      "half",
+      "**same as previous**",
+      "double",
+      "one-fourth"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 71,
+    "text": "A flow of liquid is streamline. If Reynolds number is",
+    "options": [
+      "**less than 1000**",
+      "greater than 1000",
+      "between 2000 to 3000",
+      "between 4000 to 5000"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 72,
+    "text": "There is no geometrical distinction between the streamline, pathline and streak line in case of",
+    "options": [
+      "irrotational flow",
+      "uniform flow",
+      "**steady flow**",
+      "None of above"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 73,
+    "text": "Bernoulli's theorem is based on",
+    "options": [
+      "conservation of momentum",
+      "**conservation of energy**",
+      "conservation of mass",
+      "mass energy equivalence"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 74,
+    "text": "Two water pipes of diameter 2cm and 4cm are connected to main water source, Rate of water flow through 2cm pipe as compared to that through 4cm pipe will be",
+    "options": [
+      "one fourth",
+      "double",
+      "four time",
+      "**half**"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 75,
+    "text": "At distance 0.5mm from axis of capillary tube of radius 1mm velocity of liquid flowing at $0.0314~cm^2$ per second is",
+    "options": [
+      "2.5 cm/s",
+      "2.0 cm/s",
+      "**1.5 cm/s**",
+      "0"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 76,
+    "text": "Relative velocity of two consecutive layer is 8 cm/s. If perpendicular distance between layer is 0.1 cm, then velocity gradient will be",
+    "options": [
+      "**$80~sec^{-1}$**",
+      "$8~sec^{-1}$",
+      "$0.8~sec^{-1}$",
+      "$0.08~sec^{-1}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 77,
+    "text": "What will be the critical velocity of water in tube of radius 1m, if coefficient of viscosity of water is 1793 Poise and Reynold number is 1000.",
+    "options": [
+      "**$17.93~cm/s$**",
+      "$17.93\\times10^{2}~cm/s$",
+      "$17.93\\times10^{3}~cm/s$",
+      "$17.93\\times10^{4}~cm/s$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 78,
+    "text": "The critical velocity of liquid flowing through the tube is",
+    "options": [
+      "directly proportional to the density of liquid",
+      "**inversely proportional to the radius of tube**",
+      "inversely proportional to the Reynold's number",
+      "inversely proportional to the viscosity of liquid"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 79,
+    "text": "When solid ball of volume V is dropped into viscous liquid. then viscous force F acts on it. If another ball of volume 2V of same material is dropped in same liquid then viscous force experienced by it will be,",
+    "options": [
+      "$\\frac{F}{2}$",
+      "$F$",
+      "**$2F$**",
+      "$\\frac{nF}{2}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 80,
+    "text": "Two capillary tube A and B are of equal radius and equal length. Rate of flow through either tube under pressure P is $8cm^{3}/sec$. If two tubes are connected in series and same pressure is maintained across combination, flow will be",
+    "options": [
+      "$2cm^{3}/sec$",
+      "**$4cm^{3}/sec$**",
+      "$8cm^{3}/sec$",
+      "$16cm^{3}/sec$"
+    ],
+    "correct": 1
+  }
+]
+[
+  {
+    "id": 81,
     "text": "What is the capital city of France?",
     "options": ["Berlin", "Madrid", "Paris", "Rome"],
     "correct": 2
   },
   {
-    "id": 2,
+    "id": 82,
     "text": "नेपालको राजधानी कुन हो?",
     "options": ["पोखरा", "काठमाडौँ", "ललितपुर", "चितवन"],
     "correct": 1
   },
   {
-    "id": 3,
+    "id": 83,
     "text": "Which planet is known as the Red Planet?",
     "options": ["Venus", "Mars", "Jupiter", "Saturn"],
     "correct": 1
   },
   {
-    "id": 4,
+    "id": 84,
     "text": "सगरमाथाको नयाँ उचाई कति हो?",
     "options": ["८८४८ मिटर", "८८४८.८६ मिटर", "८८५० मिटर", "८८४४ मिटर"],
     "correct": 1
   },
   {
-    "id": 5,
+    "id": 85,
     "text": "What is the chemical symbol for Water?",
     "options": ["O2", "H2O", "CO2", "NaCl"],
     "correct": 1
   },
   {
-    "id": 6,
+    "id": 86,
     "text": "नेपालमा कतिवटा जिल्ला छन्?",
     "options": ["७५", "७२", "७७", "७०"],
     "correct": 2
   },
   {
-    "id": 7,
+    "id": 87,
     "text": "Who wrote 'Romeo and Juliet'?",
     "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
     "correct": 1
   },
   {
-    "id": 8,
+    "id": 88,
     "text": "नेपालको राष्ट्रिय रङ कुन हो?",
     "options": ["रातो", "सिम्रिक", "गुलाबी", "सुन्तला"],
     "correct": 1
   },
   {
-    "id": 9,
+    "id": 89,
     "text": "What is the largest mammal in the world?",
     "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
     "correct": 1
   },
   {
-    "id": 10,
+    "id": 90,
     "text": "Which year did the Titanic sink?",
     "options": ["1912", "1905", "1920", "1898"],
     "correct": 0
   },
   {
-    "id": 11,
+    "id": 91,
     "text": "What is the currency of Japan?",
     "options": ["Yuan", "Won", "Yen", "Dollar"],
     "correct": 2
   },
   {
-    "id": 12,
+    "id": 92,
     "text": "नेपालको पहिलो प्रधानमन्त्री को हुन्?",
     "options": ["बिपी कोइराला", "भीमसेन थापा", "जंगबहादुर राणा", "माथवरसिंह थापा"],
     "correct": 1
   },
   {
-    "id": 13,
+    "id": 93,
     "text": "Who painted the Mona Lisa?",
     "options": ["Van Gogh", "Picasso", "Leonardo da Vinci", "Michelangelo"],
     "correct": 2
   },
   {
-    "id": 14,
+    "id": 94,
     "text": "Which element represents 'N' on the periodic table?",
     "options": ["Nickel", "Neon", "Nitrogen", "Sodium"],
     "correct": 2
   },
   {
-    "id": 15,
+    "id": 95,
     "text": "गौतम बुद्धको जन्म कहाँ भएको थियो?",
     "options": ["भारत", "नेपाल", "श्रीलंका", "चीन"],
     "correct": 1
