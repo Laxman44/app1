@@ -1,0 +1,1476 @@
+[
+  {
+    "id": 1,
+    "text": "Quantum theory successfully explains,",
+    "options": [
+      "interference and diffraction",
+      "polarization and black body Radiation",
+      "photoelectric and Compton effect",
+      "All"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 2,
+    "text": "Original aim of Davisson and Germer experiment was to find ...........by metal target",
+    "options": [
+      "intensity of scattered electron",
+      "electron diffraction",
+      "to find interplanar spacing",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 3,
+    "text": "De-Broglie wavelength of electrons obtained from Davisson and Germer experiment is",
+    "options": [
+      "0.0165 nm",
+      "0.165 nm",
+      "1.65 nm",
+      "16.5 nm"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 4,
+    "text": "Position and momentum of 0.5 KeV electron are simultaneously determined. If its position is located within 0.2 nm. Percentage uncertainty in its momentum is",
+    "options": [
+      "2.2%",
+      "4.8%",
+      "9.3%",
+      "5.6%"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 5,
+    "text": "Phase velocity and group velocity of an electron whose de-Broglie's wavelength is $1.2A^0$ (neglect relativity effect)",
+    "options": [
+      "$3.03\\times10^{6}ms^{-1}$ and $6.06\\times10^{6}ms^{-1}$",
+      "$6.06\\times10^{6}ms^{-1}$ and $3.03\\times10^{6}ms^{-1}$",
+      "$4.09\\times10^{6}ms^{-1}$ and $8.18\\times10^{6}ms^{-1}$",
+      "$8.18\\times10^{6}ms^{-1}$ and $4.09\\times10^{6}ms^{-1}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 6,
+    "text": "Relation between de-Broglie phase velocity ($V_P$) and velocity of light is",
+    "options": [
+      "$V_{P}>C$",
+      "$V_{P}=C$",
+      "$V_{P}<C$",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 7,
+    "text": "Relation between de-Broglie wave group velocity ($V_g$) and particle velocity is",
+    "options": [
+      "$V_{g}>V$",
+      "$V_{g}=V$",
+      "$V_{g}<V$",
+      "None"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 8,
+    "text": "Heisenberg's uncertainty principle is",
+    "options": [
+      "$\\Delta E \\cdot \\Delta x\\ge\\frac{h}{2\\pi}$",
+      "$\\Delta E \\cdot \\Delta x\\ge\\frac{h}{4\\pi}$",
+      "$\\Delta p \\cdot \\Delta t\\ge\\frac{h}{4\\pi}$",
+      "$\\Delta x \\cdot \\Delta t\\ge\\frac{h}{4\\pi}$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 9,
+    "text": "Relation between group velocity and phase velocity is",
+    "options": [
+      "$V_{g}=V_{ph}+K\\frac{dV_{ph}}{dK}$",
+      "$V_{g}=V_{ph}-\\lambda\\frac{dV_{ph}}{d\\lambda}$",
+      "$V_{g}=V_{ph}+P\\frac{dV_{ph}}{dP}$",
+      ""
+    ],
+    "correct": 3
+  },
+  {
+    "id": 10,
+    "text": "De-Broglie wavelength of an $\\alpha$ particle accelerated through p.d. of 4KV is",
+    "options": [
+      "$0.16\\times10^{-12}m$",
+      "$0.48\\times10^{-6}m$",
+      "$0.93\\times10^{-8}m$",
+      "$0.1\\times10^{-10}m$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 11,
+    "text": "A particle of rest mass $m_0$ possesses Kinetic energy $E_k$ and then de-Broglie wavelength is",
+    "options": [
+      "$\\frac{h}{\\sqrt{2mE_{k}}}$",
+      "$\\frac{hc}{\\sqrt{E_{k}(E_{k}+2m\\alpha^{2})}}$",
+      "$\\frac{hc}{\\sqrt{E_{k}^{2}-2m\\alpha^{2}}}$",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 12,
+    "text": "Width of spectral line resulting when an atom is in an excited state of life time $10^{-8}$ sec returns to ground state is given by",
+    "options": [
+      "$0.33~m^{-1}$",
+      "$0.33~cm^{-1}$",
+      "$33~m^{-1}$",
+      "$33~cm^{-1}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 13,
+    "text": "Davidson and Germer's experiment prove that",
+    "options": [
+      "electron beam do not behave like waves",
+      "wavelength of electrons cannot be measured by de-Broglie relations",
+      "electron beam to behave as waves",
+      "none of these"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 14,
+    "text": "According to de-Broglie, wavelength associated with an electron accelerated through potential difference V is given by",
+    "options": [
+      "$\\frac{12.3}{\\sqrt{V}}mm$",
+      "$\\frac{12.3}{\\sqrt{V}}A^{0}$",
+      "$\\frac{12.3}{\\sqrt{V}}nr$",
+      "$\\frac{12.3}{\\sqrt{v}}$ Fermi"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 15,
+    "text": "Which of following examples is suitable application of uncertainty principle?",
+    "options": [
+      "non-existence of free electron in nucleus",
+      "Ground state energy of H-atom",
+      "Ground state energy of harmonic oscillator",
+      "all the applications of uncertainty principle"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 16,
+    "text": "The dimensions of the quantity $\\frac{h}{mc^{2}}$ are equivalent to those of",
+    "options": [
+      "Momentum",
+      "Energy",
+      "Length",
+      "Time"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 17,
+    "text": "The uncertainty principle was proposed by",
+    "options": [
+      "Albert Einstein",
+      "de-Broglie",
+      "Max. Planck",
+      "Wener Heisenberg"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 18,
+    "text": "The kinetic energies of an electron and a proton are same. The ratio of their de-Brogli wavelengths is",
+    "options": [
+      "$1:(1836)^{2}$",
+      "$1:\\sqrt{1836}$",
+      "$1:(1836)^{3}$",
+      "$1:(1836)^{\\frac{3}{2}}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 19,
+    "text": "A particle of rest mass $m_0$ is moving with speed of light c. The de Broglie wavelengths associate with it will be",
+    "options": [
+      "0",
+      "$\\infty$",
+      "$\\frac{h}{m_0 c}$",
+      "none of these"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 20,
+    "text": "Schrodinger wave equation for particle of mass m having energy E, moving along X-axis is",
+    "options": [
+      "$\\frac{d^{2}\\psi}{dx^{2}}+\\frac{2m}{\\hbar^{2}}(E-V)\\psi=0$",
+      "$\\frac{d\\psi}{dt}+\\frac{2m}{\\hbar^{2}}(E-V)\\psi=0$",
+      "$\\frac{d\\psi}{dx}+\\frac{2m}{\\hbar^{2}}(E-V)\\psi=0$",
+      "$\\frac{d^{2}\\psi}{dx^{2}}+\\frac{2m}{\\hbar^{2}}(V-E)\\psi=0$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 21,
+    "text": "By solving one-dimensional Schrodinger's time independent wave equation for particle in gives",
+    "options": [
+      "Quantum numbers",
+      "discrete values of energy",
+      "wave function associated with particle",
+      "all"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 22,
+    "text": "Schrodinger's wave equation is valid for",
+    "options": [
+      "Relativistic particles only",
+      "Non-Relativistic particles only",
+      "both (a) and (b)",
+      "charged particles only"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 23,
+    "text": "Normalization constant of particle described by Gaussian wave packet function $\\psi(x)=Ae^{\\frac{\\alpha^{2}x^{2}}{2}}e^{ikxjs}$",
+    "options": [
+      "1",
+      "$\\frac{x^{\\frac{1}{4}}}{a^{\\frac{1}{2}}}$",
+      "$\\frac{\\alpha^{\\frac{1}{2}}}{\\pi^{\\frac{1}{4}}}$",
+      "$\\frac{\\alpha^{\\frac{1}{6}}}{\\frac{1}{4}}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 24,
+    "text": "Expectation value of an operator A can be written as",
+    "options": [
+      "$<A>=\\int_{\\vec{m}}^{m}\\psi^{*}(x)A\\psi(x)dx$",
+      "$<A>=<\\psi|A|\\psi>$",
+      "$<A>=\\int\\psi^{*}(x)A^{2}\\psi(x)dx$",
+      "Both a and b are correct"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 25,
+    "text": "Wave function considered to be confined within box of length L is $\\psi(x)=\\sqrt{\\frac{2}{L}}sin\\frac{\\pi x}{L}$ $0<x<L$ What is probability of finding particle in region $0<x<\\frac{L}{2}$?",
+    "options": [
+      "0",
+      "$\\frac{1}{2}$",
+      "1",
+      "none of these"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 26,
+    "text": "If $\\Psi_{1}$ and $\\Psi_{2}$ are two different wave function and satisfy wavefunction in which particles are bounded in limited region, then condition of these functions to be normalized is",
+    "options": [
+      "$\\int\\psi_{1}\\psi_{1}^{*}d\\tau=1$ and $dt = 1$",
+      "$\\int\\psi_{1}\\psi_{2}^{*}d\\tau=1$ and $\\int\\psi_{2}\\psi_{1}^{*}d\\tau=1$",
+      "$\\int\\psi_{1}\\psi_{1}^{*}d\\tau=1$ and $\\int\\psi_{2}\\psi_{2}^{*}d\\tau=1$",
+      "None of these"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 27,
+    "text": "In above question (7) condition for orthogonality is",
+    "options": [
+      "$\\int\\psi_{1}\\psi_{1}^{*}d\\tau=1~and\\int\\psi_{2}\\psi_{1}^{*}d\\tau=1$",
+      "$\\int\\psi_{1}\\psi_{2}^{*}d\\tau=0$ and $\\int\\psi_{2}\\psi_{1}^{*}d\\tau=1$",
+      "$\\int\\psi_{1}\\psi_{1}^{*}d\\tau=1~and\\int\\psi_{2}\\psi_{2}^{*}d\\tau=1$",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 28,
+    "text": "When particle is bounded to limited space, probability of finding particle at finite distance will be",
+    "options": [
+      "0",
+      "$\\frac{1}{2}$",
+      "1",
+      "none of these"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 29,
+    "text": "Wave function for particle in $n^{th}$ state is given by $\\psi_{n}=A~sin\\frac{n\\pi x}{a}$ for motion of particle between and a, then value of normalization constant A is given by",
+    "options": [
+      "$\\frac{2}{a}$",
+      "$\\frac{a}{2}$",
+      "$\\sqrt{\\frac{2}{a}}$",
+      "$\\sqrt{\\frac{a}{2}}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 30,
+    "text": "Which one of the following is essential for wave function to be acceptable?",
+    "options": [
+      "It must be finite",
+      "It must be single valued",
+      "It must be continuous",
+      "all of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 31,
+    "text": "Schrodinger's equation for particle",
+    "options": [
+      "contain third order time derivative",
+      "contain second order time derivative",
+      "contain first order time derivative",
+      "none of these"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 32,
+    "text": "Expected value of position of particle described by wave function $\\psi=\\sqrt{2}x$ between $0<x<1$ is given by",
+    "options": [
+      "1",
+      "$1/2$",
+      "$3/2$",
+      "$3/4$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 33,
+    "text": "Expected value of $P_x$ for wave function $\\psi(x)=\\sqrt{\\frac{2}{L}}sin\\frac{\\pi x}{L}$ in $0<x<L$ is given by",
+    "options": [
+      "0",
+      "$1/2$",
+      "1",
+      "infinity"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 34,
+    "text": "If wave function is not normalized, then expected value of any quantity 'f' can be expressed as",
+    "options": [
+      "$\\int\\psi^{*}f\\psi d\\tau$",
+      "$\\int\\psi^{*}\\psi d\\tau$",
+      "$\\frac{\\int\\psi^{*}f\\psi d\\tau}{\\int\\psi^{*}\\psi d\\tau}$",
+      "It is not possible to get expectation value"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 35,
+    "text": "If $\\Psi(x)=Ae^{iKx}$ is normalized, dimension of A and that of",
+    "options": [
+      "length",
+      "$(length)^{\\frac{1}{2}}$",
+      "$(length)^{\\frac{-3}{2}}$",
+      "$(length)^{\\frac{3}{2}}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 36,
+    "text": "Eigen values of parity operator is",
+    "options": [
+      "+1",
+      "-1",
+      "$\\pm1$",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 37,
+    "text": "Which of the following operators have simultaneous Eigen functions?",
+    "options": [
+      "$L_x$ & $L_y$",
+      "$\\hat{x}\\&p_{x}$",
+      "$L^{2}\\ll L_{x}$",
+      "All of above"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 38,
+    "text": "Value of $[L_{x},P_{y}]$ is",
+    "options": [
+      "0",
+      "$i\\hbar L_{x}$",
+      "$i\\hbar P_{z}$",
+      "$-i\\hbar P_{y}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 39,
+    "text": "If $L_{+}=L_{x}+iL_{y}$ and $L=L_{x}-iL_{y}$ are ladder operators. Then value of $[L_{+}, L_{-}]$ is",
+    "options": [
+      "$-2\\hbar L_z$",
+      "$\\hbar L_{+}$",
+      "$-\\hbar L_z$",
+      "0"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 40,
+    "text": "Which of following operators do not have simultaneous Eigen values?",
+    "options": [
+      "$\\hat{P}_{x}, \\hat{P}_{y}$",
+      "$\\hat{x}$ and $\\hat{P}_{y}$",
+      "$\\hat{x}$ and $\\hat{L}_{x}$",
+      "$\\hat{L}_{y}$ and $\\hat{L}_{z}$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 41,
+    "text": "Which of following is Not True for parity operator?",
+    "options": [
+      "parity operator is linear",
+      "parity operator has real Eigen value",
+      "parity operator is Hermitian",
+      "parity operator always commutes with Hamiltonian operator"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 42,
+    "text": "Which one of following operator is associated with kinetic energy?",
+    "options": [
+      "$-\\frac{\\hbar^{2}}{2m}\\nabla^{2}$",
+      "$-\\frac{\\hbar^{2}}{2m}\\nabla^{2}+v$",
+      "$i\\hbar\\frac{\\partial}{\\partial x}$",
+      "$-\\frac{\\hbar}{2m}\\nabla^{2}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 43,
+    "text": "Value of $[\hat{x}, \\hat{P}_{x}^{n}]$ is",
+    "options": [
+      "$ni\\hbar \\hat{P}_{x}^{n-1}$",
+      "$ni\\hbar x^{n-1}$",
+      "0",
+      "None"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 44,
+    "text": "$[\\hat{x}^{n}, \\hat{P}_{x}^{n}]$ equals to",
+    "options": [
+      "$ni\\hbar \\hat{P}_{x}^{n-1}$",
+      "$ni\\hbar x^{n-1}$",
+      "0",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 45,
+    "text": "For free particle, value of $[\\hat{H}, \\hat{P}_{x}]$ is",
+    "options": [
+      "$i\\hbar\\frac{\\partial v}{\\partial x}$",
+      "$i\\hbar\\frac{\\partial y}{\\partial x}$",
+      "$i\\hbar\\frac{\\partial v}{\\partial z}$",
+      "0"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 46,
+    "text": "Which one of following in angular momentum operator?",
+    "options": [
+      "$i\\hbar\\nabla\\times r$",
+      "$-i\\hbar\\nabla\\times r$",
+      "$-i\\hbar\\nabla\\times(\\nabla\\times r)$",
+      "$i\\hbar\\frac{\\partial}{\\partial t}$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 47,
+    "text": "Eigen value of Hermitian operator are always",
+    "options": [
+      "real",
+      "imaginary",
+      "linear",
+      "positive"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 48,
+    "text": "Unitary operator satisfies",
+    "options": [
+      "$UU^{+}=-U^{+}U=I$",
+      "$UU^{+}=U^{+}U=I$",
+      "$UU^{+}=0$",
+      "$UU^{+}=U^{+}U=-I$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 49,
+    "text": "If A is an arbitrary operator, then condition for it to be Hermitian is",
+    "options": [
+      "$A=A^{T}$",
+      "$AA^{-1}=1$",
+      "$A=A^{+}$",
+      "$A=A^{*}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 50,
+    "text": "If A and B commute, then",
+    "options": [
+      "$AB\\ne BA$",
+      "$[A,B]=0$",
+      "$[A,B]=1$",
+      "none of these"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 51,
+    "text": "If $H=\\frac{P^{2}}{2m}+V(x)$ then [x, H] equation",
+    "options": [
+      "$\\frac{i\\hbar P}{m}$",
+      "$\\frac{i\\hbar}{m}$",
+      "$-\\frac{\\hbar P}{im}$",
+      "$\\frac{iP}{m}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 52,
+    "text": "Which one among following is incorrect?",
+    "options": [
+      "$L^{2}=L_{x}^{2}+L_{y}^{2}+L_{z}^{2}$",
+      "$L_{+}=L_{x}+iL_{y}$",
+      "$L=L_{x}-iL_{y}$",
+      "$[L^{2},l_{x}]=L_{z}$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 53,
+    "text": "The value of $[L_{+},L_{-}]$ is",
+    "options": [
+      "$2\\hbar L_{x}$",
+      "$2\\hbar L_{\\alpha}$",
+      "$2\\hbar L_{y}$",
+      "$2\\hbar L_{z}$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 54,
+    "text": "For any wave function, value of $[x_{i},P_{j}]$ is",
+    "options": [
+      "$-i\\hbar~\\delta_{ij}$",
+      "$\\frac{\\hbar}{i}\\delta_{ij}$",
+      "$i\\hbar \\delta_{ij}$",
+      "0"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 55,
+    "text": "If $\\Psi(\\vec{r},t)=Ae^{(i\\vec{k}.\\vec{r}-\\alpha t)}$, probability density of is",
+    "options": [
+      "$\\frac{\\hbar k}{m}|A|^{2}$",
+      "$|A|^{2}$",
+      "$\\frac{\\hbar k}{m}$",
+      "zero"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 56,
+    "text": "Referring to solve question probability current density is",
+    "options": [
+      "$\\frac{\\hbar k}{m}|A|^{2}$",
+      "$|A|^{2}$",
+      "$\\frac{\\hbar k}{m}$",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 57,
+    "text": "Current density for wave function $\\psi(x)=\\frac{e^{ikx}}{x}$ is",
+    "options": [
+      "$\\frac{\\hbar k}{mx}$",
+      "$\\frac{\\hbar k}{mx}\\frac{1}{x^{2}}$",
+      "$\\frac{\\hbar k}{mx}x^{2}$",
+      "none"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 58,
+    "text": "Given $\\psi(x)=\\sqrt{\\alpha}e^{-\\alpha x},$ probability of existence of particle between $x=\\frac{1}{\\alpha}$ and $x=\\frac{2}{\\alpha}$ is",
+    "options": [
+      "$\\frac{e^{-4}-e^{-2}}{2}$",
+      "$\\frac{e^{-2}-e^{-4}}{4}$",
+      "$\\frac{e^{-4}-e^{-2}}{4}$",
+      "$\\frac{e^{-2}-e^{-4}}{2}$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 59,
+    "text": "Ehrenfest theorem can be expressed as",
+    "options": [
+      "$\\frac{d}{dt}<p>=<-\\nabla V>$ and $\\frac{d<\\hat{r}>}{dt}=\\frac{<\\hat{p}>}{m}$",
+      "$\\frac{d}{dx}<p>=<-\\nabla V>$ and $\\frac{d<\\hat{r}>}{dt}=\\frac{<\\hat{p}>}{m}$",
+      "$\\frac{d}{dt}<p>=<-\\nabla V>$ and $\\frac{d<\\hat{r}>}{dx}=\\frac{<\\hat{p}>}{m}$",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 60,
+    "text": "Probability of particle trapped between $0.45L<x<0.55L$ for ground state is where $\\psi(x)=\\sqrt{\\frac{2}{L}}sin\\frac{n\\pi x}{L}$",
+    "options": [
+      "16.8%",
+      "17.8%",
+      "18.8%",
+      "19.8%"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 61,
+    "text": "For wave function $\\psi(x)=A~sin(\\frac{2\\pi x}{L})$ of particle trapped in space between $x=0$ and $x=L$, find value of x so that probability of finding particle is maximum in this region.",
+    "options": [
+      "$\\frac{L}{2}$",
+      "$\\frac{L}{4}$",
+      "$\\frac{L}{6}$ and $\\frac{L}{3}$",
+      "$\\frac{L}{4}$ and $\\frac{3L}{4}$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 62,
+    "text": "For a particle wave function, $\\Psi(r,t)$, probability density for particle can be expressed correctly as",
+    "options": [
+      "$|\\Psi(r,t)|^{2}$",
+      "$\\Psi(r,t)$",
+      "$\\frac{\\psi(r,t)}{|\\psi(r,t)|^{2}}$",
+      "$\\frac{|\\Psi(r,t)|^{2}}{\\int_{-\\alpha}^{+\\alpha}|\\Psi(r,t)^{2}dx|}$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 63,
+    "text": "Wave function $\\Psi(r,t),$ is sometimes called",
+    "options": [
+      "probability",
+      "probability density of particle",
+      "probability amplitude",
+      "none of these"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 64,
+    "text": "Probability of finding particle in volume element $d\\tau=dx$ dy dz about any point r at time t can be represented as",
+    "options": [
+      "$p(r)d\\tau=\\frac{1}{|\\psi(r,t)|^{2}}$",
+      "$p(r)d\\tau=|\\psi(r,t)|d\\tau$",
+      "$p(r)d\\tau=|\\psi(r,t)|^{2}d\\tau$",
+      "$p(r)d\\tau=\\frac{1}{|\\psi(r,t)|}d\\tau$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 65,
+    "text": "State is said to be stationary if its probability density is",
+    "options": [
+      "function of time",
+      "does not depend upon time",
+      "independent of space co-ordinates",
+      "none of these"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 66,
+    "text": "Probability density of state is always",
+    "options": [
+      "real",
+      "imaginary",
+      "always has probability equal to $1/2$",
+      "none of these"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 67,
+    "text": "The correct relation of probability current density is",
+    "options": [
+      "$\\frac{\\hbar}{2m}[\\psi^{*}\\nabla\\psi-\\psi\\nabla\\psi^{*}]$",
+      "$\\frac{i\\hbar}{2m}[\\psi^{*}\\nabla\\psi-\\psi\\nabla\\psi^{*}]$",
+      "$\\frac{\\hbar}{2im}[\\psi^{*}\\nabla\\psi-\\psi\\nabla\\psi^{*}]$",
+      "$\\frac{\\hbar}{2im}$ real part of $(\\psi\\nabla\\psi^{\\bullet})$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 68,
+    "text": "Flux density associated with wave function of finite and definite energy is",
+    "options": [
+      "independent of location",
+      "dependent on location",
+      "in some region it depends on location and is some region it does not",
+      "all of them"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 69,
+    "text": "Momentum of free particle inside one dimensional box is",
+    "options": [
+      "directly proportional to mass of particle",
+      "inversely proportional to mass of particle",
+      "independent of mass of particle",
+      "direct proportional to square of mass of particle"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 70,
+    "text": "Energy of free particle inside one-dimensional box is",
+    "options": [
+      "Continuous",
+      "Discrete",
+      "Both",
+      "Depends on box size"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 71,
+    "text": "Reflection coefficient for particle incident on potential step with energy E less than height of step is",
+    "options": [
+      "1",
+      "0",
+      "1/2",
+      "1/3"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 72,
+    "text": "Value of reflection coefficient for particle incident on potential step with energy E more than height of step ($V_0$) is",
+    "options": [
+      "1",
+      "$(\\frac{\\sqrt{E}-\\sqrt{E-V_{0}}}{\\sqrt{E}+\\sqrt{E-V_{0}}})^2$",
+      "$(\\frac{\\sqrt{E}+\\sqrt{E-V_{0}}}{\\sqrt{E}-\\sqrt{E-V_{0}}})^2$",
+      "0"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 73,
+    "text": "Ratio of reflection and transmission coefficient for particle incident on potential step of height ($V_0$) if $E > V_0$ is",
+    "options": [
+      "$\\frac{(\\sqrt{E}-\\sqrt{E-V_{0}})^2}{(\\sqrt{E}+\\sqrt{E-V_{0}})^2}$",
+      "$\\frac{4\\sqrt{E}\\sqrt{E-V_{0}}}{(\\sqrt{E}+\\sqrt{E-V_{0}})^2}$",
+      "$\\frac{(\\sqrt{E}+\\sqrt{E-V_{0}})^2}{(\\sqrt{E}-\\sqrt{E-V_{0}})^2}$",
+      "$\\frac{(\\sqrt{E-V_{0}})^2}{(\\sqrt{E}+\\sqrt{E-V_{0}})^2}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 74,
+    "text": "An electron with energy E and momentum $\\hbar k$ is incident from left on potential step of height $E_V=0$. For $x \\ge 0$, space part of electron's wave function has form",
+    "options": [
+      "$e^{ikx}$",
+      "$e^{-ikx}$",
+      "$e^{ik'x}+e^{-ikx}$",
+      "$e^{ik'x}$ where $\\alpha$ is real and positive"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 75,
+    "text": "Measurement of energy E will always satisfy which of following relationships",
+    "options": [
+      "$E \\le \\frac{\\pi^2 \\hbar^2}{8ma^2}$",
+      "$E \\le \\frac{\\pi^2 \\hbar^2}{2ma^2}$",
+      "$E = \\frac{n^2 \\pi^2 \\hbar^2}{8ma^2}$",
+      "$E = \\frac{n^2 \\pi^2 \\hbar^2}{2ma^2}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 76,
+    "text": "Transmission and reflection coefficient obey which of following",
+    "options": [
+      "$T+R=0$",
+      "$T+R=1$",
+      "$T-R=1$",
+      "$\\frac{T}{R}=1$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 77,
+    "text": "Wave function for particle trapped in infinite square well defined for $0 \\le x \\le a$ can be written as",
+    "options": [
+      "$\\phi_n(x) = \\sin(\\frac{n\\pi x}{a})$",
+      "$\\phi_n(x) = \\sqrt{\\frac{2}{a}}\\sin(\\frac{nx}{a})$",
+      "$\\phi_n(x) = \\sqrt{\\frac{2}{a}}\\cos(\\frac{n\\pi x}{a})$",
+      "$\\phi_n(x) = \\sqrt{\\frac{2}{a}}\\sin(\\frac{n\\pi x}{a})$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 78,
+    "text": "Minimum energy possessed by particle confined to one dimensional box of length L is given by",
+    "options": [
+      "0",
+      "$E = \\frac{\\pi^2 \\hbar^2}{8mL^2}$",
+      "$E = \\frac{h^2}{8mL^2}$",
+      "$E = \\frac{1}{2}m v^2$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 79,
+    "text": "For particle incident on barrier from left with energy greater than barrier potential, same transmissivity and reflectivity coefficient is",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "infinity"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 80,
+    "text": "Which one among following is NOT example of potential barrier penetration?",
+    "options": [
+      "emission of $\\alpha$-particle in decay of radioactive nuclei",
+      "tunnel diode",
+      "free particle motion",
+      "Reverse breakdown of semiconductor"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 81,
+    "text": "Which of following uses Quantum tunnelling?",
+    "options": [
+      "$\\alpha$-decay",
+      "super conductors",
+      "scan tunnelling microscope",
+      "all of above"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 82,
+    "text": "Tunnelling effect",
+    "options": [
+      "involves the escape of neutrons",
+      "involves the production of gamma rays",
+      "leakage of $\\alpha$-particles",
+      "none of these"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 83,
+    "text": "The energy of a particle confined in a one-dimensional potential box of length L is proportional to",
+    "options": [
+      "L",
+      "$L^2$",
+      "$\\frac{1}{L}$",
+      "$\\frac{1}{L^2}$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 84,
+    "text": "Which of the following state represents shape of Gaussian curve in Harmonic Oscillator?",
+    "options": [
+      "Ground state",
+      "$1^{st}$ excited state",
+      "$2^{nd}$ excited state",
+      "$3^{rd}$ excited state"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 85,
+    "text": "Harmonic Oscillator Eigen functions of $2^{nd}$ excited state has",
+    "options": [
+      "even parity",
+      "odd parity",
+      "both odd an even parity",
+      "can't say anything as information is insufficient"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 86,
+    "text": "Energy levels in which of following is equally spaced?",
+    "options": [
+      "Rigid rotator",
+      "Harmonic Oscillator",
+      "Free particle in box",
+      "All of above"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 87,
+    "text": "A Quantum mechanical Harmonic Oscillator has angular frequency W. Schrodinger equation predicts that ground state energy of Oscillator is",
+    "options": [
+      "$-\\frac{1}{2}\\hbar\\omega$",
+      "0",
+      "$\\frac{1}{2}\\hbar\\omega$",
+      "$\\hbar\\omega$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 88,
+    "text": "Characteristics of Quantum Harmonic Oscillator include which of following? I. A spectrum of evenly spaced energy states II. A potential energy function that is linear in position coordinate III. A ground state that is characterized by zero K.E. IV. A non zero probability of finding Oscillator outside Classical turning points",
+    "options": [
+      "I and IV only",
+      "IV only",
+      "I and IV only",
+      "II and III only"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 89,
+    "text": "If $\\nu$ is frequency and h is Planck's constant, ground state energy of one dimensional Quantum mechanical Harmonic Oscillator is",
+    "options": [
+      "0",
+      "$\\frac{1}{3}h\\nu$",
+      "$\\frac{1}{2}h\\nu$",
+      "$h\\nu$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 90,
+    "text": "Energy level of one dimensional Harmonic Oscillator are",
+    "options": [
+      "equally spaced",
+      "2-fold degenerate",
+      "3 fold degenerate",
+      "not degenerate"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 91,
+    "text": "Energy Eigen values of one dimensional Harmonic Oscillator are",
+    "options": [
+      "$E_n = (n + \\frac{1}{2})\\hbar\\omega, n=1, 2, 3, \\ldots$",
+      "$E_n = (n + \\frac{1}{2})\\hbar\\omega, n=0, 1, 2, \\ldots$",
+      "$E_n = (n - \\frac{1}{2})\\hbar\\omega, n=1, 2, 3, \\ldots$",
+      "$E_n = (n - \\frac{1}{2})\\hbar\\omega, n=0, 1, 2, \\ldots$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 92,
+    "text": "In $1^{st}$ excited state of one dimensional Harmonic Oscillator, energy Eigen value is",
+    "options": [
+      "$\\hbar\\omega$",
+      "$2\\hbar\\omega$",
+      "$\\frac{3}{2}\\hbar\\omega$",
+      "$\\frac{5}{2}\\hbar\\omega$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 93,
+    "text": "Time period of linear Harmonic Oscillator is $\\frac{1}{2}$ second, then its zero point energy is",
+    "options": [
+      "$3.3 \\times 10^{-34}$ J",
+      "$3.3 \\times 10^{-34}$ J",
+      "$6.6 \\times 10^{-34}$ J",
+      "$6.6 \\times 10^{-34}$ J"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 94,
+    "text": "Zero point energy of linear Harmonic Oscillator is $1.66 \\times 10^{-32}$ J, what would be its frequency?",
+    "options": [
+      "10Hz",
+      "50Hz",
+      "250Hz",
+      "500Hz"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 95,
+    "text": "In case of linear Oscillator, Eigen values of total energy depend only on one Quantum number called vibrational Quantum number $n$ than",
+    "options": [
+      "all energy levels of Harmonic Oscillator are degenerate",
+      "all energy levels of Harmonic Oscillators are non-degenerate",
+      "it may be degenerate or non-degenerate",
+      "none of these"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 96,
+    "text": "If Oscillator is to be normal state, then probability of finding particle inside Classical limit is",
+    "options": [
+      "$= 16\\%$",
+      "$= 48\\%$",
+      "$= 84\\%$",
+      "particle can't exist outside Classical limits"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 97,
+    "text": "If Oscillator is to be in normal state, then probability of finding particle outside Classical limit is",
+    "options": [
+      "$= 16\\%$",
+      "$= 48\\%$",
+      "$= 84\\%$",
+      "particle can't exist outside Classical limits"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 98,
+    "text": "Lowest energy of an electron confined in cubical box of each side $1A^0$ is",
+    "options": [
+      "$1.80 \\times 10^{-18}J$",
+      "$2.49 \\times 10^{-18}J$",
+      "$18.03 \\times 10^{-18}J$",
+      "$24.90 \\times 10^{-18}J$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 99,
+    "text": "Ground state energy of particle inside cubical box is",
+    "options": [
+      "non-degenerate",
+      "3 fold degenerate",
+      "2 fold degenerate",
+      "Information insufficient to say"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 100,
+    "text": "Which one of following energy states of particle inside cubical box is 3 fold degenerate?",
+    "options": [
+      "Ground state",
+      "Third excited state",
+      "First excited state",
+      "all of above"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 101,
+    "text": "Range of variation of r, $\\theta$ and $\\phi$ in spherical polar coordinate in respective order is",
+    "options": [
+      "$0 - \\infty, 0 - 2\\pi, 0 - \\pi$",
+      "$0 - \\pi, 0 - \\infty, 0 - 2\\pi$",
+      "$0 - \\infty, 0 - \\pi, 0 - 2\\pi$",
+      "$0 - 2\\pi, 0 - \\pi, 0 - \\infty$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 102,
+    "text": "In spherical polar co-ordinates, Azimuthal component ($\\phi$) of wave function $\\psi(r, \\theta, \\phi)$ has solution of form ($m=0, \\pm1, \\pm2, \\ldots \\ldots \\ldots \\ldots \\ldots$)",
+    "options": [
+      "$\\frac{1}{\\sqrt{2\\pi}}e^{im\\phi}$",
+      "$\\frac{1}{\\sqrt{2\\pi}}e^{im\\phi}$",
+      "$\\frac{1}{\\sqrt{2\\pi}}e^{-im\\phi}$",
+      "$\\frac{1}{\\sqrt{2\\pi}}e^{-im\\phi}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 103,
+    "text": "Ground state wave function for Hydrogen atom is $\\psi = \\frac{1}{\\sqrt{\\pi a_0^3}} e^{-r/a_0}$. Average distance of electron from nucleus is",
+    "options": [
+      "$\\frac{1}{a_0}$",
+      "$\\frac{a_0}{2}$",
+      "$a_0$",
+      "$\\frac{3a_0}{2}$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 104,
+    "text": "Expectation value of $r^n$ in ground state wave function of Hydrogen atom is equal to (n is a may integer)",
+    "options": [
+      "$\\frac{1}{2}(\\frac{3a_0}{2})^n (n+1)!$",
+      "$\\frac{1}{2}(\\frac{3a_0}{2})^n (n+2)!$",
+      "$\\frac{1}{2}(\\frac{a_0}{2})^n n!$",
+      "$\\frac{1}{2}(\\frac{a_0}{2})^n (n+2)!$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 105,
+    "text": "Value of $<r^2>$ is Ground state wave function of Hydrogen is",
+    "options": [
+      "$\\frac{15}{2} a_0^3$",
+      "$\\frac{25}{2} a_0^3$",
+      "$\\frac{3}{2} a_0^2$",
+      "$3a_0^2$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 106,
+    "text": "Spherical harmonic function depends on",
+    "options": [
+      "'m' only",
+      "'l' only",
+      "both 'm' and 'l'",
+      "Independent of 'l' and 'm'"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 107,
+    "text": "Orbital angular momentum of $1^{st}$ excited state of Hydrogen is",
+    "options": [
+      "$\\sqrt{2}\\hbar$",
+      "$\\sqrt{2}\\hbar$",
+      "$2\\hbar$",
+      "$2\\hbar$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 108,
+    "text": "Z-component of orbital angular momentum in ground state of Hydrogen is",
+    "options": [
+      "0",
+      "$\\hbar$",
+      "$2\\hbar$",
+      "$3\\hbar$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 109,
+    "text": "Normalized ground state wave function of Hydrogen is $\\Psi_{100} = \\frac{2}{(4\\pi a_0^3)^{1/2}} e^{-r/a_0}$ where $a_0$ is Bohr radius. What is most likely distance that electron is from nucleus?",
+    "options": [
+      "0",
+      "$\\frac{a_0}{2}$",
+      "$a_0$",
+      "$2a_0$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 110,
+    "text": "Degeneracy with respect to an energy Eigen state can be best described by saying",
+    "options": [
+      "Two or more different particle states have same energy",
+      "An energy Eigen state has at least two different energies",
+      "Two or more particle states have zero momentum",
+      "None of them"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 111,
+    "text": "For Hydrogen atom, radial part of wave function $R(r)$ is normalized according to which formula",
+    "options": [
+      "$\\int_0^\\infty |R(r)|^2 dr = 1$",
+      "$\\int_0^\\infty r^2 |R(r)|^2 dr = 1$",
+      "$\\int_0^{a_0} |R(r)|^2 dr = 1$",
+      "$\\int_0^{a_0} r^2 |R(r)|^2 dr = 1$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 112,
+    "text": "Angular part of wave function written using",
+    "options": [
+      "Spherical harmonics",
+      "Bessel function",
+      "Bessel function of $2^{nd}$ kind",
+      "Legendre polynomial"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 113,
+    "text": "Average radius of an electrons' orbit in Hydrogen atom can be calculated using",
+    "options": [
+      "$<\\vec{r}> = \\int r |R_{n\\ell}(r)|^2 dr$",
+      "$<\\vec{r}> = \\int r^3 |R_{n\\ell}(r)|^2 dr$",
+      "$<\\vec{r}> = \\int r^2 |R_{n\\ell}(r)|^2 dr$",
+      "None of above"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 114,
+    "text": "Two wave functions $\\psi_1$ and $\\psi_2$ are said to be case of degeneracy, then",
+    "options": [
+      "they correspond to same energy",
+      "they correspond to different energy",
+      "they must be orthogonal",
+      "none of these"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 115,
+    "text": "Wavelength of an electron in H-atom in ground state is given by",
+    "options": [
+      "$3.32A^0$",
+      "$1.66A^0$",
+      "$0.83A^0$",
+      "does not possess wavelength in this state"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 116,
+    "text": "Ground state energy for spherically symmetrical well is",
+    "options": [
+      "$E_{000}=0$",
+      "$E_{111}=\\frac{3\\pi^2 \\hbar^2}{2m}$",
+      "$E_{111}=\\frac{3\\hbar^2}{2ma^2}$",
+      "$E_{111}=\\frac{3\\pi^2 \\hbar^2}{2ma^2}$"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 117,
+    "text": "Average distance of electron from nucleus of H-atom in 2S state is",
+    "options": [
+      "2 times Bohr's Radius",
+      "4 times Bohr's Radius",
+      "6 times Bohr's Radius",
+      "8 times Bohr's Radius"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 118,
+    "text": "In Hydrogen atom, solution of problem $\\theta$ is associated with Legendre polynomial as",
+    "options": [
+      "$\\Theta_{\\ell}^m = C_{\\ell}^m P_{\\ell}^m (\\sin \\theta)$",
+      "$\\Theta_{\\ell}^m = C_{\\ell}^m P_{\\ell}^m (\\cos \\theta)$",
+      "$\\Theta_{\\ell}^m = C_{\\ell}^m P_{\\ell}^m (\\sin \\theta)$",
+      "d. none of these"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 119,
+    "text": "Number of Eigen function $\\psi_{n\\ell m}$ of Hydrogen atom corresponding to given $n$ is given by",
+    "options": [
+      "$n$",
+      "$n^2$",
+      "$2n^2$",
+      "d. none of these"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 120,
+    "text": "On which of following level of Hydrogen, spin orbit interaction has no effect?",
+    "options": [
+      "f-level",
+      "p-level",
+      "d-level",
+      "s-level"
+    ],
+    "correct": 3
+  },
+  {
+    "id": 121,
+    "text": "Eigen functions for rigid dumbbell rotating about its center have $\\phi$ dependence of form $\\psi(\\phi) = A e^{im\\phi}$, where $m$ is Quantum number and A is constant which of following value of A will properly normalize eigen function?",
+    "options": [
+      "$\\sqrt{2\\pi}$",
+      "$2\\pi$",
+      "$\\frac{1}{\\sqrt{2\\pi}}$",
+      "$\\frac{1}{2\\pi}$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 122,
+    "text": "Solution to Schrodinger equation for particle bound in one dimensional, infinitely deep potential well, indexed by Quantum number n, indicates that in middle of well probability density vanishes for",
+    "options": [
+      "ground state ($n=1$) only",
+      "state of even $n$ ($n=2, 4, \\ldots$)",
+      "all states ($n=1, 2, 3, \\ldots$)",
+      "all states except ground state"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 123,
+    "text": "Angular momentum operator acts on state $\\psi(\\ell, \\phi)$ as",
+    "options": [
+      "$L_z\\psi = \\hbar(\\ell + 1)\\psi$",
+      "$L_y\\psi = \\psi(\\ell + 1)\\psi$",
+      "$L_y\\psi = \\hbar(\\ell + 1)\\psi$",
+      "None of above"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 124,
+    "text": "In case of Rigid Rotators, rotational frequency is given by",
+    "options": [
+      "$\\frac{\\hbar \\ell}{2\\pi I}$",
+      "$\\frac{\\hbar \\ell}{2I}$",
+      "$\\frac{\\hbar}{2\\pi I \\ell^2}$",
+      "$\\frac{\\hbar \\ell}{2\\pi I (2\\ell+1)}$"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 125,
+    "text": "In case of diatomic molecule, Rotational frequency varies",
+    "options": [
+      "inversely with square of angular momentum",
+      "inversely with square root of angular momentum",
+      "linearly with angular momentum vector",
+      "none of these"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 126,
+    "text": "Probability of finding electron in hydrogen like atom is independent of",
+    "options": [
+      "R",
+      "$\\theta$",
+      "$\\phi$",
+      "depends on all these"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 127,
+    "text": "Expectation value of $\\hat{L}_z$ in state $\\Psi_{200}$ is",
+    "options": [
+      "0",
+      "$i\\hbar L_x$",
+      "1",
+      "$e^{-r/a_0}$"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 128,
+    "text": "Selection rules for allowed transition between energy levels of hydrogen atom is",
+    "options": [
+      "$\\Delta \\ell = 0, \\Delta m = 0$",
+      "$\\Delta \\ell = 0, \\Delta m = \\pm 1$",
+      "$\\Delta \\ell = \\pm 1, \\Delta m = \\pm 1$",
+      "$\\Delta \\ell = \\pm 2, \\Delta m = 0$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 129,
+    "text": "Transition from $\\Psi_{200} \\to \\Psi_{100}$ is",
+    "options": [
+      "allowed",
+      "forbidden",
+      "data is incomplete",
+      "none of these"
+    ],
+    "correct": 1
+  },
+  {
+    "id": 130,
+    "text": "Transition from $\\Psi_{210} \\to \\Psi_{100}$ is",
+    "options": [
+      "allowed",
+      "forbidden",
+      "data is insufficient of check",
+      "none of these"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 131,
+    "text": "Total numbers of allowed values for total magnetic Quantum number $m_j$ for given $j$ are",
+    "options": [
+      "$2j+1$",
+      "$2j-1$",
+      "$2j$",
+      "None"
+    ],
+    "correct": 0
+  },
+  {
+    "id": 132,
+    "text": "Selection Rules are",
+    "options": [
+      "for determination of H-atom orbital shapes",
+      "conditions which tell about transmission of energy",
+      "conditions for allowed transitions of electron from one Quantum state to another",
+      "none of these"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 133,
+    "text": "Total number of electrons that can be accommodated in a shell with principal Quantum number $n$ is",
+    "options": [
+      "$n$",
+      "$n^2$",
+      "$2n^2$",
+      "$2n^2+1$"
+    ],
+    "correct": 2
+  },
+  {
+    "id": 134,
+    "text": "If wave function $\\Psi(r)$ is spherically symmetric, then radial probability density is given by",
+    "options": [
+      "$|\\Psi(r)|^2$",
+      "$4\\pi r^2 |\\Psi(r)|^2$",
+      "$2\\pi r^2 |\\Psi(r)|^2$",
+      "none of those"
+    ],
+    "correct": 1
+  }
+]
