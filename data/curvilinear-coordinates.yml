@@ -1,0 +1,619 @@
+- id: 1
+  text: |
+    Arc length in General curvilinear co-ordinate system is,
+  options:
+    - \( ({h_{1}}^{2}du_{1}^{2}+h_{2}^{2}du_{2}^{2}+h_{3}^{2}du_{3}^{2})^{\frac{1}{2}} \)
+    - \( h_{1}h_{2}h_{3}du_{1}du_{2}du_{3} \)
+    - \( h_{2} du_{j} du_{3} \)
+    - \( h_{1}^{2}e_{1}^{2}du_{1}^{2} \)
+  correct: 1
+
+- id: 2
+  text: |
+    If \( \vec{r}=\vec{r}(u_{1},u_{2},u_{3}) \) then unit tangent along \( u_{2} \) is
+  options:
+    - \( \frac{\partial\vec{r}}{\partial u_{1}} / |\frac{\partial\vec{r}}{\partial u_{1}}| \)
+    - \( \frac{\partial\vec{r}}{\partial u_{2}} / |\frac{\partial\vec{r}}{\partial u_{2}}| \)
+    - \( \frac{\partial\vec{r}}{\partial u_{3}} / |\frac{\partial\vec{r}}{\partial u_{3}}| \)
+    - \( \frac{\partial\vec{r}}{\partial u_{2}} / |\frac{\partial\vec{r}}{\partial u_{1}}| \)
+  correct: 2
+
+- id: 3
+  text: |
+    The scale factor \( \vec{e}_{l}=h_{l}\nabla u_{l} \) where, \( \nabla u_{l} \) is
+  options:
+    - Normal to the surface \( u_{l}=c_{l} \)
+    - Reciprocal vector of \( \frac{\partial\vec{r}}{\partial u_{l}} \)
+    - \( \frac{\hat{e}_{l}}{h_{l}} \)
+    - All of the above
+  correct: 4
+
+- id: 4
+  text: |
+    The expression for \( \nabla\phi \) in curvilinear co-ordinate system is
+  options:
+    - \( \frac{\hat{e}_{1}}{h_{1}}\frac{\partial\phi}{\partial u_{1}}+\frac{\hat{e}_{2}}{h_{2}}\frac{\partial\phi}{\partial u_{2}}+\frac{\hat{e}_{3}}{h_{3}}\frac{\partial\phi}{\partial u_{3}} \)
+    - \( \frac{1}{h_{1}h_{2}h_{3}}[\frac{\partial}{\partial u_{1}}(\phi_{1}h_{2}h_{3})+\frac{\partial}{\partial u_{2}}(\phi_{2}h_{3}h_{1})+\frac{\partial}{\partial u_{3}}(\phi_{3}h_{1}h_{2})] \)
+    - \( \frac{\hat{e}_{1}}{h_{1}}|\frac{\partial\phi}{\partial u_{1}}+\frac{\hat{e}_{2}}{h_{2}}|\frac{\partial\phi}{\partial u_{2}}+\frac{\hat{e}_{3}}{h_{3}}|\frac{\partial\phi}{\partial u_{3}} \)
+    - All are wrong
+  correct: 1
+
+- id: 5
+  text: |
+    Divergence of vector function \( \vec{A} \) in general curvilinear co-ordinate system is
+  options:
+    - \( \frac{\hat{e}_{1}}{h_{1}}\frac{\partial A_{1}}{\partial u_{1}}+\frac{\hat{e}_{2}}{h_{2}}\frac{\partial A_{1}}{\partial u_{2}}+\frac{\hat{e}_{3}}{h_{3}}\frac{\partial A_{3}}{\partial u_{3}} \)
+    - \( \frac{1}{h_{1}h_{2}h_{3}}[\frac{\partial}{\partial u_{1}}(A_{1}h_{2}h_{3})+\frac{\partial}{\partial u_{2}}(A_{2}h_{3}h_{1})+\frac{\partial}{\partial u_{3}}(A_{3}h_{1}h_{2})] \)
+    - \( \frac{1}{h_{1}h_{2}h_{3}} \begin{vmatrix} \hat{e}_{1}h_{1} & \hat{e}_{2}h_{2} & \hat{e}_{3}h_{3} \\ \partial/\partial u_{1} & \partial/\partial u_{2} & \partial/\partial u_{3} \\ A_{1}h_{1} & A_{2}h_{2} & A_{3}h_{3} \end{vmatrix} \)
+    - \( \frac{1}{h_{1}h_{2}h_{3}}[\frac{\partial}{\partial u_{1}}(\frac{h_{2}h_{3}}{h_{1}}\frac{\partial}{\partial u_{1}})+\frac{\partial}{\partial u_{2}}(\frac{h_{3}h_{1}}{h_{2}}\frac{\partial}{\partial u_{2}})+\frac{\partial}{\partial u_{3}}(\frac{h_{1}h_{2}}{h_{3}}\frac{\partial}{\partial u_{3}})] \)
+  correct: 2
+
+- id: 6
+  text: |
+    \( \nabla\times\vec{A} \) (Curl) in general curvilinear co-ordinate system is
+  options:
+    - \( \frac{\hat{e}_{1}}{h_{1}}\frac{\partial A_{1}}{\partial u_{1}}+\frac{\hat{e}_{2}}{h_{2}}\frac{\partial A_{2}}{\partial u_{2}}+\frac{\hat{e}_{3}}{h_{3}}\frac{\partial A_{3}}{\partial u_{3}} \)
+    - \( \frac{1}{h_{1}h_{2}h_{3}}[\frac{\partial}{\partial u_{1}}(A_{1}h_{2}h_{3})+\frac{\partial}{\partial u_{2}}(A_{2}h_{3}h_{1})+\frac{\partial}{\partial u_{3}}(A_{3}h_{1}h_{2})] \)
+    - \( \frac{1}{h_{1}h_{2}h_{3}} \begin{vmatrix} \hat{e}_{1}h_{1} & \hat{e}_{2}h_{2} & \hat{e}_{3}h_{3} \\ \partial/\partial u_{1} & \partial/\partial u_{2} & \partial/\partial u_{3} \\ A_{1}h_{1} & A_{2}h_{2} & A_{3}h_{3} \end{vmatrix} \)
+    - \( \frac{1}{h_{1}h_{2}h_{3}}[\frac{\partial}{\partial u_{1}}(\frac{h_{2}h_{3}}{h_{1}}\frac{\partial}{\partial u_{1}})+\frac{\partial}{\partial u_{2}}(\frac{h_{3}h_{1}}{h_{2}}\frac{\partial}{\partial u_{2}})+\frac{\partial}{\partial u_{3}}(\frac{h_{1}h_{2}}{h_{3}}\frac{\partial}{\partial u_{3}})] \)
+  correct: 3
+
+- id: 7
+  text: |
+    The expression for \( \nabla^2\phi \) (Laplacian) in general curvilinear co-ordinate system is
+  options:
+    - \( \frac{\hat{e}_{1}}{h_{1}}\frac{\partial A_{1}}{\partial u_{1}}+\frac{\hat{e}_{2}}{h_{2}}\frac{\partial A_{2}}{\partial u_{2}}+\frac{\hat{e}_{3}}{h_{3}}\frac{\partial A_{3}}{\partial u_{3}} \)
+    - \( \frac{1}{h_{1}h_{2}h_{3}}[\frac{\partial}{\partial u_{1}}(A_{1}h_{2}h_{3})+\frac{\partial}{\partial u_{2}}(A_{2}h_{3}h_{1})+\frac{\partial}{\partial u_{3}}(A_{3}h_{1}h_{2})] \)
+    - \( \frac{1}{h_{1}h_{2}h_{3}} \begin{vmatrix} \hat{e}_{1}h_{1} & \hat{e}_{2}h_{2} & \hat{e}_{3}h_{3} \\ \partial/\partial u_{1} & \partial/\partial u_{2} & \partial/\partial u_{3} \\ A_{1}h_{1} & A_{2}h_{2} & A_{3}h_{3} \end{vmatrix} \)
+    - \( \frac{1}{h_{1}h_{2}h_{3}}[\frac{\partial}{\partial u_{1}}(\frac{h_{2}h_{3}}{h_{1}}\frac{\partial\phi}{\partial u_{1}})+\frac{\partial}{\partial u_{2}}(\frac{h_{3}h_{1}}{h_{2}}\frac{\partial\phi}{\partial u_{2}})+\frac{\partial}{\partial u_{3}}(\frac{h_{1}h_{2}}{h_{3}}\frac{\partial\phi}{\partial u_{3}})] \)
+  correct: 4
+
+- id: 8
+  text: |
+    The scale factors \( h_{\rho}, h_{\phi}, \text{ and } h_{z} \) in cylindrical co-ordinate system are respectively
+  options:
+    - 1, 1, 1
+    - 1, \(\rho\), 1
+    - \(\rho\), 1, 1
+    - 1, 1, \(\rho\)
+  correct: 2
+
+- id: 9
+  text: |
+    The laplacian operator in cylindrical co-ordinate system is
+  options:
+    - \( \frac{1}{\rho}\frac{\partial}{\partial\rho}(\rho\frac{\partial}{\partial\rho})+\frac{1}{\rho^{2}}(\frac{\partial^{2}}{\partial\phi^{2}})+\frac{\partial^{2}}{\partial z^{2}} \)
+    - \( \frac{1}{\rho^{2}}\frac{\partial}{\partial\rho}(\rho\frac{\partial}{\partial\rho})+\frac{1}{\rho^{2}}(\frac{\partial^{2}}{\partial\phi^{2}})+\frac{1}{Z}\frac{\partial^{2}}{\partial z^{2}} \)
+    - \( \frac{\partial}{\partial\rho}(\rho\frac{\partial}{\partial\rho})+\frac{1}{\rho^{2}}(\frac{\partial^{2}}{\partial\phi^{2}})+\frac{1}{\rho}\frac{\partial^{2}}{\partial z^{2}} \)
+    - All are incorrect
+  correct: 1
+
+- id: 10
+  text: |
+    The square of arc length in spherical polar co-ordinate system is
+  options:
+    - \( dr^{2}+r^{2}d\theta^{2}+r^{2}\sin^{2}\theta~d\phi^{2} \)
+    - \( dr^{2}+d\theta^{2}+d\phi^{2} \)
+    - \( r^{2}d\dot{r}^{2}+\theta^{2}d\phi^{2}+r^{2}\phi^{2}d\phi^{2} \)
+    - \( dr^{2}+r^{2}\sin^{2}\theta~d\theta^{2}+r^{2}\sin^{2}\theta~d\phi^{2} \)
+  correct: 1
+
+- id: 11
+  text: |
+    The values of scale factors \( h_{r}, h_{\theta}, h_{\phi} \) in spherical polar co-ordinate system are given by respectively.
+  options:
+    - 1, \( r\sin\theta \), r
+    - 1, r, \( r\sin\theta \)
+    - \( r\sin\theta \), 1, r
+    - r, \( r\sin\theta \), 1
+  correct: 2
+
+- id: 12
+  text: |
+    If matrix \( A=\begin{pmatrix}2+3i&4-5i\\ 3&4i\end{pmatrix} \) then complex conjugate of A is
+  options:
+    - \( \begin{pmatrix}2-3i&4+5i\\ 3&-4i\end{pmatrix} \)
+    - \( \begin{pmatrix}3&2+3i\\ 4-5i&4i\end{pmatrix} \)
+    - \( \begin{pmatrix}-4i&4+5i\\ 3&2-3i\end{pmatrix} \)
+    - \( \begin{pmatrix}2+3i&-4+5i\\ 3&-4i\end{pmatrix} \)
+  correct: 1
+
+- id: 13
+  text: |
+    If matrix \( A=\begin{pmatrix}1&3\\ 3&1\end{pmatrix} \) then Adjoint of matrix A is
+  options:
+    - \( \begin{pmatrix}1&3\\ -3&1\end{pmatrix} \)
+    - \( \begin{pmatrix}1&-3\\ -3&1\end{pmatrix} \)
+    - \( \begin{pmatrix}1&3\\ 3&1\end{pmatrix} \)
+    - \( \begin{pmatrix}1&-3\\ -2&-1\end{pmatrix} \)
+  correct: 2
+
+- id: 14
+  text: |
+    Which of following is symmetric matrix
+  options:
+    - \( \begin{pmatrix}0&1\\ 1&0\end{pmatrix} \)
+    - \( \begin{pmatrix}0&-1\\ 1&0\end{pmatrix} \)
+    - \( \begin{pmatrix}0&0\\ 1&1\end{pmatrix} \)
+    - All of above
+  correct: 1
+
+- id: 15
+  text: |
+    If A is an anti-symmetric matrix then \( A^{2} \) is
+  options:
+    - anti-symmetric
+    - Symmetric
+    - \( A^{2} \) does not exist
+    - None of above
+  correct: 2
+
+- id: 16
+  text: |
+    If A is Hermitian matrix then \( e^{iA} \) is
+  options:
+    - hermitian
+    - Anti-hermitian
+    - anti-symmetric
+    - unitary
+  correct: 4
+
+- id: 17
+  text: |
+    Eigen value of Real symmetric matrix is
+  options:
+    - only positive
+    - always 1
+    - always 0
+    - Real
+  correct: 4
+
+- id: 18
+  text: |
+    Eigen values of real skew symmetric matrix is
+  options:
+    - Always 1
+    - Only 0
+    - Only imaginary
+    - Either 0 or imaginary
+  correct: 4
+
+- id: 19
+  text: |
+    Any two eigen vector corresponding to distinct eigen values of real symmetric matrices are
+  options:
+    - unitary
+    - symmetric
+    - orthogonal
+    - None of them
+  correct: 3
+
+- id: 20
+  text: |
+    Eigen value of unitary matrix is
+  options:
+    - \( |\lambda|=1 \)
+    - 1
+    - 0
+    - All of above
+  correct: 1
+
+- id: 21
+  text: |
+    Which of following is hermitian
+  options:
+    - \( \begin{pmatrix}0&-i\\ i&0\end{pmatrix} \)
+    - \( \begin{pmatrix}0&i\\ i&0\end{pmatrix} \)
+    - \( \begin{pmatrix}0&1\\ 1&0\end{pmatrix} \)
+    - All of above
+  correct: 1
+
+- id: 22
+  text: |
+    If matrix \( A=\begin{pmatrix}0&-i\\ i&0\end{pmatrix} \) then it is
+  options:
+    - hermitian
+    - symmetric
+    - Anti-symmetric
+    - Both a and b
+  correct: 4
+
+- id: 23
+  text: |
+    In similarity transformation, which of following remains invariant
+  options:
+    - Trace
+    - determinant
+    - Eigen values
+    - All of above
+  correct: 4
+
+- id: 24
+  text: |
+    Under the unitary transformation of a vector, x, of order \( n\times1 \) by a matrix operator of order \( n\times n \), what remains invariant?
+  options:
+    - x become a unit vector
+    - x becomes a null vector
+    - Length of x becomes as it is (is invariant)
+    - none of above
+  correct: 3
+
+- id: 25
+  text: |
+    If the characteristic (Secular) equation for a matrix is \( (\lambda-1)(\lambda+1)=0 \), then the value of \( \lambda \) is
+  options:
+    - +1
+    - -1
+    - 0 and 1
+    - Both a and b
+  correct: 4
+
+- id: 26
+  text: |
+    If A is a square matrix of order 'n' then \( \text{adj}(\text{adj } A) \) is equal to
+  options:
+    - \( |A|^{n-2}A \)
+    - \( |A|^{n}A \)
+    - \( |A|^{n-1}A \)
+    - \( |A|^{n+2}A \)
+  correct: 1
+
+- id: 27
+  text: |
+    Inverse of matrix \( M=\begin{pmatrix}A&0\\ B&C\end{pmatrix} \) (where A, C are non-zero scalars) is
+  options:
+    - \( \frac{1}{AC}\begin{pmatrix}C&0\\ -B&A\end{pmatrix} \)
+    - \( \frac{1}{AB-C}\begin{pmatrix}A&0\\ B&C\end{pmatrix} \)
+    - \( \frac{1}{AC-BC}\begin{pmatrix}-A&0\\ B&-C\end{pmatrix} \)
+    - \( \frac{1}{AC-B}\begin{pmatrix}-A&0\\ B&-C\end{pmatrix} \)
+  correct: 1
+
+- id: 28
+  text: |
+    A matrix \( \begin{pmatrix}\alpha+i\gamma&-\beta+id\\ \beta+id&\alpha-i\gamma\end{pmatrix} \) is unitary if \( \alpha^{2}+\beta^{2}+\gamma^{2}+d^{2}= \)
+  options:
+    - 0
+    - 1
+    - 2
+    - -1
+  correct: 2
+
+- id: 29
+  text: |
+    if A is unitary matrix and \( B=AP \) where \( P\ne 0 \) then \( PB^{-1} \) is
+  options:
+    - Orthogonal
+    - Unitary
+    - hermitian
+    - None of above
+  correct: 2
+
+- id: 30
+  text: |
+    If A is real skew symmetric matrix such that \( A^{2}+I=0 \) then A is
+  options:
+    - Orthogonal
+    - Unitary
+    - hermitian
+    - None of above
+  correct: 1
+
+- id: 31
+  text: |
+    The eigen vectors corresponding to distinct characteristic roots of a matrix are linearly
+  options:
+    - Dependent
+    - independent
+    - Depends on eigen value
+    - Depends on type of matrix
+  correct: 2
+
+- id: 32
+  text: |
+    The eigen values of a matrix \( \begin{pmatrix}5&4\\ 1&2\end{pmatrix} \) are
+  options:
+    - 1, 6
+    - 6, 2
+    - 1, 5
+    - 2, 12
+  correct: 1
+
+- id: 33
+  text: |
+    A real matrix is unitary if and only if it is
+  options:
+    - Orthogonal
+    - Unitary
+    - hermitian
+    - None of above
+  correct: 1
+
+- id: 34
+  text: |
+    Tensor of rank 0 is
+  options:
+    - vector
+    - scalar
+    - Tensor of rank 1
+    - None of above
+  correct: 2
+
+- id: 35
+  text: |
+    Tensor of rank 1 is
+  options:
+    - vector
+    - scalar
+    - Tensor of rank 1
+    - None of above
+  correct: 1
+
+- id: 36
+  text: |
+    The transformation relation of mixed tensor of 2nd rank \( A_{q}^{p} \) is
+  options:
+    - \( \bar{A}_{j}^{i}=\frac{\partial\bar{x}^{i}}{\partial x^{p}}\frac{\partial x^{q}}{\partial\bar{x}^{j}}A_{q}^{p} \)
+    - \( \frac{\partial x^{p}}{\partial\bar{x}^{i}}\frac{\partial x^{q}}{\partial\bar{x}^{j}}A_{q}^{p} \)
+    - \( \bar{A}_{j}^{i}=\frac{\partial\bar{x}^{p}}{\partial x^{i}}\frac{\partial x^{j}}{\partial x^{p}}A_{q}^{p} \)
+    - \( \frac{\partial\bar{x}^{p}}{\partial x^{p}}\frac{\partial\bar{x}^{j}}{\partial x^{q}}A_{q}^{p} \)
+  correct: 1
+
+- id: 37
+  text: |
+    The Kronecker delta \( \delta_{q}^{p} \) is
+  options:
+    - scalar
+    - vector
+    - mixed tensor of rank 1
+    - tensor of rank 1
+  correct: 3
+
+- id: 38
+  text: |
+    In outer multiplication, the rank of the product tensor is the ... of ranks of given tensors.
+  options:
+    - Product
+    - Sum
+    - Square
+    - Cube
+  correct: 2
+
+- id: 39
+  text: |
+    In contraction operation of tensor the rank is
+  options:
+    - Invariant
+    - reduced by 1
+    - Reduced by 2
+    - increased by 1
+  correct: 3
+
+- id: 40
+  text: |
+    The velocity of fluid at any point is
+  options:
+    - Covariant tensor of rank 1
+    - contravarient vector
+    - scalar
+    - None of above
+  correct: 2
+
+- id: 41
+  text: |
+    Contraction of \( A^{p}B_{q} \) is
+  options:
+    - Contravarient vector
+    - covarient vector
+    - scalar
+    - mixed 2nd rank tensor
+  correct: 3
+
+- id: 42
+  text: |
+    Metric tensor is a tensor of rank
+  options:
+    - one
+    - two
+    - scalar
+    - zero
+  correct: 2
+
+- id: 43
+  text: |
+    If A is an orthogonal matrix, then \( A^{-1} \) equals
+  options:
+    - A
+    - \( A^{T} \)
+    - \( A^{2} \)
+    - none of these
+  correct: 2
+
+- id: 44
+  text: |
+    If \( D=\text{diag}(d_{1},d_{2},d_{3},....d_{n}) \), where \( d_{i}\ne0 \) for all \( i=1,2,.... n \) then \( D^{-1} \) is equal to
+  options:
+    - D
+    - \( \text{diag}(d_{1}^{-1},d_{2}^{-1},...d_{n}^{-1}) \)
+    - \( I_{n} \)
+    - none of these
+  correct: 2
+
+- id: 45
+  text: |
+    Eigen values of a matrix \( S \) are 5 and 1. What are the eigen values of the matrix \( S^{2} \)?
+  options:
+    - 1 and 25
+    - 6 and 4
+    - 5 and 1
+    - 2 and 10
+  correct: 1
+
+- id: 46
+  text: |
+    Match the items in column I and II: (P) Singular matrix (Q) Non-square matrix (R) Real symmetric matrix (S) Orthogonal matrix. (1) Det not defined (2) Det is ± 1 (3) Det is zero (4) Eigen values always real (5) Eigen values not defined.
+  options:
+    - P-3, Q-1, R-4, S-2
+    - P-2, Q-3, R-4, S-1
+    - P-3, Q-2, R-5, S-4
+    - P-3, Q-4, R-2, S-1
+  correct: 1
+
+- id: 47
+  text: |
+    A is a 3x4 real matrix and \( Ax=b \) is an inconsistent system of equations. The highest possible rank of A is
+  options:
+    - 1
+    - 2
+    - 3
+    - 4
+  correct: 2
+
+- id: 48
+  text: |
+    The sum of eigen values of the matrix \( \begin{pmatrix}1&-1&3\\ 1&5&1\\ 3&1&1\end{pmatrix} \) is
+  options:
+    - 5
+    - 7
+    - 9
+    - 18
+  correct: 2
+
+- id: 49
+  text: |
+    For which value of X will be the matrix \( \begin{pmatrix}8&x&0\\ 4&0&2\\ 12&6&0\end{pmatrix} \) become singular?
+  options:
+    - 4
+    - 6
+    - 8
+    - 12
+  correct: 1
+
+- id: 50
+  text: |
+    Let A and B be real symmetric matrices of size \( n\times n \). Then which one of the following is true?
+  options:
+    - \( AA^{T}=I \)
+    - \( A=A^{-1} \)
+    - \( AB=BA \)
+    - \( (AB)^{T}=BA \)
+  correct: 4
+
+- id: 51
+  text: |
+    Among the following, the pair of vectors orthogonal to each other is
+  options:
+    - [3, 4, 7], [3, 4, 7]
+    - [1, 0, 0], [1, 1, 0]
+    - [1, 0, 2], [-2, 5, 1]
+    - [1, 1, 1], [-1, -1, -1]
+  correct: 3
+
+- id: 52
+  text: |
+    The characteristic equation of a \( 3\times3 \) matrix P is \( \alpha(\lambda)=|\lambda I-P|=\lambda^{3}+\lambda^{2}+2\lambda+1=0 \). The inverse of matrix P will be
+  options:
+    - \( P^{2}+P+2I \)
+    - \( P^{2}+P+I \)
+    - \( -(P^{2}+P+I) \)
+    - \( -(P^{2}+P+2I) \)
+  correct: 4
+
+- id: 53
+  text: |
+    If the rank of a \( (5\times6) \) matrix Q is 4, then which one of the following statements is correct?
+  options:
+    - Q will have four linearly independent rows and four linearly independent columns.
+    - Q will have four linearly independent rows and five linearly independent columns.
+    - \( QQ^{T} \) will be invertible
+    - \( Q^{T}Q \) will be invertible.
+  correct: 1
+
+- id: 54
+  text: |
+    A is a \( m\times n \) full rank matrix with \( m>n \) and I is an identity matrix. Let matrix \( A^{+}=(A^{T}A)^{-1}A^{T} \). Then, which one of the following statements is FALSE?
+  options:
+    - \( AA^{+}A=A \)
+    - \( (A^{+}A^{+})^{2}=AA^{+} \)
+    - \( A^{+}A=I \)
+    - \( AA^{+}A=A^{+} \)
+  correct: 4
+
+- id: 55
+  text: |
+    For the matrix \( P=\begin{pmatrix}3&-2&2\\ 0&-2&1\\ 0&0&1\end{pmatrix} \), one of the eigen value is equal to -2. Which of the following is an eigen vector?
+  options:
+    - \( \begin{pmatrix}3\\ -2\\ 1\end{pmatrix} \)
+    - \( \begin{pmatrix}-3\\ 2\\ -1\end{pmatrix} \)
+    - \( \begin{pmatrix}1\\ -2\\ 3\end{pmatrix} \)
+    - \( \begin{pmatrix}2\\ 5\\ 0\end{pmatrix} \)
+  correct: 4
+
+- id: 56
+  text: |
+    If \( A=\text{diag}(d_{1},d_{2},d_{3},....d_{n}) \) then \( A^{n} \) is equal to
+  options:
+    - \( \text{diag}(d_{1}^{n-1},d_{2}^{n-1},...d_{n}^{n-1}) \)
+    - \( \text{diag}(d_{1}^{n},d_{2}^{n},d_{3}^{n}...d_{n}^{n}) \)
+    - \( \text{diag}(d_{1}^{n},d_{2}^{n},d_{3}^{n}...d_{n}^{n-1}) \)
+    - none of these
+  correct: 2
+
+- id: 57
+  text: |
+    If A is a symmetric matrix and \( n\in\mathbb{N} \) then \( A^{n} \) is
+  options:
+    - symmetric
+    - skew symmetric
+    - diagonal matrix
+    - none of these
+  correct: 1
+
+- id: 58
+  text: |
+    If \( A=\begin{pmatrix}1&-5&7\\ 0&7&9\\ 11&8&9\end{pmatrix} \) then trace of the matrix A is
+  options:
+    - 17
+    - 25
+    - 3
+    - 12
+  correct: 1
+
+- id: 59
+  text: |
+    All the four entries of the \( 2\times2 \) matrix \( P=\begin{pmatrix}P_{11}&P_{12}\\ P_{21}&P_{22}\end{pmatrix} \) are non-zero, and one of its eigen value is zero. Which of the following statements are true?
+  options:
+    - \( P_{11}P_{22}-P_{12}P_{21}=1 \)
+    - \( P_{11}P_{22}-P_{12}P_{21}=-1 \)
+    - \( P_{11}P_{22}-P_{12}P_{21}=0 \)
+    - \( P_{11}P_{22}+P_{12}P_{21}=0 \)
+  correct: 3
+
+- id: 60
+  text: |
+    The rank of the matrix \( \begin{pmatrix}1&1\\ 1&1\end{pmatrix} \) is
+  options:
+    - 0
+    - 1
+    - 2
+    - 3
+  correct: 3
+
+- id: 61
+  text: |
+    The eigenvalues and the corresponding eigenvectors of a \( 2\times2 \) matrix are given by \( \lambda_{1}=8, x_{1}=\begin{pmatrix}1\\ 1\end{pmatrix} \) and \( \lambda_{2}=4, x_{2}=\begin{pmatrix}1\\ -1\end{pmatrix} \). The matrix is
+  options:
+    - \( \begin{pmatrix}6&2\\ 2&6\end{pmatrix} \)
+    - \( \begin{pmatrix}4\\ 6\end{pmatrix} \)
+    - \( \begin{pmatrix}4\\ 8\end{pmatrix} \)
+    - \( \begin{pmatrix}6&2\\ 2&6\end{pmatrix} \)
+  correct: 1
+
+- id: 62
+  text: |
+    Let \( A=\begin{pmatrix}2&-0.1\\ 0&3\end{pmatrix} \) and \( A^{-1}=\begin{pmatrix}\frac{1}{2}&a\\ 0&b\end{pmatrix} \). The value of \( (a+b) \) is
+  options:
+    - \( \frac{7}{20} \)
+    - \( \frac{3}{20} \)
+    - \( \frac{19}{60} \)
+    - \( \frac{11}{20} \)
+  correct: 1
