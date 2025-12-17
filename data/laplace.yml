@@ -1,0 +1,889 @@
+- id: 1
+  text: |
+    If \( F(t) \) be any function of 't' where \( t > 0 \), then the Laplace transform of \( F(t) \) is denoted by \( f(s) \) and is defined by
+  options:
+    - \( \int_{0}^{\infty} e^{-st} F(t) dt \)
+    - \( \int_{-\infty}^{\infty} e^{-st} F(t) dt \)
+    - \( \int_{0}^{\infty} e^{st} F(t) dt \)
+    - \( \int_{0}^{\infty} e^{-xt} F(t) dt \)
+  correct: 1
+
+- id: 2
+  text: |
+    Laplace transform of \( t^n \) is
+  options:
+    - \( \frac{n}{s^{n+1}} \)
+    - \( \frac{n!}{s^n} \)
+    - \( \frac{n!}{s^{n+1}} \)
+    - \( \frac{(n+1)!}{s^n} \)
+  correct: 3
+
+- id: 3
+  text: |
+    Laplace transform of \( e^{iwt} \) is
+  options:
+    - \( \frac{s-iw}{s^2+w^2} \)
+    - \( \frac{1}{s+iw} \)
+    - \( \frac{s+iw}{s^2+w^2} \)
+    - \( \frac{s+iw}{s^2-w^2} \)
+  correct: 3
+
+- id: 4
+  text: |
+    Laplace transforms of \( \cos at \) is
+  options:
+    - \( \frac{s}{s^2+a^2} \)
+    - \( \frac{s}{s^2-a^2} \)
+    - \( \frac{a}{s^2+a^2} \)
+    - \( \frac{s}{(s+a)^2} \)
+  correct: 1
+
+- id: 5
+  text: |
+    Laplace transform of \( \sin at \) is
+  options:
+    - \( \frac{s}{s^2+a^2} \)
+    - \( \frac{s}{s^2-a^2} \)
+    - \( \frac{a}{s^2+a^2} \)
+    - \( \frac{s}{(s+a)^2} \)
+  correct: 3
+
+- id: 6
+  text: |
+    Laplace transform of \( \cosh at \) is
+  options:
+    - \( \frac{s}{s^2+a^2} \)
+    - \( \frac{a}{s^2-a^2} \)
+    - \( \frac{s}{s^2-a^2} \)
+    - \( \frac{s^2 a^2}{s^2+a^2} \)
+  correct: 3
+
+- id: 7
+  text: |
+    Laplace transform of \( \sinh at \) is
+  options:
+    - \( \frac{s}{s^2+a^2} \)
+    - \( \frac{a}{s^2-a^2} \)
+    - \( \frac{s}{s^2-a^2} \)
+    - \( \frac{s^2 a^2}{s^2+a^2} \)
+  correct: 2
+
+- id: 8
+  text: |
+    Laplace transform of \( e^{mt} \cos at \) is
+  options:
+    - \( \frac{s-m}{(s-m)^2+a^2} \)
+    - \( \frac{s+m}{(s+m)^2-a^2} \)
+    - \( \frac{s-m}{(s-m)^2-a^2} \)
+    - \( \frac{a}{(s-m)^2+a^2} \)
+  correct: 1
+
+- id: 9
+  text: |
+    Laplace transform of \( e^{mt} \sin at \) is
+  options:
+    - \( \frac{s-m}{(s-m)^2+a^2} \)
+    - \( \frac{s+m}{(s+m)^2-a^2} \)
+    - \( \frac{s-m}{(s-m)^2-a^2} \)
+    - \( \frac{a}{(s-m)^2+a^2} \)
+  correct: 4
+
+- id: 10
+  text: |
+    Laplace transform of \( e^{mt} \sinh at \) is
+  options:
+    - \( \frac{a}{(s-m)^2-a^2} \)
+    - \( \frac{s-m}{(s-m)^2-a^2} \)
+    - \( \frac{s-m}{(s-m)^2+a^2} \)
+    - \( \frac{s-m}{(s-m)^2+m^2} \)
+  correct: 1
+
+- id: 11
+  text: |
+    The inverse Laplace transform of \( \frac{s^2-a^2}{(s^2+a^2)^2} \) is
+  options:
+    - \( t \sin at \)
+    - \( t \cos at \)
+    - \( t^2 \cos at \)
+    - \( t^2 \sin at \)
+  correct: 2
+
+- id: 12
+  text: |
+    The laplace transform of \( t \sin at \) is
+  options:
+    - \( \frac{s^2-a^2}{(s^2+a^2)^2} \)
+    - \( \frac{2as}{(s^2+a^2)^2} \)
+    - \( \frac{2as}{(s^2-a^2)^2} \)
+    - \( \frac{s^2+a^2}{2as} \)
+  correct: 2
+
+- id: 13
+  text: |
+    The laplace transform of 1st order derivation of \( F(t) \) is
+  options:
+    - \( s f(s) - F(0) \)
+    - \( s^2 f(s) - F'(0) \)
+    - \( sf(s) + F(0) \)
+    - \( sf(s) - F(1) \)
+  correct: 1
+
+- id: 14
+  text: |
+    Laplace transform of \( t^3 e^{3t} \) is
+  options:
+    - \( \frac{6}{(s-3)^3} \)
+    - \( \frac{6}{(s+3)^4} \)
+    - \( \frac{6}{(s-3)^4} \)
+    - \( \frac{6}{(s-3)^2} \)
+  correct: 3
+
+- id: 15
+  text: |
+    If \( f(s) \) be Laplace transform of \( F(t) \) and \( G(t) = F(t-a) \) for \( t > a \) and \( 0 \) for \( t \le a \), then \( L\{G(t)\} \) is
+  options:
+    - \( f(s) \)
+    - \( e^{-as} \)
+    - \( e^{-as} f(s) \)
+    - \( \frac{f(s)}{e^{-as}} \)
+  correct: 3
+
+- id: 16
+  text: |
+    Find the laplace transform of \( F'(t) \) where \( F(t) = e^{3t} \)
+  options:
+    - \( \frac{3}{s-3} \)
+    - \( \frac{3}{s+3} \)
+    - \( \frac{s}{s-3} \)
+    - \( \frac{3}{(s-3)^2} \)
+  correct: 1
+
+- id: 17
+  text: |
+    The laplace transform of sine integral \( Si(t) = \int_{0}^{t} \frac{\sin x}{x} dx \) is
+  options:
+    - \( \frac{1}{s} \tan^{-1} \frac{1}{s} \)
+    - \( \frac{1}{s} \cot^{-1} \frac{1}{s} \)
+    - \( \frac{1}{2s} \log(s^2+1) \)
+    - None of above
+  correct: 1
+
+- id: 18
+  text: |
+    Laplace transform of \( U(t-a) = 0 \) for \( t < a \) and \( 1 \) for \( t > a \) is
+  options:
+    - \( e^{-as} \)
+    - \( \frac{1}{s} e^{-as} \)
+    - \( \frac{1}{s} \)
+    - \( e^{-as}s \)
+  correct: 2
+
+- id: 19
+  text: |
+    If \( f(s) \) be laplace transform of \( F(t) \) then laplace transform of \( \int_{0}^{t} F(u) du \) is
+  options:
+    - \( \frac{1}{s} f(s) \)
+    - \( \int_{0}^{\infty} \frac{F(t)}{t-p} \)
+    - \( \int_{0}^{\infty} F(t)(t+p) \)
+    - \( \frac{1}{s} \int_{0}^{t} F(t) dt \)
+  correct: 1
+
+- id: 20
+  text: |
+    The laplace transform of \( t^3 e^t \) is
+  options:
+    - \( (\frac{6}{s-3})^4 \)
+    - \( \frac{6}{(s-1)^4} \)
+    - \( \frac{6}{(s+1)^4} \)
+    - \( \frac{6}{(s-1)^3} \)
+  correct: 2
+
+- id: 21
+  text: |
+    If \( f(t) \) is periodic function with period \( T > 0 \) then \( L\{f(t)\} = \)
+  options:
+    - \( \int_{0}^{T} \frac{e^{-st} F(t) dt}{1-e^{-st}} \)
+    - \( \int_{0}^{\infty} \frac{e^{-st} F(t) dt}{1-e^{-st}} \)
+    - \( \frac{\int_{0}^{T} e^{-st} F(t) dt}{1+e^{-st}} \)
+    - \( \frac{\int_{0}^{T} e^{-st} F(t) dt}{1-e^{-st}} \)
+  correct: 4
+
+- id: 22
+  text: |
+    The laplace transform of \( \Gamma_n = \int_{0}^{\infty} e^{-x} x^{n-1} dx, n > 0 \) is
+  options:
+    - \( \frac{\pi}{s} \)
+    - \( \frac{1}{s} \)
+    - \( \frac{\sqrt{\pi}}{s} \)
+    - \( \sqrt{\frac{\pi}{s}} \)
+  correct: 2
+
+- id: 23
+  text: |
+    The inverse Laplace transform of \( \frac{1}{s^{n+1}} \) is
+  options:
+    - \( t^n \)
+    - \( \frac{n!}{s^n} \)
+    - \( \frac{t^n}{n!} \)
+    - None of above
+  correct: 3
+
+- id: 24
+  text: |
+    The inverse laplace transform of \( \frac{1}{\sqrt{2s+5}} \) is
+  options:
+    - \( \frac{1}{\sqrt{2\pi}} t^{-1/2} e^{-5t/2} \)
+    - \( \frac{1}{\sqrt{2\pi}} t^{-1/2} e^{5t/2} \)
+    - \( \frac{1}{\sqrt{2\pi}} t^{1/2} e^{-5t/2} \)
+    - None of above
+  correct: 1
+
+- id: 25
+  text: |
+    The inverse Laplace transform of \( \frac{1}{s^2(s^2+1)} \) is
+  options:
+    - \( t - \sin t \)
+    - \( t - \cos t \)
+    - \( t + \sin t \)
+    - \( 1 + \cos t \)
+  correct: 1
+
+- id: 26
+  text: |
+    \( \int_{-\pi}^{\pi} \sin mx \sin nx dx \) is equal to which of following (If \( \delta_{mn} = 1 \) for \( m=n \))
+  options:
+    - \( \pi \delta_{mn} \) for \( m \ne n \)
+    - \( \pi \delta_{mn} \) for \( m = n \)
+    - \( 0 \) for \( m, n \)
+    - \( 0 \) for only \( m = n \)
+  correct: 2
+
+- id: 27
+  text: |
+    \( \int_{-\pi}^{\pi} \sin mx \cos nx dx \) is equal to which of following
+  options:
+    - \( \pi \delta_{mn} \) for \( m \ne n \)
+    - \( \pi \delta_{mn} \) for \( m = n \)
+    - \( 0 \) for all \( m, n \)
+    - \( 0 \) for only \( m = n \)
+  correct: 3
+
+- id: 28
+  text: |
+    If \( f(x) \) is even function and \( g(x) \) is odd function then \( f(x) g(x) \) is
+  options:
+    - Even function
+    - odd function
+    - Neither function
+    - None of above
+  correct: 2
+
+- id: 29
+  text: |
+    If \( f(x) \) is even function and \( g(x) \) is odd function then \( f'(x) g(x) \) is
+  options:
+    - Even function
+    - odd function
+    - Neither function
+    - None of above
+  correct: 1
+
+- id: 30
+  text: |
+    If \( f(x) \) is even function and \( g(x) \) is odd function then \( f(x) g'(x) \) is
+  options:
+    - Even function
+    - odd function
+    - Neither function
+    - None of above
+  correct: 1
+
+- id: 31
+  text: |
+    If \( f(x) \) is even function and \( g(x) \) is odd function then \( f'(x) g'(x) \) is
+  options:
+    - Even function
+    - odd function
+    - Neither function
+    - None of above
+  correct: 2
+
+- id: 32
+  text: |
+    \( f(x) = \log(\frac{1+x}{1-x}) \) is
+  options:
+    - Even function
+    - odd function
+    - Neither function
+    - None of above
+  correct: 2
+
+- id: 33
+  text: |
+    \( f(x) = e^x \) is
+  options:
+    - Even function
+    - odd function
+    - Neither function
+    - None of above
+  correct: 3
+
+- id: 34
+  text: |
+    If \( f_1 \) is even function and \( f_2 \) is odd function then \( f_1 + f_2^2 \) is
+  options:
+    - Even function
+    - odd function
+    - Neither function
+    - None of above
+  correct: 1
+
+- id: 35
+  text: |
+    In fourier theorem any single value function \( f(x) \) in the interval \( [-\pi, \pi] \) can be represented in
+  options:
+    - Algebraic series form
+    - Exponential form
+    - trigonometric series
+    - infinite series
+  correct: 3
+
+- id: 36
+  text: |
+    In fourier series \( f(x) = \frac{a_0}{2} + \sum_{n=1}^{\infty} (a_n \cos nx + b_n \sin nx) \), \( a_0 \) is equal to
+  options:
+    - \( \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) dx \)
+    - \( \frac{2}{\pi} \int_{-\pi}^{\pi} f(x) dx \)
+    - \( \frac{1}{2\pi} \int_{-\pi}^{\pi} f(x) dx \)
+    - \( 0 \)
+  correct: 1
+
+- id: 37
+  text: |
+    Fourier series contains only cosine series if the function is
+  options:
+    - odd
+    - even
+    - Neither
+    - Null
+  correct: 2
+
+- id: 38
+  text: |
+    Fourier series contains only sine series if the function is
+  options:
+    - odd
+    - even
+    - Neither
+    - Null
+  correct: 1
+
+- id: 39
+  text: |
+    Which of following is not a condition of Dirichlet's condition in the interval \( (-\pi, \pi) \) for any function \( f(x) \)?
+  options:
+    - Bounded
+    - Multivalued
+    - Has at most finite no of maxima and minima
+    - Periodic for all values of x outside \( (-\pi, \pi) \)
+  correct: 2
+
+- id: 40
+  text: |
+    The fourier series in the interval \( (-l, l) \) is \( \frac{a_0}{2} + \sum_{n=1}^{\infty} (a_n \frac{\cos n\pi x}{l} + b_n \sin \frac{n\pi x}{l}) \) where, \( a_n \) is equal to
+  options:
+    - \( \frac{1}{l} \int_{-l}^{l} f(x) \frac{\cos n\pi x}{l} dx \)
+    - \( \frac{1}{l} \int_{-l}^{l} f(x) \frac{\sin n\pi x}{l} dx \)
+    - \( \frac{1}{l} \int_{-l}^{l} f(x) dx \)
+    - \( \frac{2}{l} \int_{-l}^{l} f(x) \frac{\cos n\pi x}{l} dx \)
+  correct: 1
+
+- id: 41
+  text: |
+    The fourier cosine transform is defined as \( F_c(k) \) is equal to
+  options:
+    - \( \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) \cos kx dx \)
+    - \( \sqrt{\frac{2}{\pi}} \int_{0}^{\infty} f(x) \cos kx dx \)
+    - \( \frac{2}{\pi} \int_{-\infty}^{\infty} f(x) \sin kx dx \)
+    - \( \sqrt{\frac{2}{\pi}} \int_{0}^{\infty} f(x) \sin kx dx \)
+  correct: 2
+
+- id: 42
+  text: |
+    The fourier sine transform is defined as \( F_s(k) \) is equal to
+  options:
+    - \( \frac{1}{\pi} \int_{-\pi}^{\pi} f(x) \cos kx dx \)
+    - \( \sqrt{\frac{2}{\pi}} \int_{0}^{\infty} f(x) \cos kx dx \)
+    - \( \frac{2}{\pi} \int_{-\infty}^{\infty} f(x) \sin kx dx \)
+    - \( \sqrt{\frac{2}{\pi}} \int_{0}^{\infty} f(x) \sin kx dx \)
+  correct: 4
+
+- id: 43
+  text: |
+    The fourier transform of 1st order derivative of \( f(x) \) is
+  options:
+    - \( iK F(k) \)
+    - \( -iK F(k) \)
+    - \( iK (F'k) \)
+    - \( -K^2 F(k) \)
+  correct: 2
+
+- id: 44
+  text: |
+    The fourier transform of 2nd order derivative of \( f(x) \) is
+  options:
+    - \( iK F(k) \)
+    - \( -iK F(k) \)
+    - \( iK (F'k) \)
+    - \( -K^2 F(k) \)
+  correct: 4
+
+- id: 45
+  text: |
+    Fourier sine transform of 1st order derivative of \( f(x) \), given \( f(x) \to 0 \) and \( f'(x) \to 0 \) as \( x \to \infty \), is
+  options:
+    - \( -K F_c(K) \)
+    - \( K \sqrt{\frac{2}{\pi}} f(0) - K^2 F_s(K) \)
+    - \( -\sqrt{\frac{2}{\pi}} f(0) + K F_s(K) \)
+    - \( -\sqrt{\frac{2}{\pi}} f'(0) - K^2 F_c(K) \)
+  correct: 1
+
+- id: 46
+  text: |
+    Fourier cosine transform of 1st order derivative of \( f(x) \), given \( f(x) \to 0 \) and \( f'(x) \to 0 \) as \( x \to \infty \), is
+  options:
+    - \( -K F_c(K) \)
+    - \( K \sqrt{\frac{2}{\pi}} f(0) - K^2 F_s(K) \)
+    - \( -\sqrt{\frac{2}{\pi}} f(0) + K F_s(K) \)
+    - \( -\sqrt{\frac{2}{\pi}} f'(0) - K^2 F_c(K) \)
+  correct: 3
+
+- id: 47
+  text: |
+    Fourier sine transform of 2nd order derivative of \( f(x) \), given \( f(x) \to 0 \) and \( f'(x) \to 0 \) as \( x \to \infty \), is
+  options:
+    - \( -K F_c(K) \)
+    - \( K \sqrt{\frac{2}{\pi}} f(0) - K^2 F_s(K) \)
+    - \( -\sqrt{\frac{2}{\pi}} f(0) + K F_s(K) \)
+    - \( \sqrt{\frac{2}{\pi}} f'(0) - K^2 F_c(K) \)
+  correct: 2
+
+- id: 48
+  text: |
+    Fourier cosine transform of 2nd order derivative of \( f(x) \), given \( f(x) \to 0 \) and \( f'(x) \to 0 \) as \( x \to \infty \), is
+  options:
+    - \( -K F_c(K) \)
+    - \( K \sqrt{\frac{2}{\pi}} f(0) - K^2 F_s(K) \)
+    - \( -\sqrt{\frac{2}{\pi}} f(0) + K F_s(K) \)
+    - \( -\sqrt{\frac{2}{\pi}} f'(0) - K^2 F_c(K) \)
+  correct: 4
+
+- id: 49
+  text: |
+    The fourier sine transform of \( e^{-bx} \), where b is a +ve integer, is
+  options:
+    - \( \sqrt{\frac{2}{\pi}} \frac{K}{b^2 + K^2} \)
+    - \( \frac{2}{\pi} \frac{K}{k^2 + b^2} \)
+    - \( \sqrt{\frac{2}{\pi}} \frac{K}{b^2 + K} \)
+    - \( \sqrt{\frac{2}{\pi}} \frac{b}{b^2 + K^2} \)
+  correct: 1
+
+- id: 50
+  text: |
+    The inverse cosine transform of \( e^{-\lambda K} \) is
+  options:
+    - \( \sqrt{\frac{2}{\pi}} \frac{K}{\lambda^2 + K^2} \)
+    - \( \frac{2}{\pi} \frac{K}{\lambda^2 + K^2} \)
+    - \( \sqrt{\frac{2}{\pi}} \frac{K}{\lambda^2 + x^2} \)
+    - \( \sqrt{\frac{2}{\pi}} \frac{\lambda}{\lambda^2 + x^2} \)
+  correct: 4
+
+- id: 51
+  text: |
+    The fourier transform of Gaussian distribution is
+  options:
+    - Gaussian distribution
+    - Straight line
+    - Trigonometric function
+    - Logarithmic function
+  correct: 1
+
+- id: 52
+  text: |
+    The fourier transform of \( f(x) = N e^{-\alpha x^2} \) where N and \( \alpha \) are constants is
+  options:
+    - \( \frac{N}{2\alpha} e^{-\frac{x^2}{4\alpha}} \)
+    - \( \frac{N}{\sqrt{2\alpha}} e^{-\frac{K^2}{4\alpha}} \)
+    - \( \frac{N}{\sqrt{2\alpha}} e^{\frac{\alpha^2}{4k}} \)
+    - \( \frac{N}{\sqrt{2\alpha}} e^{-\frac{K^2}{2\alpha}} \)
+  correct: 2
+
+- id: 53
+  text: |
+    Parsevals relation in fourier transform is
+  options:
+    - \( \int_{-\infty}^{\infty} F(K) G^*(K) dK = \int_{-\infty}^{\infty} f(x) g^*(x) dx \)
+    - \( \int_{0}^{\infty} F(K) G^*(K) dK = \int_{0}^{\infty} f(x) g^*(x) dx \)
+    - \( \int_{0}^{\infty} F(K) g^*(x) dK = \int_{0}^{\infty} f(x) G^*(x) dx \)
+    - \( \int_{-\infty}^{\infty} F(K) G^*(K) dK = \int_{0}^{\infty} f(x) g^*(x) dx \)
+  correct: 1
+
+- id: 54
+  text: |
+    The fourier sine transform of \( e^{-x} \) is
+  options:
+    - \( \frac{n}{1+n^2} \)
+    - \( \frac{1}{1+n^2} \)
+    - \( \frac{n^2}{1+n} \)
+    - None of above
+  correct: 1
+
+- id: 55
+  text: |
+    The fourier transform of \( e^{-x^2/\sigma^2} \) is
+  options:
+    - \( \frac{\sigma}{\alpha} e^{\frac{K^2 \alpha^2}{4}} \)
+    - \( \frac{1}{2\sigma} e^{\frac{K^2 \alpha^2}{4}} \)
+    - \( \frac{\sigma}{\sqrt{2}} e^{-\frac{K^2 \sigma^2}{4}} \)
+    - \( \frac{\sigma}{\sqrt{2}} e^{\frac{K^2}{4\sigma^2}} \)
+  correct: 3
+
+- id: 56
+  text: |
+    Derivative of unit step function is
+  options:
+    - Unit step function
+    - Zero
+    - Delta function
+    - None of above
+  correct: 3
+
+- id: 57
+  text: |
+    The fourier transform of a function \( f(x) \) is \( F(w) \). The fourier transform of \( f'(x) \) will be
+  options:
+    - \( \frac{dF(\omega)}{d\omega} \)
+    - \( i 2\pi \omega F(\omega) \)
+    - \( i \omega F(\omega) \)
+    - \( \frac{F(\omega)}{i\omega} \)
+  correct: 3
+
+- id: 58
+  text: |
+    The fourier transform of the signal \( f(x) = e^{-3x^2} \) is of the following form (where A and B are constants):
+  options:
+    - \( A e^{-B\omega^2} \)
+    - \( A e^{j\omega_0 B} \)
+    - \( A |w| + B |w|^2 \)
+    - \( A e^{x^2} \)
+  correct: 2
+
+- id: 59
+  text: |
+    For a function \( f(x) \), the Fourier transform is \( F(w) \). Then the inverse Fourier transform of \( F(w+2) \) is given by:
+  options:
+    - \( f(x) e^{-i2x} \)
+    - \( f(x) e^{i2x} \)
+    - \( f(x) e^{ix^2} \)
+    - \( f(x+2) \)
+  correct: 3
+
+- id: 60
+  text: |
+    Let \( f(x) \leftrightarrow F(w) \) be a Fourier transform pair. The fourier transform of the function \( f(5x-3) \) in terms of \( F(w) \) is given as:
+  options:
+    - \( \frac{1}{5} e^{\frac{-i3\omega}{5}} F(\frac{\omega}{5}) \)
+    - \( \frac{1}{5} e^{-i3\omega} F(\frac{\omega}{5}) \)
+    - \( \frac{1}{5} e^{\frac{-i3\omega}{5}} F(\frac{\omega}{5}) \)
+    - \( \frac{1}{5} e^{i5\omega} F(\frac{\omega}{5}) \)
+  correct: 3
+
+- id: 61
+  text: |
+    Match the items in columns I and II: (P) Fourier cosine transform, (Q) Fourier sine transform, (R) Finite fourier cosine transform, (S) Finite Fourier sine transform.
+  options:
+    - P-2, Q-3, R-4, S-1
+    - P-3, Q-1, R-2, S-4
+    - P-4, Q-1, R-2, S-3
+    - P-1, Q-2, R-4, S-3
+  correct: 3
+
+- id: 62
+  text: |
+    The fourier sine transform of \( e^{-2x} + 4e^{-3x} \) is
+  options:
+    - \( \frac{5\omega(\omega^2 + 5)}{(\omega^2 + 4)(\omega^2 + 9)} \)
+    - \( \frac{5\omega(\omega^2 - 5)}{(\omega^2 - 4)(\omega^2 - 9)} \)
+    - \( \frac{5\omega(\omega + 5)}{(\omega + 4)(\omega + 9)} \)
+    - \( \frac{5\omega(\omega - 5)}{(\omega - 4)(\omega - 9)} \)
+  correct: 1
+
+- id: 63
+  text: |
+    Match the items in columns I and II: (P) Fourier complex integral, (Q) Fourier integral, (R) Fourier cosine integral, (S) Fourier sine integral.
+  options:
+    - P-1, Q-2, R-3, S-4
+    - P-2, Q-4, R-1, S-3
+    - P-2, Q-4, R-3, S-1
+    - P-4, Q-3, R-1, S-2
+  correct: 3
+
+- id: 64
+  text: |
+    The Fourier sine transform of \( e^{-at} \) (\( a > 0 \)) is
+  options:
+    - \( \frac{\omega}{\omega^2 + a^2} \)
+    - \( \frac{a}{a^2 + \omega^2} \)
+    - \( \frac{\omega}{\omega^2 - a^2} \)
+    - \( \frac{a}{a^2 - \omega^2} \)
+  correct: 1
+
+- id: 65
+  text: |
+    The fourier series of a real periodic function has only (P) cosine terms if it is even, (Q) Sine terms if it is even, (R) cosine terms if it is odd, (S) sine terms if it is odd. Which of the above statements are correct?
+  options:
+    - P and S
+    - P and R
+    - Q and S
+    - Q and R
+  correct: 1
+
+- id: 66
+  text: |
+    Choose the function \( f(x) \), \( -\infty < x < \infty \), for which a Fourier series cannot be defined:
+  options:
+    - \( 3 \sin(25x) \)
+    - \( 4 \cos(20x+3) + 2 \sin(10x) \)
+    - \( e^{-|x|} \sin(25x) \)
+    - \( 1 \)
+  correct: 3
+
+- id: 67
+  text: |
+    The fourier series expansion of a real periodic signal is given by \( f(x) = \sum_{n=-\infty}^{\infty} c_n e^{jnx} \). If \( c_1 = 3 + 5i \), then \( c_{-1} \) is:
+  options:
+    - \( 5 + 3i \)
+    - \( -3 - 5i \)
+    - \( -5 + 3i \)
+    - \( 3 - 5i \)
+  correct: 4
+
+- id: 68
+  text: |
+    Which of the following cannot be the Fourier series expansion of a periodic function?
+  options:
+    - \( f(x) = 2 \cos x + 3 \cos 3x \)
+    - \( f(x) = 2 \cos \pi x + 7 \cos x \)
+    - \( f(x) = \cos x + 0.5 \)
+    - \( f(x) = 2 \cos 1.5\pi x + \sin 3.5\pi x \)
+  correct: 2
+
+- id: 69
+  text: |
+    If \( f(x) = -f(-x) \) and \( f(x) \) satisfy the Dirichlet's conditions, then \( f(x) \) can be expanded in a Fourier series containing:
+  options:
+    - only sine terms
+    - Only cosine terms
+    - cosine terms and a constant term
+    - sine terms and a constant term
+  correct: 1
+
+- id: 70
+  text: |
+    If from the function \( f(t) \) one forms function \( \Psi(t) = f(t) + f(-t) \), then \( \Psi(t) \) is:
+  options:
+    - even
+    - odd
+    - neither even nor odd
+    - both even and odd
+  correct: 1
+
+- id: 71
+  text: |
+    The fourier series expansion for the function \( f(x) = \sin^2 x \) is:
+  options:
+    - \( \sin x + \sin 2x \)
+    - \( 1 - \cos 2x \)
+    - \( \sin 2x + \cos 2x \)
+    - \( 0.5 - 0.5 \cos 2x \)
+  correct: 4
+
+- id: 72
+  text: |
+    Which of the following functions is not periodic?
+  options:
+    - \( f(x) = \cos 2x + \cos 3x + \cos 5x \)
+    - \( f(x) = e^{i8\pi x} \)
+    - \( f(x) = e^{-7x} \sin 10\pi x \)
+    - \( f(x) = \cos 2x \cos 4x \)
+  correct: 3
+
+- id: 73
+  text: |
+    For the fourier series of the periodic function \( f(x) = 0 \) for \( -\pi < x < 0 \) and \( x \) for \( 0 < x < \pi \), it is given that by putting \( x = \pi \), one can deduce that the sum of the series \( 1 + \frac{1}{3^2} + \frac{1}{5^2} + \frac{1}{7^2} + \dots \) is:
+  options:
+    - \( \frac{\pi^2}{4} \)
+    - \( \frac{\pi^2}{6} \)
+    - \( \frac{\pi^2}{8} \)
+    - \( \frac{\pi^2}{12} \)
+  correct: 3
+
+- id: 74
+  text: |
+    The fourier series of an odd periodic function contains only:
+  options:
+    - odd harmonics
+    - even harmonics
+    - cosine terms
+    - sine terms
+  correct: 4
+
+- id: 75
+  text: |
+    The trigonometric fourier series of an even function does not have:
+  options:
+    - constant
+    - cosine terms
+    - sine terms
+    - odd harmonics
+  correct: 3
+
+- id: 76
+  text: |
+    The Fourier series expansion of even function \( f(x) \), where \( f(x) = 1 + \frac{2x}{\pi} \) for \( -\pi < x < 0 \) and \( 1 - \frac{2x}{\pi} \) for \( 0 < x < \pi \), will be:
+  options:
+    - \( \sum_{n=1}^{\infty} \frac{4}{\pi^2 n^2} (1 + \cos n\pi) \)
+    - \( \sum_{n=1}^{\infty} \frac{4}{\pi^2 n^2} (1 - \cos n\pi) \)
+    - \( \sum_{n=1}^{\infty} \frac{4}{\pi^2 n^2} (1 - \sin n\pi) \)
+    - \( \sum_{n=1}^{\infty} \frac{4}{\pi^2 n^2} (1 + \sin n\pi) \)
+  correct: 2
+
+- id: 77
+  text: |
+    The function \( f_3(x) = -1 + ax + bx^2 \) is orthogonal to \( f_1(x) = 1 \) and \( f_2(x) = x \) in the interval \( (-1, 1) \). The value of \( b \) will be:
+  options:
+    - 3
+    - -3
+    - 0
+    - None of these
+  correct: 1
+
+- id: 78
+  text: |
+    For the function \( f(x) = -k \) for \( -\pi < x < 0 \) and \( k \) for \( 0 < x < \pi \), the \( a_0 \) term in the Fourier expansion will be:
+  options:
+    - k
+    - 2k
+    - 0
+    - -k
+  correct: 3
+
+- id: 79
+  text: |
+    If \( F(t) \) is a function of class A and if \( L\{F(t)\} = f(p) \), then \( L\{t^n F(t)\} \) is equal to:
+  options:
+    - \( (-1)^n \frac{d^n}{dp^n} f(p) \)
+    - \( (-1)^n \frac{d^n}{dp^{n+1}} f(p) \)
+    - \( (1)^n \frac{d^n}{dp^n} f(p) \)
+    - \( (-1)^n \frac{d^{n+1}}{dp^{n+1}} f(p+1) \)
+  correct: 1
+
+- id: 80
+  text: |
+    The value of \( L(\sin \lambda t \cdot \cos \lambda t) \) is equal to:
+  options:
+    - \( \frac{\lambda}{p^2 + 4\lambda^2} \)
+    - \( \frac{p}{\lambda^2 + 4p^2} \)
+    - \( \frac{4\lambda}{p^2 + \lambda^2} \)
+    - \( \frac{p}{\lambda^2 + 3p^2} \)
+  correct: 1
+
+- id: 81
+  text: |
+    \( L\{t^3 e^{-3t}\} \) is equal to:
+  options:
+    - \( \frac{8}{(p+4)^4} \)
+    - \( \frac{6}{(p+3)^4} \)
+    - \( \frac{8}{(p+3)^3} \)
+    - \( \frac{6}{(p+3)^3} \)
+  correct: 2
+
+- id: 82
+  text: |
+    The Laplace transform of \( F(t) \) exists for all \( p > a \), if:
+  options:
+    - \( F(t) \) is a continuous function
+    - \( F(t) \) is a differentiable function
+    - \( F(t) \) is a function of class A
+    - None of these
+  correct: 3
+
+- id: 83
+  text: |
+    If \( L[F(t)] = f(p) \) and \( G(t) = F(t-a) \) for \( t > a \) and \( 0 \) for \( t < a \), then \( L[G(t)] \) is:
+  options:
+    - \( f(p-a) \)
+    - \( e^{-ap} f(p) \)
+    - \( \frac{1}{a} f(\frac{p}{a}) \)
+    - \( f(ap) \)
+  correct: 2
+
+- id: 84
+  text: |
+    If \( L\{F(t)\} = f(p) \), then \( L\{t F(t)\} \) is:
+  options:
+    - \( f'(p) \)
+    - \( -f'(p) \)
+    - \( \int_{p}^{\infty} f(x) dx \)
+    - \( \frac{1}{p} f(p) \)
+  correct: 2
+
+- id: 85
+  text: |
+    The value of Laplace transform of \( \frac{\sin t}{t} \) is:
+  options:
+    - \( \tan^{-1} \frac{1}{p} \)
+    - \( \tan^{-1} \frac{2}{p} \)
+    - \( \tan^{-1} p \)
+    - None of these
+  correct: 1
+
+- id: 86
+  text: |
+    If \( L\{F(t)\} = f(p) \), then \( L\{F(at)\} \) is:
+  options:
+    - \( f(\frac{p}{a}) \)
+    - \( \frac{1}{a} f(p) \)
+    - \( \frac{1}{a} f(\frac{p}{a}) \)
+    - None of these
+  correct: 3
+
+- id: 87
+  text: |
+    The Laplace transform of \( t^2 \) is:
+  options:
+    - \( \frac{1}{p-2} \)
+    - \( \frac{1}{(p-2)^2} \)
+    - \( \frac{1}{p^2} \)
+    - \( \frac{2}{p^3} \)
+  correct: 4
+
+- id: 88
+  text: |
+    If \( L\{\frac{\sin t}{t}\} = \tan^{-1} \frac{1}{p} \), then \( L\{\frac{\sin 3t}{t}\} \) is:
+  options:
+    - \( \frac{1}{3} \tan^{-1}(\frac{3}{p}) \)
+    - \( \tan^{-1}(\frac{3}{p}) \)
+    - \( \tan^{-1}(3p) \)
+    - \( 3 \tan^{-1}(3p) \)
+  correct: 2
+
+- id: 89
+  text: |
+    The value of \( \int_{0}^{\infty} \frac{\sin t}{t} dt \) is:
+  options:
+    - \( 0 \)
+    - \( \frac{\pi}{2} \)
+    - \( 1 \)
+    - None of these
+  correct: 2
