@@ -1,0 +1,439 @@
+- id: 1
+  text: |
+    The differential equation \( \frac{d^{3}y}{dx^{3}}+2(\frac{d^{2}y}{dx^{2}})^{2}+6y+9=0 \) is the differential equation of
+  options:
+    - Ist order and 3rd degree
+    - 3rd order and 1st degree
+    - 3rd order and 2nd degree
+    - 2nd order and 3rd degree
+  correct: 2
+
+- id: 2
+  text: |
+    Hermite differential equation is of the form,
+  options:
+    - \( \frac{d^{2}y}{dx^{2}}-2x\frac{dy}{dx}+2ny=0 \)
+    - \( \frac{d^{2}y}{dx^{2}}+\frac{1}{x}\frac{dy}{dx}+(1-\frac{n^{2}}{x^{2}})y=0 \)
+    - \( x\frac{d^{2}y}{dx^{2}}+(1-x)\frac{dy}{dx}+ny=0 \)
+    - \( (1-x^{2})\frac{d^{2}y}{dx^{2}}-2x\frac{dy}{dx}+\lambda y=0 \)
+  correct: 1
+
+- id: 3
+  text: |
+    Generating function of Hermite polynomial is
+  options:
+    - \( e^{2xt-t^{2}} \)
+    - \( e^{\frac{x}{2}(t-\frac{1}{t})} \)
+    - \( \frac{1}{1-t}e^{\frac{xt}{1-t}} \)
+    - \( \frac{1}{\sqrt{1-2xt+t^{2}}} \)
+  correct: 1
+
+- id: 4
+  text: |
+    If \( \frac{1}{1-t}e^{\frac{xt}{1-t}}=\sum_{n=0}^{n}L_{n}(x)\frac{t^{n}}{n!} \) then \( L_{2}(x) \) equal to
+  options:
+    - 1
+    - 1-x
+    - \( 2-4x+x^3 \)
+    - \( 8-3x^2+12x^3 \)
+  correct: 3
+
+- id: 5
+  text: |
+    If \( H_{n}(x) \) is hermite polynomial then \( H_{n}(-x) \) equal to
+  options:
+    - \( (-1)^{n}H_{n}(x) \)
+    - \( -H_{n}(x)(-1)^{n} \)
+    - \( (-1)^{n}H_{-n}(x) \)
+    - none of above
+  correct: 3
+
+- id: 6
+  text: |
+    The orthogonality property of Hermite polynomial is
+  options:
+    - \( \int_{-\infty}^{\infty}e^{-x^{2}}H_{n}(x)H_{m}(x)dx=2^{n}n!\sqrt{\pi}\delta_{mn} \)
+    - \( \int_{-\infty}^{\infty}e^{-x}H_{n}(x)H_{m}(x)dx=2^{n}n!\sqrt{\pi}\delta_{mn} \)
+    - \( \int_{-\infty}^{\infty}e^{-x^{2}}H_{n}(x)H_{m}(x)dx=2^{n}n\sqrt{\pi}\delta_{mn} \)
+    - \( \int_{-\infty}^{\infty}e^{-x^{2}}H_{n}(x)H_{m}(x)dx=2^{n}n!\sqrt{\pi+1}\delta_{mn} \)
+  correct: 1
+
+- id: 7
+  text: |
+    Recurrence relation of Hermite polynomial is
+  options:
+    - \( H^{\prime}_{n}(x)=2nH_{n-1}(x) \)
+    - \( H^{\prime}_{n}(x)=2xH_{n}(x)-H_{n+1}(x) \)
+    - Both a and b
+    - \( H_{n}^{\prime}(x)=\frac{2x}{n}H_{n}(x)-H_{n+1}(x) \)
+  correct: 3
+
+- id: 8
+  text: |
+    If \( e^{2xt-t^{2}}=\sum_{n=0}^{\infty}H_{n}(x)\frac{t^{n}}{n!} \) then \( H_{2}(x) \) is equal to
+  options:
+    - \( 4x^{2}-2 \)
+    - \( 8x^{3}-12x \)
+    - 0
+    - 1
+  correct: 2
+
+- id: 9
+  text: |
+    Rodrigues formula of Hermite polynomial is
+  options:
+    - \( (-1)^{n}e^{x^{2}}\frac{d^{n}}{dx^{n}}(e^{-x^{2}}) \)
+    - \( (-1)^{n}e^{-x^{2}}\frac{d^{n}}{dx^{n}}(e^{x^{2}}) \)
+    - \( (1)^{n}e^{x}\frac{d^{n}}{dx^{n}}(e^{-x}) \)
+    - \( (1)^{n}e^{-x^{2}}\frac{d^{n}}{dx^{n}}(e^{x^{2}}) \)
+  correct: 1
+
+- id: 10
+  text: |
+    Bessel's differential equation is of the form
+  options:
+    - \( \frac{d^{2}y}{dx^{2}}-2x\frac{dy}{dx}+2ny=0 \)
+    - \( \frac{d^{2}y}{dx^{2}}+\frac{1}{x}\frac{dy}{dx}+(1-\frac{n^{2}}{x^{2}})y=0 \)
+    - \( x\frac{d^{2}y}{dx^{2}}+(1-x)\frac{dy}{dx}+ny=0 \)
+    - \( (1-x^{2})\frac{d^{2}y}{dx^{2}}-2x\frac{dy}{dx}+\lambda y=0 \)
+  correct: 2
+
+- id: 11
+  text: |
+    Generating function of Bessel's differential equation is
+  options:
+    - \( e^{2xt-t^{2}} \)
+    - \( e^{\frac{x}{2}(t-\frac{1}{t})} \)
+    - \( \frac{1}{1-t}e^{\frac{xt}{1-t}} \)
+    - \( \frac{1}{\sqrt{1-2xt+t^{2}}} \)
+  correct: 2
+
+- id: 12
+  text: |
+    Recurrence relation of Bessel's differential equation is
+  options:
+    - \( J_{n-1}(x)+J_{n+1}(x)=2J_{n}^{\prime}(x) \)
+    - \( J_{n-1}(x)+J_{n+1}(x)=\frac{2n}{x}J_{n}(x) \)
+    - \( J_{n-1}(x)-J_{n+1}(x)=2J_{n}^{\prime}(x) \)
+    - Both (b) and (c)
+  correct: 4
+
+- id: 13
+  text: |
+    \( J_{\frac{1}{2}}(x) \) is equal to
+  options:
+    - \( \sqrt{\frac{2}{\pi x}}\sin(x) \)
+    - \( \sqrt{\frac{2}{\pi x}}\cos(x) \)
+    - \( \sqrt{\frac{2}{\pi x}}\tan(x) \)
+    - \( \sqrt{\frac{2}{\pi}}\csc(x) \)
+  correct: 1
+
+- id: 14
+  text: |
+    \( J_{-\frac{1}{2}}(x) \) is equal to
+  options:
+    - \( \sqrt{\frac{2}{\pi x}}\sin(x) \)
+    - \( \sqrt{\frac{2}{\pi x}}\cos(x) \)
+    - \( \sqrt{\frac{2}{\pi x}}\tan(x) \)
+    - \( \sqrt{\frac{2}{\pi}}\csc(x) \)
+  correct: 2
+
+- id: 15
+  text: |
+    \( (J_{\frac{1}{2}}(x))^{2}+(J_{-\frac{1}{2}}(x))^{2} \) equal to
+  options:
+    - 1
+    - 2
+    - \( \frac{2}{\pi x} \)
+    - 0
+  correct: 3
+
+- id: 16
+  text: |
+    \( J_{-\frac{3}{2}}(x) \) is equal to
+  options:
+    - \( \sqrt{\frac{2}{\pi x}}(\frac{\sin x}{x}-\cos x) \)
+    - \( \sqrt{\frac{2}{\pi x}}(\frac{-\cos x}{x}-\sin x) \)
+    - \( \sqrt{\frac{2}{\pi x}}(\frac{-\cos x}{x}+\sin x) \)
+    - \( \sqrt{\frac{2}{\pi x}}(\frac{-\cos x}{x}+\cos x) \)
+  correct: 2
+
+- id: 17
+  text: |
+    Laguerre differential equation is of the form
+  options:
+    - \( \frac{d^{2}y}{dx^{2}}-2x\frac{dy}{dx}+2ny=0 \)
+    - \( \frac{d^{2}y}{dx^{2}}+\frac{1}{x}\frac{dy}{dx}+(1-\frac{n^{2}}{x^{2}})y=0 \)
+    - \( x\frac{d^{2}y}{dx^{2}}+(1-x)\frac{dy}{dx}+ny=0 \)
+    - \( (1-x^{2})\frac{d^{2}y}{dx^{2}}-2x\frac{dy}{dx}+\lambda y=0 \)
+  correct: 3
+
+- id: 18
+  text: |
+    Generating function of Laguerre differential equation is
+  options:
+    - \( e^{2xt-t^{2}} \)
+    - \( e^{\frac{x}{2}(t-\frac{1}{t})} \)
+    - \( \frac{1}{1-t}e^{-\frac{xt}{1-t}} \)
+    - \( \frac{1}{\sqrt{1-2xt+t^{2}}} \)
+  correct: 3
+
+- id: 19
+  text: |
+    The orthogonal property of Laguerre differential equation is
+  options:
+    - \( \int_{0}^{\infty}e^{-x}L_{n}(x)L_{m}(x)dx=\delta_{mn} \)
+    - \( \int_{0}^{\infty}e^{-x}L_{n}(x)L_{m}(x)dx=n!\delta_{mn} \)
+    - \( \int e^{-x}L_{n}(x)L_{m}(x)dx=\delta_{mn} \)
+    - \( \int e^{-x}L_{n}(x)L_{m}(x)dx=0 \)
+  correct: 2
+
+- id: 20
+  text: |
+    Legendre differential equation is of the form
+  options:
+    - \( \frac{d^{2}y}{dx^{2}}-2x\frac{dy}{dx}+2ny=0 \)
+    - \( \frac{d^{2}y}{dx^{2}}+\frac{1}{x}\frac{dy}{dx}+(1-\frac{n^{2}}{x^{2}})y=0 \)
+    - \( x\frac{d^{2}y}{dx^{2}}+(1-x)\frac{dy}{dx}+ny=0 \)
+    - \( (1-x^{2})\frac{d^{2}y}{dx^{2}}-2x\frac{dy}{dx}+\lambda y=0 \)
+  correct: 4
+
+- id: 21
+  text: |
+    Generating function of Legendre differential equation is
+  options:
+    - \( e^{2xt-t^{2}} \)
+    - \( e^{\frac{x}{2}(t-\frac{1}{t})} \)
+    - \( \frac{1}{1-t}e^{\frac{xt}{1-t}} \)
+    - \( \frac{1}{\sqrt{1-2xt+t^{2}}} \)
+  correct: 4
+
+- id: 22
+  text: |
+    Rodrigues formula of Legendre differential equation is, \( P_{n}(x)= \)
+  options:
+    - \( \frac{1}{2^{n}n!}\frac{d^n}{dx^{n}}(1-x^{2})^{n} \)
+    - \( \frac{2^{n}}{n!}\frac{d^n}{dx^{n}}(1-x^{2})^{n} \)
+    - \( \frac{1}{2^{n}n!}\frac{d^n}{dx^{n}}(x^{2}-1)^{n} \)
+    - None of above
+  correct: 3
+
+- id: 23
+  text: |
+    If \( P_{n}(x) \) is legendre polynomial then \( P_{1}(\cos\theta) \) is equal to
+  options:
+    - \( \frac{3\cos^{2}\theta-1}{2} \)
+    - \( \cos\theta \)
+    - 1
+    - \( \frac{5\cos^{3}\theta-3\cos\theta}{2} \)
+  correct: 2
+
+- id: 24
+  text: |
+    Orthogonality property of legendre polynomial is
+  options:
+    - \( \int_{-1}^{1}P_{n}(x)P_{m}(x)dx=\frac{2}{2^{n+1}}\delta_{mn} \)
+    - \( \int_{-1}^{1}P_{n}(x)P_{m}(x)dx=\frac{2}{2n+1}\delta_{mn} \)
+    - \( \int_{-1}^{1}P_{n}(x)P_{m}(x)dx=\frac{2n+1}{2}\delta_{mn} \)
+    - \( \int_{-1}^{1}P_{n}(x)P_{m}(x)dx=2(2n+1)\delta_{mn} \)
+  correct: 2
+
+- id: 25
+  text: |
+    If \( m \ne n, \int_{-1}^{1}P_{m}(x)P_{n}(x)dx \) is equal to
+  options:
+    - 0
+    - 1
+    - \( \infty \)
+    - cannot be predicted
+  correct: 1
+
+- id: 26
+  text: |
+    If \( Q_{n}(x) \) is the legendre function of 2nd kind then \( nQ_{n}(x)-nQ_{n-1}(x) \) becomes
+  options:
+    - \( nQ_{n}(x) \)
+    - \( (n-1)Q_{n}(x) \)
+    - \( (n+1)Q_{n}(x) \)
+    - zero
+  correct: 3
+
+- id: 27
+  text: |
+    \( Q^{\prime}_{n+1}(x)-xQ_{n}^{\prime}(x) \) is equal to
+  options:
+    - \( (x^{2}+1)Q_{n}(x) \)
+    - \( (x^{2}-1)Q_{n}(x) \)
+    - \( (1-x^{2})Q_{n}(x) \)
+    - \( (x^{2}-1)Q_{n}(x) \)
+  correct: 2
+
+- id: 28
+  text: |
+    The value of \( xP_{n}^{\prime}(x)-P_{n-1}^{\prime}(x) \) is
+  options:
+    - \( nP_{n}(x) \)
+    - 1
+    - \( P_{n-1}^{\prime}(x) \)
+    - none of these
+  correct: 1
+
+- id: 29
+  text: |
+    The value of \( P_{n+1}^{\prime}(x)-P_{n-1}^{\prime}(x) \) is
+  options:
+    - \( P_{n}(x) \)
+    - \( (2n+1)P_{n}(x) \)
+    - \( P_{n}^{\prime}(x) \)
+    - None of these
+  correct: 2
+
+- id: 30
+  text: |
+    The value of \( n(P_{n-1}-xP_{n}) \) is
+  options:
+    - \( (1-x^{2})P_{n}(x) \)
+    - \( (1-x^{2})P_{n}^{\prime}(x) \)
+    - \( P_{n-1}(x) \)
+    - None of these
+  correct: 2
+
+- id: 31
+  text: |
+    The value of \( (n+1)(xP_{n}-P_{n+1}) \) is
+  options:
+    - \( (1-x^{2})P_{n}^{\prime} \)
+    - \( xP_{n} \)
+    - \( (n+1)P_{n}^{\prime} \)
+    - None of these
+  correct: 1
+
+- id: 32
+  text: |
+    The value of \( P_{n}(1) \) is
+  options:
+    - 0
+    - 1
+    - -1
+    - None of these
+  correct: 2
+
+- id: 33
+  text: |
+    The value of \( P_{n}(-1) \) is
+  options:
+    - 1
+    - 0
+    - -1
+    - \( (-1)^{n} \)
+  correct: 4
+
+- id: 34
+  text: |
+    If \( P_{n}(x) \) is a solution of Legendre's equation, then value of \( P_{0}(x) \) will be
+  options:
+    - 1
+    - 0
+    - -1
+    - x
+  correct: 1
+
+- id: 35
+  text: |
+    \( n(P_{n}Q_{n-1}-Q_{n}P_{n-1})= \)
+  options:
+    - 0
+    - 1
+    - \( n^{2} \)
+    - None of these
+  correct: 2
+
+- id: 36
+  text: |
+    \( (x^{2}-1)(Q_{n}P_{n}^{\prime}-P_{n}Q_{n}^{\prime})= \)
+  options:
+    - \( n^{2} \)
+    - 0
+    - \( C \) (a constant)
+    - None of these
+  correct: 3
+
+- id: 37
+  text: |
+    The degree of the polynomial \( f(x) \) so that \( \int_{-1}^{1}f(x)P_{n}(x)dx=0 \) will be
+  options:
+    - 0
+    - n
+    - less than n
+    - None of these
+  correct: 3
+
+- id: 38
+  text: |
+    \( nJ_{n}(x)-xJ_{n+1}(x)= \)
+  options:
+    - \( xJ_{n}(x) \)
+    - \( (n+1)J_{n}^{\prime}(x) \)
+    - \( xJ_{n}^{\prime}(x) \)
+    - None of these
+  correct: 3
+
+- id: 39
+  text: |
+    \( -nJ_{n}(x)-xJ_{n-1}(x)= \)
+  options:
+    - \( J_{n-1}^{\prime}(x) \)
+    - \( xJ_{n}^{\prime}(x) \)
+    - \( (n-1)J_{n}(x) \)
+    - None of these
+  correct: 2
+
+- id: 40
+  text: |
+    \( J_{n-1}(x)-J_{n+1}(x)= \)
+  options:
+    - \( 2J_{n}^{\prime}(x) \)
+    - \( 2J_{n}(x) \)
+    - \( nJ_{n}(x) \)
+    - None of these
+  correct: 1
+
+- id: 41
+  text: |
+    \( x[J_{n-1}(x)+J_{n+1}(x)]= \)
+  options:
+    - 0
+    - 2
+    - \( 2nJ_{n}(x) \)
+    - \( (-1)^{n} \)
+  correct: 3
+
+- id: 42
+  text: |
+    The value of \( J_{n}(x) \) is
+  options:
+    - \( \sum_{r=0}^{\infty}(-1)^{r}(\frac{x}{2})^{n+2r}\frac{1}{r!\Gamma(n+r+1)} \)
+    - \( \sum_{r=0}^{\infty}(-1)^{r}(\frac{x}{2})^{n+r}\frac{1}{r!\Gamma(n+1)} \)
+    - \( \sum_{r=0}^{\infty}(-1)^{r}(\frac{x}{2})^{n+r}\frac{1}{r!\Gamma(n+r+1)} \)
+    - None of these
+  correct: 1
+
+- id: 43
+  text: |
+    \( \frac{d}{dx}(x^{n}J_{n}(x)) \)
+  options:
+    - \( -x^{n}J_{n-1}(x) \)
+    - \( x^{n}J_{n-1}(x) \)
+    - \( x^{-n}J_{n-1}(x) \)
+    - \( x^{n}J_{n+1}(x) \)
+  correct: 2
+
+- id: 44
+  text: |
+    \( \frac{d}{dx}(x^{-n}J_{n}(x)) \) is
+  options:
+    - \( -x^{-n}J_{n+1}(x) \)
+    - \( -x^{-n}J_{n}(x) \)
+    - \( x^{-n}J_{n+1}(x) \)
+    - \( x^{-n}J_{n-1}(x) \)
+  correct: 1
