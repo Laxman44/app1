@@ -28,7 +28,7 @@
     - $\frac{n\hbar}{r_{n}}$
     - $n^{2}r_{n}\hbar$
     - $\frac{n^{2}\hbar}{r_{n}}$
-  correct: 1
+  correct: 2
 
 - id: 4
   text: |
@@ -51,7 +51,7 @@
     - III only
     - I and III only
     - I, II and III
-  correct: 2
+  correct: 1
 
 - id: 6
   text: |
@@ -846,4 +846,5 @@
     - 17.8µm
     - 24.5µm
     - 1.34µm
+
   correct: 0
