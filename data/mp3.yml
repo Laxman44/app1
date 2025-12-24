@@ -1,0 +1,561 @@
+- id: 1
+  text: |
+    Experiments show that cosmic ray intensity is maximum at geomagnetic poles and minimum at geomagnetic mintmum at geomagnetic equator. This 'effect is called
+  options:
+    - Azimuth or east-west effect
+    - altitude effect
+    - Longitude effect
+    - latitude effect
+  correct: 3
+
+- id: 2
+  text: |
+    Cosmic rays, as they arrive at top of atmosphere, consist mainly of
+  options:
+    - high energy electron
+    - heavy atom
+    - heavy nuclei
+    - proton
+  correct: 3
+
+- id: 3
+  text: |
+    GM counter detects
+  options:
+    - a- particle
+    - neutron
+    - photon
+    - all of these particles
+  correct: 0
+
+- id: 4
+  text: |
+    Wilson cloud chamber detects
+  options:
+    - a- particle only
+    - ẞ-particle only
+    - y - particle only
+    - a and ẞ particle both
+  correct: 3
+
+- id: 5
+  text: |
+    Wilson cloud chamber makes use of fact that charged particle passing through gas
+  options:
+    - produces ionization
+    - results in electron-positron pair
+    - produces track of bubbles
+    - None
+  correct: 2
+
+- id: 6
+  text: |
+    Which of following reaction is allowed?
+    I. $P+\overline{v}_{e}\rightarrow n+\mu^{+}$
+    II. $P+\overline{v}_{e}\rightarrow n+e^{+}$
+  options:
+    - II
+    - I
+    - II and I both
+    - None
+  correct: 0
+
+- id: 7
+  text: |
+    Using baryon number are strangeness number conservation law, which of following reactions is allowed?
+    I. $\pi^{-}+P\rightarrow\lambda^{0}+K^{0}$
+    II. $\pi^{-}+P\rightarrow\lambda^{0}+\pi^{0}.$
+  options:
+    - I
+    - II
+    - I and II both
+    - None
+  correct: 0
+
+- id: 8
+  text: |
+    Second generation of quark include
+  options:
+    - Up and down quark
+    - top and bottom quark
+    - charm and strange quark
+    - electron and neutrino
+  correct: 2
+
+- id: 9
+  text: |
+    Leptons include
+  options:
+    - electron, muon, tau and their neutrino
+    - Up, down, charm and strange quark
+    - Meson and baryon
+    - none of above
+  correct: 0
+
+- id: 10
+  text: |
+    Hadrons are
+  options:
+    - Mesons
+    - Baryons
+    - Bosons
+    - both a and b
+  correct: 3
+
+- id: 11
+  text: |
+    Baryons are
+  options:
+    - Nucleons only
+    - Hyperons only
+    - Nucleons and hyperons
+    - none of above
+  correct: 2
+
+- id: 12
+  text: |
+    Cyclotron cannot accelerate
+  options:
+    - Proton
+    - neutron
+    - a-particle
+    - deuteron
+  correct: 1
+
+- id: 13
+  text: |
+    Synchrocyclotron is used to accelerate
+  options:
+    - light charged particle
+    - heavy uncharged particle
+    - heavy charged particle
+    - electron
+  correct: 2
+
+- id: 14
+  text: |
+    Betatron is used to accelerate
+  options:
+    - proton
+    - electron
+    - neutron
+    - meson
+  correct: 1
+
+- id: 15
+  text: |
+    Betatron is based on principle of
+  options:
+    - transformer
+    - cyclotron
+    - GM counter
+    - bubble chamber
+  correct: 1
+
+- id: 16
+  text: |
+    Working of bubble chamber is based on
+  options:
+    - Superheated liquid
+    - supersaturated liquid
+    - supersaturated vapour
+    - gas
+  correct: 0
+
+- id: 17
+  text: |
+    For each reaction, identify the conservation law that is violated:
+    $\mu^{-} \rightarrow e^{-} + \gamma$
+  options:
+    - angular momentum
+    - Baryon number
+    - Lepton number
+    - Charge
+  correct: 2
+
+- id: 18
+  text: |
+    For each reaction, identify the conservation law that is violated:
+    $n \rightarrow p + e^{-} + \nu_{e}$
+  options:
+    - Angular momentum
+    - Baryon number
+    - Lepton number
+    - None
+  correct: 2
+
+- id: 19
+  text: |
+    For each reaction, identify the conservation law that is violated:
+    $p \rightarrow e^{+} + \pi^{0}$
+  options:
+    - Charge
+    - Baryon number
+    - Lepton number
+    - Energy
+  correct: 1
+
+- id: 20
+  text: |
+    Strong interaction occurs between
+  options:
+    - quarks
+    - leptons
+    - both
+    - photons
+  correct: 0
+
+- id: 21
+  text: |
+    Exchange particle for strong interaction between quark is
+  options:
+    - meson
+    - gluon
+    - photon
+    - Graviton
+  correct: 1
+
+- id: 22
+  text: |
+    A proton consist of
+  options:
+    - 2 up and 1 down quark
+    - 2 down and 1 up quark
+    - all up quark
+    - none
+  correct: 0
+
+
+
+- id: 23
+  text: |
+    A neutron consist of
+  options:
+    - 2 up and 1 down quark
+    - 2 down and 1 up quark
+    - all up quark
+    - none
+  correct: 1
+
+- id: 24
+  text: |
+    Total number of quark flavor are
+  options:
+    - 4
+    - 6
+    - 8
+    - 10
+  correct: 1
+
+- id: 25
+  text: |
+    A pion is
+  options:
+    - baryon
+    - lepton
+    - meson
+    - hyperon
+  correct: 2
+
+- id: 26
+  text: |
+    Quarks are never found free because of
+  options:
+    - Pauli exclusion principle
+    - Asymptotic freedom
+    - quark confinement
+    - None
+  correct: 2
+
+- id: 27
+  text: |
+    East West effect of cosmic rays shows that
+  options:
+    - cosmic rays are predominantly positive
+    - cosmic rays are predominantly negative
+    - cosmic rays are neutral
+    - none
+  correct: 0
+
+- id: 28
+  text: |
+    Maximum value of intensity of cosmic rays occurs at altitude of
+  options:
+    - 10 km
+    - 20 km
+    - 5 km
+    - 50 km
+  correct: 1
+
+- id: 29
+  text: |
+    Which is not a mediator of weak interaction?
+  options:
+    - $W^{+}$
+    - $W^{-}$
+    - $Z^{0}$
+    - photon
+  correct: 3
+
+- id: 30
+  text: |
+    Which of following is not a lepton?
+  options:
+    - electron
+    - neutrino
+    - muon
+    - pion
+  correct: 3
+
+- id: 31
+  text: |
+    Particles that make up the nucleus are:
+  options:
+    - all nucleons
+    - all protons
+    - all neutrons
+    - all electrons
+    - all photons
+  correct: 0
+
+- id: 32
+  text: |
+    Nucleons are:
+  options:
+    - all protons
+    - all neutrons
+    - protons and neutrons
+    - protons and electrons
+    - neutrons and electrons
+  correct: 2
+
+- id: 33
+  text: |
+    The mass of a nucleus is:
+  options:
+    - about $10^{-4}$ times the mass of the entire atom
+    - about $10^{-2}$ times the mass of the entire atom
+    - about the same as the mass of the entire atom
+    - about 2 times the mass of the entire atom
+    - about $10^{2}$ times the mass of the entire atom
+  correct: 2
+
+- id: 34
+  text: |
+    A characteristic of the strong force is that it:
+  options:
+    - is infinite in range
+    - is attractive at some distances and repulsive at others
+    - is much weaker than the electromagnetic force
+    - acts on all particles
+    - is not conserved
+  correct: 1
+
+- id: 35
+  text: |
+    The leptons are:
+  options:
+    - electron, positron, and muon
+    - electron, proton, and neutron
+    - proton, neutron, and pion
+    - pion, kaon, and meson
+    - meson, baryon, and hadron
+  correct: 0
+
+- id: 36
+  text: |
+    Which of the following particles is a lepton?
+  options:
+    - muon
+    - proton
+    - neutron
+    - pion
+    - kaon
+  correct: 0
+
+- id: 37
+  text: |
+    A hadron is:
+  options:
+    - a photon
+    - a lepton
+    - an electron
+    - an object that feels the strong force
+    - an object that does not feel the strong force
+  correct: 3
+
+- id: 38
+  text: |
+    Mesons are made of:
+  options:
+    - three quarks
+    - two quarks
+    - a quark and an antiquark
+    - three antiquarks
+    - a lepton and a quark
+  correct: 2
+
+- id: 39
+  text: |
+    Baryons are made of:
+  options:
+    - three quarks
+    - two quarks
+    - a quark and an antiquark
+    - three antiquarks
+    - a lepton and a quark
+  correct: 0
+
+- id: 40
+  text: |
+    A particle with a quark content of u d d is:
+  options:
+    - a proton
+    - a neutron
+    - a pion
+    - a kaon
+    - a sigma
+  correct: 1
+
+- id: 41
+  text: |
+    A particle with a quark content of u u d is:
+  options:
+    - a proton
+    - a neutron
+    - a pion
+    - a kaon
+    - a sigma
+  correct: 0
+
+- id: 42
+  text: |
+    A particle with a quark content of u d is:
+  options:
+    - a proton
+    - a neutron
+    - a pion
+    - a kaon
+    - a sigma
+  correct: 2
+
+- id: 43
+  text: |
+    Two particles with the same quark content:
+  options:
+    - must be the same particle
+    - may be different particles
+    - must have the same mass
+    - must have the same spin
+    - must have the same charge
+  correct: 1
+
+- id: 44
+  text: |
+    The quark content of a proton is:
+  options:
+    - uuu
+    - uud
+    - udd
+    - ddd
+    - uds
+  correct: 1
+
+- id: 45
+  text: |
+    The quark content of a neutron is:
+  options:
+    - uuu
+    - uud
+    - udd
+    - ddd
+    - uds
+  correct: 2
+
+- id: 46
+  text: |
+    An example of a baryon is:
+  options:
+    - a photon
+    - an electron
+    - a pion
+    - a proton
+    - a kaon
+  correct: 3
+
+- id: 47
+  text: |
+    An example of a meson is:
+  options:
+    - a photon
+    - an electron
+    - a pion
+    - a proton
+    - a neutron
+  correct: 2
+
+- id: 48
+  text: |
+    Strangeness is conserved in:
+  options:
+    - all particle decays
+    - no particle decays
+    - all weak particle decays
+    - all strong particle decays
+    - some strong particle decays
+  correct: 3
+
+- id: 49
+  text: |
+    All known quarks have:
+  options:
+    - charges that are multiples of e and integer baryon number
+    - charges that are multiples of e and baryon numbrs that are either +1/3 or -1/3
+    - charges that are multiples of e/3 and integer baryon numbers
+    - charges that are multiples of e/3 and baryon numbers that are either +1/3 or -1/3
+    - baryon number 0
+  correct: 3
+
+- id: 50
+  text: |
+    The particles that are the messengers of the electromagnetic interaction are called:
+  options:
+    - gluons
+    - photons
+    - W and Z
+    - gravitons
+    - pions
+  correct: 1
+
+- id: 51
+  text: |
+    Messenger particles of the strong interaction are called:
+  options:
+    - gluons
+    - photons
+    - W and Z
+    - gravitons
+    - pions
+  correct: 0
+
+- id: 52
+  text: |
+    Messenger particles of the weak interaction are called:
+  options:
+    - gluons
+    - photons
+    - W and Z
+    - gravitons
+    - pions
+  correct: 2
+
+- id: 53
+  text: |
+    Color is carried by:
+  options:
+    - only quarks
+    - only leptons
+    - only quarks and leptons
+    - only quarks and gluons
+    - only photons and gluons
+  correct: 3

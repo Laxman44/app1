@@ -1,0 +1,609 @@
+- id: 1
+  text: |
+    Graphite and heavy water are two common moderators used in nuclear reactor. Function of moderator is
+  options:
+    - to slow down neutron to thermal neutron
+    - to absorb neutron and stop chain reaction
+    - to cod reactor
+    - to control energy released in reactor
+  correct: 0
+
+- id: 2
+  text: |
+    Cadmium rods are used in nuclear reactor for
+  options:
+    - slowing down fast neutron
+    - speeding up slow neutron
+    - absorbing neutron
+    - none of all
+  correct: 2
+
+- id: 3
+  text: |
+    Relation between macroscopic cross-section (Σ) and free mean path (λ) is
+  options:
+    - Σ = λ
+    - Σ = √λ
+    - Σ = 1/λ
+    - Σ = λ²
+  correct: 2
+
+- id: 4
+  text: |
+    When U-235 nucleus absorbs a thermal neutron, it splits into two fragments of almost equal mass and
+  options:
+    - one neutron is released
+    - two or three neutron are released
+    - no neutron is released
+    - five neutron are released
+  correct: 1
+
+- id: 5
+  text: |
+    Energy released in fission of one kg of U-235 is
+  options:
+    - 200 Mev
+    - 2.26 x 10^4 kwh
+    - 5.2 x 10^20 kwh
+    - 1.56 x 10^12/sec
+  correct: 1
+
+- id: 6
+  text: |
+    A neutron has
+  options:
+    - no charge and no spin
+    - no charge but has spin
+    - charge as well as spin
+    - charge and mass
+  correct: 1
+
+- id: 7
+  text: |
+    A nuclear at rest breaks into two nuclear parts which have their velocities in ratio 2:1. Then ratio of their nuclear size is
+  options:
+    - 2^(1/3) : 1
+    - 1 : 2^(1/3)
+    - 2^(1/2) : 1
+    - 1 : 2
+  correct: 1
+
+- id: 8
+  text: |
+    To produce an proton-anti proton pair minimum energy of γ-ray photon must be
+  options:
+    - 1 Mev
+    - 2 Mev
+    - 931 Mev
+    - 1862 Mev
+  correct: 3
+
+- id: 9
+  text: |
+    Ratio of radii of nuclei 13Al^27 and 52Te^125 is
+  options:
+    - 3 : 5
+    - 5 : 3
+    - √3 : √5
+    - 9 : 25
+  correct: 0
+
+- id: 10
+  text: |
+    Binding energy per nucleon for a nucleus with A = 200 is approximately
+  options:
+    - 8 Mev
+    - 12 Mev
+    - 18 Mev
+    - 120 Mev
+  correct: 0
+
+- id: 11
+  text: |
+    Which of following is not a magic number?
+  options:
+    - 20
+    - 50
+    - 82
+    - 100
+  correct: 3
+
+- id: 12
+  text: |
+    Shell model of nucleus can explain
+  options:
+    - Magic numbers
+    - Magnetic moment of nucleus
+    - Spin of nucleus
+    - All of above
+  correct: 3
+
+- id: 13
+  text: |
+    Liquid drop model of nucleus was proposed by
+  options:
+    - Bohr
+    - Wheeler
+    - both a and b
+    - None
+  correct: 2
+
+- id: 14
+  text: |
+    In nuclear reaction 4Be^9 + 2He^4 → 6C^12 + X, the particle X is
+  options:
+    - electron
+    - proton
+    - neutron
+    - photon
+  correct: 2
+
+- id: 15
+  text: |
+    Atomic pile is used for
+  options:
+    - controlled nuclear fission
+    - uncontrolled nuclear fission
+    - nuclear fusion
+    - producing X-rays
+  correct: 0
+
+- id: 16
+  text: |
+    Sun's energy is mainly due to
+  options:
+    - fission of heavy nuclei
+    - fusion of light nuclei
+    - chemical reaction
+    - burning of coal
+  correct: 1
+
+- id: 17
+  text: |
+    Critical mass of fissionable material is
+  options:
+    - minimum mass for chain reaction
+    - maximum mass for chain reaction
+    - 1 kg
+    - mass of one atom
+  correct: 0
+
+- id: 18
+  text: |
+    Q-value of nuclear reaction A+B → C+D is defined as
+  options:
+    - (MA + MB - MC - MD)c²
+    - (MC + MD - MA - MB)c²
+    - (MA + MB)c²
+    - (MC + MD)c²
+  correct: 0
+
+- id: 19
+  text: |
+    Exothermic nuclear reaction has Q-value
+  options:
+    - positive
+    - negative
+    - zero
+    - infinite
+  correct: 0
+
+- id: 20
+  text: |
+    Endothermic nuclear reaction has Q-value
+  options:
+    - positive
+    - negative
+    - zero
+    - infinite
+  correct: 1
+
+- id: 21
+  text: |
+    The semi-empirical mass formula is based on
+  options:
+    - Shell model
+    - Liquid drop model
+    - Collective model
+    - None
+  correct: 1
+
+- id: 22
+  text: |
+    The most stable nuclei have mass number A near
+  options:
+    - 20
+    - 56
+    - 120
+    - 238
+  correct: 1
+
+- id: 23
+  text: |
+    Pair production can occur only if photon energy is greater than
+  options:
+    - 0.51 Mev
+    - 1.02 Mev
+    - 2.04 Mev
+    - 931 Mev
+  correct: 1
+
+- id: 24
+  text: |
+    The unit of nuclear cross-section is
+  options:
+    - Fermi
+    - Barn
+    - Curie
+    - Rutherford
+  correct: 1
+
+- id: 25
+  text: |
+    1 Barn is equal to
+  options:
+    - 10^-24 m²
+    - 10^-28 m²
+    - 10^-24 cm²
+    - 10^-28 cm²
+  correct: 1
+
+- id: 26
+  text: |
+    Main source of stellar energy is
+  options:
+    - Proton-Proton cycle
+    - Carbon-Nitrogen cycle
+    - both a and b
+    - Fission
+  correct: 2
+
+- id: 27
+  text: |
+    Atom bomb is based on
+  options:
+    - Controlled fission
+    - Uncontrolled fission
+    - Fusion
+    - Radioactive decay
+  correct: 1
+
+- id: 28
+  text: |
+    Hydrogen bomb is based on
+  options:
+    - Fission
+    - Fusion
+    - both a and b
+    - None
+  correct: 1
+
+- id: 29
+  text: |
+    Packing fraction of nucleus is defined as
+  options:
+    - (M - A)/A
+    - (A - M)/M
+    - M/A
+    - A/M
+  correct: 0
+
+- id: 30
+  text: |
+    Nuclear density is of the order of
+  options:
+    - 10^3 kg/m³
+    - 10^10 kg/m³
+    - 10^17 kg/m³
+    - 10^24 kg/m³
+  correct: 2
+
+- id: 31
+  text: |
+    The radius of a nucleus is proportional to
+  options:
+    - A
+    - A^(1/2)
+    - A^(1/3)
+    - A^2
+  correct: 2
+
+- id: 32
+  text: |
+    Mirror nuclei have same
+  options:
+    - Z
+    - N
+    - A
+    - None
+  correct: 2
+
+- id: 33
+  text: |
+    Average binding energy per nucleon is about
+  options:
+    - 8 ev
+    - 8 Kev
+    - 8 Mev
+    - 8 Gev
+  correct: 2
+
+- id: 34
+  text: |
+    Electric quadrupole moment of nucleus is zero if its shape is
+  options:
+    - Spherical
+    - Prolate
+    - Oblate
+    - Ellipsoidal
+  correct: 0
+
+- id: 35
+  text: |
+    Strongest force in nature is
+  options:
+    - Gravitational
+    - Electromagnetic
+    - Nuclear
+    - Weak
+  correct: 2
+
+- id: 36
+  text: |
+    Which of following is used as fuel in nuclear reactor?
+  options:
+    - U-238
+    - U-235
+    - Th-232
+    - Pu-239
+  correct: 1
+
+- id: 37
+  text: |
+    Energy equivalent of 1 amu is
+  options:
+    - 931 Mev
+    - 931 ev
+    - 931 Kev
+    - 9.31 Mev
+  correct: 0
+
+- id: 38
+  text: |
+    Nuclear force is
+  options:
+    - Short range and charge dependent
+    - Long range and charge independent
+    - Short range and charge independent
+    - Long range and charge dependent
+  correct: 2
+
+- id: 39
+  text: |
+    Stability of nucleus depends on
+  options:
+    - N/Z ratio
+    - Binding energy
+    - both a and b
+    - None
+  correct: 2
+
+- id: 40
+  text: |
+    Meson theory of nuclear forces was given by
+  options:
+    - Yukawa
+    - Pauli
+    - Bohr
+    - Fermi
+  correct: 0
+
+- id: 41
+  text: |
+    In nuclear reactor, coolant is used to
+  options:
+    - slow down neutron
+    - absorb neutron
+    - remove heat from reactor core
+    - control chain reaction
+  correct: 2
+
+- id: 42
+  text: |
+    Breeder reactor produces
+  options:
+    - more fuel than it consumes
+    - less fuel than it consumes
+    - no fuel
+    - only heat
+  correct: 0
+
+- id: 43
+  text: |
+    The particle that mediates nuclear force is
+  options:
+    - Photon
+    - Graviton
+    - Meson
+    - Gluon
+  correct: 2
+
+- id: 44
+  text: |
+    Nuclear fusion occurs at
+  options:
+    - Low temperature
+    - High temperature
+    - Room temperature
+    - Absolute zero
+  correct: 1
+
+- id: 45
+  text: |
+    In the reaction 7Li^3 + 1H^1 → 2(2He^4), the Q-value is (given masses of Li, H and He)
+  options:
+    - 17.3 Mev
+    - 10.5 Mev
+    - 25.4 Mev
+    - 5.2 Mev
+  correct: 0
+
+- id: 46
+  text: |
+    Asymmetry energy term in semi-empirical mass formula is due to
+  options:
+    - Coulomb repulsion
+    - Excess of neutrons over protons
+    - Surface tension
+    - None
+  correct: 1
+
+- id: 47
+  text: |
+    Pairing energy is positive for
+  options:
+    - even-even nuclei
+    - odd-odd nuclei
+    - even-odd nuclei
+    - None
+  correct: 0
+
+- id: 48
+  text: |
+    Liquid drop model fails to explain
+  options:
+    - Nuclear fission
+    - Binding energy
+    - Magic numbers
+    - Mass of nucleus
+  correct: 2
+
+- id: 49
+  text: |
+    Spin of even-even nuclei in ground state is
+  options:
+    - 0
+    - 1/2
+    - 1
+    - 2
+  correct: 0
+
+- id: 50
+  text: |
+    The ratio of volume of nucleus to volume of atom is about
+  options:
+    - 10^-5
+    - 10^-10
+    - 10^-15
+    - 10^-20
+  correct: 2
+
+- id: 51
+  text: |
+    Magnetic moment of neutron is
+  options:
+    - Zero
+    - Positive
+    - Negative
+    - None
+  correct: 2
+
+- id: 52
+  text: |
+    Nuclear fission was discovered by
+  options:
+    - Hahn and Strassmann
+    - Fermi
+    - Bohr
+    - Curie
+  correct: 0
+
+- id: 53
+  text: |
+    Energy released in fusion of 4 protons into 1 helium nucleus is about
+  options:
+    - 7 Mev
+    - 26.7 Mev
+    - 200 Mev
+    - 1 Mev
+  correct: 1
+
+- id: 54
+  text: |
+    The time taken for a thermal neutron to cause fission is about
+  options:
+    - 10^-6 sec
+    - 10^-12 sec
+    - 10^-14 sec
+    - 1 sec
+  correct: 2
+
+- id: 55
+  text: |
+    Which of following has highest binding energy per nucleon?
+  options:
+    - H-2
+    - He-4
+    - Fe-56
+    - U-238
+  correct: 2
+
+- id: 56
+  text: |
+    Collective model was proposed by
+  options:
+    - A. Bohr and B. Mottelson
+    - Mayer and Jensen
+    - Fermi
+    - Yukawa
+  correct: 0
+
+- id: 57
+  text: |
+    The term δ (pairing energy) in mass formula is zero for
+  options:
+    - even-even
+    - odd-odd
+    - odd mass number A
+    - None of all
+  correct: 2
+
+- id: 58
+  text: |
+    Surface energy term in semi-empirical mass formula is proportional to (A is mass number)
+  options:
+    - A^(2/3)
+    - A
+    - A^(-3/4)
+    - A^(-1/3)
+  correct: 0
+
+- id: 59
+  text: |
+    Which one is stable 4Be^9 or 4Be^10
+  options:
+    - 4Be^9 is more stable than 4Be^10
+    - 4Be^10 is more stable than 4Be^9
+    - Both are equally stable
+    - Can't say anything
+  correct: 0
+
+- id: 60
+  text: |
+    Which one of following is magic number?
+  options:
+    - 2, 10, 24, 50, 80, 120
+    - 2, 8, 26, 54, 82, 126
+    - 2, 8, 20, 50, 82, 126
+    - 2, 8, 24, 56, 80, 124
+  correct: 2
+
+- id: 61
+  text: |
+    Atomic number (Z) of most stable nucleus for given mass number A is
+  options:
+    - Z = A / (1 + 0.015 A^(2/3))
+    - Z = A / (2 + 0.015 A^(2/3))
+    - Z = A / (2 + 0.015 A^(-1/3))
+    - Z = A / (1 + 0.015 A^(-1/3))
+  correct: 1

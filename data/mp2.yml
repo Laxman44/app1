@@ -1,0 +1,1017 @@
+- id: 1
+  text: |
+    In an experimental observation of photo electric effect, stopping potential was plotted versus light frequency, as shown in figure above. Best straight line was fitted to experimental points. Which of following gives slope of line? (Work function of metal is $\phi$)
+  options:
+    - $\frac{h}{\phi}$
+    - $\frac{h}{e}$
+    - $\frac{e}{h}$
+    - $\frac{e}{\phi}$
+  correct: 1
+
+
+- id: 2
+  text: |
+    Photo electric equation is derived under assumption that
+  options:
+    - Electrons are restricted to orbits of angular momentum ni, where n is an integer.
+    - Light is absorbed in quanta of energy $\epsilon=hv$
+    - Light is emitted only when electron jump between orbits.
+    - Light behaves as wave
+  correct: 1
+
+- id: 3
+  text: |
+    Photons of wavelength $\lambda$ scatter elastically on free protons initialy at rest wavelength of photons scattered at $90^{0}$ is increased by
+  options:
+    - $\frac{\lambda}{137}$
+    - $\frac{\lambda}{1836}$
+    - 0
+    - $\frac{h}{mc}$ (m mass of proton)
+  correct: 3
+
+- id: 4
+  text: |
+    Light of wavelength 500 nm is incident on sodium, with work function 2.28 eV. What in maximum K.E. of ejected photoelectron?
+  options:
+    - 0.03eV
+    - 0.2eV
+    - 0.6eV
+    - 1.3eV
+  correct: 1
+
+- id: 5
+  text: |
+    Einstein was awarded noble prize for his
+  options:
+    - special theory of relativity
+    - general theory of relativity
+    - unified field theory
+    - explanation of photo electric effect
+  correct: 3
+
+- id: 6
+  text: |
+    Energy conversion in photoelectric effect is from
+  options:
+    - light to heat energy
+    - light to electrical energy
+    - light to sound energy
+    - electric to light energy
+  correct: 1
+
+- id: 7
+  text: |
+    Work function of metal is
+  options:
+    - minimum energy required to free nucleon
+    - minimum energy required to eject an electron from nucleus
+    - minimum energy to ionise an atom
+    - minimum energy required to free an electron from electronic orbit against columbic force.
+  correct: 3
+
+- id: 8
+  text: |
+    Planck's constant has dimension of
+  options:
+    - force
+    - energy
+    - linear momentum
+    - angular momentum
+  correct: 3
+
+- id: 9
+  text: |
+    Dynamic mass and rest mass of photon are (in respective order)
+  options:
+    - zero and infinite
+    - both are zero
+    - infinite and $h/c\lambda$
+    - $h/c\lambda$ and zero
+  correct: 3
+
+- id: 10
+  text: |
+    Of following properties, photon does not possess
+  options:
+    - rest mass
+    - energy
+    - frequency
+    - momentum
+  correct: 0
+
+- id: 11
+  text: |
+    Momentum of photon of wavelength $\lambda$ is
+  options:
+    - hλ
+    - $h/\lambda$
+    - $\lambda/h$
+    - $h/c\lambda$
+  correct: 1
+
+- id: 12
+  text: |
+    For light of wavelength $5000A^{0}$ photon energy is nearly 2.5eV. For X-ray of wavelength $IA^{0}$ photon energy will be close to
+  options:
+    - $5\times10^{-4}ev$
+    - $1\times10^{-7}ev$
+    - $1.25\times10^{4}ev$
+    - $1.25\times10^{7}ev$
+  correct: 2
+
+- id: 13
+  text: |
+    Radio transmitter operates at frequency of 880KHz and power of 10KW, The number of photons emitted per second is
+  options:
+    - $1.71\times10^{31}$
+    - $132\times10^{34}$
+    - $13.27\times10^{34}$
+    - $13.27\times10^{44}$
+  correct: 0
+
+- id: 14
+  text: |
+    In photo electric effect, number of photoelectrons emitted is proportional to
+  options:
+    - intensity of incident beam
+    - frequency of incident beam
+    - velocity of incident beam
+    - work function of photo cathode
+  correct: 0
+
+- id: 15
+  text: |
+    Threshold frequency of potassium is $3\times10^{14}$ HZ. Work function is
+  options:
+    - $1\times10^{-19}J$
+    - $2\times10^{-19}J$
+    - $4\times10^{-19}J$
+    - $1.0.5\times10^{-19}J$
+  correct: 1
+
+- id: 16
+  text: |
+    Work function of substance is 1.6eV. Longest wavelength of light that can produce photoemission from substance is
+  options:
+    - $2900A^{0}$
+    - $3867A^{0}$
+    - $5800A^{0}$
+    - $7734A^{0}$
+  correct: 3
+
+- id: 17
+  text: |
+    Photelectron are being emitted under action of light. If frequency of light is halved and intensity is doubled, then speed of electrons will
+  options:
+    - decreases
+    - increase
+    - remain unchanged
+    - depends on ratio of frequency to intensity
+  correct: 0
+
+- id: 18
+  text: |
+    If work function of metal is $\phi$ and frequency of incident light is v, then there is no mission of photelectron if
+  options:
+    - $\nu<\frac{\phi}{h}$
+    - $\nu>\frac{\phi}{h}$
+    - $\nu\ge\frac{\phi}{h}$
+    - $\nu=\frac{\phi}{h}$
+  correct: 0
+
+- id: 19
+  text: |
+    Maximum K.E. of photoelectron ejected doesnot depend on
+  options:
+    - wavelength of incident radiation
+    - frequency of incident radiation
+    - Energy of incident radiation
+    - intensity of incident radiation
+  correct: 3
+
+- id: 20
+  text: |
+    graph between frequency of incident light and stopping potential is
+  options:
+    - parabola
+    - hyperbola
+    - straight line
+    - circle
+  correct: 2
+
+- id: 21
+  text: |
+    Photoelectric effect is shown by
+  options:
+    - bound electron
+    - free electron
+    - both a and b
+    - none
+  correct: 0
+
+- id: 22
+  text: |
+    Photons are deflected by
+  options:
+    - magnetic field
+    - electric field
+    - None of all
+    - Gravitational field
+  correct: 2
+
+- id: 23
+  text: |
+    Maximum K.E. of photo electron emitted from surface when photons of energy 6eV fall on it is 4eV. Stopping potential in volt is:
+  options:
+    - 2
+    - 4
+    - 6
+    - 10
+  correct: 1
+
+- id: 24
+  text: |
+    Photo electric current can be increased by
+  options:
+    - increasing frequency
+    - increasing intensity
+    - decreasing intensity
+    - decreasing wavelength
+  correct: 1
+
+- id: 25
+  text: |
+    Work function for aluminium surface is 4.2eV and that for sodium surface is 2.0 eV. Two metals were illuminated with appropriate radiation so as to cause photo emission. Then
+  options:
+    - both aluminium and sodium will have same threshold frequency.
+    - threshold frequency of aluminium will be more than that of sodium
+    - threshold frequency of aluminium will be less
+    - none of all
+  correct: 2
+
+- id: 26
+  text: |
+    Einstein photoelectric effect can be expressed as
+  options:
+    - $hv=hv_{0}+\frac{1}{2}mV^{2}$
+    - $hv_{0}=hv+\frac{1}{2}mV^{2}$
+    - $hv=\frac{1}{2}mV^{2}$
+    - $2hv=hv_{0}+mV^{2}$
+  correct: 0
+
+- id: 27
+  text: |
+    Compton shift depends on
+  options:
+    - energy of incident light
+    - frequency of incident light
+    - angle of scattering
+    - material of target
+  correct: 2
+
+- id: 28
+  text: |
+    Maximum compton shift is independent of
+  options:
+    - frequency of incident
+    - material of target
+    - angle of scattering
+    - all of above
+  correct: 3
+
+- id: 29
+  text: |
+    Compton shift ($\Delta\lambda$) is in wavelength is given by
+  options:
+    - $\frac{h}{m_{0}c}(1-cos\phi)$
+    - $\frac{h}{m_{0}c^{2}}(1-cos\phi)$
+    - $\frac{hc}{\lambda}-\frac{hc}{\lambda_{0}}$
+    - $\frac{h}{m_{0}c}(1-sin\phi)$
+  correct: 0
+
+- id: 30
+  text: |
+    Energy of incident photon is 12.375eV. While energy of scattered photon is 9.375 eV. Then K.E. of recoil electron is
+  options:
+    - 3eV
+    - less than 3eV
+    - more than 3eV
+    - 1.75eV
+  correct: 0
+#[cite_start]``` [cite: 1195 - 1380, 1843]
+
+- id: 31
+  text: |
+    A photon of frequency v undergoes compton scattering. Maximum K.E. of recoil of electron can be put in form
+  options:
+    - $\frac{hv}{I+\frac{m_{0}c^{2}}{2hv}}$
+    - $\frac{hv}{I+\frac{m_{e}c^{2}}{hv}}$
+    - $\frac{h\nu}{I+\frac{h\nu}{2m_{0}c^{2}}}$
+    - $\frac{h\nu}{1+\frac{2m_{g}c^{2}}{h\nu}}$
+  correct: 0
+
+- id: 32
+  text: |
+    A photon of frequency v undergoes compton scattering. Incident photon gets scattered through angle $\phi$ from electron at rest. If $E=hv$ is energy of incident photon and $E^{l}=hv^{l}is$ energy of scattered photon, then
+  options:
+    - $E^{\prime}=\frac{E}{1-\frac{E}{m_{0}c^{2}}(1-cos~\phi)}$
+    - $E=\frac{.E!}{1+\frac{E}{m_{0}c^{2}}(1-cos\phi)}$
+    - $E=\frac{E^{I}}{1+\frac{E^{I}}{m_{0}c^{2}}(1-cos~\phi)}$
+    - $E^{\prime}=\frac{E}{1+\frac{E}{m_{0}c^{2}}(1-cos~\phi)}$
+  correct: 3
+
+- id: 33
+  text: |
+    In compton effect electron that take part is
+  options:
+    - free
+    - bound
+    - may be fee or bound
+    - emitted from nucleus by decary of mentron.
+  correct: 0
+
+- id: 34
+  text: |
+    An X-ray photon of initial frequency $3\times10^{19}$ HZ collides with electron and is scattered through $90^{\circ}$. Its new frequency is
+  options:
+    - $8.6\times10^{12}HZ$
+    - $1.2\times10^{19}HZ$
+    - $3.6\times10^{19}HZ$
+    - $2.41\times10^{19}HZ$
+  correct: 3
+
+- id: 35
+  text: |
+    Maximum compton shift is numerically equal to
+  options:
+    - $0.0242A^{0}$
+    - $0.0484A^{0}$
+    - $0.0163A^{0}$
+    - infinity
+  correct: 1
+
+- id: 36
+  text: |
+    Quality of X-rays depends on
+  options:
+    - filament current
+    - filament voltage
+    - size of cathode
+    - potential difference between cathode and anode.
+  correct: 3
+
+- id: 37
+  text: |
+    Phenomenon of production of X-rays is primarily related as
+  options:
+    - transistion of electrons of target from lower to higher orbit
+    - loss of mass of incident electrons
+    - loss of K.E. of incident electrons
+    - transistion of electron of target from higher to lower orbit
+  correct: 2
+
+- id: 38
+  text: |
+    Photons in characteristic X-ray are produced as result of
+  options:
+    - transistion of electron from higher inner shell to lower inner shell
+    - loss of K.E of incident
+    - loss of mass of incident electrons
+    - none of above
+  correct: 0
+
+- id: 39
+  text: |
+    Characteristic X-ray production can be suitabely explained by
+  options:
+    - Auger effect
+    - Internal conversion
+    - both
+    - None
+  correct: 2
+
+- id: 40
+  text: |
+    Intensity of X-ray beam falls to 25% of its value after penetrating target 1cm thick. Absorption coefficient of target is
+  options:
+    - $240m^{-1}$
+    - $1.12m^{-1}$
+    - $138m^{-1}$
+    - $1.68m^{-1}$
+  correct: 2
+
+- id: 41
+  text: |
+    On increasing number of electron striking anode of X-ray which of following characteristic of X-ray increases?
+  options:
+    - frequency
+    - intensity
+    - wavelength
+    - quality
+  correct: 1
+
+- id: 42
+  text: |
+    Shortest wavelength $(\lambda_{m})$ of X-ray in continuous spectrum of X-ray tube operating at voltage 40KV is
+  options:
+    - $0.31A^{0}$
+    - $0:62A^{0}$
+    - $0:124A^{0}$
+    - $0.69A$
+  correct: 0
+
+- id: 43
+  text: |
+    Maximum speed of electrons striking anticathode in X-ray tube operating at 18Kv is nearly equal to
+  options:
+    - $133.27\times10^{6}ms^{-1}$
+    - $84.27\times10^{6}ms^{-1}$
+    - $200\times10^{6}ms^{-1}$
+    - $80\times10^{6}ms^{-1}$
+  correct: 1
+
+- id: 44
+  text: |
+    Wavelength of $K_{\alpha}$ X-ray emitted by element having atomic number 79 and screening constant (b) equal to 1 is neary
+  options:
+    - $0.6A^{0}$
+    - $0.2A^{\circ}$
+    - $0.3~A^{0}$
+    - 0.5
+  correct: 1
+
+- id: 45
+  text: |
+    Following Statements below shows the various ways of production of visible light and X-ray photon? Which one is correct.
+  options:
+    - Visible light photon is produced primarily by transistion of valence electron between virtual or excited state but X-ray photon is produced via transistion of inner electron in KL, M, etc. shells.
+    - visible light photon is produced by transistion of inner electron in K,L,M, etc. shells whereas X-ray photon is produced when electron transists between virtual or excited state of atom.
+    - Visible light photon is produced as result of loss of energy of incident electron when it has collision with, nucleus of target atom whereas X-ray photon is produced when electron electron transists between virtual or excited state of atom.
+    - None of above
+  correct: 0
+
+- id: 46
+  text: |
+    If v is applied voltage then minimum wavelength $(\lambda_{m})$ in continuous X-ray spectrum is equal to
+  options:
+    - $\frac{12420}{V}A^{0}$
+    - $\frac{1628}{V}A^{0}$
+    - $\frac{3420}{V}A^{0}$
+    - $\frac{1926}{Y}A^{0}$
+  correct: 0
+
+- id: 47
+  text: |
+    Which of following is property of target used in X-ray tube
+  options:
+    - high atomic number and atomie weight
+    - low atomic weight and low melting point
+    - low atomic weight and high melting point
+    - high atomic weight and high melting point.
+  correct: 3
+
+- id: 48
+  text: |
+    Energy of most energetic X-ray photon if X-ray tube operates at 2000KV is
+  options:
+    - 4000eV
+    - 2000MeV
+    - 2000eV
+    - 200KeV
+  correct: 2
+
+- id: 49
+  text: |
+    Number of electrons hitting anode per second for X-ray tube operating at anode potential of 10KV and anode current of 15mA is
+  options:
+    - $3.6\times10^{12}$
+    - $1.6\times10^{14}$
+    - $9.4\times10^{16}$
+    - $2.8\times10^{16}$
+  correct: 2
+
+- id: 50
+  text: |
+    Which one has highest frequency?
+  options:
+    - visible light
+    - ultraviolet light
+    - X-rays.
+    - infrared rays
+  correct: 2
+
+- id: 51
+  text: |
+    Unit of mass absorption coefficient is
+  options:
+    - $Kg~m^{2}$
+    - $Kgm^{-2}$
+    - $Kgm^{3}$
+    - $m^{2}/Kg$
+  correct: 3
+
+- id: 52
+  text: |
+    Moseley law states that frequency of any line in charateristic X-ray spectrum is directly proportional to
+  options:
+    - atomic number of target elements
+    - square of atomic number of target element
+    - square root of atomic number of target element
+    - is independent of atomic number of target element
+  correct: 1
+
+- id: 53
+  text: |
+    Wavelength of X-ray beam incident at $12^{0}$ for first order, reflection is
+  options:
+    - $2.4A^{0}$
+    - $1.26A^{0}$
+    - $3.48A^{0}$
+    - $4.56A^{0}$
+  correct: 1
+
+- id: 54
+  text: |
+    X-ray continuous spectrum production can be equivalently stated as process of
+  options:
+    - photoelectric effect
+    - compton effect
+    - inverse of photo electric effect
+    - None of above
+  correct: 2
+
+- id: 55
+  text: |
+    Lowest wavelength of continuous X-ray spectrum depends
+  options:
+    - inversely on accelerating potential of X-ray tube
+    - directly of accelerating potential of X-ray tube
+    - independent of target
+    - both a and c
+  correct: 2
+
+- id: 56
+  text: |
+    Characteristic X-ray spectrum depends only on
+  options:
+    - Nature of target element
+    - Applied voltage
+    - both
+    - None
+  correct: 0
+
+- id: 57
+  text: |
+    Duana Hunt law explains
+  options:
+    - continuous spectrum boundary of X-ray
+    - Diserete sepetrum boundary of X-rauy
+    - Maximum energy of scattered photon in compton scattering
+    - None
+  correct: 0
+
+- id: 58
+  text: |
+    Out of following, which is not emitted by radioactive sub stance?
+  options:
+    - electron
+    - electromagnetic radiation
+    - neutron
+    - helium nuclei with charge equal to that of two proton
+  correct: 3
+
+- id: 59
+  text: |
+    Radioactive decay of an element X to element Y and K is represented by equation ${}_{Z}^{A}X\rightarrow_{Z+1}^{A}Y\rightarrow_{Z-1}^{A-4}K\rightarrow_{Z-1}^{A-4}K$ . Sequence of emitted radiation is
+  options:
+    - . α, β, ν
+    - β, α, ν
+    - ν, α, β
+    - β, ν, α
+  correct: 1
+
+- id: 60
+  text: |
+    A radioactive element X has atomic number Z and atomic mass number A. It decays by emission of an alpha particle and gamma ray. New element is
+  options:
+    - ${}_{Z-1}^{A-2}Y$
+    - $\begin{matrix}A-4\\ Z-2\end{matrix}Y$
+    - $Z^{A+I}Y$
+    - $_{z+2}^{A+4}Y$
+  correct: 1
+
+- id: 61
+  text: |
+    Radioactive nucleus can decay by two different process. Mean value period for first process is $t_{1}$, and that for second process is $t_{2}$. Effective mean value period for two process is
+  options:
+    - $\frac{t_{1}+t_{2}}{2}$
+    - $t_{1}+t_{2}$
+    - $\sqrt{t_{1}t_{2}}$
+    - $\frac{l_{1}l_{2}}{l_{1}+l_{2}}$
+  correct: 3
+
+- id: 62
+  text: |
+    Activity of sample is $A_{1}$ at time $t_{1}$ and $A_{2}$ at time $t_{2}$ $(t_{2}>t_{1}).$ If its half life of sample is T. then number of atoms that have disintegrated in time $(t_{2}-t_{1})$ is proportional to
+  options:
+    - $\frac{A_{1}}{A_{2}}$
+    - $(A_{1}T_{1}-A_{2}T_{2})$
+    - $(A_{1}-A_{2})T$
+    - $\frac{A_{1}-A_{2}}{T}$
+  correct: 2
+
+- id: 63
+  text: |
+    Activity of sample of radioactive substance is A at time $t_{1}$ and $A_{2}$ at $t_{2}$ $(t_{2}>t_{1})$. If its mean life is t, then correct relation is
+  options:
+    - $A_{1}-A_{2}\alpha(t_{2}-t_{1})$
+    - $A_{1}t_{1}=A_{2}t_{2}$
+    - $A_{2}=A_{1}e^{-(\frac{t_{j}}{t_{2}})/r}$
+    - $A_{2}=A_{1}e^{-(\frac{t_{2}}{t_{1}})/r}$
+  correct: 3
+
+- id: 64
+  text: |
+    Which set of following is same thing?
+  options:
+    - a-ray, cathode ray and X-ray
+    - ẞ-ray, cathode ray and X-ray
+    - -ray, electron, photo electron
+    - cathode ray, X-ray, photoelectron.
+  correct: 2
+
+- id: 65
+  text: |
+    If $\lambda$ is decay constant of radioactive sample, then half life and mean life of sample are respectively given by
+  options:
+    - $\frac{1}{\lambda}$ and $\frac{ln~2}{\lambda}$
+    - $\frac{ln~2}{\lambda}$ and $\frac{1}{\lambda}$
+    - Aln2 and $\frac{1}{\lambda}$
+    - and $\frac{\lambda}{ln~2}$ $\frac{1}{\lambda}$
+  correct: 1
+
+- id: 66
+  text: |
+    When radioactive element is heated, its activity and disintegration constant (λ)
+  options:
+    - decreases
+    - increases
+    - remains unchanged
+    - first increases and then becomes constant
+  correct: 2
+
+- id: 67
+  text: |
+    Percentage of radioactive nucleus that remain undecayed after 5 half life is nearly
+  options:
+    - 3%
+    - 5%
+    - 10%
+    - 20%
+  correct: 0
+
+- id: 68
+  text: |
+    Relation between mean life (t) and half life $(T_{1/2})$ is
+  options:
+    - $T_{\frac{1}{2}}=0.693\tau$
+    - $\tau=0.693T_{\frac{1}{2}}$
+    - $T=.\tau$
+    - $\tau=2.718T_{\frac{1}{2}}$
+  correct: 0
+
+- id: 69
+  text: |
+    A certain radioactive element disintegrates for an interval of time equal to its mean life. Fraction of element left is
+  options:
+    - $\frac{1}{4}$
+    - $\frac{1}{e^{2}}$
+    - $\frac{I}{e}$
+    - e
+  correct: 2
+
+- id: 70
+  text: |
+    End product of uranium series $A=4p+2$ is
+  options:
+    - $Pb^{206}$
+    - $Pb^{207}$
+    - $Pb^{208}$
+    - $Th^{232}$
+  correct: 0
+
+- id: 71
+  text: |
+    Choose appropriate option regarding Mass number and Series:
+    (i) 4n  (I) Actinium
+    (ii) 4n+1 (II) Neptuniúm
+    (iii) 4n+2 (III) Thorium
+    (iv) 4n+3 (IV) Uranium
+  options:
+    - (i) - (III), (ii) - (I), (iii)-(III), (iv)-(IV)
+    - (i) - (III), (ii)-(IV), (iii)-(I), (iv)-(II)
+    - (i)-IV), (ii)-(I), (iii)-(IV), (iv)-(III)
+    - (i)-(III), (ii)-(II), (iii)-(IV), (iv)-(1)
+  correct: 3
+
+- id: 72
+  text: |
+    If $\lambda_{1}$, $\lambda_{2}$ and $N_{1}$, $N_{2}$ be decay Constant and number of atom of A and B respectively in Mixture after time 't' then, condition of secular and transient equilibrium can be expressed as
+  options:
+    - $\lambda_{1}N_{1}=\lambda N_{2}$ and $\frac{N_{1}}{N_{2}}=\frac{\lambda_{1}}{\lambda_{2}-\lambda_{1}}$
+    - $\lambda_{1}N_{2}=\lambda_{2}N_{1}$ and $\frac{N_{1}}{N_{2}}=\frac{\lambda_{1}}{\lambda_{2}-\lambda_{1}}$
+    - $\lambda_{1}N_{2}=\lambda_{2}N_{1}$ and $\frac{N_{1}}{N_{2}}=\frac{\lambda_{2}}{\lambda_{2}-\lambda_{1}}$
+    - $\lambda_{1}N_{1}=\lambda_{2}N_{2}$ and $\frac{N_{2}}{N_{1}}=\frac{\lambda_{1}}{\lambda_{2}-\lambda_{1}}$
+  correct: 3
+
+- id: 73
+  text: |
+    Sharp lines of ẞ-ray spectrum with diserete energy can be explained by
+  options:
+    - neutrino theory of ẞ - decary
+    - K-electron capture
+    - Internal conversion
+    - None of all
+  correct: 2
+
+- id: 74
+  text: |
+    Which one of following is continuous?
+  options:
+    - aray spectrum
+    - -ray spectrum
+    - v ray spectrum
+    - None
+  correct: 1
+
+- id: 75
+  text: |
+    Neutrino theory of decay qualitatively explains
+  options:
+    - Sharp lines of ẞ-ray spectrum
+    - k-electron capture
+    - internal conversion
+    - Continuous nature of ẞ-decay
+  correct: 3
+
+- id: 76
+  text: |
+    Geiger Nuttal rule gives range of
+  options:
+    - a-particle
+    - $\beta^{+}$ particle
+    - particle
+    - v-rays
+  correct: 0
+
+- id: 77
+  text: |
+    In gamma ray emission, atomic number and mass number of parent nucleus
+  options:
+    - decreases by unity
+    - increases by unity
+    - remains unchanged
+    - increases by 2
+  correct: 2
+
+- id: 78
+  text: |
+    Electron is emitted in
+  options:
+    - K-electron capture
+    - Internal conversion
+    - Both
+    - None
+  correct: 1
+
+- id: 79
+  text: |
+    Antineutrino is emitted in
+  options:
+    - K-electron capture
+    - Electron emission
+    - Position emission
+    - None
+  correct: 1
+
+- id: 80
+  text: |
+    -decay is classified as weak interaction. Hence parity is
+  options:
+    - conserved in ẞ-decay
+    - not conserved in ẞ-decay
+    - depends on mode of decay
+    - zero
+  correct: 1
+
+- id: 81
+  text: |
+    If A and B are constants, $\lambda$ and R are disintegration constant and range of a-particle, then, Geiger Nutttal law can be expressed as
+  options:
+    - $log~v=A+B~log~\lambda$
+    - $log~\lambda=A+B~log~R$
+    - $\frac{log~\lambda}{log~\nu}=\frac{A}{B}$
+    - $\frac{log~R}{A+B}=\frac{log~\lambda}{B}$
+  correct: 1
+
+- id: 82
+  text: |
+    General equation of electron capture is
+  options:
+    - ${}_{z}X^{A}\rightarrow_{z+1}X^{A}+_{-1}e^{0}+\overline{\nu}$
+    - ${}_{z}X^{A}\rightarrow_{Z+l}X^{A}+_{+l}e^{0}+v$
+    - ${}_{z}X^{A}+_{-1}e^{0}\rightarrow_{z-1}X^{A}+h\nu$
+    - $Z^{\bullet}X^{A}\rightarrow_{2}X^{A}+\nu$
+  correct: 2
+
+- id: 83
+  text: |
+    Disintegration constant of radioacton element is 0.0023 per day. Half life and average life are respectively.
+  options:
+    - 432.9 days and 300 days
+    - 300 days and 432.9 days
+    - 600 days and 293.4 days
+    - 493.2 days and 261 days
+  correct: 1
+
+- id: 84
+  text: |
+    Time taken for 60% of sample of Radon to decay if half life of radon is 3.8 days, is
+  options:
+    - 4.3 days
+    - 9.2 days
+    - 5.02 days
+    - 6.08 days
+  correct: 2
+
+- id: 85
+  text: |
+    Isotope ${}_{92}U^{238}$ successively undergoes light alpha decay and six beta decay. Resulting isotope is
+  options:
+    - ${}_{80}Pb^{206}$
+    - ${}_{82}Pb^{200}$
+    - ${}_{82}Pb^{206}$
+    - ${}_{78}Pb^{204}$
+  correct: 2
+
+- id: 86
+  text: |
+    Mass of Radium (Mass number = 226, half life = 1600 years) with an activity I curie is almost.
+  options:
+    - Img
+    - 1g
+    - 1 µg
+    - 10kg
+  correct: 1
+
+- id: 87
+  text: |
+    a-particle disintegration energy of a-particle emitted from polonium - 212 is 10.74 MeV. K.E. of a particle is
+  options:
+    - 10.54MeV
+    - 6.84MeV
+    - 10MeV
+    - 11.4MeV
+  correct: 0
+
+- id: 88
+  text: |
+    Geiger Nuttal law implies that
+  options:
+    - Higher the disintegration constant, higher is range as well and vice versa
+    - Higher the disintegration constant, lower is range and vice versa
+    - The disintegration constant and range are independent of each other
+    - None of above
+  correct: 0
+
+- id: 89
+  text: |
+    Range - Energy relation of a-particle can be expressed as (b is constant)
+  options:
+    - $R=bE^{\frac{1}{2}}$
+    - $R=bE^{\frac{1}{2}}$
+    - $R=bE^{-\frac{1}{2}}$
+    - $R=bE^{\frac{3}{3}}$
+  correct: 1
+
+- id: 90
+  text: |
+    Geiger law states that Range (R) of a-particle is directly proportional to of its velocity.
+  options:
+    - 4th power
+    - zeroth powr
+    - cube
+    - square
+  correct: 2
+
+- id: 91
+  text: |
+    Alpha, beta and gamma ray are passed. through strong electric field. Which of the following is not effected/deflected?
+  options:
+    - Alpha ray
+    - Beta ray
+    - gamma ray
+    - None
+  correct: 2
+
+- id: 92
+  text: |
+    conversion of nuclear neutron into nuclear proton is accompained by emission of
+  options:
+    - electron and neutrino
+    - electron and antineutrino
+    - Proton and antineutrino
+    - Proton and neutrino
+  correct: 1
+
+- id: 93
+  text: |
+    Number of distintegrations per minute of certain radio-active substance are 6050 and 4465 at $2^{nd}$ and $3^{rd}$ hour. Half life of substance is
+  options:
+    - 5208 sec
+    - 7804 sec
+    - 8208 sec
+    - 9206 sec
+  correct: 2
+
+- id: 94
+  text: |
+    a-particles from polonium travel along semicircle of radius 20cm in magnetic field of flux density $1.763~web/m^{2}$. Velocity of particles in $[\frac{e}{m}ralio=4.824\times10^{7}c~kg^{-1}]$ is
+  options:
+    - $2.9\times10^{6}ms^{-1}$
+    - $3.2\times10^{4}ms^{-1}$
+    - $1.7\times10^{7}ms^{-1}$
+    - $1.6.9\times10^{6}ms^{-1}$
+  correct: 2
+
+- id: 95
+  text: |
+    Conversion of ${}_{83}Bi^{210}$ (209.9841U) to ${}_{84}Po^{210}$ (209.982886 U) is by emission of ẞ-particle and neutrino. Maximum energy/End point energy of ẞ-ray emitted is
+  options:
+    - 2.68Mev
+    - 4.23Mev
+    - 1.14Mev
+    - 6.08Mev
+  correct: 2
+
+- id: 96
+  text: |
+    When a beam of accelerated electrons hits a target, a continous X-ray spectrum is emitted from the target. Which of the following. wavelengths is absent in the X-rays spectrum, if the X-ray tube is operating at 40,0000 V?
+  options:
+    - $0.25A^{0}$
+    - $0.5A^{0}$
+    - $1.5A^{0}$
+    - $1.0A^{0}$
+  correct: 0
+
+- id: 97
+  text: |
+    X-rays are produced in an X-ray tube operating at a given accelerating voltage. The wavelength of the continous X-rays has values from
+  options:
+    - 0 to co
+    - $\lambda_{min}$ to ∞, where $\lambda_{min}>0$
+    - 0 to $\lambda_{maxs}$ where $\lambda_{max}<\infty$
+    - $\lambda_{min}$ to $\lambda_{max},$ where $0<\lambda_{min}<\lambda_{max}<\infty0$
+  correct: 1
+
+- id: 98
+  text: |
+    The penetrating power of X-rays does not depend on
+  options:
+    - wavelength
+    - energy
+    - potential difference in the filament
+    - current
+  correct: 3
+
+- id: 99
+  text: |
+    A radioactive element of mass number 208 at rest disintegrates by emitting an a- particle. If E is the energy of the emitted a-particle, the energy of disintegration is
+  options:
+    - $\frac{52}{51}E$
+    - $\frac{51}{52}E$
+    - 52 E
+    - E
+  correct: 0
+
+- id: 100
+  text: |
+    The half life of a substance is 20 minutes. What is the time interval between 33% decay and 67% decay?
+  options:
+    - 40min
+    - 20min
+    - 30min
+    - 25min
+  correct: 1
+
+
+- id: 101
+  text: |
+    According to Geiger Nuttal law the curve between $log~\lambda$ and log R will be
+  options:
+    - Figure a
+    - Figure b
+    - Figure c
+    - Figure d
+  correct: 1
+#[cite_start]``` [cite: 844 - 1307]
