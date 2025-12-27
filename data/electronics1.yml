@@ -1,0 +1,139 @@
+- id: 1
+  text: |
+    The characteristics of which circuit element will not changed on application of external voltage.
+  options:
+    - An passive element
+    - An active element
+    - both a and b
+    - neither a nor b
+  correct: 0
+
+- id: 2
+  text: |
+    Two resistors are connected in series they have same
+  options:
+    - Resistance
+    - Voltage
+    - current
+    - Nothing same
+  correct: 2
+
+- id: 3
+  text: |
+    Kirchhoff's voltage law is concerned with
+  options:
+    - IR drop
+    - Battery EMF's
+    - Junction voltage
+    - Both a and b
+  correct: 3
+
+- id: 4
+  text: |
+    An ideal constant voltage source is one which has
+  options:
+    - zero resistance
+    - Infinite resistance
+    - High resistance
+    - low resistance
+  correct: 0
+
+- id: 5
+  text: |
+    Superposition theorem is essentially based on the concept of
+  options:
+    - Duality
+    - Linearity
+    - Reciprocity
+    - non linearity
+  correct: 1
+
+- id: 6
+  text: |
+    An ideal constant current source is one which has
+  options:
+    - zero resistance
+    - Infinite resistance
+    - high resistance
+    - low resistance
+  correct: 1
+
+- id: 7
+  text: |
+    While calculating $R_{Th}$ constant current source in the circuit are
+  options:
+    - replaced by 'opens'
+    - replaced by 'shorts'
+    - Treated with parallel with the other voltage source
+    - Converted into equivalent voltage source
+  correct: 0
+
+- id: 8
+  text: |
+    To get In you have to,
+  options:
+    - short the load resistor
+    - Open load resistor
+    - Short voltage source
+    - open current source
+  correct: 0
+
+- id: 9
+  text: |
+    The Thevenins voltage is same as the
+  options:
+    - Shorted load voltage
+    - Open-load voltage
+    - Ideal source voltage
+    - Northon voltage
+  correct: 1
+
+- id: 10
+  text: |
+    The Norton current is sometimes called the
+  options:
+    - Short-load current
+    - Open load current
+    - Thevenins current
+    - Thevenin's voltage
+  correct: 0
+
+- id: 11
+  text: |
+    For maximum power from any two given terminals of a circuit, the load resistance accross the terminal should be
+  options:
+    - four time internal resistance
+    - Less than internal resistance
+    - Equal to internal résistence
+    - Greater than internal resistance
+  correct: 2
+
+- id: 12
+  text: |
+    Nor tons theorem is the converse of Thevenin's theorem.
+  options:
+    - the same as
+    - the converse of
+    - older than
+    - more accurate than
+  correct: 1
+
+- id: 13
+  text: |
+    Thevenin's theorem is in what from of an equivalent circuit?
+  options:
+    - current
+    - voltage
+    - Both
+    - None
+  correct: 1
+
+- id: 14
+  text: |
+    What is the condition under the maximum power transfer regarding efficiency
+  options:
+    - 50%
+    - 100%
+    - 0%
+    - 75%
+  correct: 0

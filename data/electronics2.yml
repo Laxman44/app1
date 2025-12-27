@@ -1,0 +1,1099 @@
+- id: 1
+  text: |
+    In type semiconductor is
+  options:
+    - Negatively charged
+    - Positively charged
+    - Electrically neutral
+    - None of above
+  correct: 2
+
+- id: 2
+  text: |
+    Which element is doped to produce N type S/C
+  options:
+    - Galiium
+    - Carbon
+    - Indium
+    - Phosphorous
+  correct: 3
+
+- id: 3
+  text: |
+    A rectifier is a device which is used for
+  options:
+    - Converting light energy to electric energy
+    - correcting the fluctuation of line voltage
+    - Converting heat to electric enerty
+    - Converting ac to de
+  correct: 3
+
+- id: 4
+  text: |
+    When a semiconductor is doped with an acceptor impurtity
+  options:
+    - Hole concentration increased
+    - Hole concentration decreases
+    - Electron concentration increases
+    - Electron concentration decreases
+  correct: 0
+
+- id: 5
+  text: |
+    What is associated with random motion due to tharmal agitation in the movement of holes, and electrons in a silicon crystal
+  options:
+    - Drift
+    - Diffusion
+    - Doping
+    - Recombination
+  correct: 1
+
+- id: 6
+  text: |
+    The peak inverse voltage of a half wave recifier circuit is approximately equal to the
+  options:
+    - Peak amplitude
+    - Frequency
+    - Voltage sinosoinal
+    - Current
+  correct: 0
+
+- id: 7
+  text: |
+    What is the barrier potential for germanium at $25^{\circ}c$
+  options:
+    - 0.7v
+    - 0.3v
+    - 0.5v
+    - 0.4v
+  correct: 1
+
+- id: 8
+  text: |
+    When temperature increases barrier potential
+  options:
+    - Remains same
+    - Decreases
+    - Increases
+    - Decreases or increases depending on the semiconductor material used.
+  correct: 1
+
+- id: 9
+  text: |
+    Avalanche effects occuss at
+  options:
+    - Higher reverse voltage
+    - Lower reverse voltage
+    - Higher forward voltage
+    - Lower forward voltage
+  correct: 0
+
+- id: 10
+  text: |
+    Zener effect only depends on the
+  options:
+    - High speed minority carrier
+    - High spead majority cerrier
+    - Intensity of electric field
+    - Internsity of magnetic field
+  correct: 2
+
+- id: 11
+  text: |
+    What is input control parameter of a FET
+  options:
+    - Gate voltage
+    - Source voltage
+    - Drain voltage
+    - Gate current
+  correct: 0
+
+- id: 12
+  text: |
+    A diode is a non-linear device because
+  options:
+    - It produces non-linear graph
+    - Its current is not directly pro-portional to its voltage
+    - It has a built in barrier potential
+    - It can rectify alternating current
+  correct: 1
+
+- id: 13
+  text: |
+    When both emitter and collector junctions are forward biased, the transistor is said to be at region
+  options:
+    - active
+    - cut-off
+    - Breakdown
+    - saturation
+  correct: 3
+
+- id: 14
+  text: |
+    When dropping increases semiconductor decreases
+  options:
+    - Impurity
+    - Conductivity
+    - Bulk resistance
+    - Minority carriers
+  correct: 2
+
+- id: 15
+  text: |
+    Which of the following has the least noise level
+  options:
+    - FET
+    - BJT
+    - Triode
+    - Tetrode
+  correct: 0
+
+- id: 16
+  text: |
+    The average de voltage of a half wave recifier circit is of the value of the peak in put voltage
+  options:
+    - 63.6%
+    - 31.8%
+    - 4.8%
+    - 6.2%
+  correct: 1
+
+- id: 17
+  text: |
+    Typical lekage current in a pn-Junction is in the order of
+  options:
+    - μΑ
+    - mA
+    - nA
+    - pA
+  correct: 0
+
+- id: 18
+  text: |
+    What is the ideal value of stability factor
+  options:
+    - 1
+    - 0.5
+    - infinite
+    - 100
+  correct: 0
+
+- id: 19
+  text: |
+    Common collector is used for impedance matching because
+  options:
+    - Its output impedance is very high
+    - Its output impedance is very low
+    - Its input impedance is very high
+    - Its input impedance is very low.
+  correct: 2
+
+- id: 20
+  text: |
+    The voltage gain of an emitter follower circuit is
+  options:
+    - high
+    - low
+    - very high
+    - moderate
+  correct: 1
+
+- id: 21
+  text: |
+    The transistor configuration has the highest value of input resistance
+  options:
+    - common base
+    - common emitter
+    - commun collector
+    - Emitter stablized
+  correct: 2
+
+- id: 22
+  text: |
+    The maximum rectification efficiency of a full wave rectifier is
+  options:
+    - 40.6%
+    - 81.2%
+    - 110%
+    - 92%
+  correct: 1
+
+- id: 23
+  text: |
+    A transistor ampeifier has high output impedance because
+  options:
+    - Emitter is heavyly doped
+    - Collector is wider than emitter or base
+    - Collector has reversed biased
+    - Emiter has forward biased
+  correct: 2
+
+- id: 24
+  text: |
+    Which of the following is considered on amplifier figure of merit?
+  options:
+    - Gain band width product
+    - Beta (β)
+    - Alpha (a)
+    - Temperature
+  correct: 0
+
+- id: 25
+  text: |
+    Oscillators operaters on the principle of
+  options:
+    - positive feedback
+    - Negative feedback
+    - Signal feed through
+    - Attenuation
+  correct: 0
+
+- id: 26
+  text: |
+    Frist three colour bands of a reristor indicates resistance values fourth band indicates
+  options:
+    - Resistance
+    - Stability
+    - reliability
+    - Tolerrence
+  correct: 3
+
+- id: 27
+  text: |
+    A resistor with colour bands yellow, violet, orange and gold is of
+  options:
+    - 47ΚΩ±5%
+    - 47ΜΩ±5%
+    - $47K\Omega\pm10\%$
+    - 47ΚΩ 20%
+  correct: 0
+
+- id: 28
+  text: |
+    A 24V, 600MW zener diode is to be used for providing 24V, stablized supply to a variable load If input voltage is 32V, find the series resistance R required,
+  options:
+    - 3202
+    - 32002
+    - 2352
+    - 2032
+  correct: 0
+
+- id: 29
+  text: |
+    A full wave rectifier supplies a load of ΙΚΩ. The ac voltage applied to the diodes is 200-0- 200Vrms. If diode resistance is neglected calcualte ripple voltage.
+  options:
+    - 180V
+    - 0.689V
+    - 0.868V
+    - 0.688V
+  correct: 2
+
+- id: 30
+  text: |
+    The correct relationship between a and is
+  options:
+    - $1-\alpha=\frac{1}{1+\beta}$
+    - $1+\alpha=\frac{1}{1-\beta}$
+    - $\frac{1}{1+\alpha}=(\beta+1)$
+    - $\frac{\beta}{\alpha}=\frac{1}{1+\beta}$
+  correct: 0
+
+- id: 31
+  text: |
+    If $I_{c}=10.525mA$, $I_{B}=100\mu A$, $1_{CBO}=.5\mu A$ what is $\beta_{dc}$
+  options:
+    - 0.99
+    - 101
+    - 99
+    - 100
+  correct: 3
+
+- id: 32
+  text: |
+    The EBJ of a given transistor is forward biased and its CBJ is reversed biased. If the base current is increased then its
+  options:
+    - $I_{C}$ increases
+    - $I_{c}$ decreases
+    - $V_{CE}$ increases
+    - $V_{CC}$ increases
+  correct: 0
+
+- id: 33
+  text: |
+    The input characteristics curve of a CE- connected transistor gives its
+  options:
+    - Input resistance
+    - Output resistance
+    - maximum resistance
+    - minimum resistance
+  correct: 0
+
+- id: 34
+  text: |
+    DC load line of a transistor circuit
+  options:
+    - has -ve slope
+    - Does not containts Q-Point
+    - is curved
+    - is relation between Ic and $I_{B}$
+  correct: 0
+
+- id: 35
+  text: |
+    For full wave rectifier
+  options:
+    - $fout=fin$
+    - $fout=2fin$
+    - $fout=1/2~fin$
+    - $fout=1/4~fin$
+  correct: 1
+
+- id: 36
+  text: |
+    For choke input filter
+  options:
+    - $V_{out}=V_{in}$
+    - $V_{out}=\frac{\chi L}{XC}v_{in}$
+    - $V_{out}=\frac{XC}{XL}V_{in}$
+    - $V_{out}=XL\times CV_{in}$
+  correct: 2
+
+- id: 37
+  text: |
+    If the liner capacitance is increased the ripple will
+  options:
+    - Decreased
+    - Stay the same
+    - increase
+    - has no relation
+  correct: 0
+
+- id: 38
+  text: |
+    If $R_{L}=\infty$ in an inductor filter, the value of ripple factor is approximately
+  options:
+    - 0.48
+    - 1.21
+    - 0.048
+    - 0.121
+  correct: 0
+
+- id: 39
+  text: |
+    A bridge reltifier is preferable to an ordinary two diode full wave rectifier because
+  options:
+    - If use four diodes
+    - It's transformer has no centre taps
+    - It needs such smaller transformer for the same output
+    - it has higher safety factor
+  correct: 2
+
+- id: 40
+  text: |
+    In cut-off region the $E/B$ Junction and $C/B$ Junctions are
+  options:
+    - Forward biased
+    - reversed biased
+    - unbiased
+    - $E/B$ junction is forward biased and C/B junction is reversed biased
+  correct: 1
+
+- id: 41
+  text: |
+    The biasing circuit which gives most stable operating points is
+  options:
+    - Base bias
+    - Collector to base bias
+    - Voltage divider bias
+    - None of these
+  correct: 2
+
+- id: 42
+  text: |
+    The collector to base biase is also called
+  options:
+    - Base bias
+    - Voltage divider
+    - Voltage feedback bias
+    - Non of these
+  correct: 2
+
+- id: 43
+  text: |
+    The stability $s^{\prime}$ is the rate of change of collector current to
+  options:
+    - Reverse saturation current
+    - Reverse Saturation voltage
+    - Emitter current
+    - Collector base voltage
+  correct: 0
+
+- id: 44
+  text: |
+    The width of depletion layer of collector Junction as comparable to emitter Junction is
+  options:
+    - More
+    - Less
+    - equal
+    - none of these
+  correct: 0
+
+- id: 45
+  text: |
+    In the band width of range of frequency the amplifier gain is equal or greater gretor than of the maximum gain.
+  options:
+    - 70.7%
+    - 71.2%
+    - 77.0%
+    - 72.7%
+  correct: 0
+
+- id: 46
+  text: |
+    A tank circuit concists of
+  options:
+    - An inductor in parallel with capacitor
+    - An inductor in series with a capacitor
+    - An inductor in series with resistor
+    - An inductor in parallel with resistor
+  correct: 0
+
+- id: 47
+  text: |
+    R-C oscillator are usually used in the range of
+  options:
+    - Audio -frequincy
+    - Radio frequency
+    - Video frequency
+    - Ultrahigh frequency
+  correct: 0
+
+- id: 48
+  text: |
+    The voltage gain of an ideal op-amplifier is
+  options:
+    - Infinity
+    - Zero
+    - Very high
+    - Very low
+  correct: 0
+
+- id: 49
+  text: |
+    The input impedance of an ideal op-Amp is
+  options:
+    - Zero
+    - infinity
+    - Very high
+    - Very low
+  correct: 1
+
+- id: 50
+  text: |
+    The Barkhausen certerian for sustained osciallator is
+  options:
+    - $A\beta=1$
+    - $A\beta=-1$
+    - $\frac{A}{\beta}=1$
+    - $A\beta=0$
+  correct: 0
+
+- id: 51
+  text: |
+    CMMR is defined as
+  options:
+    - Ratio of differenial gain to common mode gain
+    - Ratio of common mode gain to differential gain
+    - Difference of Differential gain to common mode gain
+    - None of these
+  correct: 0
+
+  - id: 52
+  text: |
+    For ideal op-AMP, CMMR is
+  options:
+    - 0
+    - infinity
+    - Very high
+    - very low
+  correct: 1
+
+- id: 53
+  text: |
+    The variation of $I_{D}$ with respect to $V_{GS}$ at constant $V_{DS}$ gives the following Carectoristic of JFET
+  options:
+    - Transfor
+    - Drain
+    - Input
+    - Output
+  correct: 0
+
+- id: 54
+  text: |
+    The correct relations between JFET parameters is
+  options:
+    - $\mu=\frac{Rd}{gm}$
+    - $\mu=Rd-gm$
+    - $\dot{\mu}=Rd\times gm$
+    - $\mu=Rd+gm$
+  correct: 2
+
+- id: 55
+  text: |
+    When the input is applied to the non-inverting input terminal of an OPAMP, then the output is
+  options:
+    - $90^{0}$ out of phase
+    - $180^{\sigma}$ out of phase
+    - $360^{\circ}$ out of phase
+    - In phase
+  correct: 3
+
+- id: 56
+  text: |
+    A reverse voltage of 10V is applied across the diode. What is the voltage accorss the depletion layer.
+  options:
+    - OV
+    - 0.7V
+    - 10V
+    - None of these
+  correct: 2
+
+- id: 57
+  text: |
+    The surface lekage current doubles when the reverse voltge increase
+  options:
+    - 7%
+    - 100%
+    - 200%
+    - 2mv
+  correct: 1
+
+- id: 58
+  text: |
+    With the same secondary voltage filter, which produce the least load voltages?
+  options:
+    - half wave rectifier
+    - Full wave rectifior
+    - Bridge rectifier
+    - Impossible to say
+  correct: 0
+
+- id: 59
+  text: |
+    A zener regulation has an input voltage that may be vary from 22 to 30v. If the regulated output voltage is 12v and load resistance varies from 140Ω to 10ΚΩ, what is maximum allowable series resistance ?
+  options:
+    - 711Ω
+    - 117Ω
+    - 119Ω
+    - Not enough information.
+  correct: 1
+
+- id: 60
+  text: |
+    What is true about the breakdown voltage in a zener diode?
+  options:
+    - It decreases when current increase
+    - It destroys the diode
+    - Its equal the current times the resistance
+    - It is approximately constant
+  correct: 3
+
+- id: 61
+  text: |
+    If the series resistance increases in an unloaded zener regulation, the zener current
+  options:
+    - Decreases
+    - Stays the same
+    - Increases
+    - Equals the voltage divided by the resistance
+  correct: 0
+
+- id: 62
+  text: |
+    Increasing the collector supply voltage will increase
+  options:
+    - Base current
+    - Collector current
+    - Emitter current
+    - None of the above
+  correct: 3
+
+- id: 63
+  text: |
+    In normally biased npn transistor, the electrons in the emitter have enough energy to over come the barrier potential of the
+  options:
+    - Base-emitter junction
+    - Base-collector junction
+    - Recombination path
+    - None of above
+  correct: 0
+
+- id: 64
+  text: |
+    The base emitter voltage is usually
+  options:
+    - Less than base supply voltage
+    - Equal to the base supply voltage
+    - More than Base supply voltage
+    - Can not answer
+  correct: 0
+
+- id: 65
+  text: |
+    A transistor acts like a diode and a
+  options:
+    - Voltage Source
+    - Current source
+    - Resistance
+    - Power supply
+  correct: 1
+
+- id: 66
+  text: |
+    If the base current is 100mA and the current gain is 30, the emitter current is
+  options:
+    - 3.33mA
+    - 3A.
+    - 3.1A
+    - 10A
+  correct: 2
+
+- id: 67
+  text: |
+    If the base resistor is very small, the transistor will operates in the
+  options:
+    - cuttoff region
+    - active region
+    - saturation region
+    - Breakdown region
+  correct: 2
+
+- id: 68
+  text: |
+    If a transistor operates at the middle of the load line, a decrease in the base resistance will move the Q-point
+  options:
+    - Down
+    - No where
+    - Up
+    - Off the load line
+  correct: 2
+
+- id: 69
+  text: |
+    If base resistor is open, the Q point will be
+  options:
+    - At the middle of the load line
+    - At the upper end of the load line
+    - At the lower end of the load line
+    - Off the load line
+  correct: 2
+
+- id: 70
+  text: |
+    If the collector resistor opens in a base biased circuit, the load line will become
+  options:
+    - Horizontal,
+    - Useless
+    - Verticle
+    - Flat
+  correct: 0
+
+- id: 71
+  text: |
+    If the current gain is unknown in an emitter - baised circuit you can not calculate the
+  options:
+    - Emitter voltage
+    - Emitter current
+    - Collector current
+    - Base current
+  correct: 3
+
+- id: 72
+  text: |
+    Where the current gain increases from 50 to 300 in an emitter biased circuit, the collector current
+  options:
+    - Remains almost the same
+    - Decreases by factor of 6
+    - Increases by factor of 6
+    - is zero
+  correct: 0
+
+- id: 73
+  text: |
+    When testing an npn-transistor using an ohm-meter the collector emitter resistance will be low when
+  options:
+    - collector is positive in respect to the emitter.
+    - The emitter is positve in respect to the collector
+    - The transistor is normal
+    - The transistor is defective
+  correct: 3
+
+- id: 74
+  text: |
+    Voltage divider bias needs
+  options:
+    - Only three resistor
+    - Only one supply
+    - Precision resistors
+    - More resistors to work better
+  correct: 1
+
+- id: 75
+  text: |
+    Base bias is associated with
+  options:
+    - Amplifiers
+    - Switching circuits
+    - Stable Q point
+    - Fixed emitter current
+  correct: 1
+
+- id: 76
+  text: |
+    If the emitter resistance is reduced by one-half in a voltage divider biased circuit, the collector current will
+  options:
+    - doubles
+    - Drop to half
+    - Remains the same
+    - Increases
+  correct: 3
+
+- id: 77
+  text: |
+    Which is the largest current in a pnp transistor
+  options:
+    - Base current
+    - Emitter current
+    - collector current
+    - Can not be said
+  correct: 1
+
+- id: 78
+  text: |
+    The capacitors of a CE amplifiers appears to be
+  options:
+    - Open to ac
+    - Shorted to dc
+    - Open to supply voltage
+    - Shorted to ac
+  correct: 3
+
+- id: 79
+  text: |
+    The capacitor that produces an ac ground is called a
+  options:
+    - Bypass capacitor
+    - Coupling capacitor
+    - DC open
+    - AC open
+  correct: 0
+
+- id: 80
+  text: |
+    Raducing all de sources to zero is one of the steps in getting the
+  options:
+    - DC equivalent circuit
+    - AC equalvalent circuit
+    - Complete amplifier circuit
+    - Voltage divider biased circuit
+  correct: 1
+
+- id: 81
+  text: |
+    To reduce the distortion in a CE amplifier, reduces the
+  options:
+    - DC emitter current
+    - Base emitter voltage
+    - Collector current
+    - AC base voltage
+  correct: 3
+
+- id: 82
+  text: |
+    If the ac voltage accross the emitter diode is 1mv and the ac emitter current is 100μA, the ac ressitance of the emitter diode is
+  options:
+    - ΙΩ
+    - 10Ω
+    - 100Ω
+    - ΙΚΩ
+  correct: 1
+
+- id: 83
+  text: |
+    The emitter of a CE amplifier has no ac voltage because of the
+  options:
+    - DC voltage on it
+    - Bypass capacitor
+    - Coupling capacitor
+    - Load resistor
+  correct: 1
+
+- id: 84
+  text: |
+    When the emitter resistance $R_{E}$ doubles, the ac emitter resistance
+  options:
+    - Increases
+    - Decreases
+    - Remains the same
+    - Cannot be determined
+  correct: 2
+
+- id: 85
+  text: |
+    The total ac emitter resistance of an emitter follower amplifier equals
+  options:
+    - re
+    - $r_{\mathfrak{c}}$
+    - $r_{c}+re$
+    - $R_{E}$
+  correct: 2
+
+- id: 86
+  text: |
+    The output voltage of an emitter follower is approximately
+  options:
+    - 0
+    - $V_{G}$
+    - $V_{in}$
+    - $V_{cc}$
+  correct: 2
+
+- id: 87
+  text: |
+    A common base amplifier has a voltage gain that is
+  options:
+    - Much less than one,
+    - Aproximately equals to one
+    - Greater than one
+    - Zero
+  correct: 2
+
+- id: 88
+  text: |
+    The input impedance of a JFET
+  options:
+    - Approaches zero
+    - Approaches one
+    - Approaches infinity
+    - It is impossible to predict
+  correct: 2
+
+- id: 89
+  text: |
+    The gate of JFET controls
+  options:
+    - Width of channel
+    - The drain current
+    - The gate voltage
+    - All of above
+  correct: 1
+
+- id: 90
+  text: |
+    The gate-source diode of a JFET should be
+  options:
+    - Forward biased
+    - Reversed biased
+    - Either forward biased-OR reversed biased-
+    - None of above
+  correct: 1
+
+- id: 91
+  text: |
+    Compaired to a bipolar junction transistor, the JFET has a much higher
+  options:
+    - Voltage gain
+    - Input resistance
+    - Supply voltage
+    - Current
+  correct: 1
+
+- id: 92
+  text: |
+    The pinchoff voltage in JFET has the same magnitude as the
+  options:
+    - Gate voltage
+    - Drain-source voltage
+    - Gate -source voltage
+    - Gate source cutoff voltage
+  correct: 3
+
+- id: 93
+  text: |
+    When drain saturation current is less than $I_{DSS}$ a JFET acts like a
+  options:
+    - BJT
+    - Current source
+    - Resistor
+    - Battery
+  correct: 2
+
+- id: 94
+  text: |
+    The transconductance curve is
+  options:
+    - linear
+    - Similar to graph of a resistor
+    - Non linear
+    - Like a single drain curve
+  correct: 2
+
+- id: 95
+  text: |
+    The transconductance increases when the drain current approaches
+  options:
+    - 0
+    - ID(sat)
+    - Inss
+    - Is
+  correct: 2
+
+- id: 96
+  text: |
+    When a JFET is cut off the depletion layer are
+  options:
+    - Far apart
+    - Close together
+    - Touching
+    - Conducting
+  correct: 2
+
+- id: 97
+  text: |
+    If a JFET has a $I_{DSS}=8mA$ and $V_{p}=4V,$ the $R_{DS}$ equals
+  options:
+    - 200Ω
+    - 320Ω
+    - 500Ω
+    - 5ΚΩ
+  correct: 2
+
+- id: 98
+  text: |
+    Transconductance is measured in
+  options:
+    - ohms
+    - Amperes
+    - Volts
+    - Mhoor siemens
+  correct: 3
+
+- id: 99
+  text: |
+    The op-amplifier can amplify
+  options:
+    - AC signals only
+    - DC signals only
+    - Both AC and DC signals
+    - Neither AC nor DC signals
+  correct: 2
+
+- id: 100
+  text: |
+    The input impedance of a diff. amp equal re times
+  options:
+    - 0
+    - 2β
+    - $R_{E}$
+    - Rc
+  correct: 1
+
+- id: 101
+  text: |
+    When the two input terminals of a diff amp are grounded
+  options:
+    - Base currents are equal
+    - The collector currents are equal
+    - An output error voltage usually exists
+    - The ac output voltage is zero
+  correct: 2
+
+- id: 102
+  text: |
+    The common mode rejection ratio is
+  options:
+    - Very low
+    - Often expressed in decibels
+    - Equal to the voltage gain
+    - Equal to the common mode voltage gain
+  correct: 1
+
+- id: 103
+  text: |
+    An osciallator always needs an amplifer with
+  options:
+    - Positive feedback
+    - Negative feedback
+    - Both types of feedback
+    - An LC tank circuit
+  correct: 0
+
+- id: 104
+  text: |
+    The Hartly oscillator uses
+  options:
+    - Negative feedback
+    - Two inductors.
+    - A tungesten lamp
+    - A tickler coil
+  correct: 1
+
+- id: 105
+  text: |
+    An amplifier with no feedback has a gain band witdth product of $4MH_{z}.$ Its closed loop gain in 40. the new band width is
+  options:
+    - 100KHz
+    - 160MHz
+    - 10μHz
+    - 20KHz
+  correct: 0
+
+- id: 106
+  text: |
+    Regarding negative feedback in amplifiers which statement is wrong
+  options:
+    - It widens the separation between 3dB frequency
+    - it increases the gain band with product
+    - It improves gain stability
+    - It reduces distortion
+  correct: 1
+
+- id: 107
+  text: |
+    A UJT has $R_{BB}=10K$ and $R_{BZ}=4K$ It's intrinsic stand off ratio is
+  options:
+    - 0.6
+    - 0.4
+    - 2.5
+    - 5/3
+  correct: 1
+
+- id: 108
+  text: |
+    For sustaning oscillations in an oscillator
+  options:
+    - Feedback factor should be unity
+    - Phase shift should be $0^{\circ}$ or ηπ
+    - Feedback should be negative
+    - Both a and b
+  correct: 3
+
+- id: 109
+  text: |
+    If Barkhausen criterion is not fulfilled by an oscillator circuit, it will
+  options:
+    - Stop oscillating
+    - Produce damped wave continiously
+    - Becomes an amplifier
+    - Produce High-frequency whistle
+  correct: 0
+
+- id: 110
+  text: |
+    In RC phase shift oscillator circuits
+  options:
+    - there is no need of feedback
+    - there is a 180 degree phase shift
+    - it uses three RC sections
+    - all of the above
+  correct: 2

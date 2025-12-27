@@ -1,0 +1,439 @@
+- id: 1
+  text: |
+    The depletion layer in Junction is formed by:
+  options:
+    - diffusion of charge carriers
+    - drift of electrons
+    - drift of holes
+    - migration of impurity atoms
+  correct: 0
+
+- id: 2
+  text: |
+    The width of depletion layer in p-n junction diode is of the order of:
+  options:
+    - 1cm
+    - 1mm
+    - $1\mu m$
+    - $1A^{0}$
+  correct: 2
+
+- id: 3
+  text: |
+    A p-n junction diode cannot be used as:
+  options:
+    - a rectifier
+    - detector of light intensity
+    - source of light radiation
+    - amplifier
+  correct: 3
+
+- id: 4
+  text: |
+    The device used as a voltage regulator is :
+  options:
+    - ordinary p-n junction diode
+    - Zener diode
+    - photodiode
+    - light emitting diode (LED)
+  correct: 1
+
+- id: 5
+  text: |
+    In a junction diode the holes are due to:
+  options:
+    - protons
+    - extra electrons
+    - neutrons
+    - missing electrons
+  correct: 3
+
+- id: 6
+  text: |
+    For conduction in P-N junction, the biasing is:
+  options:
+    - high potential on N-side and low potential on P-side
+    - high potential on P-side and low potential on N-side
+    - same potential on both P and N sides
+    - undetermined
+  correct: 1
+
+- id: 7
+  text: |
+    If $l_{1}, l_{2}, l_{3}$ are the lengths of the emitter, base and collector of a transistor, then
+  options:
+    - $l_{3}<l_{2}<l_{1}$
+    - $l_{1}=l_{2}=l_{3}$
+    - $l_{3}>l_{1}>l_{2}$
+    - $l_{3}<l_{1}<l_{2}$
+  correct: 2
+
+- id: 8
+  text: |
+    If $i_{e}, i_{b}$ and $i_{c}$ represent emitter current, base current and collector current of a transistor, then:
+  options:
+    - $i_{c}>i_{e}$
+    - $i_{b}>i_{e}$
+    - $i_{b}>i_{c}$
+    - $i_{e}>i_{c}$
+  correct: 3
+
+- id: 9
+  text: |
+    For a transistor $\frac{i_{C}}{i_{E}}=0.96$ , the current gain in common emitter configuration is
+  options:
+    - 6
+    - 12
+    - 24
+    - 48
+  correct: 2
+
+- id: 10
+  text: |
+    In an oscillator the feedback used is:
+  options:
+    - positive
+    - negative
+    - neither positive nor negative
+    - positive in some oscillators and negative in other
+  correct: 0
+
+- id: 11
+  text: |
+    In a semiconductors at room temperature:
+  options:
+    - The valence band is partially empty and the conduction band is, partially filled.
+    - the valence band is completely filled and the conduction band is partially filled.
+    - the yalence band is completely filled
+    - the conduction band is completely empty.
+  correct: 0
+
+- id: 12
+  text: |
+    On mixing antimony in pure semiconductor, the type of semiconductor formed is:
+  options:
+    - p-type
+    - n-types
+    - intrinsic
+    - may be p-type or n-type depending on semiconductor
+  correct: 1
+
+- id: 13
+  text: |
+    In a p-n junction diode p is connected with positive terminal and n is connected with negative terminal of a battery, then the width of depletion layer:
+  options:
+    - increases
+    - decreases
+    - remains unchanged
+    - first increases and then decreases
+  correct: 1
+
+- id: 14
+  text: |
+    In an n-type semiconductor which of the following statement is true:
+  options:
+    - Electrons are majority carriers and the trivalent atoms are dopants
+    - Electrons are minority carriers and pentavalent atoms are the dopants
+    - Holes are minority carriers and pentavalent atoms are the dopants
+    - Holes are majority carriers and trivalent atoms are the dopants
+  correct: 2
+
+- id: 15
+  text: |
+    Which of the following statements is true for a p-types semiconductors.
+  options:
+    - Electrons are majority carriers and the trivalent atoms are dopants
+    - Electrons are minority carriers and pentavalent atoms are the dopants
+    - Holes are minority carriers and pentavalent atoms are the dopants
+    - Holes are majority carriers and trivalent atoms are the dopants
+  correct: 3
+
+- id: 16
+  text: |
+    In an unbiased p-n junction, holes diffuse from the p-region to n region because:
+  options:
+    - free electrons in n-region attract them
+    - they move across the junction by the potential difference
+    - hole concentration of p-region is more as compared to n-region.
+    - All of above
+  correct: 2
+
+- id: 17
+  text: |
+    When a forward bias is applied to p-n junction, it:
+  options:
+    - raises the potential barrier
+    - reduces the majority carrier current to zero
+    - lowers the potential barrier
+    - widens the width of deplecton layer
+  correct: 2
+
+- id: 18
+  text: |
+    For a transistor action
+  options:
+    - Base, emitter and collector regions should have similar size
+    - The base regions must be very thin and lightly doped
+    - Both emitter and collector junctions are forward biased
+    - both emitter and collector junctions are reverse biased
+  correct: 2
+
+- id: 19
+  text: |
+    For a transistor amplifier, the voltage gain:
+  options:
+    - remains constant for all frequencies
+    - is high at high and low frequencies and constant in the middle frequency range
+    - decrease from high to low frequencies steadily
+    - is low at high and low frequencies and constant in the middle frequency range
+  correct: 3
+
+- id: 20
+  text: |
+    The output 1 is obtained in a AND gate containing n-input teminals if
+  options:
+    - only one input in 1 state
+    - two inputs are in 1 state
+    - no input is in I state
+    - all n-inputs are in 1 state.
+  correct: 3
+
+- id: 21
+  text: |
+    XOR gate gives output 1 if:
+  options:
+    - its both inputs are 0
+    - its both inputs are 1
+    - only its one input is 1
+    - either its both inputs are 1 or its one- input is 1
+  correct: 2
+
+- id: 22
+  text: |
+    The only function of a NOT gate is to:
+  options:
+    - stop a signal
+    - not affect a signal
+    - invert an input signal
+    - act as a universal gate
+  correct: 2
+
+- id: 23
+  text: |
+    In a certain 2-input logic gate: When $A=0, B=0,$ then $Y=0$. When $A=0, B=I$, then again $Y=0$. It must be
+  options:
+    - NOR gate
+    - AND gate
+    - NAND gate
+    - XOR gate
+  correct: 1
+
+- id: 24
+  text: |
+    An AND gate is equivalent to
+  options:
+    - a series switching circuit
+    - a parallel switching circuit
+    - a single switch
+    - a single transistor
+  correct: 0
+
+- id: 25
+  text: |
+    Which of the following gates is equivalent to a series switching circuit:
+  options:
+    - OR gate
+    - AND gate.
+    - NAND gate
+    - XOR gate
+  correct: 1
+
+- id: 26
+  text: |
+    The output of OR gate is 1:
+  options:
+    - if both inputs are zero
+    - if either or both inputs are 1
+    - only if both inputs are 1
+    - if either or both inputs are zero
+  correct: 1
+
+- id: 27
+  text: |
+    The logic behind NOR gate is that it gives
+  options:
+    - low output when both inputs are low
+    - high output when both inputs are low
+    - high output when both inputs are high
+    - if either or both inputs are zero
+  correct: 1
+
+- id: 28
+  text: |
+    NAND gate is
+  options:
+    - a basic gate
+    - a universal gate
+    - not a universal gate
+    - only one input logic gate
+  correct: 1
+
+- id: 29
+  text: |
+    ICS is semiconductor electronics are abbreviated for
+  options:
+    - Indian circuits
+    - Integrated circuits
+    - Identical circuits
+    - Itching circuits
+  correct: 1
+
+- id: 30
+  text: |
+    An IC containing logic gates between 10 and 100 is called
+  options:
+    - S.S.I.
+    - M.S.I.
+    - L.S.I.
+    - VI.SI
+  correct: 1
+
+- id: 31
+  text: |
+    How many NAND gates are required to for AND gate?
+  options:
+    - 1
+    - 2
+    - 3
+    - 4
+  correct: 1
+
+- id: 32
+  text: |
+    A transistor oscillator using a resonant circuit with an inductor L (or negligible resistance) and a capacitor C in series produce oscillations of frequency f. If L is doubled and C is changed to 4C, the frequency will be:
+  options:
+    - $\frac{f}{4}$
+    - $8f$
+    - $\frac{f}{2\sqrt{2}}$
+    - $\frac{f}{2}$
+  correct: 2
+
+- id: 33
+  text: |
+    Zener diode is used for:
+  options:
+    - producing oscillations in an oscillator
+    - amplification
+    - rectification
+    - stabilisation
+  correct: 3
+
+- id: 34
+  text: |
+    Carbon, silicon and germarium atom have four valence electrons each. Their valence and conduction bands are separated by $(E_{p})_{C}, (E_{g})_{Si}$ and $(E_{\mathfrak{g}})_{Gc}$ respectively. Which one of the following relationships is true in their case?
+  options:
+    - $(E_{g})_{C}>(E_{g})_{Si}$
+    - $(E_{g})C=(E_{g})_{si}$
+    - $(E_{g})_{C}<(E_{g})_{Gc}$
+    - $(E_{g})C<(E_{g})_{si}$
+  correct: 0
+
+- id: 35
+  text: |
+    Application of a forward bias. p-n junction:
+  options:
+    - increases the number of donors on n- side
+    - increases electric field inthe depletion zone
+    - increases the potential difference across the depletion zone
+    - widens the depletion zone
+  correct: 1
+
+- id: 36
+  text: |
+    The minimum potential difference between the base and emitter required to switch a silicon transistor ON is approximately:
+  options:
+    - 1V
+    - 3V
+    - 4.2V
+    - 5V
+  correct: 0
+
+- id: 37
+  text: |
+    An amplifier has a voltage gain $A_{v}= 1000$. The voltage gain in dB is
+  options:
+    - 3
+    - 20
+    - 30
+    - 60
+  correct: 2
+
+- id: 38
+  text: |
+    a light emitting diode (LED) has a voltage drop 2V across it and passes a current of 10 mA. When it operates with a 6v battery through a limiting resistor R. The value of R is:
+  options:
+    - $40\Omega$
+    - $4\text{k}\Omega$
+    - $200\Omega$
+    - $400\Omega$
+  correct: 3
+
+- id: 39
+  text: |
+    When a pn junction is reverse biased
+  options:
+    - no current flows
+    - the depletion region is increased
+    - the deplection region is reduced
+    - the height of the potential barrier is reduced
+  correct: 1
+
+- id: 40
+  text: |
+    In a semiconductor the motilities of electrons and holes are $\mu_{e}$ and $\mu_{h}$ respectively. Then
+  options:
+    - $\mu_{e}>\mu_{h}$
+    - $\mu_{e}<\mu_{h}$
+    - $\mu_{e}=\mu_{h}$
+    - $\mu_{e}<0, \mu_{h}>0$
+  correct: 0
+
+- id: 41
+  text: |
+    Within depletion region of p-n junction diode:
+  options:
+    - p-side is positive and n-side is negative
+    - p side is negative and n-side is positive
+    - both sides are positive or negative
+    - both sides are neutral
+  correct: 1
+
+- id: 42
+  text: |
+    A transistor is operated in common emitter configuration at constant collector voltage Vc - 1.5V such that a change in base current from 100µA to 150µA produces a change in the collector current from 5A to 10mA. The current gain $\beta$ is
+  options:
+    - 67
+    - 75
+    - 100
+    - 50
+  correct: 2
+
+- id: 43
+  text: |
+    The truth table shown here is for which of the following gates:
+      options:
+    - NAND
+    - AND
+    - XOR
+    - NOT
+  correct: 0
+
+- id: 44
+  text: |
+    Digital circuits can be made by respective use of:
+  options:
+    - OR gate.
+    - AND gate
+    - NOT gate
+    - NAND gate
+  correct: 3

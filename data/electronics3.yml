@@ -1,0 +1,399 @@
+- id: 1
+  text: |
+    $A+AB$ is equals to
+  options:
+    - A
+    - B
+    - AB
+    - O
+  correct: 0
+
+- id: 2
+  text: |
+    $A+\overline{A}B$ is equals to
+  options:
+    - A
+    - B
+    - AB
+    - $A+B$
+  correct: 3
+
+- id: 3
+  text: |
+    $AB+ABC+\overline{A}B+A\overline{B}C$ is equal to
+  options:
+    - $B+AC$
+    - $AB+C$
+    - $AC+B$
+    - ABC
+  correct: 0
+
+- id: 4
+  text: |
+    Boolean equation for XOR gate is
+  options:
+    - $Y=\overline{A}B+\overline{B}A$
+    - $Y=AB+\overline{A}\overline{B}$
+    - $Y=\overline{A}B+AB$
+    - $Y=A\dot{B}+\overline{B}$
+  correct: 0
+
+- id: 5
+  text: |
+    For getting an output from an XNOR gate, its both inputs must be
+  options:
+    - high
+    - low
+    - At the same logic level
+    - At the opposite logic level
+  correct: 2
+
+- id: 6
+  text: |
+    In a certain two input logic gate, when $A=0$, $B=0$ then $C=1$ and when $A=0$ $B=1$, then $C=1$, It must be
+  options:
+    - XOR
+    - AND
+    - NANO
+    - NOR
+  correct: 2
+
+- id: 7
+  text: |
+    A NOR gate is ON only when all its inputs are
+  options:
+    - High
+    - Low
+    - Different
+    - Same
+  correct: 0
+
+- id: 8
+  text: |
+    In a bubbled AND gate invertion takes place
+  options:
+    - After adding
+    - Before adding
+    - No inversion takes
+    - None of above
+  correct: 1
+
+- id: 9
+  text: |
+    A half adder concists of combination of
+  options:
+    - OR gate and XOR gate
+    - AND gate and XOR gate
+    - OR gate and XNOR gate
+    - AND gate and XNOR gate
+  correct: 1
+
+- id: 10
+  text: |
+    For adding 4 bits number, we need
+  options:
+    - 4 full adders connected in parallel
+    - 4 half adders, connected in parallel
+    - 4 full adders connected in series
+    - 4 half adders connected in series.
+  correct: 0
+
+- id: 11
+  text: |
+    Bubbled AND gate is equivalent to
+  options:
+    - AND gate
+    - NOR gate
+    - NAND gate
+    - XOR gate
+  correct: 1
+
+- id: 12
+  text: |
+    Bubbled OR gate is equivalent to
+  options:
+    - AND gate
+    - NOR gate
+    - NAND gate
+    - XOR gate
+  correct: 2
+
+- id: 13
+  text: |
+    A X-OR gate produces output only when the two inputs are
+  options:
+    - High
+    - low
+    - Different
+    - Same
+  correct: 2
+
+- id: 14
+  text: |
+    The true De-morgans theorem is
+  options:
+    - $\overline{A+B}=\overline{A}.\overline{B}$
+    - $\overline{A\cdot B}=\overline{A}+\overline{B}$
+    - $\overline{A\cdot B}=\overline{A}+B$
+    - Both a. and b.
+  correct: 3
+
+- id: 15
+  text: |
+    A NAND gate gives output 1 iff, Both inputs are
+  options:
+    - ON
+    - Positive.
+    - Either of one is low
+    - Either of one is high
+  correct: 2
+
+- id: 16
+  text: |
+    $(A+B) (A+C) =$
+  options:
+    - $A+BC$
+    - $B+AC$
+    - $AC+B$
+    - None of them
+  correct: 0
+
+- id: 17
+  text: |
+    $ABC+A\overline{B}C+ABC=$
+  options:
+    - $A(B+C)$
+    - $C(B+A)$
+    - $B(A+C)$
+    - ABC
+  correct: 0
+
+- id: 18
+  text: |
+    $(A+B)(C+D)=$
+  options:
+    - $(\overline{A+B})(\overline{C+D})$
+    - $(\overline{A}\overline{B})+(CD)$
+    - $(AB+CD)$
+    - $(\overline{A}\overline{B})+(\overline{CD})$
+  correct: 3
+
+- id: 19
+  text: |
+    Which one is true
+  options:
+    - $\overline{\overline{A}+B}=\vec{A}.B$
+    - $\vec{A}+B=A+B$
+    - Both are true
+    - Both are false
+  correct: 0
+
+- id: 20
+  text: |
+    When reading a Boolean expression, what does the word 'Not' indicates
+  options:
+    - the same as
+    - inversion
+    - high
+    - low
+  correct: 1
+
+- id: 21
+  text: |
+    Which of the following gates is described by the expression $X=\overline{ABCD}$
+  options:
+    - OR
+    - AND
+    - NOR
+    - NAND
+  correct: 3
+
+- id: 22
+  text: |
+    How many truth table entries are necessary for a four input circuit ?
+  options:
+    - 4
+    - 8
+    - 12
+    - 16
+  correct: 3
+
+- id: 23
+  text: |
+    If the output of a three input AND gate must be a logic low; what must be the condition of the inputs be
+  options:
+    - All inputs must be low
+    - All inputs must be high.
+    - At lest one input must be low.,
+    - At least one input must be high
+  correct: 2
+
+- id: 24
+  text: |
+    Which of the following gates has the exact inverse output of the OR gate for all possible input combinations.
+  options:
+    - NOR
+    - NOT
+    - NAND
+    - AND
+  correct: 0
+
+- id: 25
+  text: |
+    The format used to present the logic output for the various combinations of logic inputs to a gate is called a
+  options:
+    - Boolean constant
+    - Boolean variable
+    - truth table.
+    - input logic function.
+  correct: 2
+
+- id: 26
+  text: |
+    There are flip flops for a 3-bit binary counter
+  options:
+    - 2.
+    - 3
+    - 4
+    - 5
+  correct: 1
+
+- id: 27
+  text: |
+    It is said to be a universal gate because any digital system can be implemented with it.
+  options:
+    - NANO
+    - AND
+    - OR
+    - XOR
+  correct: 0
+
+- id: 28
+  text: |
+    The state of the flip flop when $Q=1$ and $Q^{\prime}=0$ is
+  options:
+    - Rest
+    - latch
+    - set
+    - Glitch
+  correct: 2
+
+- id: 29
+  text: |
+    The state of the flip flop when $Q=0$ and $Q^{\prime}=1$ is
+  options:
+    - Rest
+    - Set
+    - Trigger state
+    - Tristate
+  correct: 0
+
+- id: 30
+  text: |
+    How many outputs does a full adder have.
+  options:
+    - 1
+    - 2
+    - 4
+    - 8
+  correct: 1
+
+- id: 31
+  text: |
+    What happens when the input to a digital IC is left unconnected for TTL, ICS?
+  options:
+    - It acts like logic 1
+    - It becomes overheated.
+    - It acts like logic 0
+    - It eventually destroys itself
+  correct: 0
+
+- id: 32
+  text: |
+    In Boolean algebra $X+1=$
+  options:
+    - X
+    - O
+    - 1
+    - $X+1$
+  correct: 2
+
+- id: 33
+  text: |
+    In Boolean lagebra; $G+GF=$
+  options:
+    - GF
+    - G
+    - F
+    - 1
+  correct: 1
+
+- id: 34
+  text: |
+    In Bolean algebra $B.B^{1}$
+  options:
+    - B
+    - $B^{\prime}$
+    - О
+    - 1
+  correct: 2
+
+- id: 35
+  text: |
+    Simplify the expression, $Y=AB^{\prime}D+AB^{\prime}D$
+  options:
+    - AB
+    - $D^{1}$
+    - BCD
+    - $AB^{1}$
+  correct: 3
+
+- id: 36
+  text: |
+    Given $X=A^{\prime} BC (A+D)^{\prime}$. Determine the output of the circuit X if $A=0$, $B=1$, C=1 and $D=0$
+  options:
+    - 0
+    - 1
+    - 2
+    - 10
+  correct: 1
+
+- id: 37
+  text: |
+    A circuit that operates in such a way that its output is high iff all of its inputs are high is
+  options:
+    - OR
+    - AND
+    - NOT
+    - NAND
+  correct: 1
+
+- id: 38
+  text: |
+    Which of the following is NOT a basic operation of Boolean algebra.
+  options:
+    - Logical addition
+    - Logical complementation
+    - Logical subtraction
+    - logical multiplication.
+  correct: 2
+
+- id: 39
+  text: |
+    If a certain circuit acts as AND gate when used with positive logic $(H=1$ and $L=0$), what function will it perform when used with negative logic $(H=0,L=1)$
+  options:
+    - OR
+    - AND
+    - NAND
+    - NOR
+  correct: 0
+
+- id: 40
+  text: |
+    How many bits are in a byte.
+  options:
+    - 8
+    - 4
+    - 2
+    - 16
+  correct: 0
