@@ -1,0 +1,560 @@
+- id: 1
+  text: |
+    In an ordinary hologram, coherent monochromatic light produces a 3-D picture because wave information is recorded as 
+    I. Amplitude II. Phase III. wave front angular frequency
+  options:
+    - I only
+    - I and II only
+    - I and III only
+    - II and III only
+  correct: 1
+
+- id: 2
+  text: |
+    the light emitted from the process of spontaneous emission is
+  options:
+    - Monochromatic
+    - highly polarized
+    - incoherent
+    - None of above
+  correct: 2
+
+- id: 3
+  text: |
+    The intensity of light emitted from the process of spontaneous emission are
+  options:
+    - Directly proportional to number of radiating atoms
+    - Inversely proportional to number of radiating atoms
+    - Independent of no of radiating atoms
+    - None of above
+  correct: 0
+
+- id: 4
+  text: |
+    The process of stimulated emission is
+  options:
+    - Controllable from outside
+    - Not controllable from outside
+    - Frist can be controlled but after some time it becomes uncontrolled
+    - None of above
+  correct: 0
+
+- id: 5
+  text: |
+    Find a wrong one that laser beam are
+  options:
+    - Highly directional
+    - Highly intensed
+    - has negligible divergence
+    - Low degree of coherence
+  correct: 3
+
+- id: 6
+  text: |
+    A laser is constructed with a ruby crystal as the active element. The ruby rod contains typically a total of $3 \times 10^{19} \, \text{cr++ions}$. If the laser emits light of $6943A^0$ wave length find the energy of emitted photon,
+  options:
+    - $1.79\text{ev}$
+    - $1.79\text{ev}$
+    - $1.92\text{ev}$
+    - $2.93\text{ev}$
+  correct: 0
+
+- id: 7
+  text: |
+    Find the relative population of the two states in a ruby laser that produces a light beam of wavelength $6943A^0$ at $300K$
+  options:
+    - $8 \times 10^{-31}$
+    - $7 \times 10^{-31}$
+    - $4 \times 10^{-31}$
+    - $9 \times 10^{-31}$
+  correct: 0
+
+- id: 8
+  text: |
+    Quantitative measurement is done by
+  options:
+    - Huygen's eye piece
+    - Ramsdens eye piece
+    - Both of them
+    - None of them
+  correct: 1
+
+- id: 9
+  text: |
+    The condition of minimum spherical aberration is satisfied by
+  options:
+    - Huygen's eye piece
+    - Ramsdens eye piece
+    - Both of them
+    - None of them
+  correct: 0
+
+- id: 10
+  text: |
+    The conditioning of accromatism is satisfied by
+  options:
+    - Huygen's eye piece
+    - Ramsdens eye piece
+    - Both of them
+    - None of them
+  correct: 0
+
+- id: 11
+  text: |
+    The power of the following lens is taken as +ve
+  options:
+    - Huygen's eye piece
+    - Ramsdens eye piece
+    - Both of them
+    - None of them
+  correct: 0
+
+- id: 12
+  text: |
+    The nodal points of which of the following lenses coincides with principle points.
+  options:
+    - Huygen's eye piece
+    - Ramsdens eye piece
+    - Both of them
+    - None of them
+  correct: 1
+
+- id: 13
+  text: |
+    The equivalent focal length of Ramsdens eye piece is
+  options:
+    - $\frac{3}{4} f$
+    - $\frac{4}{3} f$
+    - $\frac{1}{2} f$
+    - $\frac{1}{3} f$
+  correct: 0
+
+- id: 14
+  text: |
+    Ramsdens eye piece consists of two-plane convex lenses each of focal length 'f' separated by a distance equal to
+  options:
+    - $\frac{3}{4} f$
+    - $\frac{2}{4} f$
+    - $\frac{2}{3} f$
+    - $\frac{4}{3} f$
+  correct: 2
+
+- id: 15
+  text: |
+    the equivalent focal length of Huygen's eye piece is
+  options:
+    - $\frac{2}{3} f$
+    - $\frac{2}{4} f$
+    - $\frac{3}{4} f$
+    - $\frac{3}{2} f$
+  correct: 3
+
+- id: 16
+  text: |
+    Which of the following eye piece can be used for simple microscope.
+  options:
+    - Huygen's eye piece
+    - Ramsdens eye piece
+    - Both of them
+    - None of them
+  correct: 1
+
+- id: 17
+  text: |
+    The inability of a lens to form the point image of a point object on the axis is called.
+  options:
+    - Chromatic aberration
+    - Spherical aberration
+    - Astigmatism
+    - Coma
+  correct: 1
+
+- id: 18
+  text: |
+    Chromatic aberration of a lens is caused by
+  options:
+    - Interference
+    - dispersion
+    - reflection
+    - diffraction
+  correct: 1
+
+- id: 19
+  text: |
+    To minimize spherical abberration two lenses of focal length f1 and f2 are placed with a distance of separation equal to
+  options:
+    - $ \frac{f_1 - f_2}{2} $
+    - $ \frac{f_1 + f_2}{2} $
+    - $ \frac{f_1 + f_2}{2} $
+    - $ \frac{f_1 - f_2}{2} $
+  correct: 0
+
+- id: 20
+  text: |
+    For minimum spherical aberration a crossed lens is used with radii of curvature R1 and R2. The condition for minimum spherical aberration for a lens of refractive index 1.5 is
+  options:
+    - $ \frac{R_1}{R_2} = \frac{1}{2} $
+    - $ \frac{R_1}{R_2} = \frac{1}{4} $
+    - $ \frac{R_1}{R_2} = \frac{1}{6} $
+    - $ \frac{R_1}{R_2} = \frac{1}{12} $
+  correct: 2
+
+- id: 21
+  text: |
+    To minimize chromatic aberration condition two lenses of focal length f1 and f2 are placed with a distance of separation equal to.
+  options:
+    - $ \frac{f_1 - f_2}{2} $
+    - $ \frac{f_1 + f_2}{2} $
+    - $ \frac{f_1 + f_2}{2} $
+    - $ \frac{f_1 - f_2}{2} $
+  correct: 2
+
+- id: 22
+  text: |
+    An acromatic combination of lenses forms the image of white object. The image formed is
+  options:
+    - Coloured
+    - Black
+    - White
+    - Yellow
+  correct: 0
+
+- id: 23
+  text: |
+    If w1 and w2 are dispersive power of lenses of focal lengths f1 and f2 respectively, then the condition of chromatic aberration for two lenses in contact is
+  options:
+    - $ \frac{w_1}{w_2} = \frac{f_1}{f_2} $
+    - $ \frac{w_1}{w_2} = \frac{f_1}{f_2} $
+    - $ \frac{W_1}{W_2} = -\frac{f_2}{f_1} $
+    - $ \frac{W_1}{W_2} = \frac{f_2}{f_1} $
+  correct: 0
+
+- id: 24
+  text: |
+    The distance between eye lens and cross wire in a Ramden's eye piece which has a field lens of focal length 1.2cm is
+  options:
+    - 1.1cm
+    - 1.2cm
+    - 0.8cm
+    - 0.3cm
+  correct: 0
+
+- id: 25
+  text: |
+    Spherical aberration of a thin lens can be reduced by
+  options:
+    - Using a monochromatic light
+    - Using a doublet combination
+    - Using a circular annular mask over the lens
+    - increasing the size of the lens
+  correct: 2
+
+- id: 26
+  text: |
+    Coma is arised due to point object situated
+  options:
+    - Along optic axis
+    - Off optic axis
+    - Far away
+    - very near
+  correct: 1
+
+- id: 27
+  text: |
+    The aberration coma is corrected by using
+  options:
+    - Toric lens
+    - GRIN lens
+    - Aplastic lens
+    - None of above
+  correct: 2
+
+- id: 28
+  text: |
+    A person suffering from astigmatism sees a point object
+  options:
+    - totally vanished
+    - A, long line
+    - A sphere
+    - Commet shaped
+  correct: 3
+
+- id: 29
+  text: |
+    Astigmatism is corrected by using
+  options:
+    - Toric lens
+    - GRIN lens
+    - Aplastic lens
+    - Concave lens
+  correct: 0
+
+- id: 30
+  text: |
+    In Barallel shaped distortion magnification,
+  options:
+    - Increases with increasing distance
+    - decreases with increasing distance
+    - magnification is constant but image is unclear
+    - None of above
+  correct: 0
+
+- id: 31
+  text: |
+    Chromatic aberration is removed by aceromatic combination of
+  options:
+    - Concave lenses
+    - Convex lenses
+    - Concave and convex lenses of same material
+    - Concave and convex lenses of different material
+  correct: 3
+
+- id: 32
+  text: |
+    Two glasses have dispersive powers in the ratio 2:3. These glasses are to be used in the manufacture of an achromatic objective of focal length 20cm. What are the focal leghts of these lenses?
+  options:
+    - 20cm and -10cm
+    - 10cm and -20cm
+    - 15cm and -10cm
+    - 20cm and -5cm
+  correct: 0
+
+- id: 33
+  text: |
+    Two lenses of focal lengths 8cm and 4cm are placed at a certain distance apart. Calculate the distance between the lenses if they form an achromatic combination?
+  options:
+    - 6cm
+    - 4cm
+    - 3cm
+    - 5cm
+  correct: 0
+
+- id: 34
+  text: |
+    Laser light is produced due to
+  options:
+    - interference of light
+    - spontaneous emission of light
+    - light Amplification by stimulated emission of radiation
+    - diffraction phenomenon
+  correct: 2
+
+- id: 35
+  text: |
+    which laser was invented first?
+  options:
+    - Semiconductor laser
+    - ruby laser
+    - He-Ne-laser
+    - CO$_{2}$ laser
+  correct: 1
+
+- id: 36
+  text: |
+    Which of the following is a gas laser?
+  options:
+    - CO$_{2}$ laser
+    - Ruby laser
+    - Semiconductor laser
+    - Dye laser
+  correct: 0
+
+- id: 37
+  text: |
+    Two different light sources are sending light and spots from both beams on a screen is obtained. Which of the following statements is true ?
+  options:
+    - The broad and faint spot is a laser while the bright and narrow spot is an ordinary light.
+    - The broad and bright spot is a laser while the narrow and faint spot is an ordinary light.
+    - The broad and low intensity spot is an ordinary light, the narrow and highly intensespot is a laser light.
+    - Actually both the spots will merge into each other and form an interference patterns.
+  correct: 2
+
+- id: 38
+  text: |
+    A highly coherent beam is produced. The beam is
+  options:
+    - laser light
+    - ordinary light
+    - converged light from the sun
+    - spark produced between the gap of two electrodes
+  correct: 0
+
+- id: 39
+  text: |
+    Which of the following conditions is very essential for the production of laser light?
+  options:
+    - Spontaneous emission process
+    - Stimulated emission process
+    - Population invasion process
+    - All of the above
+  correct: 3
+
+- id: 40
+  text: |
+    Which of the following is not a pumping process?
+  options:
+    - Optical pumping
+    - Electrical pumping
+    - Chemical pumping
+    - Thermal pumping
+  correct: 3
+
+- id: 41
+  text: |
+    Which of the following scheme does not produce lasing action?
+  options:
+    - Two-level scheme
+    - Three-level scheme
+    - Four-level scheme
+    - Five-level scheme
+  correct: 0
+
+- id: 42
+  text: |
+    High-power laser light is obtained from
+  options:
+    - CO$_{2}$ laser
+    - semiconductor laser
+    - he-Ne laser
+    - ruby laser
+  correct: 0
+
+- id: 43
+  text: |
+    Pulsed laser light is produced from a
+  options:
+    - ruby laser
+    - carbon laser
+    - carbon dioxide laser
+    - none of the above
+  correct: 0
+
+- id: 44
+  text: |
+    Which of the following is not a laser properly?
+  options:
+    - Coherence
+    - Highly directional
+    - Extreme brightness
+    - divergence
+  correct: 3
+
+- id: 45
+  text: |
+    Production of laser does not include
+  options:
+    - active medium
+    - two highly silvered optically flat mirrors
+    - optical cavity
+    - one highly silvered and other partially silvered optically flat mirror
+  correct: 1
+
+- id: 46
+  text: |
+    Which source of light is brightest?
+  options:
+    - Sunlight
+    - laser light
+    - Arc light
+    - Flash light
+  correct: 1
+
+- id: 47
+  text: |
+    Through holography we can produce ______ dimensional images of objects.
+  options:
+    - one
+    - two
+    - three
+    - none of the above
+  correct: 2
+
+- id: 48
+  text: |
+    Holography produces
+  options:
+    - real images
+    - virtual images
+    - both a and b
+    - none of the above
+  correct: 2
+
+- id: 49
+  text: |
+    a 'recorded' holographic plate contains information in the ___ pattern.
+  options:
+    - interference
+    - diffraction
+    - both a and b
+    - none of the above
+  correct: 0
+
+- id: 50
+  text: |
+    In holography interference pattern is produced from
+  options:
+    - object beam
+    - reference beam
+    - both a and b
+    - none of the above
+  correct: 2
+
+- id: 51
+  text: |
+    If a hologram breaks into pieces, then each piece can produce
+  options:
+    - Part of image
+    - complete image
+    - no image
+    - none of the above
+  correct: 1
+
+- id: 52
+  text: |
+    In the reconstruction of images from hologram, we get
+  options:
+    - One real and one virtual image
+    - two real images
+    - two virtual images
+    - large number of real and virtual image
+  correct: 0
+
+- id: 53
+  text: |
+    the recorded holographic plate is known as
+  options:
+    - hologram
+    - Gabor zone plate
+    - both a and b
+    - none of the above
+  correct: 2
+
+- id: 54
+  text: |
+    A hologram acts as a ___
+  options:
+    - diffraction grating
+    - polariser
+    - analyser
+    - mirror
+  correct: 0
+
+- id: 55
+  text: |
+    Holography has been used in
+  options:
+    - to view the working of the inner organs of body in three dimensionally
+    - in non-destructive testing of materials to find flaws
+    - data storage
+    - all the above
+  correct: 3
+
+- id: 56
+  text: |
+    Information holding capacity of a hologram is
+  options:
+    - limited
+    - large
+    - less
+    - none of the above
+  correct: 1

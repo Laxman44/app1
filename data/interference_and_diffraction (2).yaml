@@ -1,0 +1,1869 @@
+- id: 1
+  text: |
+    Interference of light resolved the
+  options:
+    - Wave nature of light
+    - quantum nature of light
+    - transverse wave nature
+    - longitudinal wave nature
+  correct: 2
+
+- id: 2
+  text: |
+    Though quantum theory of light can explain a number of phenomena observed with light, it is necessary to retain the wave nature of light to explain the phenomenon of
+  options:
+    - Photoelectric effect
+    - diffraction
+    - Black body radian spectrum
+    - compton effect
+  correct: 1
+
+- id: 3
+  text: |
+    Which of the following does not support the wave nature of light:
+  options:
+    - Interference
+    - diffraction
+    - polarization
+    - photoelectric effect
+  correct: 3
+
+- id: 4
+  text: |
+    The source of light are said to be coherent if
+  options:
+    - they produce wave of same wavelength
+    - they produce wave of same amplitude
+    - they produce wave of same wavelength having a constant initial phase difference
+    - they produce wave of same amplitude and frequency
+  correct: 2
+
+- id: 5
+  text: |
+    The phenomenon of interference is based on
+  options:
+    - conservation of momentum
+    - conservation of energy
+    - conservation of momentum and energy
+    - quantum nature of light
+  correct: 1
+
+- id: 6
+  text: |
+    Two coherent source produces a dark fringe when the phase difference between interfering waves is
+  options:
+    - 0
+    - $2\pi$
+    - $n\pi$
+    - $(2n-1)\pi, n=1,2,3,...$
+  correct: 3
+
+- id: 7
+  text: |
+    For constructive interference to take place between two monochromatic light waves of wavelength $\lambda$ the path difference should be
+  options:
+    - $(2n-1)\lambda/4$
+    - $(2n-1)\lambda/2$
+    - $n\lambda$
+    - $(2n+1)\lambda/2$
+  correct: 2
+
+- id: 8
+  text: |
+    For destructive interference to take place for monochromatic light the path diff. should be
+  options:
+    - $(2n-1)\lambda/4$
+    - $(2n-1)\lambda/2$
+    - $n\lambda$
+    - $(2n+1)\lambda/2$
+  correct: 1
+
+- id: 9
+  text: |
+    One of the phenomena which can not be explained by wave theory is
+  options:
+    - polarization
+    - diffraction
+    - photoelectric effect
+    - interference
+  correct: 2
+
+- id: 10
+  text: |
+    In an interference experiment, the spacing between successive maxima (or minima) is
+  options:
+    - $\lambda d/D$
+    - $\lambda D/d$
+    - $dD/\lambda$
+    - $\lambda s/dD$
+  correct: 1
+
+- id: 11
+  text: |
+    When interference of light takes place:
+  options:
+    - Energy is created at the position of maxima
+    - Energy is destroyed at the position of minima
+    - Energy is neither created nor destroyed at the different position, but is redistributed
+    - all of above are wrongs.
+  correct: 2
+
+- id: 12
+  text: |
+    to get an interference of dark and bright fringes, the source of light
+  options:
+    - must be monochromatic
+    - Must be white
+    - may be monochromatic or white
+    - None of above
+  correct: 0
+
+- id: 13
+  text: |
+    In young's double slit experiment the central point on the screen is
+  options:
+    - Bright
+    - Dark
+    - first bright and then dark
+    - first dark and then bright
+  correct: 0
+
+- id: 14
+  text: |
+    Two identical light sources s1 and s2 emit light of same wavelength $\lambda$, these light rays will exhibit interference if:
+  options:
+    - their phase difference remains constant
+    - their phases are distributed randomly
+    - their light intensities remains constant
+    - their light intensities changes randomly
+  correct: 0
+
+- id: 15
+  text: |
+    In double slit experiment the distance between the slits is gradually increased. The width of the fringe system
+  options:
+    - Increase
+    - Decrease
+    - Remains same
+    - First increase and the decreases
+  correct: 1
+
+- id: 16
+  text: |
+    For path difference of $\lambda$ the phase difference is
+  options:
+    - $\pi$
+    - $2\pi$
+    - $\pi/2$
+    - $\pi/4$
+  correct: 1
+
+- id: 17
+  text: |
+    For position of nth bright fringe in double slit experiment position of nth bright fringe is given by
+  options:
+    - $\frac{n \lambda D}{d}$
+    - $\frac{n d D}{\lambda}$
+    - $\frac{n \lambda}{d D}$
+    - $\frac{(2n + 1) \lambda D}{2}$
+  correct: 0
+
+- id: 18
+  text: |
+    In fresnels biprism experiment the central fringe is
+  options:
+    - Bright
+    - Dark
+    - Depends on frequency of light
+    - Nothing can be said
+  correct: 0
+
+- id: 19
+  text: |
+    Interference fringes are observed with a biprism of refracting angle 1$^\circ$ and refractive index 1.5, on a screen 80cm away from it. If the distance between source and the biprism is 20cm, calculate the fringe width when the wave length of light used is 6900A$^0$
+  options:
+    - 0.03cm
+    - 0.02cm
+    - 0.01cm
+    - 0.04cm
+  correct: 1
+
+- id: 20
+  text: |
+    A thin mica sheet (u=1.6) of 7$\times$10$^{-4}$ cm thickness introduced in the path of one of interfering beams in a biprism arrangement shifts the central fringe to a position occupied by the 7th bright fringe from the centre. Find the wave length of light used ?
+  options:
+    - 600A$^0$
+    - 6000A$^0$
+    - 60000A$^0$
+    - 60A$^0$
+  correct: 0
+
+- id: 21
+  text: |
+    In a diffraction experiment with light waves the size of the obstacle in path should be
+  options:
+    - $\approx$1mm$^i$
+    - $\approx$0.1mm
+    - 10$^{-4}$mm
+    - $\approx$1cm
+  correct: 2
+
+- id: 22
+  text: |
+    In fraunhopper diffraction at single slit, the light wave front incident on slit is
+  options:
+    - Spherical
+    - Cylindrical
+    - plane
+    - Elliptical
+  correct: 2
+
+- id: 23
+  text: |
+    If n represents the order of nth half period zone, the area of this zone is approximately proportional to n when n is equal to
+  options:
+    - 0
+    - 1/2
+    - 1
+    - 2
+  correct: 0
+
+- id: 24
+  text: |
+    A slit of width a is illuminated by white light. The first minimum for red light ($\lambda = 6500$A$^0$) will fall at diffraction angle 0=30$^\circ$, when 'a' will be
+  options:
+    - 3250A$^0$
+    - 6.5$\times$10$^{-4}$mm
+    - 1.3 micron
+    - 2.6$\times$10$^{-6}$m
+  correct: 2
+
+- id: 25
+  text: |
+    Consider a single slit diffraction pattern for a slit of width d. It is observed that for a wavelength 400nm, the angle between the 1st minimum and the central maximum is $4 \times 10^3$ radians. The value of d is
+  options:
+    - $1 \times 10^5 \, \text{m}$
+    - $5 \times 10^5 \, \text{m}$
+    - $1 \times 10^4 \, \text{m}$
+    - $2 \times 10^4 \, \text{m}$
+  correct: 2
+
+- id: 26
+  text: |
+    Light of wave length 5200 A$^0$ is incident on a transmission diffraction grating with 2000 lines per centimeter, normally. The first order diffraction maximum is at an angle, with respect to the incident beam, that is most nearly.
+  options:
+    - $3^0$
+    - $6^0$
+    - $9^0$
+    - $12^0$
+  correct: 1
+
+- id: 27
+  text: |
+    In a double-slit interference experiment, d is the distance between the centers of the slits and w is the width of each slit, as in figure. For incident plane waves, an interference maximum on distant screen will be missing when
+  options:
+    - $d = \sqrt{2} \, \text{w}$
+    - $d = \sqrt{3} \, \text{w}$
+    - $2d = \text{w}$
+    - $2d = 3 \, \text{w}$
+  correct: 3
+
+- id: 28
+  text: |
+    The angular separation of the two components of a double star is 8 microradians, and the light from the double star has the wave length of 5500A$^0$. the smallest distance of a telescope mirror that will resolve the double star is most nearly ?
+  options:
+    - 1mm
+    - 1cm
+    - 10cm
+    - 1m
+  correct: 2
+
+- id: 29
+  text: |
+    If L is the coherence length and c is velocity of light, then coherent time is
+  options:
+    - LC
+    - L/C
+    - C/L
+    - 1/LC
+  correct: 1
+
+- id: 30
+  text: |
+    A diffraction pattern is observed with red light. What happens if the red light is replaced by blue light
+  options:
+    - No change
+    - Diffraction bands become narrower and crowded together
+    - Diffraction bands becomes broader and farther apart
+    - Diffraction bands dissappear
+  correct: 1
+
+- id: 31
+  text: |
+    Light of wavelength 6328A$^0$ is incident on a slit having a width of 0.2mm, the width of the central maximum, measured from minimum to minimum of the diffraction pattern on a serene 9.0m away will be about
+  options:
+    - $0.36^0$
+    - $0.18^0$
+    - $0.72^0$
+    - $0.09^0$
+  correct: 0
+
+- id: 32
+  text: |
+    The first diffraction minimum due to a single slit diffraction is at $30^0$ for a light of wavelength $\lambda$. If the width of the slit is $10^6 \, \text{m}$, the wavelength $\lambda$ is
+  options:
+    - $4000A^0$
+    - $5000A^0$
+    - $1250A^0$
+    - $10000A^0$
+  correct: 1
+
+- id: 33
+  text: |
+    Consider a fraunhofer diffraction pattern obtained with a single slit at normal incidence At the angular position of the first diffraction minimum, the phase difference in radian between the wavelets from the opposite edges of the slit is
+  options:
+    - $\pi / 4$
+    - $\pi / 2$
+    - $\pi$
+    - $2\pi$
+  correct: 2
+
+- id: 34
+  text: |
+    In fraunhofer diffraction at a single slit, the width of the slit is 'b'. Screen is at a distance 'D' from the slit. If slit width b is decreased further, the width of central maximum will
+  options:
+    - increase
+    - decrease
+    - remain unchanged
+    - None of above.
+  correct: 0
+
+- id: 35
+  text: |
+    Diffraction is associated with which of the following phenomenona
+  options:
+    - the sun appears a disk rather than a point to the naked eye
+    - Light is bent as it passes through glass prism.
+    - A cheerleader yells through a megaphone.
+    - None of above
+  correct: 2
+
+- id: 36
+  text: |
+    The rainbow seen after a rain shower is caused by.
+  options:
+    - Diffraction
+    - Interference
+    - Refraction
+    - Reflection
+  correct: 2
+
+- id: 37
+  text: |
+    In the equation $\phi = (2\pi a/\lambda) \sin\theta$ for single slit diffraction on, $\phi$ is
+  options:
+    - the angle to the first minimum
+    - the angle to the second maximum
+    - the phase angle between the extreme rays
+    - Nr where N is an integer
+  correct: 2
+
+- id: 38
+  text: |
+    No fringe arc seen in a single slit diffraction If
+  options:
+    - The screen is far away
+    - The wavelength is less than the slit width
+    - The wave length is greater than slit width
+    - the wavelength is less than the distance to the screen
+  correct: 2
+
+- id: 39
+  text: |
+    A parallel beam of monochromatic light is incident on a slit of width 2cm. The light passing through the slit falls on a screen 2m away. As the slit width is decreased
+  options:
+    - The width of the pattern on the screen continuously decreases
+    - The width of the pattern on the screen at first increases and then decreases
+    - The width of the pattern on the screen at first decreases but then increases
+    - None of above
+  correct: 2
+
+- id: 40
+  text: |
+    At the first minimum adjacent to the central maximum of a single. Slit diffraction pattern, the phase difference between the Huygens wavelets from the top of the slit and the wavelet from the midpoint of the slit is
+  options:
+    - $\pi$ rad
+    - $\pi/4$ rad
+    - $\pi/2$ rad
+    - $\pi/8$ rad
+  correct: 0
+
+- id: 41
+  text: |
+    A plane wave with a wave length of 500nm is incident normally on a single slit with a width of $5.0\times10^{-6}$ m. Consider waves that reach a point on a far-away screen such that rays from the slit make an angle of $1^\circ$ with the normal. The difference in phase for waves from the top and bottom of the slit is,
+  options:
+    - 0 rad
+    - 0.55 rad
+    - 1.6 rad
+    - 1.1 rad
+  correct: 3
+
+- id: 42
+  text: |
+    Consider a single slit diffraction pattern caused by a slit of width a. there is a maximum if sin $\theta$ is equal to
+  options:
+    - Slightly more than 3$\lambda/2a$
+    - Slightly less than 3$\lambda/2a$
+    - exactly 3$\lambda/2a$
+    - exactly $\lambda/2a$
+  correct: 1
+
+- id: 43
+  text: |
+    The intensity at a secondary maximum of a single slit diffraction pattern is less than the intensity at the central maximum chiefly because.
+  options:
+    - Some Huygens wavelets sum to zero at the secondary maximum but not at the central maximum.
+    - The Huygen's construction is not valid for secondary maximum
+    - The amplitude of every Huygen wavelet is smaller when it travels to a secondary maximum than when it travels to central maximum.
+    - None of above
+  correct: 0
+
+- id: 44
+  text: |
+    Two slits of width a and separation d are illuminated by a beam of light of wavelength $\lambda$. The separation of the interference fringes on a screen at distance D away is
+  options:
+    - $\lambda$a/D
+    - $\lambda$d/D
+    - $\lambda$D/d
+    - $\lambda$D/a
+  correct: 2
+
+- id: 45
+  text: |
+    A diffraction limited laser of length $l$ and diameter $d$ generates light of wavelength $\lambda$. If the beam is directed at the surface of the moon a distance D away, the radius of the illuminated area on the moon is approximately.
+  options:
+    - $d$D/l
+    - $d$D/$\lambda$
+    - $D\lambda/l$
+    - $D\lambda/d$
+  correct: 3
+
+- id: 46
+  text: |
+    The resolving power of a telescope can be increased by
+  options:
+    - increasing the objective focal length and decreasing the eye piece focal length
+    - Increasing the lens diameter
+    - Decreasing the lens diameter
+    - Inserting a correction lens between objective and eye piece.
+  correct: 1
+
+- id: 47
+  text: |
+    As more slits with the same spacing are added to a diffraction grating the lines
+  options:
+    - Spread farther apart
+    - Move closer together
+    - Becomes wider
+    - Becomes narrower
+  correct: 3
+
+- id: 48
+  text: |
+    A N-slit system has separation d and slit width a. Plane waves with intensity I and wavelength $\lambda$ are incident normally on it. The angular separation of the lines depend, only on.
+  options:
+    - a and N
+    - a and $\lambda$
+    - N and $\lambda$
+    - d and $\lambda$
+  correct: 3
+
+- id: 49
+  text: |
+    600nm light is incident on a diffraction grating with a rolling separation of $1.7 \times l_0^2$ cm. The second order line occurs at a diffraction angle of
+  options:
+    - $0^\circ$
+    - $10^\circ$
+    - $45^\circ$
+    - $21^\circ$
+  correct: 2
+
+- id: 50
+  text: |
+    Monochromatic light is normally incident on a diffraction grating that is 1cm wide and has 10,000 slits. The first order line is deviated at $30^\circ$ angle. What is the wavelength, in nm, of the incident light
+  options:
+    - 300
+    - 400
+    - 500
+    - 540
+  correct: 2
+
+- id: 51
+  text: |
+    A light spectrum is formed on a screen using a diffraction grating. The entire apparatus is now immersed in a liquid of rectractive index $1.33$. As a result, the pattern on the screen
+  options:
+    - Remains same
+    - Spreads out
+    - Crowds together
+    - Disappears
+  correct: 2
+
+- id: 52
+  text: |
+    A diffraction grating of width w produces a deviation $\theta$ in second order for light of wavelength $\lambda$. The total number N of slits in the grating is given by
+  options:
+    - 2W/$\lambda$sin$\theta$
+    - (W/$\lambda$) Sin$\theta$
+    - $\lambda$W/2Sin$\theta$
+    - (W/2$\lambda$) sin$\theta$
+  correct: 3
+
+- id: 53
+  text: |
+    For a certain multiple slit barrier the slit separation is 4 times the slit width. For this system
+  options:
+    - the order of the line that appears are all multiples of 4
+    - The orders of lines that appears are all multiple of 2
+    - The orders of the missing lines are all multiple of 4
+    - None of above are true
+  correct: 2
+
+- id: 54
+  text: |
+    What is the missing order for a double slit, Fraunhofer diffraction pattern, If the slit widths are 0.16mm and they are 0.8mm apart.
+  options:
+    - multiple of 6
+    - multiple of 3
+    - multiple of 2
+    - None of above
+  correct: 0
+
+- id: 55
+  text: |
+    Find the half angular width of the central bright maximum in the fraunhofer diffraction pattern of a slit of width 12x10 $^5$cm when the slit is illuminated by monochromatic light of wavelength 6000A$^0$.
+  options:
+    - 20$^0$
+    - 30$^0$
+    - 40$^0$
+    - 45$^0$
+  correct: 1
+
+- id: 56
+  text: |
+    the dispersion of a diffraction grating indicates,
+  options:
+    - the resolution of the grating
+    - the separation of lines of the same order.
+    - the number of rulings in the grating$^1$
+    - the width of the lines
+  correct: 1
+
+- id: 57
+  text: |
+    Calculate the posible order of spectra with a plane transmission grating having 18000 lines per inch when light of wave length 4500A$^0$ is used
+  options:
+    - 5
+    - 6
+    - 2
+    - 3
+  correct: 3
+
+- id: 58
+  text: |
+    The diameter of the first ring of zone plate is 1.1mm. If plane waves ($\lambda=6000A0$) fall on the plate, where should be the screen be placed so that the light is focused to a bright spot?
+  options:
+    - 0.6m
+    - 0.5m
+    - 0.4m
+    - 0.7m
+  correct: 1
+
+- id: 59
+  text: |
+    What is the radius of the first half period zone in a zone plate behaving like a convex lens of focal length 60cm for light of wavelength 6000A$^0$.
+  options:
+    - 0.6mm
+    - 0.669mm
+    - 0.7mm
+    - 0.697mm
+  correct: 0
+
+- id: 60
+  text: |
+    A wave front is a surface of constant
+  options:
+    - phase
+    - frequency
+    - wavelength
+    - amplitude
+  correct: 0
+
+- id: 61
+  text: |
+    The reason there are two slits, rather than one slit in a young's experiment is
+  options:
+    - to increase the intensity
+    - One slit is for frequency and another for wavelength
+    - to create path length difference
+    - None of above$^1$
+  correct: 2
+
+- id: 62
+  text: |
+    In young's double slit experiment, the slit separation is doubled. to maintain the same fringe spacing on the screen, the screen to slit distance D must be changed to
+  options:
+    - D/2
+    - D/V2
+    - D$\cdot$2
+    - 2D
+  correct: 3
+
+- id: 63
+  text: |
+    One of the two slits in a young's experiment is painted over so that it transmits only one half the intensity of the other slit. As a result
+  options:
+    - Fringe system dissapears
+    - the bright fringes and dark frings alter
+    - the fringes gets dimmer
+    - None of above
+  correct: 1
+
+- id: 64
+  text: |
+    Monochromatic light, at normal incidence, strikes a thin film in air. If $\lambda$ denotes the wave length in the film, what is the thinnest film is which the reflected light will be maximum?
+  options:
+    - Much less than $\lambda$
+    - $\lambda/4$
+    - $\lambda/2$
+    - $\lambda$
+  correct: 1
+
+- id: 65
+  text: |
+    A soap film is illuminated by white light normal to its surface. The index of refraction of the film is 1.50. Wavelengths of 480nm and 800nm are be intensified in the reflected beam. The thinkness of the film is
+  options:
+    - $1.5\times10^{-5}$cm
+    - $2.4\times10^{-5}$cm
+    - $3.6\times10^{-5}$cm
+    - $4.0\times10^{-5}$cm
+  correct: 3
+
+- id: 66
+  text: |
+    A liquid of refractive index (n) = 4/3 replaces the air between two fixed wedge formed from two glass plates. As a result the spacing between adjacent dark bands in the interference pattern
+  options:
+    - Increases by factor of 4/3
+    - Increases by factor of 3
+    - Decreases by factor of 3/4
+    - Decrease to 1/3 of its original value.
+  correct: 3
+
+- id: 67
+  text: |
+    In a-thin film experiment, a wedge of air is used between two glass plates. If the wavelength of the incident light in air is 480nm, how much thicker is the air wedge at the 16th dark fringe than it is at the 6th
+  options:
+    - 2400nm
+    - 4800nm
+    - 240nm
+    - 480nm
+  correct: 0
+
+- id: 68
+  text: |
+    The amplitude ratio of two superposing waves is 2:1. The ratio of maximum and minim intensities is
+  options:
+    - 1:1
+    - 2:1
+    - 4:1
+    - 9:1
+  correct: 3
+
+- id: 69
+  text: |
+    In young's double slit experiment, If the widths of the slits are in the ratio 4:9, the ratio of the intensity at maxima to the intensity of minima will be
+  options:
+    - 169:25
+    - 81:16
+    - 13:5
+    - 9:4
+  correct: 0
+
+- id: 70
+  text: |
+    If yellow light emitted by sodium lamp in young's double slit experiment is replaced by monochromatic blue light of same intensity
+  options:
+    - fringe width will increase
+    - fringe width will decrease
+    - Remains unuchanged
+    - Fringes disappears
+  correct: 2
+
+- id: 71
+  text: |
+    In a two slit experiment with monochromatic light fringes are obtained on a screen placed at some distance from the slits. If the screen is moved by $5\times10^{2}$m towards the slit, the change in fringe width is $3\times10^{3}$m. If separation between the slits is $10^{3}$m, then wavelebgth is,
+  options:
+    - 6000A$^0$
+    - 5000A$^0$
+    - 3000A$^0$
+    - 4500A$^0$
+  correct: 0
+
+- id: 72
+  text: |
+    In fresnel's biprism experiment the two position of lens give separation between slits as 16mm and 9mm respectively, what is the actual distance of separation.
+  options:
+    - 12.5mm
+    - 12.0mm
+    - 13mm
+    - 14mm
+  correct: 1
+
+- id: 73
+  text: |
+    The wedge shaped air film produces
+  options:
+    - concentric circular fringes
+    - Equidistance alternate dark and bright straight line fringes
+    - Alternate dark and bright fringes of different fringe width
+    - None of above
+  correct: 1
+
+- id: 74
+  text: |
+    In Newton's ring arrangement in reflected system the centre (x=0) is
+  options:
+    - Dark
+    - Bright
+    - May be dark or bright
+    - coloured
+  correct: 0
+
+- id: 75
+  text: |
+    In Newton's ring arrangement with air film in reflected light the diameter of nth ring is Di. If the air film is replaced by liquid film of refractive index $\mu$. The diameter of nth fringe will be
+  options:
+    - $\sqrt{\mu}$ times
+    - $1/\sqrt{\mu}$ times
+    - $1/\mu$ times
+    - $\mu$ times
+  correct: 1
+
+- id: 76
+  text: |
+    In Newton ring experiment the diameter of the rings formed is proportional to ($\lambda$-wave length of light)
+  options:
+    - $\lambda$
+    - $\lambda^2$
+    - $\sqrt{\lambda}$
+    - $1/\lambda$
+  correct: 2
+
+- id: 77
+  text: |
+    Light containing two wavelengths $\lambda_1$ and $\lambda_2$ falls normally on a plano convex lens of radius of curvature R, resting on a plane glass plate. If nth dark ring due to $\lambda_1$ coincides with (n+1)th dark ring due to $\lambda_2$, the radius of nth dark ring of $\lambda_1$, is
+  options:
+    - $\sqrt{\frac{\lambda_1\lambda_2R}{\lambda_1 - \lambda_2}}$
+    - $\sqrt{\frac{\lambda_1\lambda_2}{R(\lambda_1 - \lambda_2)}}$
+    - $\frac{\lambda_1\lambda_2R}{\lambda_1 - \lambda_2}$
+    - $n \lambda_1 \lambda_2 R$
+  correct: 0
+
+- id: 78
+  text: |
+    When mirror M$_1$ and M$_2$ are exactly perpendicular in michelson interferometer
+  options:
+    - Curved fringe produced
+    - Circular fringes are produced
+    - Straight line fringes are produced
+    - None of above
+  correct: 1
+
+- id: 79
+  text: |
+    In an experiment using michelson's interferometer a shifts of 140 fringes is observed, when all the gas is removed from the tube. If wavelength of light used is 5460A$^0$ and length of tube is 20cm, calculate the refractive index of gas
+  options:
+    - 1.00019
+    - 1.00018
+    - 1.00017
+    - 1.00016
+  correct: 0
+
+- id: 80
+  text: |
+    In Lloyd's single mirror interference experiment, the slit source is at a distance of 2mm from the plane of the mirror. The serene is kept at a distance of 1.5m from the source, what is the fringe width If wavelength of light used is 5890A0
+  options:
+    - 22mm
+    - 23mm
+    - 24mm
+    - 21mm
+  correct: 0
+
+- id: 81
+  text: |
+    the resolving power of telescope is equal to $\frac{1.22\lambda}{a}$
+  options:
+    - $\frac{a}{\lambda}$
+    - $\frac{1.22\lambda}{n\lambda}$
+    - $a$
+    - None of above
+  correct: 1
+
+- id: 82
+  text: |
+    The distance between two just resolvable object points in microscope is given by (Not self luminous)
+  options:
+    - $\frac{\lambda_0}{2\mu sin\alpha}$
+    - $\frac{2\mu sin\alpha}{\lambda_0}$
+    - $\frac{1.22\lambda}{2sin\alpha}$
+    - $\frac{1.22\lambda}{sin\alpha}$
+  correct: 0
+
+- id: 83
+  text: |
+    Resolving power of plane transmission grating is
+  options:
+    - nN
+    - $\frac{n}{N}$
+    - $\frac{N}{n}$
+    - $\sqrt{nN}$
+  correct: 0
+
+- id: 84
+  text: |
+    Find the separation of two points on the moon that can be resolved by a 500cm telescope. The distance of the moon is $3.8\times10^{5}$ Km, the eye is most sensitive to light of wavelength 5500A$^0$
+  options:
+    - 52m
+    - 51m
+    - 50m
+    - 49m
+  correct: 1
+
+- id: 85
+  text: |
+    The serene of a pinhole camera is at a distance D from the pinhole, which has a .diameter. The light has an effective wavelength $\lambda$ ($\lambda<<D$) for which of the following values of d will the image be sharpest?
+  options:
+    - $\sqrt{\lambda D}$
+    - $\lambda$
+    - $\lambda/10$
+    - $\lambda/D$
+  correct: 0
+
+- id: 86
+  text: |
+    Light is incident normally on a grating of total ruled width $5 \times 10^{-3} m$ with 2500 lines in all. Is the two sodium lines in the first order spectrum can be seen distinctly ? ($\lambda = 5896A0, \lambda = 5890A0$)
+  options:
+    - Yes
+    - No
+    - Cannot be said
+    - Can be seen if apparatus is imersed in a liquid of $\mu = 1.5$.
+  correct: 0
+
+- id: 87
+  text: |
+    Two nearly equal wavelength $\lambda_1$ and $\lambda_2$ are incident on a N-slit grating. The two wavelengths are not resolvable, to make resolvable.
+  options:
+    - $\lambda_1$ is increased
+    - $\lambda_2$ is increased
+    - N is increased
+    - N is decreased
+  correct: 2
+
+- id: 88
+  text: |
+    A diffraction grating just resolves the wavelengths 400.0nm and 400.1nm in first order. the number of slits in the grating is
+  options:
+    - 400
+    - 1000
+    - 2500
+    - 4000
+  correct: 3
+
+- id: 89
+  text: |
+    What is the minimum no. of slits required in a diffraction grating to just resolve light with wavelengths of 471.0nm and 471.6nm ?
+  options:
+    - 99
+    - 100
+    - 393
+    - 786
+  correct: 2
+
+- id: 90
+  text: |
+    The resolving power R of a grating can have units
+  options:
+    - cm
+    - degree/mm
+    - watt
+    - nm/cm
+  correct: 3
+
+- id: 91
+  text: |
+    In a Young's double -slit interference apparatus, the distance from the slits to the screen in doubled. The distance between adjacent light and dark fringes changes by a factor of :
+  options:
+    - 1/4
+    - 1/2
+    - 1
+    - 2
+  correct: 3
+
+- id: 92
+  text: |
+    A Young's double -slit apparatus is set up where a screen is positioned 0.80m from the double slits. If the distance between alternating bright fringes is 0.95 cm and the light source has a wavelength of 580nm, what is the separation of the double slits ? ($1nm = 10^{-9} m$)
+  options:
+    - $2.8 \times 10^{-5} m$
+    - $4.9 \times 10^{-5} m$
+    - $5.6 \times 10^{-5} m$
+    - $6.0 \times 10^{-5} m$
+  correct: 1
+
+- id: 93
+  text: |
+    A Young's double-slit apparatus is set up. The source wavelength is 430 nm and the double-slit spacing is 0.040mm. At what distance from the double slits should the screen be placed if the spacing between alternating bright fringes is to be 2.4cm ? ($1nm = 10^{-9} m$)
+  options:
+    - 1.6m
+    - 2.2m
+    - 2.4m
+    - 2.9m
+  correct: 1
+
+- id: 94
+  text: |
+    A light source simultaneously emits light of two wavelengths: 480nm and 560nm, respectively. The source is used in a double-slit interference experiment where the slit spacing is a 0.040mm and the distance between double slits and the screen is 1.2m. What is the separation between the second-order bright fringes of the two wavelengths as they appear on the screen ? ($1nm = 10^{-9} m$)
+  options:
+    - 0.16cm
+    - 0.32cm
+    - 0.48cm
+    - 0.64cm
+  correct: 2
+
+- id: 95
+  text: |
+    Two beams of coherent light are shining on the same piece of white paper. With respect to the crests and troughs of such waves, darkness will occur on the paper where:
+  options:
+    - the crest from one wave overlaps with the crest from the other;
+    - the crest from one wave overlaps with the trough from the other
+    - the troughs from both waves overlap.
+    - darkness cannot occur as the two waves are coherent.
+  correct: 1
+
+- id: 96
+  text: |
+    If the 2nd order fringe in Young's double-slit experiment occurs at an angle of $45.0^\circ$, what is the relationship between the wavelength $\lambda$ and the distance between slits, d ?
+  options:
+    - $d = 1.41\lambda$
+    - $d = 2.00\lambda$
+    - $d = 2.83\lambda$
+    - $d = 4.00\lambda$
+  correct: 2
+
+- id: 97
+  text: |
+    That light can undergo interference is evidence that it:
+  options:
+    - has electric properties.
+    - is made of corpuscles
+    - behaves like a wave
+    - has a phase of $180^\circ$
+  correct: 2
+
+- id: 98
+  text: |
+    In a Young's experiment, the paths from the slits to a point on the screen differ in length causing constructive interference at the point. Which of the following path difference would cause this constructive interference ?
+  options:
+    - $5\lambda/2$
+    - $3\lambda/4$
+    - $4\lambda$
+    - $7\lambda/4$
+  correct: 2
+
+- id: 99
+  text: |
+    Laser light sent through a double slit produces an interference pattern on a screen $3.00m$ from the slits. If the second order maximum occurs at an angle of $12.0^\circ$, at what angle does the eighth order maximum occur ?
+  options:
+    - No eighth order maximum occurs.
+    - $48.0^\circ$
+    - $56.3^\circ$
+    - $70.7^\circ$
+  correct: 2
+
+- id: 100
+  text: |
+    In a Young's double slit experiment, how many maxima occur between the $4^\text{th}$ order maxima ?
+  options:
+    - 6
+    - 7
+    - 8
+    - 9
+  correct: 1
+
+- id: 101
+  text: |
+    The blue tint of a coated camera lens is largely caused by what effects ?
+  options:
+    - diffraction
+    - refraction
+    - polarization
+    - interference
+  correct: 3
+
+- id: 102
+  text: |
+    The dark spot observed in the center of a Newton's rings pattern is attributed to which of the following ?
+  options:
+    - polarization of light when reflected
+    - polarization of light when refracted
+    - phase shift of light when reflected
+    - phase shift of light when refracted
+  correct: 2
+
+- id: 103
+  text: |
+    What wavelength monochromatic source in the visible region (390 to 710nm) can be used to constructively reflect off a soap film (n = 1.46) if the film is 77nm thick ?
+  options:
+    - 409nm
+    - 430nm
+    - 650nm
+    - 558nm
+  correct: 2
+
+- id: 104
+  text: |
+    A silicon monoxide (n = 1.45) film of 100 nm thickness is used to coat a glass camera lens (n = 1.56). What wavelength of light in the visible region (390 to 710nm) will be most efficiently transmitted by this system ? (1nm = $10^9$ m)
+  options:
+    - 400nm
+    - 492nm
+    - 624nm
+    - 580nm
+  correct: 3
+
+- id: 105
+  text: |
+    A silicon monoxide (n = 1.45) film of 270 nm thickness is used to coat a glass camera lens (n = 1.56). What wavelength of light in the visible region (390 to 710nm) will be most efficiently transmitted by this system? (1nm = $10^9$m)
+  options:
+    - 409nm
+    - 492nm
+    - 522nm
+    - 638nm
+  correct: 2
+
+- id: 106
+  text: |
+    A beam of light of wavelength 650 nm is incident along the normal to two closely spaced parallel glass plates. For what air gap separation between the plates will the transmitted beam be of maximum intensity? (1nm = $10^9$m)
+  options:
+    - 81nm
+    - 163nm
+    - 325nm
+    - 488nm
+  correct: 2
+
+- id: 107
+  text: |
+    When light shines on a lens placed on a flat piece of glass, interference occurs which causes circular fringes called Newton's rings. The two beams that are interfering come:
+  options:
+    - from the top and bottom surface of the lens.
+    - from the top surface of the lens and the top surface of the piece of glass
+    - from the bottom surface of the lens and the top surface of the piece of glass.
+    - from the top and bottom surface of the flat piece of glass.
+  correct: 2
+
+- id: 108
+  text: |
+    A soap bubble (n = 1.35) is floating in air. If the thickness of the bubble wall is 300nm, which of the following wavelengths of visible light is strongly reflected?
+  options:
+    - 620nm (red)
+    - 580 nm (yellow)
+    - 540 nm (green)
+    - 500nm (blue)
+  correct: 2
+
+- id: 109
+  text: |
+    Two thin layers of material with different indices of refraction are coated on a glass plate. The outer first material has $n_1 = 1.404$, the inner second material has $n_2 = 1.531$, and the glass has $p_{\text{glass}} = 1.62$. If light is incident from air on the first layer, what is the phase change for light that reflects from the glass?
+  options:
+    - $0^\circ$
+    - $180^\circ$
+    - $360^\circ$
+    - $540^\circ$
+  correct: 1
+
+- id: 110
+  text: |
+    A Fraunhofer diffraction pattern is created by monochromatic light shining through which of the following?
+  options:
+    - single slit
+    - double slit
+    - triple slit
+    - more than 3 slits
+  correct: 0
+
+- id: 111
+  text: |
+    The distance between the two slits in a double slit interference experiment is 0.040mm. the second order bright fringe (n = 2) is measured on a screen at an angle of 2.2$^\circ$ from the central maximum. What is the wavelength of the light?
+  options:
+    - 560nm
+    - 630nm
+    - 750nm
+    - 770nm
+  correct: 3
+
+- id: 112
+  text: |
+    The distance between two slits in a double slit interference experiment is 2.9$\times 10^{-6}$ m. The first order bright fringe is measured on a screen at an angle of 12$^\circ$ from the central maximum. What is the wavelength of the light?
+  options:
+    - 1.2$\times 10^2$ nm
+    - 3.0$\times 10^2$ nm
+    - 4.6$\times 10^2$nm
+    - 6.0$\times 10^2$nm
+  correct: 1
+
+- id: 113
+  text: |
+    The distance between two slits in a double slit interference experiment is 0.0050mm. What is the angle of the third order bright fringe (m=3) produced with light of 550nm?
+  options:
+    - 5.0$^\circ$
+    - 9.9$^\circ$
+    - 12$^\circ$
+    - 19$^\circ$
+  correct: 3
+
+- id: 114
+  text: |
+    Monochromatic light shines on the surface of a diffraction grating with 5.3$\times 10^3$ times/cm$^3$ The first order maximum is observed at an angle of 17$^\circ$. Find the wavelength.
+  options:
+    - 420nm
+    - 520nm
+    - 530nm
+    - 550nm
+  correct: 3
+
+- id: 115
+  text: |
+    Monochromatic light shines on the surface of a diffraction grating with 5.0$\times$10$^3$ lines/cm. The first order maximum is observed at an angle of 20.0$^\circ$. Find the wavelength.
+  options:
+    - 360nm
+    - 480nm
+    - 520nm
+    - 680nm
+  correct: 3
+
+- id: 116
+  text: |
+    Light with a wavelength of 400.0nm passes through a 1:00$\times$10$^4$ lines/cm diffraction grating. What is the second-order angle of diffraction?
+  options:
+    - 21.3$^\circ$
+    - 53.1$^\circ$
+    - 56.5$^\circ$
+    - 72.1$^\circ$
+  correct: 1
+
+- id: 117
+  text: |
+    Light with a wavelength of 500.0 nm passes through a 3.39$\times$10$^5$ lines/m diffraction grating. What is the first-order angle of diffraction?
+  options:
+    - 9.73$^\circ$
+    - 23.5$^\circ$
+    - 36.9$^\circ$
+    - 53.1$^\circ$
+  correct: 0
+
+- id: 118
+  text: |
+    Light with a wavelength of 546.1nm passes through a 6.62$\times$10$^3$ lines/cm diffraction grating. What is the first order angle of diffraction?
+  options:
+    - 21.2$^\circ$
+    - 34.6$^\circ$
+    - 39.2$^\circ$
+    - 41.6$^\circ$
+  correct: 0
+
+- id: 119
+  text: |
+    The angle between the first-order maximum and the central maximum for monochromatic light of 2300nm is 27$^\circ$. Calculate the number of lines per centimeter on this grating.
+  options:
+    - 1600 lines/cm
+    - 2000 lines/cm
+    - 2500 lines/cm
+    - 4500 lines/cm
+  correct: 1
+
+- id: 120
+  text: |
+    Monochromatic light ($\lambda=632.8$nm) from a helium neon laser shines at a right angle onto the surface of a diffraction grating that contains 531 001 lines/m. Find the angles at which one would observe the first-order and second order maxima.
+  options:
+    - $\theta_1 = 19.63^\circ$, $\theta_2 = 39.26^\circ$
+    - $\theta_1 = 19.63^\circ$, $\theta_2 = 42.20^\circ$
+    - $\theta_1 = 21.10^\circ$, $\theta_2 = 42.20^\circ$
+    - $\theta_1 = 33.60^\circ$, $\theta_2 = 67.20^\circ$
+  correct: 1
+
+- id: 121
+  text: |
+    A diffraction grating that contains 650 472 lines/m is illuminated by monochromatic light ($\lambda = 632.8$ nm) from a helium neon laser directed perpendicular to the surface of the grating. At what angles would one observe the first order and second order maxima?
+  options:
+    - $\theta_1 = 2.358^\circ$, $\theta_2 = 4.719^\circ$
+    - $\theta_1 = 24.30^\circ$, $\theta_2 = 55.38^\circ$
+    - $\theta_1 = 29.37^\circ$, $\theta_2 = 55.38^\circ$
+    - $\theta_1 = 55.38^\circ$, $\theta_2 = 83.078^\circ$
+  correct: 1
+
+- id: 122
+  text: |
+    A helium neon laser shines monochromatic light ($\lambda = 632.8$nm) perpendicular to the surface of a diffraction agrating that contains 146 230 lines/m. Find the angles at which one would observe the second -order and third order maxima.
+  options:
+    - $\theta_1 = 5.307^\circ$, $\theta_2 = 10.66^\circ$
+    - $\theta_1 = 10.66^\circ$, $\theta_2 = 16.11^\circ$
+    - $\theta_1 = 10.66^\circ$, $\theta_2 = 18.43^\circ$
+    - $\theta_1 = 13.25^\circ$, $\theta_2 = 26.50^\circ$
+  correct: 1
+
+- id: 123
+  text: |
+    Which of the following is one of the essential conditions for observing Fresnel class of diffraction?
+  options:
+    - Both source and screen at infinite distance from the slit
+    - Either screen or source at infinite distance from the slit
+    - Neither screen nor source at infinite distance from the slit
+    - None of the above
+  correct: 2
+
+- id: 124
+  text: |
+    Which of the following is essential for observing diffraction?
+  options:
+    - A narrow slit
+    - Two coherent sources
+    - A screen
+    - white light
+  correct: 0
+
+- id: 125
+  text: |
+    Interference differs from diffraction in that
+  options:
+    - it cannot be observed with white light
+    - interference minima are perfectly dark and that of diffraction may not be dark
+    - unlike diffraction, the interference fingers are of varying intensities
+    - the diffraction fringes are of equal width but the interference fringes are of unequal width
+  correct: 1
+
+- id: 126
+  text: |
+    The width of the diffraction fringes varies
+  options:
+    - directly as the distance between the slit and the screen
+    - inversely as the wavelength
+    - directly as the width of the slit
+    - inversely as the size of the source from which the slit is illuminated
+  correct: 0
+
+- id: 127
+  text: |
+    Light of 600 nm wavelength is incident on a single slit. The first minimum of the diffraction pattern is obtained at a distance of 4 mm from the centre. The distance between the screen and the slit is 2m. What is the width of the slit?
+  options:
+    - 0.1mm
+    - 0.3mm
+    - 0.5m
+    - 0.6mm
+  correct: 1
+
+- id: 128
+  text: |
+    which of the following undergoes largest diffraction?
+  options:
+    - Gamma ray
+    - Ultraviolet light
+    - Infrared light
+    - Radio waves
+  correct: 3
+
+- id: 129
+  text: |
+    Which property of light is confirmed by diffraction?
+  options:
+    - Wave nature
+    - Transverse wave nature
+    - Longitudinal wave nature
+    - quantum nature
+  correct: 0
+
+- id: 130
+  text: |
+    What happens to the width of central diffraction maximum when the width of the circular aperture increases?
+  options:
+    - Increases
+    - Decrease
+    - unchanged
+    - Cannot be predicted
+  correct: 1
+
+- id: 131
+  text: |
+    In the diffraction pattern due to a single slit, the width of the central maximum will be
+  options:
+    - less for narrow slit
+    - greater for narrow slit
+    - greater for wide slit
+    - less for wide slit
+  correct: 1
+
+- id: 132
+  text: |
+    In a Fraunhofer diffraction at a circular aperture, the radius of the central disc is
+  options:
+    - large, as the diameter of aperture is large
+    - small, as the diameter of aperture is large
+    - independent of the diameter of aperture
+    - none of these
+  correct: 1
+
+- id: 133
+  text: |
+    What is the angular spread of the first maximum and the central maximum when Fraunhofer diffraction is observed with 540 nm light through a slit width of 1 mm?
+  options:
+    - 270$\times$10$^6$rad
+    - 540$\times$10$^6$rad
+    - 810$\times$10$^6$rad
+    - 1080$\times$10$^6$rad
+  correct: 2
+
+- id: 134
+  text: |
+    A Fraunhofer diffraction pattern is obtained using a beam of red light. If the red light is replaced by blue light, then
+  options:
+    - the diffraction pattern remains unchanged
+    - diffraction bands become narrower and crowded together
+    - bands become broader and farther apart
+    - bands disappear
+  correct: 1
+
+- id: 135
+  text: |
+    A diffraction pattern is obtained using a beam of red light. What happens if the red light is replaced by blue light ?
+  options:
+    - Diffraction bands become narrower and crowded together
+    - Diffraction bands become broader and farther apart
+    - Diffraction bands disappear
+    - No change
+  correct: 0
+
+- id: 136
+  text: |
+    To observe diffraction, the size of the obstacle
+  options:
+    - should be of the same order as the wavelength
+    - should be much larger than the wavelength
+    - has no relation to wavelength
+    - should be exactly half the wavelength
+  correct: 0
+
+- id: 137
+  text: |
+    When white light is incident on a diffraction grating, the light that will be deviated most from the central image will be:
+  options:
+    - yellow
+    - violet
+    - indigo
+    - red
+  correct: 3
+
+- id: 138
+  text: |
+    Dispersive power of a grating can be defined as
+  options:
+    - the increase in the angle of refraction corresponding to a change in wavelength
+    - increase in the angle of incidence corresponding to a change in wavelength
+    - increase in angle of diffraction corresponding to a change in wavelength
+    - none of the above
+  correct: 2
+
+- id: 139
+  text: |
+    Maximum number of orders available with a grating is
+  options:
+    - independent of the grating element
+    - directly proportional to the grating element
+    - inversely proportional to the grating element
+    - directly proportional to the wavelength
+  correct: 1
+
+- id: 140
+  text: |
+    Which of the following statements is incorrect ? The dispersive power of a grating
+  options:
+    - is inversely proportional to the consine of the angle of diffraction
+    - is directly proportional to the order of the spectrum
+    - is directly proportional to the wavelength
+    - is inversely proportional to the grating element
+  correct: 2
+
+- id: 141
+  text: |
+    For Fraunhofwer diffraction, the first diffraction minima due to a single slit diffraction is at 0=30$^\circ$ for a light of 5000 A$^\circ$ wavelength. The width of the slit is
+  options:
+    - $5 \times 10^5 \, \text{cm}$
+    - $10 \times 10^5 \, \text{cm}$
+    - $2.5 \times 10^5 \, \text{cm}$
+    - $1.25 \times 10^5 \, \text{cm}$
+  correct: 1
+
+- id: 142
+  text: |
+    Monochromatic blue light has been used to obtain the diffraction pattern of a narrow slit on a screen. Keeping the experimental set-up unchanged, if blue light is replaced by red monochromatic light, the diffraction pattern will be
+  options:
+    - wider
+    - narrower
+    - unchanged
+    - disappear
+  correct: 0
+
+- id: 143
+  text: |
+    The condition for observing Fraunhofer diffraction from a single slit is that the light wave front incident on the slit should be
+  options:
+    - spherical
+    - cylindrical
+    - plane
+    - elliptical
+  correct: 2
+
+- id: 144
+  text: |
+    Newton's rigs illustrate the phenomenon of
+  options:
+    - interference
+    - diffraction
+    - polarisation
+    - none of the above
+  correct: 0
+
+- id: 145
+  text: |
+    what is the nature of the source of light in the biprism interference experiment?
+  options:
+    - Narrow slit
+    - Extended source
+    - point source
+    - None of the above
+  correct: 0
+
+- id: 146
+  text: |
+    The diameter of the dark rings in Newton's rings is
+  options:
+    - directly proportional to the square root of odd numbers
+    - inversely proportional to the square root of natural numbers
+    - directly proportional to the square root of even numbers
+    - directly proportional to the square root of natural numbers.
+  correct: 3
+
+- id: 147
+  text: |
+    A thin film having thickness $1 < \lambda$ is seen in white light. It will appear
+  options:
+    - white
+    - red
+    - violet
+    - black
+  correct: 3
+
+- id: 148
+  text: |
+    If one of the two slits of standard young's double-slit interference experiment is painted over so that it transmits half the light intensity of the other.
+  options:
+    - the dark fringes will be brighter and bright ringes darker
+    - the dark fringes will be more dark and bright fringes will be more bright
+    - the fringe pattern will disappear
+    - there will be no effect
+  correct: 0
+
+- id: 149
+  text: |
+    In the Fresnel's biprism experiment, the two coherent sources are obtained by
+  options:
+    - reflection
+    - refraction
+    - internal reflection
+    - two slits
+  correct: 1
+
+- id: 150
+  text: |
+    In young's double slit experiment, the separation between slits is halved and the distance between the slits and the screen is doubled. The fringe width is
+  options:
+    - unchanged
+    - halved
+    - doubled
+    - four times
+  correct: 3
+
+- id: 151
+  text: |
+    What is the ratio of phase difference to the path difference between two light waves?
+  options:
+    - $2\pi\lambda$
+    - $2\pi/\lambda$
+    - $\lambda/2\pi$
+    - $1/2\pi\lambda$
+  correct: 1
+
+- id: 152
+  text: |
+    In a young's double-slit experiment, the source S and two slits S' and S'' are horizontal with the slit S' above the slit S'. The fringes are observed on a vertical screen K. The optical path length from S to S' is increased very slightly (by introducing a transparent material of higher refractive index) and the optical path length from S to S' is not changed. As a result, the fringe system on K moves
+  options:
+    - horizontally, slightly to the left
+    - horizontally, slightly to the right
+    - vertically downwards slightly
+    - vertically upwards slightly
+  correct: 2
+
+- id: 153
+  text: |
+    Two sources of light are said to be coherent when both give out light waves of same
+  options:
+    - amplitude and phase
+    - wavelength and constant phase difference
+    - intensity and wavelength
+    - phase and speed
+  correct: 1
+
+- id: 154
+  text: |
+    When a light wave suffers reflection at the interface between air and glass medium, the change of phase of the reflected wave in the medium is equal to
+  options:
+    - 0
+    - $\pi/2$
+    - $\pi$
+    - $2\pi$
+  correct: 2
+
+- id: 155
+  text: |
+    To obtain sustained interference, we need two sources which emit radiations.
+  options:
+    - The two sources should be coherent.
+    - The two sources must emit continuous waves of the same wavelength and time period.
+    - Both a and b are required
+    - none of the above
+  correct: 2
+
+- id: 156
+  text: |
+    Two slits illuminated with red light of 650 nm wavelength are separated by a distance of 1 mm. The interference fringes are observed on a screen placed 1m from the slits. The distance between the third dark fringe and the fifth bright fringe is equal to
+  options:
+    - 0.65mm
+    - 1.63mm
+    - 3.25mm
+    - 4.88mm
+  correct: 1
+
+- id: 157
+  text: |
+    In young's double slit experiment, maxima is obtained when path difference between interfering wave is (n=0,1,2,3,4...)
+  options:
+    - nλ/2
+    - nλ
+    - (2n+1)λ/2
+    - none of the above
+  correct: 1
+
+- id: 158
+  text: |
+    We shift Young's double slit experiment from air to water. Assuming that water is still and clear, it can be predicted that the fringe pattern will
+  options:
+    - remain unchanged
+    - disappear
+    - shrink
+    - be enlarged
+  correct: 2
+
+- id: 159
+  text: |
+    To observe interference in thin films with a light of wavelength λ, the thickness of the film
+  options:
+    - should be a few thousand time of λ
+    - can be of any magnitude
+    - should be of the order of wavelength of light used
+    - Should be much smaller than λ
+  correct: 2
+
+- id: 160
+  text: |
+    Monochromatic light from a narrow slit illuminates two parallel narrow slits producing an interference pattern on a screen placed at a large distance as compared to the separation of two slits. The separation between the two slits is made twice and the distance between the screen and the slit is reduced to half. The fringe width
+  options:
+    - is doubled
+    - becomes four times
+    - becomes one fourth
+    - remains the same
+  correct: 2
+
+- id: 161
+  text: |
+    In Young's double slit experiment, if the slit widths are in the ratio 1:9, the ratio of the intensity at minima to the maxima will be
+  options:
+    - 1
+    - 1/9
+    - 1/4
+    - 1/3
+  correct: 2
+
+- id: 162
+  text: |
+    Two waves having the intensities in the ratio of 9:1 produce interference. The ratio of maximum to minimum intensity is equal to
+  options:
+    - 10:8
+    - 9:1
+    - 4:1
+    - 2:1
+  correct: 2
+
+- id: 163
+  text: |
+    Oil floating on water looks coloured due to interference of light. The approximate thickness of oil for such effect to be visible is
+  options:
+    - 100 A$^0$
+    - 10,000A$^0$
+    - 1mm
+    - 1cm
+  correct: 1
+
+- id: 164
+  text: |
+    A thin film is observed in white light. The colour of the film seen at a particular point depends upon the
+  options:
+    - width of the source
+    - distance of the source
+    - location of the observer
+    - none of the above
+  correct: 2
+
+- id: 165
+  text: |
+    During the interference of light, energy is
+  options:
+    - created at the maxima
+    - destroyed at the minima
+    - not conserved
+    - redistributed
+  correct: 3
+
+- id: 166
+  text: |
+    What should be the thickness of an oil film on the water surface to enable one to see the colours in it?
+  options:
+    - 1nm
+    - 1μm
+    - 1mm
+    - 1cm
+  correct: 1
+
+- id: 167
+  text: |
+    In an interference pattern produced by two identical slits, the intensity at the site of maxima is I. If either slit is closed, the intensity at the same spot is $I_0$. What is the relation between I and $I_0$?
+  options:
+    - $I = I_0$
+    - $I = 2I_0$
+    - $I = 4I_0$
+    - $I = 16I_0$
+  correct: 2
+
+- id: 168
+  text: |
+    Two light beams of intensities $\Gamma$ and $\Gamma'$ produce an interference pattern. The contrast between the fringes is the best when
+  options:
+    - $\Gamma = \Gamma'/2$
+    - $\Gamma = \Gamma'/3$
+    - $\Gamma = \Gamma'/4$
+    - $\Gamma = \Gamma'$
+  correct: 3
+
+- id: 169
+  text: |
+    The aperture of the largest telescope in the world is approximately 5 meters. If the separation between the moon and the earth is approximately $4 \times 10^8 \, \text{m}$ and the wavelength of the visible light is 500nm then the minimum separation between objects on the surface of the moon which can be just resolved is
+  options:
+    - 1m approximately
+    - 10m approximately
+    - 50m approximately
+    - 200m approximately
+  correct: 2
+
+- id: 170
+  text: |
+    The resoling power of a microscope is
+  options:
+    - unlimited
+    - limited by the diameter of the objective lens
+    - limited by the kind of glass used
+    - limited by wavelength of light used
+  correct: 1
+
+- id: 171
+  text: |
+    Which of the following is not a property.
+  options:
+    - Coherence
+    - Highly directional
+    - Extreme brightness
+    - divergence
+  correct: 3
+
+- id: 172
+  text: |
+    A man wants to see two poles separately, situated at 11km. The mainimum distance between these poles will be?
+  options:
+    - 1m
+    - 3m
+    - 0.5m
+    - 5m
+  correct: 1
+
+- id: 173
+  text: |
+    The criterion of resolution of optical instruments was given by
+  options:
+    - Newton
+    - Rayleigh
+    - Huygens
+    - Ramsdens
+  correct: 1
+
+- id: 174
+  text: |
+    The resolving power of a telescope depends on
+  options:
+    - the magnification of the eye piece
+    - the focal length of the objective lens
+    - diameter of the objective lens
+    - refractive index of the objective lens
+  correct: 2
+
+- id: 175
+  text: |
+    The resolving power of a telescope depends on
+  options:
+    - the focal length of the eyelens
+    - the focal length of the objective lens
+    - length of the telescope
+    - diameter of the objective lens
+  correct: 3
+
+- id: 176
+  text: |
+    The resolving power of a prism is
+  options:
+    - directly proportional to the rate of change of refractive index with wavelength
+    - Inversely proportional to the rate of change of refractive index with wavelength
+    - inversely proportional to the thickness of the prism
+    - independent of thickness of prism
+  correct: 0
+
+- id: 177
+  text: |
+    If the red light is replaced by blue light illuminating the object in a microscope, the resolving power of the microscope
+  options:
+    - decreases
+    - increases
+    - gets halved
+    - remains unchanged
+  correct: 1
+
+- id: 178
+  text: |
+    A telescope having smaller diameter will have
+  options:
+    - higher resolving power
+    - medium resolving power
+    - lower resolving power
+    - none of the above
+  correct: 2
+
+- id: 179
+  text: |
+    A limit on the performance of a resolving instrument is set by
+  options:
+    - quantum nature of light
+    - interference of light
+    - diffraction of light
+    - polarization of light
+  correct: 2
+
+- id: 180
+  text: |
+    The wavelengths of light used in an optical instrument are $\lambda_1 = 400$nm and $\lambda_2 = 500$nm then ratio of their respective resolving powers corresponding to $\lambda_1$ and $\lambda_2$ is
+  options:
+    - 16:25
+    - 9:1
+    - 4:5
+    - 5:4
+  correct: 3
+
+- id: 181
+  text: |
+    To increase both the resolving power and magnifying power of a telescope.
+  options:
+    - the focal length of the objective has to be increased
+    - both the focal length and aperture of the objective has to be increased
+    - the wavelength of light has to be decreased
+    - the aperture of the objective has to be increased
+  correct: 1
+
+- id: 182
+  text: |
+    The resolving power of a telescope whose lens has a diameter of 1.22m for a wavelength of 500nm is
+  options:
+    - 200000
+    - 2000000
+    - 2
+    - 20000
+  correct: 1
+
+- id: 183
+  text: |
+    An astronaut is looking down on the earth's surface from a space shuttle at an altitude of 400km. Assuming that the astronaut's pupil diameter is 5mm and the wavelength of visible light is 500nm, the astronaut will be able to see a linear object of the size of about
+  options:
+    - 0.5m
+    - 5m
+    - 50m
+    - 500m
+  correct: 2
+
+- id: 184
+  text: |
+    The diameter of the objective of a telescope is 1m. Its resolving limit for the light of 453.8nm wavelength, will be
+  options:
+    - 5.54$\times$10$^7$rad
+    - 2.54$\times$10$^7$rad
+    - 6.54$\times$10$^7$rad
+    - none of these
+  correct: 0
+
+- id: 185
+  text: |
+    The resolving power of a reflecting telescope depends
+  options:
+    - on the intensity of light used
+    - directly on wavelength of the light used
+    - on the focal length of objective lens
+    - directly on the diameter of the objective lens
+  correct: 3
+
+- id: 186
+  text: |
+    The resolution limit of the eye is 1 minute. At a distance of x Km from the eye, two persons stand with a lateral separation of 3 meters, for the two persons to be just resolved by the naked eye, x should be
+  options:
+    - 10Km
+    - 15Km
+    - 20Km
+    - 30Km
+  correct: 0
+
+- id: 187
+  text: |
+    The largest telescope in the world has a reflector with an aperture 200" to get
+  options:
+    - the least spherical aberration
+    - high resolving power
+    - low dispersive power
+    - high accommodating power
+  correct: 1

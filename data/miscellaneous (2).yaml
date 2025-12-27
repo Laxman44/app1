@@ -1,0 +1,352 @@
+- id: 1
+  text: |
+    A ball is held 50cm in front of a plane mirror. The distance between the ball and its image is
+  options:
+    - 100cm
+    - 150cm
+    - 200cm
+    - 50cm
+  correct: 0
+
+- id: 2
+  text: |
+    A 5 ft women wishes to see a full length image of herself-in plane mirror. The minimum length of mirror required is
+  options:
+    - 5ft
+    - 10ft
+    - 2.5ft
+    - 3.54ft
+  correct: 2
+
+- id: 3
+  text: |
+    Two plane mirrors make an angle of $120^\circ$ with each other. The maximum number of images of an object placed between them is
+  options:
+    - 1
+    - 2
+    - 3
+    - 4
+  correct: 1
+
+- id: 4
+  text: |
+    The focal length of spherical mirror is N times its radius of curvature where N is
+  options:
+    - 1/4
+    - 1/2
+    - 1
+    - 2
+  correct: 1
+
+- id: 5
+  text: |
+    A concave spherical mirror has a focal length of 12cm. If an object is placed 6cm in front of it, the image position is
+  options:
+    - 4cm behind the mirror
+    - 4cm infront of the mirror
+    - 12cm behind the mirror
+    - At infinity
+  correct: 2
+
+- id: 6
+  text: |
+    A concave spherical surface with radius r separates a medium with index of refraction 2 from air. As an object is moved towards the surface from far away along the central axis, its image
+  options:
+    - changes from virtual to real when it is r/2 distance
+    - change from virtual to real when it is 2r distance
+    - changes from real to virtual when it is r/2 distance
+    - remains virtual
+  correct: 3
+
+- id: 7
+  text: |
+    If P denote the object lens and i the image distance. The image produced by a lens of focal length f has a height that can be obtained from the object height by multiplying it by
+  options:
+    - p/i
+    - i/p
+    - f/i
+    - i/f
+  correct: 1
+
+- id: 8
+  text: |
+    A magnifying glass has a focal length of 15cm. If the near point of the eye is 25cm from the eye the angular magnification of the glass is about
+  options:
+    - 0.067
+    - 0.33
+    - 0.67
+    - 1.7
+  correct: 3
+
+- id: 9
+  text: |
+    A conversing lens of focal length 20cm is placed in contact with a conversing lens of focal length 30cm. The focal length of this combination is
+  options:
+    - +10cm
+    - -10cm
+    - +60cm
+    - -60cm
+  correct: 0
+
+- id: 10
+  text: |
+    Two thin lenses (focal length f1 and f2) are in contact. Their equivalent focal length is
+  options:
+    - f1+f2
+    - f1f2/(f1+f2)
+    - 1/f1+f/f2
+    - f1-f2
+  correct: 1
+
+- id: 11
+  text: |
+    A bird is flying towards a large concave mirror along its principal axis, the size of its image in the mirror.
+  options:
+    - increase gradually
+    - Decrease gradually
+    - First increases and then decrease
+    - First decreases and then increases
+  correct: 2
+
+- id: 12
+  text: |
+    A concave mirror of focal length 'f' is immersed into water ($\mu_0=4/3$). The focal length of mirror inside water is
+  options:
+    - more than 'f'
+    - f
+    - less than 'f'
+    - 4/3f
+  correct: 1
+
+- id: 13
+  text: |
+    The distance between an object and a diversing lens is x times the focal length of that lens. The lateral magnification will be
+  options:
+    - x
+    - 1/x
+    - x+1
+    - 1/x+1
+  correct: 3
+
+- id: 14
+  text: |
+    The refractive index of a medium is greatest for
+  options:
+    - red light
+    - yellow light
+    - green light
+    - violet light
+  correct: 3
+
+- id: 15
+  text: |
+    When the moon is near horizon it appears bigger due to
+  options:
+    - atomospheric refraction
+    - scattering of light
+    - diffraction
+    - total internal reflection
+  correct: 0
+
+- id: 16
+  text: |
+    Optical fibre are based on the principle of
+  options:
+    - interference
+    - dispersion
+    - refraction
+    - total internal reflection
+  correct: 3
+
+- id: 17
+  text: |
+    Oh heating a liquid refractive index generally
+  options:
+    - increases
+    - decreases
+    - does not change
+    - does not depends on temperature
+  correct: 1
+
+- id: 18
+  text: |
+    The refractive index of diamond is 2.4. The speed of light in diamond is
+  options:
+    - $1.25\times10^5$m/s
+    - $8\times10^7$m/s
+    - $2.4\times10^8$m/s
+    - $3\times10^8$m/s
+  correct: 0
+
+- id: 19
+  text: |
+    If the refractive index of water is 4/3 and that of given slab of glass immersed in it is 5/3. What is the critical angle for a ray of light tending to go from glass to water
+  options:
+    - $\sin^{-1}(3/4)$
+    - $\sin^{-1}(3/5)$
+    - $\sin^{-1}(4/5)$
+    - Information given are not sufficient
+  correct: 2
+
+- id: 20
+  text: |
+    Light of wavelength 720nm in air has wavelength in glass ($\mu=1.5$) equal to
+  options:
+    - 720nm
+    - 480nm
+    - 800nm
+    - 640nm
+  correct: 1
+
+- id: 21
+  text: |
+    When light enters from air to water. Then its
+  options:
+    - frequency increases and speed decreases
+    - Frequency is same but the wave length is smaller in water than air.
+    - Frequency is same but the wave length in water is greater than in air.
+    - Frequency decreases and wave length is smaller in water than in air.
+  correct: 1
+
+- id: 22
+  text: |
+    A completely transparent material will be invisible in vaccum when refractive index of the material is
+  options:
+    - Unity
+    - More than unity
+    - less than unity
+    - infinite
+  correct: 0
+
+- id: 23
+  text: |
+    An air bubble in the slab ($\mu=1.5$) appears 6cm from one side and 4cm from another side. The real thickness of glass slab is
+  options:
+    - 10cm
+    - 6.67cm
+    - 15cm
+    - cannot be estimated
+  correct: 2
+
+- id: 24
+  text: |
+    If half of the body of a lens is covered with black paper the image produced by the lens will
+  options:
+    - Disappear
+    - Remains almost unaffected
+    - Have its size reduced to half
+    - Have into intensity reduced
+  correct: 3
+
+- id: 25
+  text: |
+    When second face of a convex lens is silvered it behaves as a
+  options:
+    - convex lens
+    - Concave mirror
+    - Convex mirror
+    - as a plate
+  correct: 1
+
+- id: 26
+  text: |
+    The mid portion of a biconcane lens of focal length 'f' is painted black, parallel beam of light is incident on the lens, then the no of image formed is
+  options:
+    - 1
+    - 2
+    - 4
+    - none
+  correct: 0
+
+- id: 27
+  text: |
+    An object is placed at focus of a concave lens of focal length 'f'. Then image is formed at distance.
+  options:
+    - $\infty$
+    - f
+    - f/2
+    - 2f
+  correct: 2
+
+- id: 28
+  text: |
+    A concavo - convex lens of refractive index 5/3 has radii of curvature 30cm and 40cm. It's focal length will be
+  options:
+    - 60cm
+    - 90cm
+    - 120cm
+    - 180cm
+  correct: 3
+
+- id: 29
+  text: |
+    If a planoconcave lens has radius of curvature of concave surface 10cm and the focal length of the lens 15cm, the refractive index of the material of the lens will be
+  options:
+    - 3/2
+    - 5/3
+    - 4/3
+    - 3
+  correct: 1
+
+- id: 30
+  text: |
+    A biconvex lens is placed in contact with a plane mirror. If the space between them is filled with water, its power will
+  options:
+    - Decreases
+    - Increases
+    - remains unchanged
+    - Increases or decreased according to focal length
+  correct: 0
+
+- id: 31
+  text: |
+    Two thin lenses of focal lengths +60cm and -20cm are placed in contact. The focal length of combination is
+  options:
+    - +15cm
+    - -15cm
+    - +30cm
+    - -30cm
+  correct: 3
+
+- id: 32
+  text: |
+    A double convex thin lens made of glass of refractive index 1.6 has radius of curvature 15cm each. the focal length of this lens when immersed in a fluid of refractive index 1.63 is
+  options:
+    - -407.5cm
+    - +407.5cm
+    - 125cm
+    - 25cm
+  correct: 0
+
+- id: 33
+  text: |
+    The combination of achromatic for paraxial rays is
+    \[d = \frac{r}{\mu - l}\]
+    a. \[r = r(\mu - l)\]
+    Where $\mu$ and $r$ are the refractual index and radius of each glass hemi sphere.
+  options:
+    - \[r = r(\mu - l)\]
+    - [Diagram/Visual context placeholder]
+    - [Diagram/Visual context placeholder]
+    - [Diagram/Visual context placeholder]
+  correct: 0
+
+- id: 34
+  text: |
+    A uniform thin film of soapy water with index of refraction n=1.33 is viewed in air via reflected light. The film appears dark for long wavelengths and first appears bring for $\lambda = 540$nm. What is the next shorter wavelength at which the film will appear bright on reflection?
+  options:
+    - 135nm
+    - 180nm
+    - 270nm
+    - 320nm
+  correct: 1
+
+- id: 35
+  text: |
+    It is necessary to coat a glass lens with a non reflecting layer. If the wave length of ligh is the coating is $\lambda$, the best choice is a layer of material having an index of refraction between those of glass and air and a thickness of
+  options:
+    - $\lambda /4$
+    - $\lambda /2$
+    - $\lambda / \sqrt{2}$
+    - $\lambda$
+  correct: 0
