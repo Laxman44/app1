@@ -1,0 +1,575 @@
+- id: 1
+  text: |
+    Intrinsic semiconductor at absolute zero behaves as
+  options:
+    - insulator
+    - metal
+    - semiconductor
+  correct: 0
+
+- id: 2
+  text: |
+    An electron in conduction band has
+  options:
+    - no charge
+    - higher energy than electron in the valance band
+    - low energy than the electron in the valance band
+  correct: 1
+
+- id: 3
+  text: |
+    At room temperature when voltage is applied to the intrinsic semiconductor
+  options:
+    - electrons move towards the positive terminal and holes move towards the negative terminal
+    - both holes and electrons move to wards the positive terminal
+    - booth holes and electrons move to wards the negative terminal
+  correct: 0
+
+- id: 4
+  text: |
+    With the increase in the temperature of intrinsic semiconductor
+  options:
+    - energy of atom increases
+    - holes are generated in the conduction band
+    - resistance of the semiconductor in creases
+  correct: 0
+
+- id: 5
+  text: |
+    The conduction band in intrinsic semiconductor is
+  options:
+    - above the valence hand
+    - below the valence band
+    - in the valance band
+    - in the band gap
+  correct: 0
+
+- id: 6
+  text: |
+    Mobile electrons are found in
+  options:
+    - conduction band
+    - valence band
+    - both a and b
+    - none
+  correct: 0
+
+- id: 7
+  text: |
+    Holes are found in
+  options:
+    - conduction band
+    - valence band
+    - both a and b
+    - none
+  correct: 1
+
+- id: 8
+  text: |
+    With the addition of pentavalent impurity to the intrinsic semiconductor, we get
+  options:
+    - n-type semiconductor
+    - p-type semiconductor
+    - intrinsic semiconductor
+    - none
+  correct: 0
+
+- id: 9
+  text: |
+    In n-type semiconductor, the number of electrons is
+  options:
+    - equal to number of holes
+    - less than number of holes
+    - more than number of holes
+    - none
+  correct: 2
+
+- id: 10
+  text: |
+    In n-type semiconductor, the Fermi level lies
+  options:
+    - near the conduction band
+    - near the valence band
+    - in the middle of energy gap
+    - none
+  correct: 0
+
+- id: 11
+  text: |
+    The energy gap of germanium is
+  options:
+    - 1.12 ev
+    - 1.21 ev
+    - 0.50 ev
+    - 0.72 ev
+  correct: 3
+
+- id: 12
+  text: |
+    With the addition of trivalent impurity to the intrinsic semiconductor, we get
+  options:
+    - n-type semiconductor
+    - intrinsic semiconductor
+    - p-type semiconductor
+    - none
+  correct: 2
+
+- id: 13
+  text: |
+    The probability of finding the electron at the Fermi level is
+  options:
+    - 1
+    - 0.5
+    - 0
+    - none
+  correct: 1
+
+- id: 14
+  text: |
+    In p-type semiconductor, the Fermi level lies
+  options:
+    - near the conduction band
+    - near the valence band
+    - in the middle of energy gap
+    - none
+  correct: 1
+
+- id: 15
+  text: |
+    The majority charge carriers in p-type semiconductors are
+  options:
+    - holes
+    - electrons
+    - both a and b
+    - none
+  correct: 0
+
+- id: 16
+  text: |
+    A hole behaves like
+  options:
+    - a positive charge
+    - a negative charge
+    - a neutral particle
+    - none
+  correct: 0
+
+- id: 17
+  text: |
+    The number of holes in intrinsic semiconductor is given by
+  options:
+    - $n_i$
+    - $p_i$
+    - $n_i = p_i$
+    - none
+  correct: 2
+
+- id: 18
+  text: |
+    The mobility of electrons is ____ than mobility of holes.
+  options:
+    - greater
+    - smaller
+    - equal
+    - none
+  correct: 0
+
+- id: 19
+  text: |
+    Effective mass is related to real mass as
+  options:
+    - $m^* > m$
+    - $m^* < m$
+    - $m^* = m$
+    - none
+  correct: 0
+
+- id: 20
+  text: |
+    The forbidden energy gap in Si is
+  options:
+    - 1.12 ev
+    - 0.72 ev
+    - 0.50 ev
+    - none
+  correct: 0
+
+- id: 21
+  text: |
+    Hall effect can be used to determine
+  options:
+    - carrier concentration
+    - mobility
+    - sign of charge carriers
+    - all of above
+  correct: 3
+
+- id: 22
+  text: |
+    Hall coefficient $R_H$ is given by
+  options:
+    - $1/ne$
+    - $ne$
+    - $n/e$
+    - $e/n$
+  correct: 0
+
+- id: 23
+  text: |
+    The units of mobility are
+  options:
+    - $m^2/V-sec$
+    - $V/m-sec$
+    - $m/V-sec$
+    - none
+  correct: 0
+
+- id: 24
+  text: |
+    The Kronig-Penney model describes
+  options:
+    - the motion of electron in a periodic potential
+    - the vibration of lattice
+    - the bonding in crystals
+    - none
+  correct: 0
+
+- id: 25
+  text: |
+    In the Kronig-Penney model, the energy spectrum of electrons consists of
+  options:
+    - allowed and forbidden energy bands
+    - only allowed energy bands
+    - only forbidden energy bands
+    - none
+  correct: 0
+
+- id: 26
+  text: |
+    The number of states in a band is
+  options:
+    - $2N$
+    - $N$
+    - $N/2$
+    - $3N$
+  correct: 0
+
+- id: 27
+  text: |
+    At $K = \pi/a$, the energy $E$ has
+  options:
+    - a discontinuity
+    - a maximum
+    - a minimum
+    - none
+  correct: 0
+
+- id: 28
+  text: |
+    A zone in which the energy is continuous is called
+  options:
+    - Brillouin zone
+    - conduction band
+    - valence band
+    - none
+  correct: 0
+
+- id: 29
+  text: |
+    The first Brillouin zone for a linear lattice extends from
+  options:
+    - $-\pi/a$ to $+\pi/a$
+    - $0$ to $\pi/a$
+    - $-\pi/a$ to $0$
+    - none
+  correct: 0
+
+- id: 30
+  text: |
+    The effective mass $m^*$ of an electron is given by
+  options:
+    - $\hbar^2 / (d^2E/dk^2)$
+    - $d^2E/dk^2$
+    - $\hbar / (dE/dk)$
+    - none
+  correct: 0
+
+- id: 31
+  text: |
+    Near the bottom of the band, the effective mass is
+  options:
+    - positive
+    - negative
+    - zero
+    - infinite
+  correct: 0
+
+- id: 32
+  text: |
+    Near the top of the band, the effective mass is
+  options:
+    - negative
+    - positive
+    - zero
+    - infinite
+  correct: 0
+
+- id: 33
+  text: |
+    Point defects are
+  options:
+    - zero dimensional defects
+    - one dimensional defects
+    - two dimensional defects
+    - three dimensional defects
+  correct: 0
+
+- id: 34
+  text: |
+    Line defects are
+  options:
+    - one dimensional defects
+    - zero dimensional defects
+    - two dimensional defects
+    - three dimensional defects
+  correct: 0
+
+- id: 35
+  text: |
+    Schottky defect is a
+  options:
+    - point defect
+    - line defect
+    - surface defect
+    - volume defect
+  correct: 0
+
+- id: 36
+  text: |
+    Frenkel defect is a
+  options:
+    - point defect
+    - line defect
+    - surface defect
+    - volume defect
+  correct: 0
+
+- id: 37
+  text: |
+    Edge dislocation is a
+  options:
+    - line defect
+    - point defect
+    - surface defect
+    - volume defect
+  correct: 0
+
+- id: 38
+  text: |
+    Screw dislocation is a
+  options:
+    - line defect
+    - point defect
+    - surface defect
+    - volume defect
+  correct: 0
+
+- id: 39
+  text: |
+    The number of Schottky defects $n$ at temperature $T$ is given by
+  options:
+    - $N e^{-E_p/2kT}$
+    - $N e^{-E_p/kT}$
+    - $N e^{E_p/kT}$
+    - none
+  correct: 0
+
+- id: 40
+  text: |
+    The number of Frenkel defects $n$ at temperature $T$ is given by
+  options:
+    - $(NN_i)^{1/2} e^{-E_i/2kT}$
+    - $N e^{-E_i/kT}$
+    - $N_i e^{-E_i/kT}$
+    - none
+  correct: 0
+
+- id: 41
+  text: |
+    Burger's vector $\vec{b}$ is perpendicular to the dislocation line in
+  options:
+    - edge dislocation
+    - screw dislocation
+    - mixed dislocation
+    - none
+  correct: 0
+
+- id: 42
+  text: |
+    Burger's vector $\vec{b}$ is parallel to the dislocation line in
+  options:
+    - screw dislocation
+    - edge dislocation
+    - mixed dislocation
+    - none
+  correct: 0
+
+- id: 43
+  text: |
+    The color of ionic crystals is often due to
+  options:
+    - F-centres
+    - dislocations
+    - grain boundaries
+    - none
+  correct: 0
+
+- id: 44
+  text: |
+    Grain boundaries are
+  options:
+    - surface defects
+    - point defects
+    - line defects
+    - volume defects
+  correct: 0
+
+- id: 45
+  text: |
+    In the Kronig-Penney model, for $P \rightarrow 0$, the energy spectrum is
+  options:
+    - continuous
+    - discrete
+    - both a and b
+    - none
+  correct: 0
+
+- id: 46
+  text: |
+    In the Kronig-Penney model, for $P \rightarrow \infty$, the energy spectrum is
+  options:
+    - discrete
+    - continuous
+    - both a and b
+    - none
+  correct: 0
+
+- id: 47
+  text: |
+    The velocity of an electron in a band is given by
+  options:
+    - $(1/\hbar)(dE/dk)$
+    - $dE/dk$
+    - $\hbar(dE/dk)$
+    - none
+  correct: 0
+
+- id: 48
+  text: |
+    An electron with a negative effective mass behaves like
+  options:
+    - a hole
+    - a positive charge
+    - both a and b
+    - none
+  correct: 2
+
+- id: 49
+  text: |
+    Surface defects are
+  options:
+    - two dimensional
+    - one dimensional
+    - zero dimensional
+    - three dimensional
+  correct: 0
+
+- id: 50
+  text: |
+    Stacking faults are
+  options:
+    - surface defects
+    - point defects
+    - line defects
+    - volume defects
+  correct: 0
+
+- id: 51
+  text: |
+    Dislocations can move in the following way
+  options:
+    - Slip
+    - Climb
+    - Cross-slip
+    - All
+  correct: 3
+
+- id: 52
+  text: |
+    The movement of dislocation in a direction perpendicular to the slip plane is
+  options:
+    - Climb
+    - Slip
+    - Edge dislocation
+    - Constitution of F-centre
+  correct: 0
+
+- id: 53
+  text: |
+    Conservative movement of dislocations
+  options:
+    - Slip
+    - Climb
+    - Both slip and climb
+    - None
+  correct: 0
+
+- id: 54
+  text: |
+    Typical density of dislocations in a solid
+  options:
+    - $10^8-10^{10} \mu m^{-2}$
+    - $10^8-10^{10} mm^{-2}$
+    - $10^8-10^{10} cm^{-2}$
+    - $10^8-10 m^{-2}$
+  correct: 2
+
+- id: 55
+  text: |
+    Burger's vector changes with
+  options:
+    - Kind of dislocating
+    - Length of dislocation
+    - Both kind and length of dislocation
+    - None
+  correct: 0
+
+- id: 56
+  text: |
+    Which of the following is false?
+  options:
+    - Line defects are thermodynamically stable
+    - Point defects are thermodynamically stable
+    - Point defects depend on temperature
+    - All
+  correct: 0
+
+- id: 57
+  text: |
+    F-centre is related with
+  options:
+    - Frenkel defect
+    - Schottky defect
+    - Edge dislocation
+    - Constitution of F-centre
+  correct: 1
+
+- id: 58
+  text: |
+    Schootky defect in crystals is observed when,
+  options:
+    - Unequal number of cations and anions are missing from the lattice.
+    - Equal no of cations and anions are missing from the lattice
+    - Anion leaves its normal site and occupies an interstitial space.
+    - Density of crystal is increased.
+  correct: 1

@@ -1,0 +1,1069 @@
+- id: 1
+  text: |
+    If the atoms or molecules in a solid are periodical at regular, intervals of distances in three dimensions, then that solid is known as:
+  options:
+    - crystalline solid
+    - amorphous solid
+    - liquid crystals
+    - none
+  correct: 0
+
+- id: 2
+  text: |
+    Unit cells for most of the crystals are:
+  options:
+    - spherical
+    - elliptical
+    - parallelopiped
+    - none
+  correct: 2
+
+- id: 3
+  text: |
+    Crystallographic axes are obtained by the intersection of three non coplanar faces of the unit cell.
+  options:
+    - three
+    - four
+    - five
+    - six
+  correct: 0
+
+- id: 4
+  text: |
+    The number of crystal system is:
+  options:
+    - 5
+    - 7
+    - 14
+    - 21
+  correct: 1
+
+- id: 5
+  text: |
+    The number of Bravais lattices is:
+  options:
+    - 256
+    - 7
+    - 14
+    - 37
+  correct: 2
+
+- id: 6
+  text: |
+    A cubic crystal system is represented by:
+  options:
+    - $a=b=c$, $\alpha=\beta=\gamma\ne90^{\circ}$
+    - $a=b\ne c$, $\alpha=\beta=\gamma=90^{\circ}$
+    - $a=b=c$, $\alpha=\beta=\gamma=90^{\circ}$
+    - $a\ne b=c$, $\alpha=\beta=\gamma=90^{\circ}$
+  correct: 2
+
+- id: 7
+  text: |
+    Orthorhombic crystal system is represented by
+  options:
+    - $a=b=c$, $\alpha=\beta=\gamma=90^{\circ}$
+    - $a\ne b\ne c$, $\alpha=\beta=\gamma=90^{\circ}$
+    - $a\ne b\ne c$, $\alpha=\beta=\gamma\ne90^{\circ}$
+    - $a\ne b\ne c$, $\alpha\ne\beta\ne\gamma\ne90^{\circ}$
+  correct: 1
+
+- id: 8
+  text: |
+    Tetragonal crystal system is represented by
+  options:
+    - $a=b\ne c$, $\alpha=\beta=\gamma=90^{\circ}$
+    - $a\ne b\ne c$, $\alpha=\beta=\gamma=90^{\circ}$
+    - $a=b=c$, $\alpha=\beta=\gamma=90^{\circ}$
+    - $a=b=c$, $\alpha=\beta=\gamma\ne90^{\circ}$
+  correct: 0
+
+- id: 9
+  text: |
+    Monoclinic crystal system is represented by
+  options:
+    - $a\ne b\ne c$, $\alpha\ne\beta\ne\gamma\ne90^{\circ}$
+    - $a\ne b\ne c$, $\alpha=\gamma=90^{\circ}, \beta\ne90^{\circ}$
+    - $a=b=c$, $\alpha=\gamma=90^{\circ}, \beta=90^{\circ}$
+    - $a\ne b=c$, $\alpha=\gamma=90^{\circ}, \beta=90^{\circ}$
+  correct: 1
+
+- id: 10
+  text: |
+    Triclinic crystal ssytem is represented by
+  options:
+    - $a\ne b\ne c$, $\alpha\ne\beta\ne\gamma\ne90^{\circ}$
+    - $a\ne b=c$, $\alpha\ne\beta\ne\gamma\ne90^{\circ}$
+    - $a=b\ne c$, $\alpha\ne\beta\ne\gamma\ne90^{\circ}$
+    - $a\ne b\ne c$, $\alpha=\beta=\gamma\ne90^{\circ}$
+  correct: 0
+
+- id: 11
+  text: |
+    Rhombohedral (trigonal) represented by
+  options:
+    - $a=b\ne c$, $\alpha=\beta=\gamma=90^{\circ}$
+    - $a=b=c$, $\alpha=\beta=\gamma\ne90^{\circ}$
+    - $a=b=c$, $\alpha=\beta\ne\gamma=90^{\circ}$
+    - $a\ne b=c$, $\alpha=\beta=\gamma\ne90^{\circ}$
+  correct: 1
+
+- id: 12
+  text: |
+    Hexagonal crystal system is represented by
+  options:
+    - $a=b\ne c$, $\alpha=\beta=\gamma\ne90^{\circ}$
+    - $a=b=c$, $\alpha=\beta=90^{\circ}, \gamma=120^{\circ}$
+    - $a=b\ne c$, $\alpha=\beta=90^{\circ}, \gamma=120^{\circ}$
+    - $a=b\ne c$, $\alpha=\beta=120^{\circ}, \gamma=90^{\circ}$
+  correct: 2
+
+- id: 13
+  text: |
+    The number of atoms per unit cell of BCC system is
+  options:
+    - 1
+    - 2
+    - 3
+    - 4
+  correct: 1
+
+- id: 14
+  text: |
+    In body centred cubic structure, the length of unit cell edge interms of radius of atom (r) is
+  options:
+    - $\frac{4}{3}r$
+    - $\frac{4}{\sqrt{3}}r$
+    - $\frac{\sqrt{4}}{3}r$
+    - $\frac{4}{3}\sqrt{r}$
+  correct: 1
+
+- id: 15
+  text: |
+    The packing factor of BCC structure is
+  options:
+    - 68%
+    - 52%
+    - 74%
+    - 46%
+  correct: 0
+
+- id: 16
+  text: |
+    The packing factor of face centred cubic structure is:
+  options:
+    - 68%
+    - 52%
+    - 74%
+    - 46%
+  correct: 2
+
+- id: 17
+  text: |
+    The total number of atoms per unit cell of diamond is:
+  options:
+    - 2
+    - 4
+    - 6
+    - 8
+  correct: 3
+
+- id: 18
+  text: |
+    the unit cell of NaCl contains number of NaCl molecules
+  options:
+    - 2
+    - 4
+    - 6
+    - 8
+  correct: 1
+
+- id: 19
+  text: |
+    The bravais lattice of ZnS is:
+  options:
+    - simple cubic
+    - body centred cubic
+    - face centred cubic
+    - none
+  correct: 2
+
+- id: 20
+  text: |
+    When the periodicity of atoms or molecules is extended throughout the solid, then it is known as solid.
+  options:
+    - single crystalline
+    - polycrystalline
+    - amorphous
+    - none
+  correct: 0
+
+- id: 21
+  text: |
+    If the periodicity of atoms or molecules is extended in large number of small regions of different sizes in the solid, then it is known as:
+  options:
+    - single crystalline solid
+    - polycrystalline solid
+    - amporphous solid
+    - none
+  correct: 1
+
+- id: 22
+  text: |
+    The study of geometric form and other physical properties of crystalline solids by using X-ray, electron beam and neutron beam constitute:
+  options:
+    - spectroscopy
+    - physoterapy
+    - crystallography
+    - none
+  correct: 2
+
+- id: 23
+  text: |
+    If an atom or a unit of atoms in a crystal is replaced by a point in space, then it results points is space is called:
+  options:
+    - space lattice
+    - crystal symmetry
+    - spectrum
+    - diffraction
+  correct: 0
+
+- id: 24
+  text: |
+    If the surroundings of each lattice point is the same or the lattice points are identical, then such a lattice is called:
+  options:
+    - Bravais lattice
+    - space lattice
+    - Braggs lattice
+    - none
+  correct: 0
+
+- id: 25
+  text: |
+    The arrangement of atoms in a crystal is called:
+  options:
+    - lattice
+    - crystal structure
+    - crystal summetry
+    - none
+  correct: 1
+
+- id: 26
+  text: |
+    The number of Bravais lattices in cubic crystal system is:
+  options:
+    - one
+    - two
+    - three
+    - four
+  correct: 2
+
+- id: 27
+  text: |
+    The number of Bravais littices in tetragonal and monoclinic systems is
+  options:
+    - one
+    - two
+    - three
+    - four
+  correct: 3
+
+- id: 28
+  text: |
+    The number of Bravais lattices in tetragonal and monoclinic systems is
+  options:
+    - equal
+    - unequal
+    - both a and b
+    - none
+  correct: 0
+
+- id: 29
+  text: |
+    The packing factor of simple cubic structure
+  options:
+    - 68%
+    - 74%
+    - 52%
+    - 34%
+  correct: 2
+
+- id: 30
+  text: |
+    If the number of lattice points per unit cell is one, then it is called unit cell
+  options:
+    - primitive
+    - none primitive
+    - both a and b
+    - none
+  correct: 0
+
+- id: 31
+  text: |
+    The number of atoms per unit cell of face centred cubic structure is:
+  options:
+    - one
+    - two
+    - three
+    - four
+  correct: 3
+
+- id: 32
+  text: |
+    The structure of diamond crystal unit cell is considered as the interpenetration of carbon unit cells along their body diagonal.
+  options:
+    - two FCC
+    - two SC
+    - two BCC
+    - none
+  correct: 0
+
+- id: 33
+  text: |
+    The diamond unit cell is a structure.
+  options:
+    - BCC
+    - FCC
+    - SC
+    - none
+  correct: 1
+
+- id: 34
+  text: |
+    Tthe packing factor of diamond is % so this is a loosely packed structure.
+  options:
+    - 32
+    - 24
+    - 34
+    - 52
+  correct: 2
+
+- id: 35
+  text: |
+    The Bravais lattice of NaCl crystal is a:
+  options:
+    - FCC
+    - BCC
+    - SC
+    - none
+  correct: 0
+
+- id: 36
+  text: |
+    The Bravais lattice of CsCl is a structure.
+  options:
+    - BCC
+    - SC
+    - FCC
+    - none
+  correct: 1
+
+- id: 37
+  text: |
+    The existence of a substance in more than one sohd modification is known as
+  options:
+    - Isomorphism
+    - Polymorphism
+    - Amorphism
+    - None
+  correct: 1
+
+- id: 38
+  text: |
+    The edge length of face centred unit cubic cell is 508 pm. If the radius of cation is 110 pm the radius of anion is:
+  options:
+    - 110pm
+    - 144pm
+    - 618pm
+    - 398pm
+  correct: 1
+
+- id: 39
+  text: |
+    The number of NaCl molecules in unit cell of its crystal is:
+  options:
+    - 2
+    - 4
+    - 6
+    - 8
+  correct: 1
+
+- id: 40
+  text: |
+    The ratio of close packed atoms to tetrahedral holes in cubic close packing is:
+  options:
+    - 1:1
+    - 1:2
+    - 1:3
+    - 2:1
+  correct: 1
+
+- id: 41
+  text: |
+    The intermetallic compound LiAg crystallises in cubic lattice in which both lithium and silver have co-ordination no. of 8. the crystal class is:
+  options:
+    - Simple cubic
+    - Body centred cubic
+    - Face centred cube
+    - None of these
+  correct: 1
+
+- id: 42
+  text: |
+    The number of atoms in 100g, of an fcc crystal with density $d=10g.cm^{-3}$ and cell edge as 200 pm is equal to.
+  options:
+    - $3\times10^{25}$
+    - $5\times10^{24}$
+    - $1\times10^{25}$
+    - $2\times10^{25}$
+  correct: 1
+
+- id: 43
+  text: |
+    Which of the following is an example of bcc structure.
+  options:
+    - Mg
+    - $Zn$
+    - $Cu$
+    - Na
+  correct: 3
+
+- id: 44
+  text: |
+    A fcc crystal contains how many atoms in each unit cell
+  options:
+    - 4
+    - 6
+    - 3
+    - 8
+  correct: 0
+
+- id: 45
+  text: |
+    an element (atomic mass $=100g/mole)$ haveing bcc structure has unit cell edge 400pm. The density of the element is.
+  options:
+    - $10.376g/cm^{-3}$
+    - $5.188g/cm^{-3}$
+    - $7.289g/cm^{-3}$
+    - $2.144g/cm^{-3}$
+  correct: 1
+
+- id: 46
+  text: |
+    NaCl (rock salt structure) has edge length of unit cell of $5.52A^{\circ}$ The ionic radius of $Cl^{-}$ ion is $1.81A^{\circ}$ the ionic radii of $Na^{+}$ ions is
+  options:
+    - $1.76A^{\circ}$
+    - $2.76A^{\circ}$
+    - $0.95A^{\circ}$
+    - $3.62A^{\circ}$
+  correct: 2
+
+- id: 47
+  text: |
+    The radius of the $Na^{+}$ is 95 pm and that of $Cl^{-}$ ion is 181 pm. The co-ordination number of $Na^{+}$ is
+  options:
+    - 4
+    - 6
+    - 8
+    - 12
+  correct: 1
+
+- id: 48
+  text: |
+    The most malleable metals (Cu, Ag, Au) have close packing of the type.
+  options:
+    - hexagonal close packing
+    - Cubic close packing
+    - Body centred close packing
+    - Malleability is not related to type of packing
+  correct: 3
+
+- id: 49
+  text: |
+    Amorphous solids.
+  options:
+    - Possess sharp melting points
+    - Undergo clean cleavage when cut with knife
+    - do not undergo clean cleavage when cut with knife
+    - possess orderly arrangement over long distances
+  correct: 2
+
+- id: 50
+  text: |
+    CsCl crystal consists of close packing of
+  options:
+    - CsCl molecules
+    - $Cs^{+}$ and $Cl^{-}$ ions
+    - Cs and Cl atoms
+    - None
+  correct: 1
+
+- id: 51
+  text: |
+    In a face centred cubic arrangement, the number of atoms per unit cell is:
+  options:
+    - 8
+    - 2
+    - 1
+    - 4
+  correct: 3
+
+- id: 52
+  text: |
+    For an octahedral arrangement the lowest radius ratio limit is.
+  options:
+    - 0.155
+    - 0.732
+    - 0.414
+    - 0.225
+  correct: 2
+
+- id: 53
+  text: |
+    In hcp arrangement, the co-ordination number is
+  options:
+    - 6
+    - 12
+    - 8
+    - 10
+  correct: 1
+
+- id: 54
+  text: |
+    In a crystal, all the lattice sites are found to be occupied by covalent molecules. To which kind of solid does it belong.
+  options:
+    - Ionic
+    - Covalent
+    - Molecular
+    - None
+  correct: 1
+
+- id: 55
+  text: |
+    A solid has a bcc structure. If the distance of closest approach between the two atoms is $1.73A^{\circ}$ the edge length of the cell is.
+  options:
+    - 200pm
+    - $\sqrt{3}/\sqrt{2}$
+    - 142.2pm
+    - $\sqrt{2}$ pm
+  correct: 0
+
+- id: 56
+  text: |
+    The space occupied by bcc arrangement is about
+  options:
+    - 50%
+    - 68%
+    - 74%
+    - 56%
+  correct: 1
+
+- id: 57
+  text: |
+    the maximum percentage of available volume that can be filled in a face centred cubic system by an atom is.
+  options:
+    - 74%
+    - 68%
+    - 34%
+    - 56%
+  correct: 0
+
+- id: 58
+  text: |
+    For tetrahedral co-ordination the radius ratio $(r+/r-)$ should be
+  options:
+    - 0.414-0.732
+    - > 0.732
+    - 0.156-0.225
+    - 0.225-0.414
+  correct: 3
+
+- id: 59
+  text: |
+    the ionic radii of $K^{+}$ ion is 133 pm and that of $Br^{-}$ ion is 196 pm. What would be the most probable structure of KBr.
+  options:
+    - fcc
+    - bcc
+    - scc
+    - None
+  correct: 0
+
+- id: 60
+  text: |
+    Copper crystallises in the cubic closed packed structure and has fcc unit cell. Calcualte the atomic radius of copper if axial length is $3.615A^{\circ}$
+  options:
+    - $1.78A^{\circ}$
+    - $1.278A^{\circ}$
+    - $1.34A^{\circ}$
+    - $1.65A^{\circ}$
+  correct: 1
+
+- id: 61
+  text: |
+    Copper crystallises in a structure of face centred cubic cell. The atomic radius of copper is $1.28A^{\circ}$ What is axial length on an edge of copper.
+  options:
+    - $2.16A^{\circ}$
+    - $3.63A^{\circ}$
+    - $3.94A^{\circ}$
+    - $4.15A^{\circ}$
+  correct: 1
+
+- id: 62
+  text: |
+    Gold crystallises in a face centred cubic structure. It has an atomic radius of $1.44A^{\circ}$ What is the dimension of the unit cell.
+  options:
+    - $4.09A^{\circ}$
+    - $2.05A^{\circ}$
+    - $3.5A^{\circ}$
+    - $2.92A^{\circ}$
+  correct: 0
+
+- id: 63
+  text: |
+    The density of KCl is $1.9893g.cm^{-3}$ and the length of a side unit cell is $6.2908A^{\circ}.$ the value of Avogadro's number is.
+  options:
+    - $6.017\times10^{23}$
+    - $6.023\times10^{23}$
+    - $6.03\times10^{23}$
+    - $6.017\times10^{19}$
+  correct: 0
+
+- id: 64
+  text: |
+    Sodium metal crystallises in a body centred cubic lattice with the cell edge $a=4.29A^{\circ}$ The radius of sodium atom is.
+  options:
+    - $1.8575A^{\circ}$
+    - $2.8574A^{\circ}$
+    - $3.8574A^{\circ}$
+    - None
+  correct: 0
+
+- id: 65
+  text: |
+    The second order Bragg diffraction of X-rays with $\lambda=1.0A^{\circ}$ from a set of parallel planes in a metal occurs at an angle of $60^{\circ}$ The distance betweent he scattering planes in the crystal is.
+  options:
+    - $0.75A^{\circ}$
+    - $1.00A^{\circ}$
+    - $1.15A^{\circ}$
+    - $2.00A^{\circ}$
+  correct: 2
+
+- id: 66
+  text: |
+    The co-ordination no. of $Ca^{2+}$ in fluorite crystal is
+  options:
+    - 2
+    - 8
+    - 6
+    - 4
+  correct: 1
+
+- id: 67
+  text: |
+    High thermal conductivity of metals is due to transfer of heat through.
+  options:
+    - Molecular collision
+    - Electronic collisions
+    - Atomic collision
+    - All
+  correct: 1
+
+- id: 68
+  text: |
+    The crystals are bound by plane faces (f) Straight edges (e) and interfacial angle (c) the relation between these is.
+  options:
+    - $f+c=e+2$
+    - $f+c=c+2$
+    - $c+e=f+2$
+    - None
+  correct: 0
+
+- id: 69
+  text: |
+    A metallic element exists as a cubic lattice Each edge of the unit cell is $2.88A^{\circ}$ and density of the metal is $7.2g.cm^{-3}$ The number of unit cells in 100g. of metal is.
+  options:
+    - $5.82\times10^{23}$
+    - $6.023\times10^{23}$
+    - $8.52\times10^{23}$
+    - None of these
+  correct: 0
+
+- id: 70
+  text: |
+    The crystal lattice that has the largest packing fraction is:
+  options:
+    - Body centred cubic
+    - Simple cubic
+    - Simple tetragonal
+    - Face centred
+  correct: 3
+
+- id: 71
+  text: |
+    A match box exhibit
+  options:
+    - Cubic geometry
+    - Monoclinic geogmetry
+    - orthorhombic geometry
+    - Tetragonal geometry
+  correct: 2
+
+- id: 72
+  text: |
+    The toal number of elements of symmetry in a cubic crystal is.
+  options:
+    - 7
+    - 23
+    - 14
+    - 10
+  correct: 1
+
+- id: 73
+  text: |
+    The radius of an ion in a bcc of edge, a is given by
+  options:
+    - $a/2$
+    - $\sqrt{a}/2$
+    - $\sqrt{2}a/4$
+    - $\sqrt{3}a/4$
+  correct: 3
+
+- id: 74
+  text: |
+    Bragg's equation has no solution when
+  options:
+    - $n\lambda=2d$
+    - $n\lambda>2d$
+    - $n\lambda<2d$
+    - None
+  correct: 1
+
+- id: 75
+  text: |
+    A crystal may have one or more planes of symmetry and one or more axes of symmetry, but it has
+  options:
+    - Two centres of symmetry
+    - No centre of symmetry
+    - None centre of symmetry
+    - Four centres of symmetry
+  correct: 2
+
+- id: 76
+  text: |
+    The number of atoms (n) contained within a cubic cell, body centred cubic cell and face centred cubic cell is respectively
+  options:
+    - 1, 2, 4
+    - 4, 2, 1
+    - 1, 4, 2
+    - None
+  correct: 0
+
+- id: 77
+  text: |
+    The number of atoms/molecules contained in one fcc unit cell of a monoatomic substance crystallising in a hexagonial closed packed structure is.
+  options:
+    - 4
+    - 6
+    - 8
+    - 12
+  correct: 0
+
+- id: 78
+  text: |
+    In a simple cubic cell, each atom on a corner is shaired by
+  options:
+    - 2 unit cells
+    - one unit cell
+    - Eigh unit cell
+    - 4 unit cell
+  correct: 2
+
+- id: 79
+  text: |
+    Potassium (atomic radii $2.3A^{\circ})$ crystallises in a body centred cubic structue. What is the number of atoms per unit cell and what is the length of one side of unit cell.
+  options:
+    - $2, 3.5A^{\circ}$
+    - $4, 4.9A^{\circ}$
+    - $2, 4.5A^{\circ}$
+    - $2, 2.66A^{\circ}$
+  correct: 3
+
+- id: 80
+  text: |
+    In a closed packed array of N spheres, the number of tetrahedral holes is.
+  options:
+    - $N/2$
+    - 4N
+    - 2N
+    - N
+  correct: 2
+
+- id: 81
+  text: |
+    The density of KBr is $2.75g.cm^{-3}$ and length of the unit cell is 654 pm $(K=39$ and $Br=80)$ then what is true about the predicted nature of the solid.
+  options:
+    - Solid has fcc system with Z=4
+    - Solid has simple cubic system with z=4
+    - Solid has fcc system with Z=4
+    - Solid has bcc system with Z=2
+  correct: 0
+
+- id: 82
+  text: |
+    how many kinds of space lattices are possible in a crystal.
+  options:
+    - 23
+    - 7
+    - 230
+    - 14
+  correct: 3
+
+- id: 83
+  text: |
+    The co-ordination number of a metal is
+  options:
+    - 12
+    - 4
+    - 8
+    - 6
+  correct: 0
+
+- id: 84
+  text: |
+    Maximum proportion of available volume that can be filled by hard spheres in diamond is.
+  options:
+    - 0.52
+    - 0.34
+    - 0.32
+    - 0.68
+  correct: 1
+
+- id: 85
+  text: |
+    Close packing is maximum in the crystal lattice of.
+  options:
+    - Simple cubic
+    - Face centred
+    - body centred
+    - None
+  correct: 1
+
+- id: 86
+  text: |
+    The vacant space in body centred cubic lattice unit cell is about.
+  options:
+    - 32%
+    - 10%
+    - 23%
+    - 46%
+  correct: 0
+
+- id: 87
+  text: |
+    The atomic radius of a fcc cell is.
+  options:
+    - $a/2$
+    - $\sqrt{2}.a/4$
+    - $3.a/4$
+    - $a/4$
+  correct: 1
+
+- id: 88
+  text: |
+    Fraction of the total volume occupied by atoms in a simple cubic cell is.
+  options:
+    - $\pi/2$
+    - $\sqrt{3}\pi/8$
+    - $\sqrt{2}\pi/18$
+    - $\pi/6$
+  correct: 3
+
+- id: 89
+  text: |
+    In a crystal, the atoms are located at the position of potential energy.
+  options:
+    - Zero
+    - Minimum
+    - Maximum
+    - Infinite
+  correct: 1
+
+- id: 90
+  text: |
+    To produce diffraction with X-rays, the spacing between the consecutive lines of grating should be of the order of angstroms.
+  options:
+    - thousands of
+    - hundreds of
+    - few
+    - none
+  correct: 2
+
+- id: 91
+  text: |
+    In 1912, Laue suggested that a crystal can serve as a for X-ray diffraction.
+  options:
+    - three dimensional grating
+    - two dimensional grating
+    - one dimensional grating
+    - none of the above
+  correct: 0
+
+- id: 92
+  text: |
+    If the path difference between the X-ray reflected by successive crystal planes is $\frac{\lambda}{2}, \frac{3\lambda}{2}, \frac{5\lambda}{2},$ then the intensity of diffracted ray
+  options:
+    - will not change
+    - is minimum
+    - is maximum
+    - none
+  correct: 1
+
+- id: 93
+  text: |
+    If the path difference between the X-ray reflected by successive crystal planes is $n\lambda$ where $n=1,2,3,...$ then the intensity of diffracted ray
+  options:
+    - is minimum
+    - is maximum
+    - remains the same
+    - none
+  correct: 1
+
+- id: 94
+  text: |
+    X-ray powder method is usually carried for materials.
+  options:
+    - polycrystalline
+    - powder
+    - single crystal
+    - amorphous
+  correct: 0
+
+- id: 95
+  text: |
+    Using powder diffiraction, of a crystal can be determined.
+  options:
+    - the interatomic spacing
+    - the interplanar spacing
+    - both a and b
+    - none
+  correct: 1
+
+- id: 96
+  text: |
+    For second order maximum, the Bragg's condition is:
+  options:
+    - $2d\sin\theta=2\lambda$
+    - $2d\sin\theta=\lambda$
+    - $2\sin\theta=n\lambda$
+    - None of the above
+  correct: 0
+
+- id: 97
+  text: |
+    The reciprocal lattice of simple cubic lattice is:
+  options:
+    - simple cubic it self
+    - fcc
+    - bcc
+    - None of the above
+  correct: 0
+
+- id: 98
+  text: |
+    The reciprocal lattice of fcc is:
+  options:
+    - bcc
+    - fcc itself
+    - simple cubic
+    - None. of the above
+  correct: 0
+
+- id: 99
+  text: |
+    To analyse the crystal structure the wavelength of X-rays should be:
+  options:
+    - $>10A^{\circ}$
+    - $<1A^{\circ}$
+    - equal to $10A^{\circ}$
+    - None of the above
+  correct: 1
+
+- id: 100
+  text: |
+    The magnitude of reciprocal lattice is equal to
+  options:
+    - $a.d_{hkl}$
+    - $1/d_{hkl}$
+    - lattice constant, a
+    - None
+  correct: 1
+
+- id: 101
+  text: |
+    IF $\vec{A}, \vec{B}, \vec{C}$ are the primitive translation vectors in the reciprocal lattice and $\vec{a}, \vec{b}, \vec{c}$ are the primitive translation vectors in direct space lattice, then,
+  options:
+    - $\vec{A}\cdot\vec{a}=2\pi$
+    - $\vec{A}\cdot\vec{a}=0$
+    - $\vec{A}\cdot\vec{a}=\pi$
+    - None of above
+  correct: 0
+
+- id: 102
+  text: |
+    Bragg's condition in reciprocal lattice is:
+  options:
+    - $\vec{k}\cdot\vec{G}+G^{2}=0$
+    - $\vec{k}\cdot\vec{G}+k^{3}=0$
+    - $2\vec{k}\cdot\vec{G}+G^{2}=0$
+    - None of the above
+  correct: 2
+
+- id: 103
+  text: |
+    In Laue's method, X-ray used are:
+  options:
+    - Monochromic
+    - a continuous $(0.2A^{\circ}$ to $2A^{\circ})$ beam
+    - Doublet
+    - None of the above
+  correct: 1
+
+- id: 104
+  text: |
+    The orthorhombic crystal has axial units in the ratio of 0.424:1:0.367. Find the miller indices of a crystal face whose intercepts are in the ratio 0.121:1:0.183 $(h,k,l)=$
+  options:
+    - (1, 2, 2)
+    - (2, 1, 2)
+    - (2, 2, 1)
+    - (2, 2, 2)
+  correct: 1
+
+- id: 105
+  text: |
+    The primitive of a crystal are $1.2A^{\circ}, 1.8A^{\circ}$ and $2A^{\circ}$ along whose miller indices (2, 3, 1) cuts intercepts $1.2A^{\circ}$ along x axis what would be the length of axin.
+  options:
+    - $1.2A^{\circ}$
+    - $1.8A^{\circ}$
+    - $2A^{\circ}$
+    - $4A^{\circ}$
+  correct: 3
+
+- id: 106
+  text: |
+    The volume of reciprocal lattice is to the volume of direct lattice
+  options:
+    - Directly proportional
+    - Inversely proportional
+    - Not related
+    - square
+  correct: 1
+
+- id: 107
+  text: |
+    The primitive translation vectors of hexagonal space lattice are $\vec{a}=(\frac{a}{2})\hat{x}+\frac{(\sqrt{3}a)}{2}\hat{y}$, $\vec{b}=-(\frac{a}{2})\hat{x}+\frac{(\sqrt{3}a)}{2}\hat{y}$, $\vec{c}=c\hat{z}$. The valume of lattice is
+  options:
+    - $\frac{\sqrt{3}a^{2}c}{2}$
+    - $\frac{a^{2}c}{32}$
+    - $\frac{a^{2}c}{16}$
+    - $\frac{c^{2}a}{32}$
+  correct: 0

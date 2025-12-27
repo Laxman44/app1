@@ -1,0 +1,309 @@
+- id: 1
+  text: |
+    The condition required for superconductivity phenomenon in a material is
+  options:
+    - $H=0$ $R=0$ below $T_{e}$
+    - $H=0$, below $T_{c}$
+    - $R=0$, below $T_{c}$
+    - $H=0$ $R=0.,.$
+  correct: 0
+
+- id: 2
+  text: |
+    Superconductors are materials
+  options:
+    - perfectly ferromagnetic
+    - perfectly diamagnetic
+    - perfectly paramagnetic
+    - dielectric
+  correct: 1
+
+- id: 3
+  text: |
+    Cooper pairs in the superconductors are nothing but
+  options:
+    - pairs of electrons in the conduction band
+    - pairs of holes in the conduction band
+    - pairs of electrons in the valence band
+    - pairs of electrons and holes in the conduction band
+  correct: 0
+
+- id: 4
+  text: |
+    The magnetic susceptibility of a superconducting material is
+  options:
+    - -1
+    - positive and very large
+    - negative and very low
+    - +1
+  correct: 0
+
+- id: 5
+  text: |
+    High $T_{\mathfrak{c}}$ superconductors are the materials having temperature
+  options:
+    - very high above the room temperature
+    - very high above the boiling point of water
+    - very high above liquid helium but below liquid nitrogen temperature
+    - above liquid nitrogen temperature
+  correct: 3
+
+- id: 6
+  text: |
+    For a Typé I superconductor
+  options:
+    - two critical magnetic fields exist
+    - two critical electric fields exist
+    - only one critical magnetic field exists
+    - only one critical electric field exists
+  correct: 2
+
+- id: 7
+  text: |
+    For a Type II superconductor.
+  options:
+    - two critical magnetic fields exist
+    - two critical electric fields exist
+    - only one critical magnetic field exists
+    - only one critical electric field exists
+  correct: 0
+
+- id: 8
+  text: |
+    Good electric conductors at room temperature
+  options:
+    - are also good superconductors below $T_{c}$
+    - are bad conductors of electricity below $T_{c}$
+    - are good superconductors above $\Gamma_{c}$
+    - may behave as superconductors below $\Gamma_{c}$
+  correct: 1
+
+- id: 9
+  text: |
+    High $T_{\mathfrak{c}}$ superconductors below $T_{\mathfrak{c}}$ are
+  options:
+    - normally bad conductors of electricity at room temperature
+    - behave normally as magnetic materials at room temperature
+    - metals
+    - metal alloys
+  correct: 0
+
+- id: 10
+  text: |
+    The complete expulsion of all the magnetic fields by superconducting materials is called
+  options:
+    - Josephson effect
+    - Maglev effect
+    - SQUID
+    - Meissner effect
+  correct: 3
+
+- id: 11
+  text: |
+    The wave nature of a moving particle makes the electrons to tunnel through the insulating barrier from one superconductor to other. This is known as
+  options:
+    - Josephson effecti
+    - Maglev effect
+    - SQUID
+    - Meissner effect
+  correct: 0
+
+- id: 12
+  text: |
+    A relay or switch made from superconductors whose size is small is known as
+  options:
+    - SQUID
+    - cyclotron
+    - Cryotron
+    - betatron
+  correct: 1
+
+- id: 13
+  text: |
+    The effect of impurity on superconductor is that
+  options:
+    - $T_c$ value increase
+    - $T_c$ value decreases
+    - electrical conductivity increases
+    - does not change the value of $T_{e}$
+  correct: 1
+
+- id: 14
+  text: |
+    Increase in stress result in of the $T_{c}$ value.
+  options:
+    - decrease
+    - increase
+    - no change
+    - both increase or decrease
+  correct: 1
+
+- id: 15
+  text: |
+    Persistent current is the characteristic property of
+  options:
+    - superconductivity
+    - Meissner Effect
+    - Josephson effect
+    - Hall effect
+  correct: 0
+
+- id: 16
+  text: |
+    At, zero magnetic field a superconducting tin has a critical temeprature of 3.7K. At 0 K, the critical magnetic field is 0.306T. Calculate the critical magnetic field at 2.0K.
+  options:
+    - 0.022T
+    - 0.003T
+    - 0.004T
+    - 0.001T
+  correct: 0
+
+- id: 17
+  text: |
+    If the critical current passing through a long thin supercondcuting wire of 0.5mm radius is 22.608A, calcualte the critical magnetic field.
+  options:
+    - $7.2\times10^{4}A/m$
+    - $7.3\times10^{3}A/m$
+    - $7.2\times10^{3}A/m$
+    - $7.2\times10^{2}A/m$
+  correct: 2
+
+- id: 18
+  text: |
+    The relaxiation time for a superconductors is
+  options:
+    - zero
+    - 1ms
+    - 1s
+    - infinity
+  correct: 3
+
+- id: 19
+  text: |
+    The susceptibility of a super conductor is
+  options:
+    - positive and small
+    - positive and unity
+    - negative and small
+    - negative and unity
+  correct: 1
+
+- id: 20
+  text: |
+    Superconducting electron density is
+  options:
+    - finite at absolute zero
+    - zero at absolute zero
+    - infinite at absolute zero
+    - non-zero finite at critical temperature
+  correct: 0
+
+- id: 21
+  text: |
+    Mark the material which is not a superconductor of type I:
+  options:
+    - Al
+    - Pb
+    - Nb
+    - Hg
+  correct: 2
+
+- id: 22
+  text: |
+    Make the material which is type superconductor:
+  options:
+    - Cd
+    - V
+    - Sn
+    - Al
+  correct: 1
+
+- id: 23
+  text: |
+    For a type II superconductor, the ratio $k=\lambda/\xi$ is
+  options:
+    - $k<1$
+    - $k=1$
+    - $k>1$
+    - $k=0$
+  correct: 2
+
+- id: 24
+  text: |
+    For a type I superconductor, the surface energy is
+  options:
+    - always positive
+    - always negative
+    - sometimes positive and sometimes negative
+    - depends on its $T_{E}$
+  correct: 0
+
+- id: 25
+  text: |
+    Flux quantum in a superconductor is
+  options:
+    - $\frac{h}{e}$
+    - $\frac{2h}{e}$
+    - $\frac{h}{2e}$
+    - $2.07\times10^{-7}wb$
+  correct: 2
+
+- id: 26
+  text: |
+    The total charge on a cooper pair is
+  options:
+    - zero
+    - +2e
+    - -2e
+    - varies with T.
+  correct: 2
+
+- id: 27
+  text: |
+    A cooper pair is represented by
+  options:
+    - $(kT,kT)$
+    - $(k\dagger,k\rfloor)$
+    - $(k\dagger,\vec{k}\dagger)$
+    - $(k\top,\vec{k}\perp)$
+  correct: 3
+
+- id: 28
+  text: |
+    A cooper pair is a system of two electrons bound by exchange of between them of a
+  options:
+    - photon
+    - phonon
+    - neutron
+    - proton
+  correct: 1
+
+- id: 29
+  text: |
+    the binding energy of a cooper pair is of the order of
+  options:
+    - $10^{-2}eV$
+    - $10^{-4}eV$
+    - $10^{-8}eV$
+    - lev
+  correct: 2
+
+- id: 30
+  text: |
+    BCS theory assumes a
+  options:
+    - spherical FS and isotropic energy gap
+    - spherical FS and anisotropic energy gap
+    - nonspherical FS and isotropic energy gap
+    - nonspherical FS and anisotropic energy gap
+  correct: 0
+
+- id: 31
+  text: |
+    Critical magnetic field
+  options:
+    - does not depend on temperature
+    - increases if temperature decrease
+    - increases if temperature increases
+    - does not depend on $T_{c}$
+  correct: 1

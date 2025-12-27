@@ -1,0 +1,999 @@
+- id: 1
+  text: |
+    Basically, interatomic forces are:
+  options:
+    - electrostatic in nature
+    - gravitational forces
+    - magnetic forces
+    - short-range forces
+  correct: 0
+
+- id: 2
+  text: |
+    primary bonds are
+  options:
+    - intermolecular
+    - interatomic
+    - Vanderwaals force
+    - none
+  correct: 1
+
+- id: 3
+  text: |
+    Primary bonds are:
+  options:
+    - ionic bonds
+    - covalent bonds
+    - metallic bonds
+    - all
+  correct: 3
+
+- id: 4
+  text: |
+    Bonding or cohesive energy is defined as:
+  options:
+    - the amount of energy required to separate atoms to an infinite distance
+    - the amount of energy evolved when a bond is formed
+    - a and b
+    - none
+  correct: 2
+
+- id: 5
+  text: |
+    Examples for ionic crystals are:
+  options:
+    - NaCl and KBr
+    - MgO and KI
+    - $K_{2}O$ and LiH
+    - all
+  correct: 3
+
+- id: 6
+  text: |
+    Ionic crystals
+  options:
+    - are rigid and possess high melting and boiling points
+    - in solution conduct electricity
+    - are easily soluble in polar solvents like water
+    - all
+  correct: 3
+
+- id: 7
+  text: |
+    Covalent bond is formed by:
+  options:
+    - sharing of pair of electrons between atoms
+    - transfer of electrons from one atom to another
+    - evaporation of electrons from atoms
+    - none
+  correct: 0
+
+- id: 8
+  text: |
+    Covalent compounds are:
+  options:
+    - hard and brittle
+    - most of them are insulators
+    - they are insoluble in polar solvents like H₂O
+    - all
+  correct: 3
+
+- id: 9
+  text: |
+    Metals
+  options:
+    - possess high electrical and thermal conductivities
+    - may deform without fractour
+    - are opaque to light
+    - all
+  correct: 3
+
+- id: 10
+  text: |
+    Intermolecular bonds are:
+  options:
+    - dispersion bonds
+    - dipole bonds
+    - hydrogen bonds
+    - all
+  correct: 3
+
+- id: 11
+  text: |
+    When the atoms are present in equilibrium with equilibrium separation $r_{0}$ then the resultant force between the atoms is:
+  options:
+    - zero
+    - positive
+    - negative
+    - very large
+  correct: 0
+
+- id: 12
+  text: |
+    The amount of energy with two atoms bond together and the same amount of energy required to separate them is called ____ of atoms.
+  options:
+    - bonding energy
+    - cohesive energy
+    - dissociation energy
+    - all of above
+  correct: 3
+
+- id: 13
+  text: |
+    The cohesive bond energy of NaCl molecule is
+  options:
+    - 3.6eV
+    - 6eV
+    - 4.5eV
+    - 5.1eV
+  correct: 2
+
+- id: 14
+  text: |
+    In a crystal, atoms or molecuaes are bonded by ____ forces.
+  options:
+    - interatomic
+    - Vanderwaals
+    - adhesive
+    - cohesive
+  correct: 0
+
+- id: 15
+  text: |
+    Secondary bonds are ____ in nature.
+  options:
+    - interatomic
+    - intermolecular
+    - adhesive
+    - none
+  correct: 1
+
+- id: 16
+  text: |
+    Ionic bond occurs between ____ atoms and ____ atoms.
+  options:
+    - electropositive, electronegative
+    - electropositive, electropositive
+    - electronegative, electronegative
+    - none
+  correct: 0
+
+- id: 17
+  text: |
+    If N electrons are present in the valence shell of an atom, then it makes ____ covalent bonds.
+  options:
+    - N
+    - 8-N
+    - N-8
+    - none
+  correct: 1
+
+- id: 18
+  text: |
+    Covalent compounds are soluble in non-polar solvents like
+  options:
+    - benzene
+    - carbon disulphide
+    - both a and b
+    - none
+  correct: 2
+
+- id: 19
+  text: |
+    Each atom of a metal gives one or two ____ to the crystal.
+  options:
+    - Valence electrons
+    - bounded electrons
+    - both a and b
+    - none
+  correct: 0
+
+- id: 20
+  text: |
+    Dispersion bonds are formed due to variation of centres of positive and negative charges in a molecule
+  options:
+    - positive and negative charges in a molecule
+    - variation of centres
+    - both a and b
+    - none
+  correct: 1
+
+- id: 21
+  text: |
+    ____ bonds are formed due to the variation in electron sharing strengths of bonded atoms in a molecule.
+  options:
+    - covalent
+    - ionic
+    - hydrogen
+    - dipole
+  correct: 3
+
+- id: 22
+  text: |
+    ____ bond is similar to dipole bond but condiderbly stronger than it
+  options:
+    - hydrogen
+    - covalent
+    - ionic
+    - none
+  correct: 0
+
+- id: 23
+  text: |
+    The energy of the crystal is lower than that of the free atoms by an amount called
+  options:
+    - interatomic energy
+    - intermolecular energy
+    - cohesive energy
+    - none
+  correct: 2
+
+- id: 24
+  text: |
+    When the atoms are at equilibrium, then the potentil energy between the atoms is:
+  options:
+    - maximum
+    - minimum
+    - both a and b
+    - none
+  correct: 1
+
+- id: 25
+  text: |
+    The ionization energy of soldium atom is:
+  options:
+    - 5.1eV
+    - 3.6eV
+    - 1.5eV
+    - 6eV
+  correct: 0
+
+- id: 26
+  text: |
+    The electron affinity of chlorine atom is:
+  options:
+    - 5.1eV
+    - 3.6eV
+    - 1.5eV
+    - 6eV
+  correct: 1
+
+- id: 27
+  text: |
+    the equlibrium potential energy of crystal having attractive potential $\frac{A}{r^{n}}$ and repulisive potential $\frac{B}{r^{m}}$ is
+  options:
+    - $\frac{A}{r_{0}^{n}}(1-\frac{n}{m})$
+    - $\frac{-A}{r_{0}^{n}}(1-\frac{n}{m})$
+    - $\frac{-A}{r_{0}^{m}}(1-\frac{n}{m})$
+    - $\frac{A}{r_{0}^{m}}(1-\frac{m}{n})$
+  correct: 1
+
+- id: 28
+  text: |
+    From the question above which condition is valid
+  options:
+    - $m > n$
+    - $n > m$
+    - $m = n$
+    - Anything may possible
+  correct: 0
+
+- id: 29
+  text: |
+    The energy between two particle in a field of each other at a separation of 'r' is given by $U=\frac{\alpha}{r}+\frac{\beta}{r^{8}}$, what is the potential energy of particle at equalibrium,
+  options:
+    - $\frac{8}{7}\frac{\alpha}{r_{0}}$
+    - $\frac{-7}{8}\frac{\alpha}{r_{0}}$
+    - $\frac{-8}{7}\frac{r_{0}}{\alpha}$
+    - 0
+  correct: 1
+
+- id: 30
+  text: |
+    The expression for Bonding energy of ionic crystal having repulsive potential $\lambda e^{\frac{r_{0}}{\rho}}$ and attractive potential $\frac{-\alpha_{m}q^{2}}{r_{0}}$ is.
+  options:
+    - $\frac{-\alpha_{m}q^{2}}{r_{0}}(1-\frac{\rho}{r_{0}})$
+    - $\frac{q^{2}}{r_{0}}(1-\frac{\alpha_{m}\rho}{r_{0}})$
+    - $\frac{-q^{2}}{r_{0}}$
+    - $\frac{\alpha_{m}q^{2}}{r_{0}}(1-\frac{\rho}{r_{0}})$
+  correct: 0
+
+- id: 31
+  text: |
+    Modelung constant for linear crystal is
+  options:
+    - -1.98
+    - 2ln2
+    - ln2
+    - -7.31
+  correct: 1
+
+- id: 32
+  text: |
+    What is the equalibrium potential for linear lattice of 2N ions with repulsive potential given by $\frac{B}{r^{n}}$
+  options:
+    - $-\frac{2\ln2Ne^{2}}{4\pi\epsilon_{0}r_{0}}(1-\frac{1}{n})$
+    - $-\frac{2\ln2Ne^{2}}{2\pi\epsilon_{0}r_{0}}(1-\frac{1}{n})$
+    - $\frac{2\ln2N^{2}e}{4\pi\epsilon_{0}r_{0}}(1-\frac{1}{n})$
+    - $\frac{Ne^{2}}{4\pi\epsilon_{0}r_{0}}(1-\frac{1}{n})$
+  correct: 0
+
+- id: 33
+  text: |
+    The cohesive energy of enert gas crystal is directly proportional to
+  options:
+    - $r^{8}$
+    - $r^{-5}$
+    - $r^{-6}$
+    - $r^{6}$
+  correct: 2
+
+- id: 34
+  text: |
+    The expression for lendard jones potential $U(R)$ is
+  options:
+    - $4\epsilon((\frac{\sigma}{R})^{6}-(\frac{\sigma}{R})^{12})$
+    - $4\epsilon((\frac{\sigma}{R})^{12}-(\frac{\sigma}{R})^{6})$
+    - $\epsilon((\frac{R}{\sigma})^{8}-(\frac{R}{\sigma})^{12})$
+    - None of above
+  correct: 1
+
+- id: 35
+  text: |
+    The equlibrium lattice constant for enert gas crystal is $(\frac{R_{0}}{\sigma})=$
+  options:
+    - 1.08
+    - 1.09
+    - 1.07
+    - 1.06
+  correct: 1
+
+- id: 36
+  text: |
+    A phonon is emitted or absorbed in:
+  options:
+    - elastic scattering of a photon by a crystal
+    - inelastic scattering of photon by a crystal
+    - both a and b
+    - none of the above
+  correct: 1
+
+- id: 37
+  text: |
+    Phonon obey the statistics
+  options:
+    - Bose-Einstein
+    - Fermi-Dirac
+    - Maxwell-Bolzmann
+    - none of the above
+  correct: 0
+
+- id: 38
+  text: |
+    The monoatomic linear lattice acts as:
+  options:
+    - low pass filter
+    - high pass filter
+    - both a and b
+    - none of the above
+  correct: 0
+
+- id: 39
+  text: |
+    Optical vibrations are produced in the
+  options:
+    - vibration of diatomic linear lattice
+    - vibration of monoatomic linear lattice
+    - vibration of monoatomic and diatomic linear lattice
+    - none of the above
+  correct: 0
+
+- id: 40
+  text: |
+    Acoustic branch is produced in the
+  options:
+    - vibration of diatomic linear lattice
+    - vibration of monoatomic linear lattice
+    - vibration of monoatomic and diatomic linear lattice
+    - none of the above
+  correct: 2
+
+- id: 41
+  text: |
+    Fermienergy of a metal does not depend upon
+  options:
+    - number of particles
+    - volume of the metal
+    - density of the free electrons
+    - shape and size of the metal
+  correct: 1
+
+- id: 42
+  text: |
+    The boundary of first Brillouin zone is:
+  options:
+    - $-\frac{\pi}{a}\text{ to }+\frac{2\pi}{a}$
+    - $-\frac{\pi}{a}\text{ to }+\frac{\pi}{a}$
+    - $-\frac{2\pi}{a}\text{ to }+\frac{2\pi}{a}$
+    - none of the above
+  correct: 1
+
+- id: 43
+  text: |
+    Phonon's spin is:
+  options:
+    - zero
+    - one
+    - $1/2$
+    - infinity
+  correct: 0
+
+- id: 44
+  text: |
+    Dispersion relation for monoatomic linear lattice having stiffness $B=C$ mass 'm' and lattice separation 'a' is $w=$
+  options:
+    - $\sqrt{\frac{4c}{m}}|\sin\frac{Ka}{2}|$
+    - $\sqrt{\frac{4c}{m}}|\cos\frac{Ka}{2}|$
+    - $\frac{4c}{m}|\sin\frac{Ka}{2}|$
+    - $\frac{4c}{m}|\cos\frac{Ka}{2}|$
+  correct: 1
+
+- id: 45
+  text: |
+    In diatomic linear lattice for optical branch the angular frequency of oscillation ($w$) at wave vector $(K=\frac{\pi}{2a})$
+  options:
+    - $\frac{2\beta}{m}$
+    - $\sqrt{2\beta(\frac{1}{m}+\frac{1}{M})}$
+    - $\sqrt{\frac{2\beta}{m}}$
+    - none of above.
+  correct: 1
+
+- id: 46
+  text: |
+    The density of states curve are singular whenever
+  options:
+    - the phase velocity vanishes
+    - the group velocity vanishes
+    - the phase velocity and group velocity are different and non zero
+    - the phase velocity and group velocity are equal and non zero
+  correct: 1
+
+- id: 47
+  text: |
+    If according to born cut off procedure, the Debye frequency $\theta_{D}$ is related to wave velocity $c$ by
+  options:
+    - $\theta_{D}=\frac{c}{a}$
+    - $\theta_{D}=\frac{a}{2c}$
+    - $\theta_{D}=\frac{c}{2a}$
+    - $\theta_{D}=\frac{a}{c}$
+  correct: 2
+
+- id: 48
+  text: |
+    The spring constant $a$ and yong modulus $Y$ in solids are relate by
+  options:
+    - $a=Ya$
+    - $a=\frac{Y}{a}$
+    - $a=\frac{a}{Y}$
+    - $a=Ya^{2}$
+  correct: 0
+
+- id: 49
+  text: |
+    phonon is the quantum of
+  options:
+    - electromagnetic wave
+    - elastic wave
+    - poarisation wave
+    - magnetisation wave
+  correct: 1
+
+- id: 50
+  text: |
+    A phonon interacts with
+  options:
+    - another phonon
+    - a neutron
+    - an electron
+    - all the above
+  correct: 3
+
+- id: 51
+  text: |
+    For a linear diatomic chain, the long wavelength satisfies the condition
+  options:
+    - $k\rightarrow0$
+    - phase velocity$\rightarrow\infty$
+    - group velocity $\rightarrow 0$
+    - all the above
+  correct: 3
+
+- id: 52
+  text: |
+    If there are two atoms in the primitive basis, then in the phonon dispersion will have
+  options:
+    - one acoustic and one optical branch
+    - one acoustic and two optical branches
+    - two acoustic and two optical branches
+    - three acoustic and three optical branches
+  correct: 3
+
+- id: 53
+  text: |
+    In the harmonic model of lattice vibrations
+  options:
+    - there is no thermal expansion
+    - there is a thermal expansion
+    - the heat capacity is not constant at higher temperature
+    - isothermal and elastic constants are different
+  correct: 0
+
+- id: 54
+  text: |
+    For a one dimension in the Debye model
+  options:
+    - $C_{v}\alpha T$
+    - $C_{v}\alpha T^{2}$
+    - $C_{v}\alpha T^{3}$
+    - $C_{v}\alpha T^{4}$
+  correct: 0
+
+- id: 55
+  text: |
+    In the Debye model for a three dimensional crystal, the internal energy U at low temperatures is given by
+  options:
+    - $U\alpha T$
+    - $U\alpha T^{3}$
+    - $U\alpha T^{3}$
+    - $U\alpha T^{4}$
+  correct: 3
+
+- id: 56
+  text: |
+    Debye temperature could be derived from
+  options:
+    - specific heat
+    - elastic data
+    - both the above
+    - none of the above
+  correct: 2
+
+- id: 57
+  text: |
+    At temperatures well below the Debye temperature, most phonons have wavelength of the order of
+  options:
+    - $\frac{aT}{\theta_{D}}$
+    - $\frac{T}{\alpha\theta_{D}}$
+    - $\frac{\alpha\theta_{D}}{T}$
+    - $\frac{\theta_{D}}{\alpha T}$
+  correct: 2
+
+- id: 58
+  text: |
+    The specific heat at low temperature in the Einstein's model of lattice vibrations
+  options:
+    - remains constant with temperature
+    - decreases exponentially with decrease of temperature
+    - increases exponentially with decrease of temperature
+    - drops linearly with decrease of temperature
+  correct: 1
+
+- id: 59
+  text: |
+    The quantum mechanical expression for the mean energy of the atomic oscillator is
+  options:
+    - $h\nu$
+    - $\frac{h\nu}{e^{h\nu/kT}-1}$
+    - $\frac{h\nu}{e^{-h\nu/kT}-1}$
+    - $\frac{h\nu}{(e^{h\nu/kT}-1)^{2}}$
+  correct: 1
+
+- id: 60
+  text: |
+    In the Debye model, $\omega_{D}$ is expressed (in SI units) by
+  options:
+    - $\omega_{D}=0.7\times10^{-11}\theta_{D}$
+    - $1.38\times10^{9}\theta_{D}$
+    - $\omega_{D}=1.38\times10^{11}\theta_{D}$
+    - $\omega_{D}=0.7\times10^{-9}\theta_{D}$
+  correct: 2
+
+- id: 61
+  text: |
+    Debyc $T^{3}$ law holds for
+  options:
+    - any temperature
+    - $T=\theta_{D}$
+    - $T<\theta_{D}/50$
+    - $T=\theta_{D}/10$
+  correct: 3
+
+- id: 62
+  text: |
+    In the Debye theory, a solid is regarded as
+  options:
+    - an isotropic discrete
+    - an anisotropic discrete
+    - an isotropic continuum
+    - an anisotropic continuum
+  correct: 2
+
+- id: 63
+  text: |
+    Debye theory of specific heat is valid at
+  options:
+    - room temperature
+    - low temperatures
+    - intermediate temperatures
+    - all temperatures
+  correct: 1
+
+- id: 64
+  text: |
+    The Debye model works for
+  options:
+    - crystalline solids
+    - non-crystalline solids
+    - both the abvoe
+    - liquids
+  correct: 2
+
+- id: 65
+  text: |
+    Which is incorrect as a Debye -formula?
+  options:
+    - $C_{v}=464.4(T/\theta_{D})^{3}cal/mol.K$
+    - $C_{v}=1944(T/\theta_{D})^{3}J/mol.K$
+    - $C_{v}=(12\pi^{4}/8)R(T/\theta_{D})^{3}$
+    - $C_{v}=(5\pi^{4}/12)R(T/\theta_{D})^{3}$
+  correct: 3
+
+- id: 66
+  text: |
+    For a non-dispersive medium
+  options:
+    - $\omega=vk$
+    - $\omega=vk^{2}$
+    - $\omega=vk^{3}$
+    - $\omega=vk^{n}(n\ne1)$
+  correct: 0
+
+- id: 67
+  text: |
+    The knowledge of lattice vibrations is useful for providing information about
+  options:
+    - specific heat
+    - thermal expansion
+    - thermal conductivity
+    - all the above
+  correct: 3
+
+- id: 68
+  text: |
+    Einstein's theory of lattice vibration is based on the quantum theory of
+  options:
+    - Schrodinger
+    - Dirac
+    - Planck
+    - Heisenberg
+  correct: 2
+
+- id: 69
+  text: |
+    The formula for Fermi velocity is
+  options:
+    - $v_{F}=\frac{kT_{F}}{2m}$
+    - $v_{F}=\frac{2kT_{F}}{m}$
+    - $v_{F}=(\frac{kT_{F}}{2m})^{\frac{1}{2}}$
+    - $v_{F}=(\frac{2kT_{F}}{m})^{\frac{1}{2}}$
+  correct: 3
+
+- id: 70
+  text: |
+    For all finite temperatures, the value of $f(E_{F})$ is
+  options:
+    - zero
+    - 0.5
+    - 1
+    - dependent on temperature
+  correct: 1
+
+- id: 71
+  text: |
+    If $T\rightarrow0$, then for $E<E_{F}$
+  options:
+    - $f(E)=0$
+    - $f(E)=0.5$
+    - $f(E)=1$
+    - $f(E)$ is indeterminate
+  correct: 2
+
+- id: 72
+  text: |
+    $T\rightarrow0$, then for $E>E_{F}$
+  options:
+    - $f(E)=0$
+    - $f(E)=0.5$
+    - $f(E)=1$
+    - $f(E)$ is indeterminate
+  correct: 0
+
+- id: 73
+  text: |
+    Mobility of the electron is
+  options:
+    - flow of electron per unit electric field
+    - average electron drift velocity per unit electric field
+    - reciprocal of conductivity
+    - none of these
+  correct: 1
+
+- id: 74
+  text: |
+    Mobility is given by
+  options:
+    - $\mu=\frac{em}{\tau}$
+    - $\mu=\frac{e\tau}{m}$
+    - $\mu=\frac{m}{e\tau}$
+    - $\mu=em\tau$
+  correct: 1
+
+- id: 75
+  text: |
+    In the free electron model, the conduction electrons are treated as free particles which obey the classical laws of
+  options:
+    - mechanics
+    - electromagnetism
+    - statistical mechanics
+    - all the above
+  correct: 3
+
+- id: 76
+  text: |
+    In free electron theory of metals,
+  options:
+    - kinetic energy of electrons is zero
+    - potential energy of electrons is zero
+    - both kinetic and potential energy are zero
+    - total energy is independent of temperature
+  correct: 1
+
+- id: 77
+  text: |
+    The classical expression for the electrical conductivity of a metal is
+  options:
+    - $ne^{2}\tau/m$
+    - $(me\tau/n)$
+    - $mne^{2}\tau$
+    - $ne^{2}\tau^{2}/m$
+  correct: 0
+
+- id: 78
+  text: |
+    At low temperatures, the electrical resistively of metals varies are
+  options:
+    - $T$
+    - $T^{2}$
+    - $T^{3}$
+    - $T^{5}$
+  correct: 3
+
+- id: 79
+  text: |
+    The density of allowed states between $E$ and $E+dE$ is proportional to for 3Ds
+  options:
+    - $E^{-1/2}$
+    - $E^{1/2}$
+    - $E^{3/2}$
+    - $E^{2}$
+  correct: 1
+
+- id: 80
+  text: |
+    At temperature above 0 K, for $E<<E_{F}$ the Fermi Dirac function approaches
+  options:
+    - $e^{-E/kT}$
+    - zero
+    - unity
+    - infinity
+  correct: 2
+
+- id: 81
+  text: |
+    At absolute zero of temperature, all the allowed states of energy upto Fermi level will be
+  options:
+    - empty
+    - occupied
+    - half occupied and half empty
+    - partially occupied and partially empty
+  correct: 1
+
+- id: 82
+  text: |
+    The electronic specific heat at constant volume is proportional to
+  options:
+    - $T$
+    - $T^{2}$
+    - $T^{3}$
+    - $T^{5}$
+  correct: 0
+
+- id: 83
+  text: |
+    If $n_{x}, n_{y}, n_{z}=(123),$ the number of degenerate states for the electron in a cubical box is
+  options:
+    - 1
+    - 3
+    - 4
+    - 6
+  correct: 3
+
+- id: 84
+  text: |
+    The debye model of specific heat capacity at low temperature is
+  options:
+    - $\frac{12}{5}R\pi^{4}(\frac{T}{\theta_{D}})^{3}$
+    - $\frac{12}{5}R\pi^{4}(\frac{T}{\theta_{D}})^{4}$
+    - $\frac{12}{5}R^{1}\pi(\frac{T}{\theta_{D}})^{2}$
+    - $\frac{12}{5}R^{1}\pi(\frac{T}{\theta_{D}})$
+  correct: 0
+
+- id: 85
+  text: |
+    The Einesterin's specific heat capacity at low temperature is related to temperature as,
+  options:
+    - Linearly increasing
+    - Linearly decreasing
+    - exponentielly decreasing
+    - Not related
+  correct: 2
+
+- id: 86
+  text: |
+    The expression for fermi vector ($K_{F}$) is
+  options:
+    - $(3\pi^{2}\frac{N}{V})^{\frac{2}{3}}$
+    - $(3\pi^{2}\frac{N}{V})^{\frac{1}{3}}$
+    - $(3\pi^{2}\frac{N}{V})$
+    - None of above
+  correct: 1
+
+- id: 87
+  text: |
+    If $E_{f}$ is the fermi energy then average energy of N electrons at OK is
+  options:
+    - $\frac{2}{5}E_{f}$
+    - $\frac{3}{5}E_{f}$
+    - $\frac{1}{5}E_{f}$
+    - $\frac{4}{5}E_{f_{0}}$
+  correct: 1
+
+- id: 88
+  text: |
+    If $V_{f}$ is the fermi velocity then average velocity of N electron at OK is
+  options:
+    - $\frac{3}{4}V_{f}$
+    - $\frac{2}{5}V_{f}$
+    - $\frac{3}{5}V_{f}$
+    - $\frac{1}{5}V_{f}$
+  correct: 0
+
+- id: 89
+  text: |
+    The electrical conductivity of free electron with relaxation time $\tau$ is
+  options:
+    - $\frac{ne^{2}\tau}{m}$
+    - $\frac{ne\tau^{2}}{m}$
+    - $\frac{ne\tau^{2}}{m}$
+    - $\frac{m}{ne^{2}\tau}$
+  correct: 0
+
+- id: 90
+  text: |
+    The wide mann franz law is given as $\frac{K_{e}}{\sigma_{e}}=LT$ where L is equl to
+  options:
+    - $\frac{\pi^{2}}{3}(\frac{k_{B}}{e})^{2}$
+    - $\frac{\pi^{2}}{3}(\frac{e}{k_{B}})^{2}$
+    - $\frac{\pi^{2}}{3}(\frac{e}{k_{B}})$
+    - $\frac{\pi^{2}}{3}(\frac{k_{B}}{e})$
+  correct: 0
+
+- id: 91
+  text: |
+    What is the Einstein temperature of cesium where the ion plasma frequency is $1.724\times10^{12}Hz$
+  options:
+    - 81K
+    - 83K
+    - 82.4K
+    - 84.2K
+  correct: 2
+
+- id: 92
+  text: |
+    The speed of transverse elastic wave through copper is $2.32\times10^{3}m/s$ and of the longitudinal waves is $4.76\times10^{3}m/s$ The number density of copper atoms is $8.49\times10^{28}\text{ atoms}/m^{3}.$ Calcualte the Debye temperature $\theta_{D}$
+  options:
+    - 342K
+    - 241K
+    - 341K
+    - 441K
+  correct: 2
+
+- id: 93
+  text: |
+    Fermi energy of silver is 5.51 ev, what temperature is necessary for the average molecue in an ideal gas to have this value
+  options:
+    - $2.56\times10^{4}K$
+    - $3.56\times10^{4}K$
+    - $2.56\times10^{3}K$
+    - $2.56\times10^{5}K$
+  correct: 0
+
+- id: 94
+  text: |
+    From above question, what is the speed of electron with this energy.
+  options:
+    - $1.08\times10^{6}ms^{-1}$
+    - $1.08\times10^{4}ms^{-1}$
+    - $1.07\times10^{6}ms^{-1}$
+    - $1.08\times10^{7}ms^{-1}$
+  correct: 0
+
+- id: 95
+  text: |
+    Calcualte the heat capacity of electron gas at room temperature in Cu $(E_{f}=7eV)$ assuming one free electron per atom.
+  options:
+    - $1.46\times10^{2}J/mol.K$
+    - $1.46\times10^{2}J/mol.K$
+    - $1.47\times10^{3}J/mol.K$
+    - $1.46\times10^{2}J/mol.K$
+  correct: 0
+
+- id: 96
+  text: |
+    What is the lowest energy of an electron confined in a box of side $1A^{\circ}.$
+  options:
+    - 112.7eV
+    - 112.8eV
+    - 112.9eV
+    - 112.5eV
+  correct: 2
+
+- id: 97
+  text: |
+    What is the energy of the six fold degenerate state for free electrons in a solid cube of side 1cm
+  options:
+    - $5.28\times10^{-14}eV$
+    - $5.28\times10^{-15}eV$
+    - $5.28\times10^{-13}eV$
+    - $5.28\times10^{-16}eV$
+  correct: 0
+
+- id: 98
+  text: |
+    Find the temperature at which the average energy of the molecule of a perfect gas would be equal to the lowest energy of the electron
+  options:
+    - $8.72\times10^{4}K$
+    - $8.72\times10^{3}K$
+    - $8.72\times10^{2}K$
+    - $8.72\times10^{5}K$
+  correct: 3
+
+- id: 99
+  text: |
+    The fermi velocity of the electron in metal is $0.73\times10^{6}ms^{-1}$. Calcualte the fermi energy in ev.
+  options:
+    - 2.43
+    - 2.44
+    - 2.41
+    - 1.51
+  correct: 3
+
+- id: 100
+  text: |
+    Evaluate the temperature at which there is one percent probability that a state with an energy 0.5eV above fermi energy will be occupied by an electron
+  options:
+    - 1282K
+    - 1262K
+    - 1273K
+    - None of above
+  correct: 1
