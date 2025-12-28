@@ -573,7 +573,7 @@
     For tetrahedral co-ordination the radius ratio $(r+/r-)$ should be
   options:
     - 0.414-0.732
-    - > 0.732
+    -  greater than 0.732
     - 0.156-0.225
     - 0.225-0.414
   correct: 3
