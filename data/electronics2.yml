@@ -580,7 +580,7 @@
 
 - id: 59
   text: |
-    A zener regulation has an input voltage that may be vary from 22 to 30v. If the regulated output voltage is 12v and load resistance varies from 140Ω to 10ΚΩ, what is maximum allowable series resistance ?
+    A zener regulation has an input voltage that may be vary from 22 to 30v. If the regulated output voltage is 12v and load resistance varies from 140Ω to 10kΩ, what is maximum allowable series resistance ?
   options:
     - 711Ω
     - 117Ω
