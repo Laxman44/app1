@@ -896,17 +896,17 @@
     - $\frac{\pi}{\sqrt{a}}$
    correct: 0
 
--  id: 90
-   text: |
-    If $\hat{r}^i$ is a position vector of a point, the value of grade $(1/r)$ is
-   options:
+ -  id: 90
+    text: |
+     If $\hat{r}^i$ is a position vector of a point, the value of grade $(1/r)$ is
+    options:
     - $-\hat{r} / r^2$
     - $-\hat{r} / r$
     - $-\hat{r} / r^2$
     - $-\hat{r} / r^2$
-   correct: 0
+    correct: 0
 
--  id: 91
+ - id: 91
    text: |
     The total energy of a particle is twice its rest energy. Its speed is
    options:
@@ -916,92 +916,92 @@
     - c/d/2
    correct: 1
 
--  id: 92
-   text: |
-    $\delta \left( \int_{-r}^{r} (T - t^2) dt - 0 \right)$ represents
-   options:
+ -  id: 92
+    text: |
+     $\delta \left( \int_{-r}^{r} (T - t^2) dt - 0 \right)$ represents
+    options:
     - principle of virtual work
     - Hamilton's principle
     - D'Alembert's principle
     - Principle of least action
-   correct: 3
+    correct: 3
 
--  id: 93
-   text: |
-    Which statement is correct
-   options:
+ -  id: 93
+    text: |
+     Which statement is correct
+    options:
     - Generalized acceleration conjugate to cyclic co-ordinate is conserved
     - Generalized force conjugate to a cyclic momentum is conserved
     - Generalized momentum conjugate to a cyclic co-ordinate is not conserved
     - Generalized momentum conjugate to a cyclic co-ordinate is conserved
-   correct: 3
+    correct: 3
 
--  id: 94
-   text: |
-    The momentum conjugate to the angular displacement $P_a$ in spherical coordinate system is
-   options:
+ -  id: 94
+    text: |
+     The momentum conjugate to the angular displacement $P_a$ in spherical coordinate system is
+    options:
     - mr$^2$0
     - mr$^2$$\dot{\theta}$
     - mr$\dot{\theta}$
     - mr$^2$$\dot{\theta}^2$
-   correct: 1
+    correct: 1
 
--  id: 95
-   text: |
-    The relation between relativistic momentum and energy is
-   options:
+ -  id: 95
+    text: |
+     The relation between relativistic momentum and energy is
+    options:
     - $E^2 = p^2 c^2 + m_0^2 c^4$
     - $E = Pc + m_0 c^2$
     - $E = m_0 c^2$
     - $E = p^2 c^2 + m_0 c^2$
    correct: 0
 
--  id: 96
-   text: |
-    There relativistic length of a moving rod of rest length $l_0$ is
-   options:
+ -  id: 96
+    text: |
+     There relativistic length of a moving rod of rest length $l_0$ is
+    options:
     - $\frac{l_0}{\sqrt{1 - v^2 / c^2}}$
     - $\frac{l_0}{\sqrt{1 + v^2 / c^2}}$
     - $l_0 \sqrt{1 + v^2 / c^2}$
     - $l_0 \sqrt{1 - v^2 / c^2}$
-   correct: 3
+    correct: 3
 
--  id: 97
-   text: |
-    A particle leaving a cyclotron has a total relativistic energy of 10 GeV and a relativistic momentum of 8 GeV/C. What is the rest mass of this particle?
-   options:
+ -  id: 97
+    text: |
+     A particle leaving a cyclotron has a total relativistic energy of 10 GeV and a relativistic momentum of 8 GeV/C. What is the rest mass of this particle?
+    options:
     - 0.25GeV/$C^2$
     - 6.00GeV/$C^2$
     - 1.2GeV/$C^2$
     - 16.0GeV/$C^2$
-   correct: 0
+    correct: 0
 
--  id: 98
-   text: |
-    The Lagrangian of a system is given as combinations of kinetic and potential energy. The correct expression for the Lagrangian is
-   options:
+ -  id: 98
+    text: |
+     The Lagrangian of a system is given as combinations of kinetic and potential energy. The correct expression for the Lagrangian is
+    options:
     - Potential energy - kinetic energy
     - kinetic energy + potential energy
     - Kinetic energy-potential energy
     - $2 \times$ (kinetic energy + potential energy)
-   correct: 2
+    correct: 2
 
--  id: 99
-   text: |
-    Kepler's second law of planetary motion is a consequence of the law of conservation of
-   options:
+ -  id: 99
+    text: |
+     Kepler's second law of planetary motion is a consequence of the law of conservation of
+    options:
     - mass
     - energy
     - linearomentum
     - angular momentum
-   correct: 3
+    correct: 3
 
--  id: 100
-   text: |
-    In a perfectly elastic collision between two bodies of equal masses, the energy transfer from one body to the other is
-   options:
+ -  id: 100
+    text: |
+     In a perfectly elastic collision between two bodies of equal masses, the energy transfer from one body to the other is
+    options:
     - 0%
     - 50%
     - 100%
     - 200%
-   correct: 0
+    correct: 0
