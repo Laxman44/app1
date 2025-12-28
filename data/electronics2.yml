@@ -508,7 +508,7 @@
     - None of these
   correct: 0
 
-  - id: 52
+  -id: 52
   text: |
     For ideal op-AMP, CMMR is
   options:
