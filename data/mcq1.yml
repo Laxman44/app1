@@ -1,0 +1,1007 @@
+ - id: 1
+   text: |
+     Two identical particles move towards each other with equal speed. v. What is the velocity of their centre of mass?
+   options:
+     - $\dot{2}v$
+     - $v/2$
+     - $v$
+     - $0$
+   correct: 3
+
+ - id: 2
+   text: |
+     The correct relation among Young's modules (Y), modulus of rigidity (n) and Bulk modulus (K) is
+   options:
+     - $\frac{3}{Y} = \frac{9}{\eta} + \frac{1}{K}$
+     - $\frac{9}{Y} = \frac{3}{\eta} + \frac{1}{K}$
+     - $\frac{1}{Y} = \frac{9}{\eta} + \frac{3}{K}$
+     - $\frac{3}{Y} = \frac{1}{\eta} + \frac{9}{K}$
+   correct: 1
+
+ - id: 3
+   text: |
+     The nearest planet out of our solar system is 34 light years away. If you escape earth in a space-ship which moves $10^4$ miles/hour you will reach the planet in
+   options:
+     - $2.16 \times 10^5$ years
+     - $2.16 \times 10^6$ years
+     - $2.16 \times 10^7$ years
+     - $2.16 \times 10^8$ years
+   correct: 2
+
+ - id: 4
+   text: |
+     What should be the change in the load if the depression of the strip cantilever is to be maintained at 10mm but its dimension is halved?
+   options:
+     - The load should be doubled
+     - The load should be the same
+     - The load should be halved
+     - The load cannot do anything
+   correct: 2
+
+ - id: 5
+   text: |
+     The gravitational potential energy of a system of 8 masses of 10 kg each placed at the corners of a cube of length 0.25 meter is,
+   options:
+     - $-4.067 \times 10^{-7} J$
+     - $-1.067 \times 10^{-8} J$
+     - $-4.067 \times 10^{-8} J$
+     - $-1.067 \times 10^{-7} J$
+   correct: 0
+
+ - id: 6
+   text: |
+     Plane harmonic waves of frequency 500 s$^{-1}$ are produced in air with displacement amplitude $10^{-3}$ cm. The pressure amplitude is
+   options:
+     - K $2\pi a/\lambda$
+     - K $4\pi a/\lambda$
+     - Ka/$\lambda$
+     - a/$\lambda$
+   correct: 1
+
+ - id: 7
+   text: |
+     Potential energy (U) of a particle changes from point to point. The particle experiences a conservative force, $\vec{F}$, given by the relation.
+   options:
+     - $\vec{F} = \nabla \dot{U}$
+     - $\vec{F} = -\nabla \dot{U}$
+     - $\vec{F} = -\nabla U$
+     - $\vec{F} = \nabla \times U$
+   correct: 2
+
+ - id: 8
+   text: |
+     The Bernoulli's equation of steady flow of non-viscous fluid is
+   options:
+     - $\rho \frac{v^2}{2} + mgh + P = Cons \tan t$
+     - $\frac{v^2}{2} + mgh + P = cons \tan t$
+     - $\frac{v^2}{2} + gh + \frac{P}{\rho} = constant$
+     - $\rho \frac{v^2}{2} + gh + \frac{P}{\rho} = constant$
+   correct: 2
+
+ - id: 9
+   text: |
+     Time period of motion of compound pendulum is
+   options:
+     - $2\pi \sqrt{\frac{I}{mg}}$
+     - $\sqrt{\frac{I}{mg}}$
+     - $2\pi \sqrt{\frac{I}{mgl}}$
+     - $\frac{I}{2\pi} \sqrt{\frac{I}{mg}}$
+   correct: 2
+
+ - id: 10
+   text: |
+     The moment of inertia of a spherical shell about a tangent drawn parallel to the diameter is given by
+   options:
+     - $I = \frac{2}{3} MR^2$
+     - $I = MR^2$
+     - $I = \frac{5}{3} MR^2$
+     - $I = \frac{3}{2} MR^2$
+   correct: 2
+
+ - id: 11
+   text: |
+     A blackbody of surface area A at temperature 127$^\circ$C emits radiation E is units $J/s$. the radiation emitted by another blackbody with surface area 2A at temperature 600 K is nearly.
+   options:
+     - 2E
+     - 4E
+     - 8E
+     - 10E
+   correct: 2
+
+ - id: 12
+   text: |
+     The efficiency of a Carnot's engine does not change when the source temperature (T$_H$) is increased by 9$_1$, and the sink temperature (T$_o$) is decreased by 9$_2$. Which one of the following is true?
+   options:
+     - T$_e$9$_1$ = -T$_H$9$_2$
+     - T$_e$9$_1$ = T$_H$9$_2$
+     - T$_e$9$_2$ = -T$_H$9$_1$
+     - T$_e$9$_2$ = T$_H$9$_1$
+   correct: 0
+
+ - id: 13
+   text: |
+     ratio of speed of sound in hydrogen to that in oxygen is
+   options:
+     - >1
+     - <1
+     - 1
+     - 0
+   correct: 0
+
+ - id: 14
+   text: |
+     The average thermal energy of an electron (in eV) in the Maxwell Boltzmann statistics at 300 K is
+   options:
+     - 0.039eV
+     - 0.42eV
+     - 0.042 eV
+     - 0.39eV
+   correct: 2
+
+ - id: 15
+   text: |
+     Distribution of energy in the spectrum of a black body can be correctly represented by
+   options:
+     - Wient's displacement law
+     - Stefan's law
+     - Rayleigh Jeans law
+     - Planck's law
+   correct: 3
+
+ - id: 16
+   text: |
+     The relation between entropy (S) and thermodynamic probability ($\Omega$) of a system is
+   options:
+     - $ S = \log \Omega $
+     - $ S = k_B \log \Omega $
+     - $\Omega = k_B \log S$
+     - $\Omega = \log S$
+   correct: 1
+
+ - id: 17
+   text: |
+     A piece of ice is added to water in a cup. The entropy
+   options:
+     - is decreased
+     - dose not change
+     - is increased
+     - does not enter into picture
+   correct: 3
+
+ - id: 18
+   text: |
+     The Clausius - Clapeyron's equation is
+   options:
+     - \[\frac{dP_0}{dT} = \frac{L}{T(y' - vi)}\]
+     - \[\frac{dT}{dP_0} = \frac{L}{T(y' - vi)}\]
+     - \[\frac{dP_0}{dT} = \frac{LT}{(y' - vi)}\]
+     - \[\frac{dT}{dP_0} = \frac{(y' - vi)}{LT}\]
+   correct: 3
+
+ - id: 19
+   text: |
+     The most probable distribution of bosons is
+   options:
+     - \[\frac{g_i}{e^{\beta(\epsilon_r - \mu)}}\]
+     - \[\frac{g_i}{e^{\beta(\epsilon_r - \mu)} + 1}\]
+     - \[\frac{g_i}{e^{\beta(\epsilon_r - \mu)} - 1}\]
+     - \[\frac{g_i}{e^{\beta\mu}}\]
+   correct: 2
+
+ - id: 20
+   text: |
+     For an adiabatic process involving an ideal gas having volume V and temperature T, which of the following is a constant ?
+   options:
+     - TV
+     - TV
+     - $TV^{-1}$
+     - $TV^{-1}$
+   correct: 3
+
+ - id: 21
+   text: |
+     Hysteresis loops of two different specimens enclose the same area but have different values of retentivity. Which one of the following statement is correct ?
+   options:
+     - Energy loss per unit volume per cycle is more for the one with higher value of retentivity.
+     - Energy loss per unit volume per cycle is less for the one with higher value of retentivity.
+     - Specimen with larger value of retentivity will have larger value of coercivity.
+     - Specimen with larger value of retentivity will have smaller value of coercivity.
+   correct: 3
+
+ - id: 22
+   text: |
+     The work done by a magnetic field in moving a distance x is given by
+   options:
+     - $e v B x$
+     - $v x$
+     - 0
+     - $B x$
+   correct: 2
+
+ - id: 23
+   text: |
+     Which of the following expression gives the velocity of electromagnetic wave in free space ?
+   options:
+     - \[ \sqrt{\mu_0 \epsilon_0} \]
+     - \[\frac{\mu_0}{\epsilon_0}\]
+     - $\mu_0 \varepsilon_0$
+     - $I / \sqrt{\mu_0 \varepsilon_0}$
+   correct: 3
+
+ - id: 24
+   text: |
+     An electric dipole is composed of charges ± q separated by a vector r. The dipole is situated in a uniform external field E$_0$. The potential energy is given by
+   options:
+     - q r E$_0$
+     - -q r E$_0$
+     - q E$_0$/r
+     - -q E$_0$/r
+   correct: 1
+
+ - id: 25
+   text: |
+     A FM ratio station transmits the radio signal in 100MHz. What value of capacitor should be connected for this frequency if the inductor is supplied 0.01 mH?
+   options:
+     - 0.50 μF
+     - 1 μF
+     - 0.25 μF
+     - 0.1 μF
+   correct: 2
+
+ - id: 26
+   text: |
+     The continuity equation connecting the current density $J$ and the volume charge density ($\rho$) is
+   options:
+     - $\nabla^2 J = \frac{\partial \rho}{\partial t}$
+     - $\nabla^2 \rho = \frac{\partial j}{\partial t}$
+     - $\vec{V} J = -\frac{\partial \rho}{\partial j}$
+     - $\vec{v} J = \frac{\partial^2 \rho}{\partial t^2}$
+   correct: 0
+
+ - id: 27
+   text: |
+     The orientation polarizability due to polar molecules at high temperature depends on T by a factor
+   options:
+     - T
+     - T$^{-2}$
+     - T$^{-1}$
+     - T$^{1/2}$
+   correct: 2
+
+ - id: 28
+   text: |
+     Poynting vector describes flow of
+   options:
+     - electron
+     - charge
+     - energy
+     - mass
+   correct: 2
+
+ - id: 29
+   text: |
+     A potential difference of 100V is applied between the plates of a parallel plate capacitor. The separation of the plates is 0.5 cm. After the capacitor is fully charged the battery is disconnected and a dielectric slab of dielectric constant 7.0 is inserted between the plates. The electric field in the dielectric (in V/m) is:
+   options:
+     - $1.43 \times 10^3$
+     - $5.72 \times 10^3$
+     - $1.43 \times 10^4$
+     - $2.86 \times 10^3$
+   correct: 0
+
+ - id: 30
+   text: |
+     An A.C. source of 220V and 50Hz is connected across an inductor and a resistor of 50 $\Omega$ connected in series. The potential difference across the resistor is 50V. What is the value of the inductance of the inductor?
+   options:
+     - 0.54 H
+     - 0.68H
+     - 0.62 H
+     - 21.54 H
+   correct: 0
+
+ - id: 31
+   text: |
+     When a light ray is incident normally on a plane surface separating two different media its path is not deviated. In such a case
+   options:
+     - no refraction takes place
+     - the speed of light does not change
+     - frequency of the light does not change
+     - wavelength of the light does not change
+   correct: 0
+
+ - id: 32
+   text: |
+     A quarter wave plate is a
+   options:
+     - double refracting uniaxial crystal of calcite
+     - uniaxial crystal
+     - refracting crystal of quartz
+     - glass-plate of thickness $\lambda$
+   correct: 0
+
+ - id: 33
+   text: |
+     With best technology available to date can you obtain interference pattern using two separate light sources?
+   options:
+     - Yes
+     - No
+     - Only using visible lights
+     - Only using X-rays
+   correct: 1
+
+ - id: 34
+   text: |
+     A bi-prism is placed at a distance of 5 cm in front of anarrow slit, illuminated by a sodium light ($\lambda = 5890 \times 10^8$cm) and the distance between the virtual sources is found to be 0.05 cm. Find the width of fringes observed in an eye piece placed at a distance of 75 cm from the bi-prism.
+   options:
+     - $9.42 \times 10^8$ cm
+     - $4.92 \times 10^8$ cm
+     - $9.42 \times 10^{10}$ cm
+     - $8 \times 10^{10}$ m
+   correct: 1
+
+ - id: 35
+   text: |
+     The focal length of Zone plate is
+   options:
+     - $f_n = \frac{r_n^2}{n^2\lambda}$
+     - $f_n = \frac{\lambda_n^2}{n\lambda}$
+     - $f_n = \frac{r_n}{n\lambda}$
+     - $f_n = \frac{\lambda_n^2}{n\lambda}$
+   correct: 0
+
+ - id: 36
+   text: |
+     In plane diffraction grating, the first order spectrum will be absent if
+   options:
+     - $(a + b) < \lambda$
+     - $(a + b) > \lambda$
+     - $a + b = \lambda$
+     - $(a + b) > 2\lambda$
+   correct: 0
+
+ - id: 37
+   text: |
+     In Newton's ring experiment of interference pattern, the radius of n$^th$ bright ring in reflected light system is
+   options:
+     - $\sqrt{n\lambda R}$
+     - $\sqrt{\frac{(2n - 1)\lambda R}{2}}$
+     - $\sqrt{(n + 1)\lambda R}$
+     - $\sqrt{(2n + 1)\lambda R}$
+   correct: 1
+
+ - id: 38
+   text: |
+     Optically active substance among the following is,
+   options:
+     - oil in water
+     - calcit
+     - NaCl
+     - quartz
+   correct: 3
+
+ - id: 39
+   text: |
+     Two source of light are said to be coherent if the emitted light rays
+   options:
+     - have same frequency
+     - same frequency and constant phase difference
+     - constant phase difference
+     - same frequency, constant phase difference and equal amplitude
+   correct: 1
+
+ - id: 40
+   text: |
+     Light from a laser falls on a pair of very narrow slits separated by 0.5μm, and bright fringes separated by 1.0mm are observed on a distant source. If the frequency of the laser light is doubled what will be the separation of the bright fringes ?
+   options:
+     - 0.5mm
+     - 1.0 mm
+     - 2.5mm
+     - 0.25mm
+   correct: 0
+
+ - id: 41
+   text: |
+     A zener diode with zener voltage 9V and $P_{max} = 0.27W$ is used as a voltage regulator with a voltage supply of 12V. What is the series resistor used if the load resistance is 450Ω ?
+   options:
+     - 30Ω
+     - 60Ω
+     - 90Ω
+     - 180Ω
+   correct: 0
+
+ - id: 42
+   text: |
+     Logic gates are used in
+   options:
+     - rectifier
+     - oscillator
+     - switching devices
+     - amplifiers
+   correct: 2
+
+ - id: 43
+   text: |
+     For a common source JFET voltage amplifier with $g_m = 2m$ Seimen and $R_L = 10K\Omega$ considering $r_d >> R_L$ the voltage amplification is
+   options:
+     - 5
+     - 10
+     - 15
+     - 20
+   correct: 1
+
+ - id: 44
+   text: |
+     If A is the gain without feed-back and β is the feed-back factor, then
+     Barkhausen's criterion for sustained oscillation is
+   options:
+     - β A > 1
+     - β A < 1
+     - β A = 1
+     - β = A
+   correct: 2
+
+ - id: 45
+   text: |
+     The relationship between the gain parameters in CE and CB - transistor configurations is
+   options:
+     - $ \alpha = \frac{\beta}{1-\beta} $
+     - $ \beta = \frac{1-\alpha}{\alpha} $
+     - $ \beta = \frac{\alpha}{1-\alpha} $
+     - $ \alpha = \frac{1-\beta}{\beta} $
+   correct: 2
+
+ - id: 46
+   text: |
+     The Boolean equation for EX-OR gate is
+   options:
+     - $ Y = \overline{A} B + A \overline{B} $
+     - $ Y = AB + AB $
+     - $ Y = \overline{A} B + AB $
+     - $ Y = AB + AB $
+   correct: 0
+
+ - id: 47
+   text: |
+     Which of the following ions can not be used as a dopant in germanium to an n-type semiconductor?
+   options:
+     - As
+     - P
+     - Sb
+     - B
+   correct: 3
+
+ - id: 48
+   text: |
+     A power source of variable frequency is connected across a capacitor. Which state is correct ?
+   options:
+     - It allows for frequencies
+     - It blocks all frequencies
+     - High frequency voltage passes with ease than low frequency
+     - Low frequency voltage passes with ease than high frequency
+   correct: 2
+
+ - id: 49
+   text: |
+     For an ideal operational amplifier the CMRR should be
+   options:
+     - 0
+     - +1
+     - -1
+     - ∞
+   correct: 3
+
+ - id: 50
+   text: |
+     For a circuit with impedance, Z and power supply having internal resistance r, the maximum power is delivered when
+   options:
+     - $ Z = r $
+     - $ Z > r $
+     - $ Z < r $
+     - $ Z = 2r $
+   correct: 0
+
+ - id: 51
+   text: |
+     The time required for 10% of a sample of thorium (Half -life = 1.4 × 10$^10$ years) to disintegrate is
+   options:
+     - 1.4×10$^9$ years
+     - 1.7×10$^9$ years
+     - 2.1×10$^9$ years
+     - 2.8×10$^9$ years
+   correct: 1
+
+ - id: 52
+   text: |
+     A cyclotron is generally used to increase the energy of
+   options:
+     - neutrons
+     - electrons
+     - helium atoms
+     - positions
+   correct: 2
+
+ - id: 53
+   text: |
+     Nitrogen atom has 7 electrons: 1s$^2$2s$^2$2p$^3$. According to the Hund rule the ground state will have spin
+   options:
+     - 1/2
+     - 3/2
+     - 1
+     - 0
+   correct: 1
+
+ - id: 54
+   text: |
+     An α particle is bombarded on N$^4$, as a result, a O$^{17}$ nucleus is formed and a particle is emitted. This particle is a
+   options:
+     - Neutron
+     - Proton
+     - electron
+     - positron
+   correct: 0
+
+ - id: 55
+   text: |
+     Which two quarks belong to the first generation of elementary particles?
+   options:
+     - charm and strange
+     - up and top
+     - top and bottom
+     - up and down
+   correct: 3
+
+ - id: 56
+   text: |
+     When a beta particle (β) is emitted from the nucleus of an atom, the effect is to
+   options:
+     - decrease the atomic number by 1
+     - decreases the mass number by 1
+     - increase the atomic number by 1
+     - increase the mass number by 1
+   correct: 2
+
+ - id: 57
+   text: |
+     The binding energy of α- particle for m$_p$ = 1.007276 amu, m$_n$ = 1.008665 amu and m$_\alpha$ = 4.031882 amu is
+   options:
+     - 18.50MeV
+     - 28.29 MeV
+     - 32.53 MeV
+     - 38.68 MeV
+   correct: 1
+
+ - id: 58
+   text: |
+     In the process of production of X-rays minimum wavelength varies with applied voltage (V) by the relation
+   options:
+     - V
+     - V$^{-1}$
+     - V$^2$
+     - V$^2$
+   correct: 1
+
+ - id: 59
+   text: |
+     The rest mass energy of an electron is about 0.5 MeV. A grammar ray of cosmic origin passes close to a heavy nucleus. Which one of the following choices for the energy of the photon is the correct choice for electron positron pair production?
+   options:
+     - E = 0.6MeV
+     - E = 0.8MeV
+     - E = 0.9 MeV
+     - E = 1.1 MeV
+   correct: 3
+
+ - id: 60
+   text: |
+     Bohr's formula for energy of an electron in hydrogen in its ground state gives E = -13.6MeV. The energy of two electrons in the ground state in Helium atom according to the Bohr's formula is:
+   options:
+     - -108eV
+     - -54.4eV
+     - -27.2 eV
+     - -81.6 eV
+   correct: 0
+
+ - id: 61
+   text: |
+     According to the Meissner effect the magnetic susceptibility of a superconductor is
+   options:
+     - >1
+     - 0
+     - +1
+     - -1
+   correct: 3
+
+ - id: 62
+   text: |
+     The mean energy of an electron in an electron gas at absolute zero in terms of the Fermi energy at absolute zero $ \epsilon_{F0} $ is
+   options:
+     - $ \frac{5}{3} \epsilon_{F0} $
+     - $ \frac{2}{5} \epsilon_{F0} $
+     - $ \frac{2}{3} \epsilon_{F0} $
+     - $ \frac{3}{5} \epsilon_{F0} $
+   correct: 3
+
+ - id: 63
+   text: |
+     A crystal system having unit cell with a $\pm$ b $\pm$ c and $\alpha \neq \beta \neq 90^\circ$ is
+   options:
+     - tetragonal
+     - cubic
+     - hexagonal
+     - triclinic
+   correct: 3
+
+ - id: 64
+   text: |
+     The interplanar spacing for a (321) plane in a simple cubic lattice of lattice constant 4.2A$^0$ is
+   options:
+     - 1.122A$^0$
+     - 11.22A$^0$
+     - 0.1122A$^0$
+     - 111.2A$^0$
+   correct: 0
+
+ - id: 65
+   text: |
+     If the potential energy function is expressed as, $ U(r) = \frac{\alpha}{r^c} + \frac{\beta}{r^{c2}} $. The minimum potential energy will be
+   options:
+     - $ U(r) = \frac{\alpha^2}{4\beta} $
+     - $ U(r) = \frac{\alpha^2}{4\beta^2} $
+     - $ U(r) = \frac{\alpha^2}{4\beta} $
+     - $ U(r) = 0 $
+   correct: 2
+
+ - id: 66
+   text: |
+     The energy gap between the valance band and conduction bands in a semiconductor is of the order of
+   options:
+     - 0.025eV
+     - 1eV
+     - 6 eV
+     - 0.1eV
+   correct: 1
+
+ - id: 67
+   text: |
+     In Langevin's theory of paramagnetism, the total magnetic moment per unit volume is
+   options:
+     - $ l = NM \left[ \frac{l}{\alpha} - \coth \, a \right] $
+     - $ l = NM \left[ tanh a - \frac{l}{a} \right] $
+     - $ l = NM \left[ coth a - \frac{l}{a} \right] $
+     - $ l = NM \left[ cosh a - \frac{l}{a} \right] $
+   correct: 2
+
+ - id: 68
+   text: |
+     At low temperature Debye's formula for molar specific heat is
+   options:
+     - $ \frac{8\pi^4}{5} R \left( \frac{T}{\theta} \right)^3 $
+     - $ \frac{14\pi^2}{5} R \left( \frac{T}{\theta} \right)^3 $
+     - $ R \left( \frac{T}{\theta} \right)^3 $
+     - $ \frac{12\pi^4}{5} R \left( \frac{T}{\theta} \right)^3 $
+   correct: 3
+
+ - id: 69
+   text: |
+     Density of stated for a free electron gas in 3-Dimensions varies with energy (E) by
+   options:
+     - $ E^3 $
+     - $ E^{1/2} $
+     - $ E^{3/2} $
+     - $ E^{-1/2} $
+   correct: 2
+
+ - id: 70
+   text: |
+     The correct formula for the Bragg diffraction from crystals (θ is the glancing angle and d is the lattice spacing) is
+   options:
+     - d sinθ = nλ
+     - d cosθ = nλ
+     - 2d cosθ = nλ
+     - 2d sinθ = nλ
+   correct: 3
+
+ - id: 71
+   text: |
+     The ratio of $ [L_x, P_y] / o [L_x, P_z] $ is
+   options:
+     - $ P_y/P_y $
+     - $ P_y/P_z $
+     - $ P_y/P_y $
+     - $ P_y/P_z $
+   correct: 1
+
+ - id: 72
+   text: |
+     The value of A in the wave function of particle represented by
+     \[ \psi(x, θ) = 
+     \begin{cases} 
+     Ax/a & \text{if } 0 \leq x \leq a \\ 
+     A(b-x)/(b-a) & \text{if } a \leq x \leq b \\ 
+     0 & \text{otherwise} 
+     \end{cases} \]
+     is
+   options:
+     - $ \sqrt{3/b} $
+     - $ \sqrt{b/3} $
+     - $ \sqrt{3/a} $
+     - $ \sqrt{a/3} $
+   correct: 0
+
+ - id: 73
+   text: |
+     The probability current density $ \bar{V}_j $ is equal to
+   options:
+     - $ \nabla \psi' \psi $
+     - $ \frac{h}{2m} \left[ \phi \nabla \psi' - \psi' \nabla \phi \right] $
+     - $ \frac{h}{2m} \left[ \psi \nabla \psi' - \psi' \nabla \psi \right] $
+     - $ \frac{2m}{ih} \nabla \psi \psi' $
+   correct: 2
+
+ - id: 74
+   text: |
+     The average life time of hydrogen in excited state is 2.5× $ 10^{-14} $ sec. The uncertainty in the measurement of its nergy in this state is
+   options:
+     - 0.0125eV
+     - 0.025eV
+     - 0.125 eV
+     - 0.25eV
+   correct: 0
+
+ - id: 75
+   text: |
+     Which of the following is the quantum operator of angular momentum?
+   options:
+     - $ \frac{p^2}{2m} $
+     - $ i\hbar \nabla \times r $
+     - $-i\hbar \nabla $
+     - $-i\hbar \nabla \times r $
+   correct: 3
+
+ - id: 76
+   text: |
+     The solution of angular part of hydrogen atom is c. 7.27×10^6 cm d. 2.31 ×10^6 cm
+   options:
+     - $ \frac{NF^m}{c} (cos\theta) e^{\pm im\phi} $
+     - $ \frac{NF^m}{c} (cos\theta) $
+     - $ Ne^{\pm im\phi} $
+     - $ H = \frac{p^2}{2m} + \frac{l}{2} max $
+   correct: 0
+
+ - id: 77
+   text: |
+     The expectation value <<>> of the position of a particle trapped in a box of length L is
+   options:
+     - L/2
+     - 2L
+     - L/3
+     - L/5
+   correct: 0
+
+ - id: 78
+   text: |
+     The wave function $\psi_{100}(r)$ for ground state of hydrogen atom is
+   options:
+     - $ \frac{l}{\sqrt{\pi}} \left( \frac{l}{a_0} \right)^3 e^{-\frac{r}{a_0}} $
+     - $ \frac{l}{\sqrt{\pi}} \left( \frac{l}{a_0} \right)^3 e^{-\frac{r}{a_0}} $
+     - $ \frac{l}{\sqrt{\pi}} \left( \frac{l}{a_0} \right)^3 e^{-\frac{r}{a_0}} $
+     - $ \frac{l}{\sqrt{\pi}} \left( \frac{l}{a_0} \right)^3 e^{-\frac{r}{a_0}} $
+   correct: 0
+
+ - id: 79
+   text: |
+     For an electron moving with the speed of 100m/s, the de Broglie wavelength is nearly equal to
+   options:
+     - $(l-x^2)\frac{d^2y}{dx^2}-2x\frac{dy}{dx}+n(n+1)y=0 $
+     - $ \frac{d^2y}{dx^2}-2x\frac{dy}{dx}+2ny=0 $
+     - $ \frac{d^2 y}{d x^2} + (l - x) \frac{dy}{dx} + ny = 0 $
+     - $ \frac{d^2 y}{d x^2} + x \frac{dy}{dx} + (x^2 - n^2)y = 0 $
+   correct: 0
+
+ - id: 80
+   text: |
+     The Hamiltonian of a one dimensional harmonic oscillator is
+   options:
+     - $ H = \frac{p^2}{2m} + \frac{l}{2} max $
+     - $ H = \frac{p^2}{2m} + \frac{l}{2} m\omega^2 x^2 $
+     - $ H = \frac{p^2}{2m} + \frac{l}{2} m^2 \omega^2 x^2 $
+     - $ H = \frac{p^2}{2m} + \frac{l}{2} \omega^2 x^2 $
+   correct: 1
+
+ - id: 81
+   text: |
+     The Kronecker delta $\delta_j$ is
+   options:
+     - a covariant tensor of rank 2
+     - a contravariant tensor of rank 2
+     - a mixed tensor of rank 1
+     - a mixed tensor of rank 2
+   correct: 3
+
+ - id: 82
+   text: |
+     Which one of the following is a skew-Hermitian matrix ?
+   options:
+     - \[ \begin{bmatrix} 0 & i \\ i & 0 \end{bmatrix} \]
+     - \[ \begin{bmatrix} 0 & i \\ -i & 0 \end{bmatrix} \]
+     - \[ \begin{bmatrix} i & 0 \\ 0 & i \end{bmatrix} \]
+     - \[ \begin{bmatrix} i & 0 \\ 0 & -i \end{bmatrix} \]
+   correct: 0
+
+ - id: 83
+   text: |
+     Which of the following equation is in the form of Legendre's differential equation ?
+   options:
+     - $(l-x^2)\frac{d^2y}{dx^2}-2x\frac{dy}{dx}+n(n+1)y=0 $
+     - $ \frac{d^2y}{dx^2}-2x\frac{dy}{dx}+2ny=0 $
+     - $ \frac{d^2 y}{d x^2} + (l - x) \frac{dy}{dx} + ny = 0 $
+     - $ \frac{d^2 y}{d x^2} + x \frac{dy}{dx} + (x^2 - n^2)y = 0 $
+   correct: 0
+
+ - id: 84
+   text: |
+     The unit vector that is normal to $ x^2 + y^2 = 4 $ is
+   options:
+     - $ (x i + y j) / z $
+     - $ (x i - y j) / z $
+     - $ (y i + x j) / z $
+     - $ (y i - x j) / z $
+   correct: 0
+
+ - id: 85
+   text: |
+     The Fourier transform of Dirac delta function is
+   options:
+     - plane wave function
+     - a square wave function
+     - a Gaussian function
+     - an exponential function
+   correct: 0
+
+ - id: 86
+   text: |
+     The generating function of Hermite polynomial is
+   options:
+     - $ e^{x/2(l - l')} $
+     - $ (l - 2x h + h^2)^2 $
+     - $ e^{y/(l - p)} / (l - p) $
+     - $ e^{-p(x - p)} $
+   correct: 1
+
+ - id: 87
+   text: |
+     The Laplace transform of $ s(s^2 + 4) $ is
+   options:
+     - 1/2 cos 4t
+     - 2 cos 2t
+     - 1/2 cos 2t
+     - cos 2t
+   correct: 2
+
+ - id: 88
+   text: |
+     Error which can be minimized by increasing the number of observations is
+   options:
+     - all types of error
+     - random
+     - probable
+     - systematic
+   correct: 1
+
+ - id: 89
+  text: |
+    Given $\int_{-\infty}^{\infty} dx e^{-ax^2} = \sqrt{\frac{\pi}{a}}$, the value of the integral $\int_{-\infty}^{\infty} dx x^2 e^{-ax^2}$ is
+  options:
+    - $\sqrt{\frac{\pi}{a}}$
+    - $\sqrt{\frac{\pi}{a^2}}$
+    - $\sqrt{\frac{\pi}{a}}$
+    - $\frac{\pi}{\sqrt{a}}$
+  correct: 0
+
+- id: 90
+  text: |
+    If $\hat{r}^i$ is a position vector of a point, the value of grade $(1/r)$ is
+  options:
+    - $-\hat{r} / r^2$
+    - $-\hat{r} / r$
+    - $-\hat{r} / r^2$
+    - $-\hat{r} / r^2$
+  correct: 0
+
+- id: 91
+  text: |
+    The total energy of a particle is twice its rest energy. Its speed is
+  options:
+    - c/2
+    - 2 c/3
+    - c/4
+    - c/d/2
+  correct: 1
+
+- id: 92
+  text: |
+    $\delta \left( \int_{-r}^{r} (T - t^2) dt - 0 \right)$ represents
+  options:
+    - principle of virtual work
+    - Hamilton's principle
+    - D'Alembert's principle
+    - Principle of least action
+  correct: 3
+
+- id: 93
+  text: |
+    Which statement is correct
+  options:
+    - Generalized acceleration conjugate to cyclic co-ordinate is conserved
+    - Generalized force conjugate to a cyclic momentum is conserved
+    - Generalized momentum conjugate to a cyclic co-ordinate is not conserved
+    - Generalized momentum conjugate to a cyclic co-ordinate is conserved
+  correct: 3
+
+- id: 94
+  text: |
+    The momentum conjugate to the angular displacement $P_a$ in spherical coordinate system is
+  options:
+    - mr$^2$0
+    - mr$^2$$\dot{\theta}$
+    - mr$\dot{\theta}$
+    - mr$^2$$\dot{\theta}^2$
+  correct: 1
+
+- id: 95
+  text: |
+    The relation between relativistic momentum and energy is
+  options:
+    - $E^2 = p^2 c^2 + m_0^2 c^4$
+    - $E = Pc + m_0 c^2$
+    - $E = m_0 c^2$
+    - $E = p^2 c^2 + m_0 c^2$
+  correct: 0
+
+- id: 96
+  text: |
+    There relativistic length of a moving rod of rest length $l_0$ is
+  options:
+    - $\frac{l_0}{\sqrt{1 - v^2 / c^2}}$
+    - $\frac{l_0}{\sqrt{1 + v^2 / c^2}}$
+    - $l_0 \sqrt{1 + v^2 / c^2}$
+    - $l_0 \sqrt{1 - v^2 / c^2}$
+  correct: 3
+
+- id: 97
+  text: |
+    A particle leaving a cyclotron has a total relativistic energy of 10 GeV and a relativistic momentum of 8 GeV/C. What is the rest mass of this particle?
+  options:
+    - 0.25GeV/$C^2$
+    - 6.00GeV/$C^2$
+    - 1.2GeV/$C^2$
+    - 16.0GeV/$C^2$
+  correct: 0
+
+- id: 98
+  text: |
+    The Lagrangian of a system is given as combinations of kinetic and potential energy. The correct expression for the Lagrangian is
+  options:
+    - Potential energy - kinetic energy
+    - kinetic energy + potential energy
+    - Kinetic energy-potential energy
+    - $2 \times$ (kinetic energy + potential energy)
+  correct: 2
+
+- id: 99
+  text: |
+    Kepler's second law of planetary motion is a consequence of the law of conservation of
+  options:
+    - mass
+    - energy
+    - linearomentum
+    - angular momentum
+  correct: 3
+
+- id: 100
+  text: |
+    In a perfectly elastic collision between two bodies of equal masses, the energy transfer from one body to the other is
+  options:
+    - 0%
+    - 50%
+    - 100%
+    - 200%
+  correct: 0

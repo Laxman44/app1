@@ -1,0 +1,1005 @@
+- id: 1
+  text: |
+    Entropy probability relation is (letters have their usual meaning)
+  options:
+    - s=klogw
+    - w=slogk
+    - w=klogs
+    - s=wlogk
+  correct: 0
+
+- id: 2
+  text: |
+    Kelvin Plank's law deals with the
+  options:
+    - Conservation of energy
+    - conservation of mass
+    - Conservation of heat into work
+    - None of these
+  correct: 2
+
+- id: 3
+  text: |
+    One mole of an ideal gas at temperature T undergoes a free expansion which doubles its volumes change in entropy is given as
+  options:
+    - $\Delta s = \text{NkTln2}$
+    - $\Delta s = \text{Nln2}$
+    - $\Delta s = \text{Kln2}$
+    - $\Delta s = \text{Nkln2}$
+  correct: 3
+
+- id: 4
+  text: |
+    An isentropic process is
+  options:
+    - reversible but not adiabatic
+    - adiabatic but not reversible
+    - Must be reversible and adiabatic
+    - None of these
+  correct: 2
+
+- id: 5
+  text: |
+    A process occurs spontaneously if its entropy
+  options:
+    - increases
+    - decreases
+    - remains same
+    - becomes zero
+  correct: 0
+
+- id: 6
+  text: |
+    Maxwell's thermodynamic relations are valid for
+  options:
+    - all process
+    - a closed system
+    - a thermo dynamic system in equilibrium
+    - an open system
+  correct: 2
+
+- id: 7
+  text: |
+    Joule's experiment states that for a cycle
+  options:
+    - Change of pressure is proportional to temperature change
+    - Change of volume is proportional to temperature change
+    - Change in internal energy is proportional to temperature change
+    - Sum of all heat transfers is proportional to sum of all work transfer
+  correct: 3
+
+- id: 8
+  text: |
+    Bernoulli's equation deals with conservation of
+  options:
+    - Mass
+    - Momentum
+    - Energy
+    - None of these
+  correct: 2
+
+- id: 9
+  text: |
+    Two wires of same material have lengths in ration 1:2 and their radii are in ratio of 1:$\sqrt{2}$. If they are stretched by applying equal forces, the increase in their lengths will be in the ratio of
+  options:
+    - $2:\sqrt{2}$
+    - $\sqrt{2}:2$
+    - 1:1
+    - 1:2
+  correct: 2
+
+- id: 10
+  text: |
+    There is no geometrical distinction between the streamline, pathline and streakline areas of
+  options:
+    - Irrotational flow
+    - Uniform flow
+    - Steady flow
+    - None of these
+  correct: 2
+
+- id: 11
+  text: |
+    Stoke's theorem relates a pair of two quantities. Pick the correct 'pair from the following
+  options:
+    - Surface integral and volume integral
+    - line integral and surface integral
+    - line integral and volume integral
+    - curl of vector and its divergence
+  correct: 3
+
+- id: 12
+  text: |
+    curl $E = -\frac{\partial B}{\partial t}$ is representing
+  options:
+    - Ampere's Law
+    - Gauss's law
+    - Ohm's Law
+    - Faraday's Law
+  correct: 3
+
+- id: 13
+  text: |
+    In Electromagnetic field $\sqrt{\frac{\mu}{E}}$ has dimension of
+  options:
+    - an inductance
+    - a capacitance
+    - an impedance
+    - an electric field
+  correct: 2
+
+- id: 14
+  text: |
+    A Phasor diagram for alternating quantities can be drawn if they are .... waves
+  options:
+    - rectangular
+    - Sinusoidal
+    - Triangular
+    - Any of these
+  correct: 1
+
+- id: 15
+  text: |
+    Identify true statement
+  options:
+    - In frenkel defect, an equal number of cations and unions are missing to maintain electrical neutrality
+    - Schottky defects increases the density of ionic solid
+    - Frenkel defects do not affect density of ionic solid
+    - Schottky defect is created when smaller ion is dislocated from its normal site to an interstitial site.
+  correct: 2
+
+- id: 16
+  text: |
+    The Bravis Lattice , formed by all points all points with set of integers $(n_1, n_2, n_3)$ when $n_1, n_2, n_3$ are either all odd or all even is
+  options:
+    - simple cubic
+    - fcc
+    - bcc
+    - hexagonal
+  correct: 3
+
+- id: 17
+  text: |
+    Larmor frequency is gives as
+  options:
+    - $\frac{en}{m}$
+    - $\frac{en}{2m}$
+    - $\frac{em}{B}$
+    - $\frac{em}{2B}$
+  correct: 1
+
+- id: 18
+  text: |
+    In the Debye theory, a solid is regarded as :
+  options:
+    - an isotropic discrete
+    - an anisotropic discrete
+    - an isotropic continuum
+    - an anisotropic continuum
+  correct: 2
+
+- id: 19
+  text: |
+    A phonon is quantum of
+  options:
+    - Electromagnetic wave
+    - Elastic wave
+    - Polarization wave
+    - Magnetization wave
+  correct: 1
+
+- id: 20
+  text: |
+    For a fee crystal, the first Brillouin zone is
+  options:
+    - Truncated Octahedron
+    - Regular Rhombic dodecahedron
+    - Rectangular Parallelopiped
+    - Cube
+  correct: 0
+
+- id: 21
+  text: |
+    Transistor is a-
+  options:
+    - Voltage controlled device
+    - Current controlled device
+    - Both voltage and current controlled device
+    - Neither voltage nor current controlled device
+  correct: 1
+
+- id: 22
+  text: |
+    Krichhoff's laws are valid for
+  options:
+    - linear circuits only
+    - Passive time invariant circuits
+    - Non linear circuits only
+    - both linear and non linear circuits
+  correct: 3
+
+- id: 23
+  text: |
+    A resistance and inductance are connected in parallel across an ac source. The currents through two parallel branches will have a phase difference
+  options:
+    - 0 degree
+    - 90 degree
+    - 180 degree
+    - 45 degree
+  correct: 1
+
+- id: 24
+  text: |
+    Unique out put for a NAND gate is a o:
+  options:
+    - When all inputs are 0
+    - When all inputs are 1
+    - When any one input is 0
+    - When any on input is 1
+  correct: 0
+
+- id: 25
+  text: |
+    When operated in cutt off and saturated transistor acts like a
+  options:
+    - a linear amplifier
+    - a switch
+    - a variable capacitor
+    - a variable resistor
+  correct: 1
+
+- id: 26
+  text: |
+    The form factor in a full wave rectifier is equal to
+  options:
+    - 1.57
+    - 1.11
+    - 1.21
+    - zero
+  correct: 1
+
+- id: 27
+  text: |
+    In RC phase shift oscillator having 3 stages , the amplifier.in order ot satisfy barkhausen criterion should have a minimum gain of
+  options:
+    - 10
+    - 29
+    - 31
+    - None
+  correct: 1
+
+- id: 28
+  text: |
+    In N channel JFET, for drain current to be maximum, gate-to-source voltage should be
+  options:
+    - Negative
+    - Positive
+    - zero
+    - Drain current is independent of gate-to-source voltage.
+  correct: 2
+
+- id: 29
+  text: |
+    Conduction electron have more mobility than holes because they
+  options:
+    - are lighter
+    - have negative charge
+    - experience collision less frequency
+    - need less energy to move them
+  correct: 0
+
+- id: 30
+  text: |
+    A n type semiconductor is formed by adding impurity atoms of
+  options:
+    - Phosphorous, antimony or arsenic
+    - Aluminium, boron or indium
+    - Cobalt, aluminium or selenium
+    - Aluminium, boron or selenium
+  correct: 0
+
+- id: 31
+  text: |
+    Hamiltonian is equal to total energy for
+  options:
+    - dissipative systems
+    - conservative systems
+    - non conservative system
+    - any system in general
+  correct: 1
+
+- id: 32
+  text: |
+    Dimension of Action are
+  options:
+    - ML$^2$T$^2$
+    - MLT$^2$
+    - MLT$^1$
+    - M$^2$LT$^1$
+  correct: 0
+
+- id: 33
+  text: |
+    Lagrangian for a one dimensional harmonic oscilator is
+  options:
+    - $\frac{1}{2} m \dot{x}^2 - \frac{1}{2} kx^2$
+    - $\frac{1}{2} m \dot{x}^2 + \frac{1}{2} kx^2$
+    - m$\dot{x}$ + kx
+    - $\frac{1}{2} (m x^2 + kx^2)$
+  correct: 0
+
+- id: 34
+  text: |
+    An automobile moves on a road with a speed of 15 m/s. The radius of its wheels is 0.35 m. The moment of inertia of the wheel about its axis of rotation is 3 kgm$^2$. If vehicle is to be brought rest in 15 s, the average torque transmitted by brakes to a wheel is
+  options:
+    - 10.67 kgm$^2$s$^2$
+    - 11.67 kgm$^2$s$^2$
+    - 8.57 kgm$^2$s$^2$
+    - 6.57 kgm$^2$s$^2$
+  correct: 2
+
+- id: 35
+  text: |
+    An X- ray tube is operated at 20 kv and current through tube is 0.5mA. The cutoff wavelength of the continuous bremsstrahlung spectrum emitted from the tube will be
+  options:
+    - 0.010 nm
+    - 0.040nm
+    - 0.20 nm
+    - 0.062 nm
+  correct: 3
+
+- id: 36
+  text: |
+    Kinetic energy of a free relativistic particle is given as (M$_0$ is rest mass, p is momentum of particle)
+  options:
+    - $\frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}$ $m_0 c^2$
+    - pc
+    - \[ \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}} = 1 \, m_0 c^2 \]
+    - $mc^2$
+  correct: 2
+
+- id: 37
+  text: |
+    Which of following statements is incorrect?
+  options:
+    - No signal can travel with velocity greater than c
+    - Simultaneity is frame independent
+    - Propertime is same in all inertial frame
+    - Total energy of particle does not depend on choice of inertial frame.
+  correct: 2
+
+- id: 38
+  text: |
+    Energy in elctron volt, that would be generated after annihilation of 1gm of matter, is
+  options:
+    - $5.6 \times 10^{32}$ ev
+    - $6.5 \times 10^{23}$ ev
+    - $6.5 \times 10^{36}$ ev
+    - $5.6 \times 10^{40}$ ev
+  correct: 0
+
+- id: 39
+  text: |
+    S- frame of reference has uniform angular velocity with respect to s-frame these frames are
+  options:
+    - Inertial with respect to each other
+    - Non Inertial with respect to each other
+    - Both are inertial as well as non inertial
+    - both are neither inertial inertial.
+  correct: 1
+
+- id: 40
+  text: |
+    Two particles are travelling in direction with speed $0.9c$ relative to a frame. Their relative speed would be
+  options:
+    - $0.995c$
+    - $1.8c$
+    - $0.895c$
+    - $0.905c$
+  correct: 0
+
+- id: 41
+  text: |
+    Critical angle for total internal reflection of light of a certain frequency at a denser to maximum is $30^\circ$. At what angle should the same light be incident on the boundary from the side of denser medium that the reflected and refracted rays are mutually perpendicular?
+  options:
+    - $\tan^{-1}(2)$
+    - $\tan^{-1}(1/3)$
+    - $\cos^{-1}(2/\sqrt{3})$
+    - $\cos^{-1}(2/\sqrt{5})$
+  correct: 2
+
+- id: 42
+  text: |
+    When the surface of lake is calm, a fish submerged in water will see the entire outside world within an inverted cone whose apex is situated at eye of fish and the cone subtends a angle of:
+  options:
+    - 10$^0$
+    - 60$^0$
+    - 98$^0$
+    - 30$^0$
+  correct: 2
+
+- id: 43
+  text: |
+    A meniscus lens has convex surface of curvature 20 cm and concave surface of 30 cm. If lens is made of glass of refractive index 1.5 the focal length will be:
+  options:
+    - -4 cm
+    - +4 cm
+    - -120 cm
+    - +120 cm
+  correct: 3
+
+- id: 44
+  text: |
+    A long sighted person cannot see objects clearly at a distance less than 40 cm from his eye. The power of lens needed to read an object at 25 cm is
+  options:
+    - -2.5 D
+    - 0.51 D
+    - -6.25 D
+    - +1.5 D
+  correct: 3
+
+- id: 45
+  text: |
+    In young's experiment performed with light of wavelength 550 nm the angular width of a fringe formed on a distant screen is 0.1$^0$. separation between the slits is nearly
+  options:
+    - 0.31 mm
+    - 0.51 mm
+    - 0.71 mm
+    - 0.81 mm
+  correct: 0
+
+- id: 46
+  text: |
+    A thin film of water of RI =4/3 is 3100 angstrom thick. If it is illuminated by white light at normal incidence, the colour of film in reflected light will be
+  options:
+    - Blue
+    - Green
+    - Yellow
+    - Red
+  correct: 0
+
+- id: 47
+  text: |
+    Light is incident normally on a diffraction grating through which the first order diffraction is seen at 32 degree. The second order diffraction will be see at
+  options:
+    - 48$^0$
+    - 64$^0$
+    - 80$^0$
+    - NO second order diffraction in this case
+  correct: 3
+
+- id: 48
+  text: |
+    For a beam of light incident on glass plate at an angle of incidence 600, the refracted ray is polarized. The angle of refraction for an angle of incidence 450 is
+  options:
+    - $\sin^{-1}\frac{\sqrt{3}}{2}$
+    - $\cos^{-1}\frac{\sqrt{3}}{2}$
+    - $\sin^{-1}\frac{1}{\sqrt{6}}$
+    - $\sin^{-1}\frac{1}{\sqrt{3}}$
+  correct: 2
+
+- id: 49
+  text: |
+    In an anistropic crystal, refractive index is
+  options:
+    - same in all directions
+    - different in different directions
+    - not well defined
+    - infinity large
+  correct: 1
+
+- id: 50
+  text: |
+    In a grating, angular width of a principal maxima depends on
+  options:
+    - number of lines per cm
+    - total number of lines
+    - total width of ruled surface
+    - None of above
+  correct: 2
+
+- id: 51
+  text: |
+    A quantum system consists of seven simple harmonic oscillators each with a frequency f. The oscillators are free to move in any of the three Cartesian coordinates axes. In ground state of system, what will be the total energy in units of hf?
+  options:
+    - zero
+    - 7/2
+    - 7
+    - 21/2
+  correct: 3
+
+- id: 52
+  text: |
+    Compton shift in x-ray wavelength depends on
+  options:
+    - scattering angle only
+    - scattering angle & wavelength of x-ray both
+    - wavelength of x-ray only
+    - None of above
+  correct: 0
+
+- id: 53
+  text: |
+    Electronic configuration of an atom with atomic number 25 is
+  options:
+    - $1s^2zs^2p^63s^3p^63d^1$
+    - $1s^2zs^2p^63s^3p^63d^4s^2$
+    - $1s^2zs^2p^63s^3p^63d^4s^2dp^2$
+    - $1s^2zs^2p^63s^3p^63d^4s^2dp^2$
+  correct: 1
+
+- id: 54
+  text: |
+    Work function of a metal corresponds to green light. one will observe photoelectons by irradiating metal surface by
+  options:
+    - Red Light
+    - microwave radiation
+    - IR radiation
+    - blue light
+  correct: 3
+
+- id: 55
+  text: |
+    Troposphere is the
+  options:
+    - Lowermost atmospheric zone
+    - Uppermost atmospheric zone
+    - Atmospheric Zone extending between stratosphere and ionosphere
+    - None of above
+  correct: 0
+
+- id: 56
+  text: |
+    IF a vector field F is irrotational, the curl F is
+  options:
+    - 0
+    - n
+  correct: 0
+
+- id: 57
+  text: |
+    During x-ray emission if voltage is increased
+  options:
+    - minimum wavelength decreases
+    - minimum wavelength increases
+    - intensity increases
+    - intensity decreases
+  correct: 0
+
+- id: 58
+  text: |
+    Characteristic X-rays are characteristic of which of following
+  options:
+    - Cathode materials
+    - Anode materials
+    - Accelerating voltage
+    - Tube current
+  correct: 1
+
+- id: 59
+  text: |
+    Binding energy per nucleon is a measure of
+  options:
+    - Size of nucleus
+    - Shape of nucleus
+    - Angular momentum of nucleus
+    - Stability of nucleus
+  correct: 3
+
+- id: 60
+  text: |
+    20% of a radioactive substance decays in 10 days. The amount of original material left after 30 days will be:
+  options:
+    - 51.2%
+    - 62.6%
+    - 15%
+    - 21.27%
+  correct: 0
+
+- id: 61
+  text: |
+    Because of which property of crystal x-rays can be diffracted from crystals
+  options:
+    - random arrangement of atoms
+    - Colour of crystals
+    - periodic array of atom
+    - transparency of crystals
+  correct: 2
+
+- id: 62
+  text: |
+    According to Hall effect if a conducting material is placed in a uniform magnetic field and current is passed, Voltage is found to develop at
+  options:
+    - parallel to current
+    - parallel to magnetic field.
+    - perpendicular to magnetic field and current
+    - 45 degree to magnetic field and current
+  correct: 2
+
+- id: 63
+  text: |
+    FCC lattice is reciprocal lattice of
+  options:
+    - BCC lattice
+    - SC lattice
+    - HPC lattice
+    - both of BCC & SC lattice
+  correct: 0
+
+- id: 64
+  text: |
+    Fermi energy level for intrinsic semiconductor lies
+  options:
+    - at middle of band gap
+    - close to conduction band
+    - close to valence band
+    - inside valence band
+  correct: 0
+
+- id: 65
+  text: |
+    In one dimensional periodic chain of atom with lattice parameter 'a' has first brilloum zone at
+  options:
+    - a
+    - 2a
+    - n/a
+    - 2n/a
+  correct: 2
+
+- id: 66
+  text: |
+    Bremssthralung is produced when:
+  options:
+    - electrons move with uniform speed
+    - neutrons travel past the nucleus
+    - Protons are accelerated by nucleus
+    - electrons travel through electric field of a nucleus
+  correct: 3
+
+- id: 67
+  text: |
+    Ratio of de broglie wave length of a proton and an alpha particle will be 1:2 , if their
+  options:
+    - K.E are in ration 1:8
+    - K.E are in ratio 8:1
+    - velocities are in ration 1:8
+    - velocities are in ratio 8:1
+  correct: 3
+
+- id: 68
+  text: |
+    Transuranium elements are:
+  options:
+    - those having atomic number less than 92
+    - those having atomic number more than 92
+    - those having atomic number greater than 100
+    - radioactive isotopes of uranium
+  correct: 1
+
+- id: 69
+  text: |
+    Harmonic oscillator frequency for $^{16} _{8} O$ nucleus is approximately how much times of H.O frequency for $^{125} _{56} Ba$ Nucleus?
+  options:
+    - 4
+    - 1/4
+    - 2
+    - 1/2
+  correct: 2
+
+- id: 70
+  text: |
+    Interaction of a positron with an electron results in
+  options:
+    - formation of a neutron at rest
+    - annihilation of both and total mass appearing as energy
+    - formation of an X ray photon
+    - a neutral particle with high energy
+  correct: 1
+
+- id: 71
+  text: |
+    The three nodes of a harmonic oscillator are located at :
+  options:
+    - 0, $\pm 2/3$
+    - 0, $\pm \sqrt{\frac{2}{3}}$
+    - -1,0,+1
+    - 0, $\pm \sqrt{\frac{3}{2}}$
+  correct: 3
+
+- id: 72
+  text: |
+    A medium in which the group velocity Vg is independent of "k" is known as
+  options:
+    - Denser medium
+    - Rarer Medium
+    - Dispersive Medium
+    - Dispersionless medium
+  correct: 1
+
+- id: 73
+  text: |
+    Which of following is a eigenstate of momentum operator?
+  options:
+    - coskx + isinkx
+    - isinkx
+    - coskx
+    - Acoskx + Bsinkx
+  correct: 0
+
+- id: 74
+  text: |
+    Which of following set of quantum numbers is not possible?
+  options:
+    - n=2, l=3, m₁=2
+    - n=3, l=2, m₁=-2
+    - n=6, l=2, m₁=0
+    - n=7, l=3, m₁=-3
+  correct: 0
+
+- id: 75
+  text: |
+    An electron is confined to a box of length. L. If length of box changes to 2l, how would uncertainty of momentum change?
+  options:
+    - Uncertainty of momentum will be twice
+    - Uncertainty of momentum will be half
+    - Uncertainty of momentum will be one fourth
+    - Uncertainty of momentum will be four times
+  correct: 1
+
+- id: 76
+  text: |
+    The energy emitted by a hot body at any temperature is distributed among the different wavelengths
+  options:
+    - equally
+    - unequally
+    - More in long wavelength region
+    - More in shortwavelength region
+  correct: 1
+
+- id: 77
+  text: |
+    Which among the following has a negative resistance region in its VI characteristics?
+  options:
+    - FET
+    - Tunnel diode
+    - LED
+    - Zener diode
+  correct: 1
+
+- id: 78
+  text: |
+    Given a one dimensional wave function $f(x)=A \exp(-\alpha x^2)$ , $(\alpha>0)$, the normalization factor A would be
+  options:
+    - $|A| = \left( \frac{2\alpha}{\pi} \right)^{1/4}$
+    - $|A| = \left( \frac{\pi}{2\alpha} \right)^{1/4}$
+    - $|A| = \left( \frac{2\alpha}{\pi} \right)^{1/2}$
+    - $|A| = \left( \frac{2\pi}{\alpha} \right)^{1/2}$
+  correct: 0
+
+- id: 79
+  text: |
+    A quantum particle moves in as three dimensional space with momenta. $P = (P_x, P_y, P_z)$ and position $r = \{X, Y, Z\}$. The uncertainty in measurement of position and momentum along z axis is
+  options:
+    - $\Delta ZAP > h$
+    - $\Delta YAP > h$
+    - $\Delta XAP > h$
+    - $\Delta ZAP > h$
+  correct: 0
+
+- id: 80
+  text: |
+    An electron is confined to a box of length $10^5$ m. calculation of minimum uncertainty in its velocity, with $m_e = 9x10^{-31}$ kg, $h = 1.05x10^{-34}$ J sec is
+  options:
+    - $1.17 \times 10^4$ m/sec
+    - $1.17 \times 10^6$ m/sec
+    - $1.17 \times 10^2$ m/sec
+    - none
+  correct: 0
+
+- id: 81
+  text: |
+    Value of $\nabla \times \frac{r}{r^2}$ is
+  options:
+    - $-\frac{r}{r^2}$
+    - $4h \delta^3(r)$
+    - 1
+    - o
+  correct: 3
+
+- id: 82
+  text: |
+    In a head on collision of an alpha partice with a heavy nucleus, the closest distance of approach between the collision partners will be
+  options:
+    - zero
+    - largest
+    - minimum
+    - infinity
+  correct: 2
+
+- id: 83
+  text: |
+    What was one of the reasons for proposing the existence of the neutrino?
+  options:
+    - To explain the mass defect in nuclear reactions
+    - To explain the apparent energy non conservation in beta decay
+    - To explain the existence of the strong nuclear force
+    - To explain the emission of two types of electrons during beta decay.
+  correct: 1
+
+- id: 84
+  text: |
+    Gradient of a scalar function is
+  options:
+    - Scalar quantity
+    - Vector quantity
+    - Tensor Quantity
+    - zero
+  correct: 1
+
+- id: 85
+  text: |
+    Magnetic field $B$ is
+  options:
+    - a solenoidal vector
+    - an irrotational vector
+    - a tensor
+    - a scalar
+  correct: 0
+
+- id: 86
+  text: |
+    Eigen values of matrix.
+    $\begin{pmatrix}
+    2 & 2 & 1 \\
+    1 & 3 & 1 \\
+    1 & 2 & 2
+    \end{pmatrix}_{nrc}$
+  options:
+    - 1,0,-1
+    - 1,1,0
+    - 2,0,-2
+    - 2,0,2
+  correct: 0
+
+- id: 87
+  text: |
+    Differential equation
+    $x^2 \frac{d^2 y}{dx^2} + x \frac{dy}{dx} + (x^2 - n^2)y = 0$ has solution as
+  options:
+    - Bessel function $J_n(x)$
+    - Hermite polynomial $H_n(x)$
+    - Legedre Polynomial $P_n(x)$
+    - Laguerre polynomial $L_n(x)$
+  correct: 0
+
+- id: 88
+  text: |
+    Value of $J_0(x)$ at $x=0$ is given by
+  options:
+    - 1
+    - 0
+    - a
+    - $\sqrt{4}$
+  correct: 0
+
+- id: 89
+  text: |
+    For any square matrix A, Which of following matrices is not hermitian?
+  options:
+    - A + A$^*$
+    - AA$^*$
+    - A$^*$A
+    - A$^*$-A
+  correct: 3
+
+- id: 90
+  text: |
+    A deep under water explosion causes wave to spread out from point P. The amplitude of wave decreases as function of distance r from P as
+  options:
+    - $1/r^2$
+    - $1/r$
+    - $1/r^{0.5}$
+    - log r
+  correct: 1
+
+- id: 91
+  text: |
+    Consider three ideal gases all at temperature T. A has N single atoms, B has N/2 diatomic molecules and C has N/3 triatomic molecules. Which one is WRONG STATEMENT?
+  options:
+    - All three gases have same entropy at all temperatures.
+    - The ratio of pressure is 6:3;2
+    - At sufficiently high temperature, specific heat capacity at constant volume is same for all three gases.
+    - At sufficiently high temperature, specific heat capacity at constant pressure is same for all three gases.
+  correct: 0
+
+- id: 92
+  text: |
+    The approximate number of molecules in grain of salt of size 1mm$^3$ is closest to
+  options:
+    - $10^{15}$
+    - $10^{21}$
+    - $10^{18}$
+    - None
+  correct: 1
+
+- id: 93
+  text: |
+    A particle moves in x direction according to x=vt+A sin wt$^-$ and in y direction according to y=vt+A cos wt. The path seen is
+  options:
+    - A simple oscillation in x and y direction
+    - An ellipsoidal path
+    - A circular path with origin moving at speed of $\frac{v}{\sqrt{2}}$
+    - A circular path with origin at rest
+  correct: 2
+
+- id: 94
+  text: |
+    Two concentric rings , each with equal mass per unit length $\lambda$, are joined so that they can rotate together through centre. One ring has radius R, the other has 2R.The moment of inertia of combined system is
+  options:
+    - 18nAR$^3$
+    - 2nAR$^3$
+    - 10nAR$^3$
+    - 9nAR$^3$
+  correct: 0
+
+- id: 95
+  text: |
+    A particle of charge q and mass m enters with speed v into uniform magnetic field B that is perpendicular to velocity .An electric field is applied in perpendicular direction to B with a strength E sufficient to keep particle from bending. (In the units used below c is speed of light and electric and magnetic field have same units ). The electric field is
+  options:
+    - The electric field cant prevent particle from bending.
+    - $\frac{1}{2}mv^2B$
+    - $\frac{vB}{c}$
+    - $\frac{vB}{mc}$
+  correct: 2
+
+- id: 96
+  text: |
+    A capacitor C is in series with a resistor R. The capacitor is charged, and then switch is closed to complete the circuit.At what time has the resistor dissipated half of energy originally stored in the capacitor?
+  options:
+    - RC
+    - (RC ln2)
+    - (RC ln2)/2
+    - (RC)/2
+  correct: 2
+
+- id: 97
+  text: |
+    What is correct relationship between phase velocity, V $_{phase}$ , and group velocity; V $_{group}$ , for quantum mechanical wave packet?
+  options:
+    - V $_{phase}$ - V $_{group}$
+    - V $_{phase}$ = 2V $_{group}$
+    - V $_{phase}$ =(V $_{group}$)/2
+    - V $_{phase}$ V $_{group}$ = c$^2$
+  correct: 2
+
+- id: 98
+  text: |
+    For one dimensional oscillator, the representative point in two dimensional phase space traces
+  options:
+    - an ellipse
+    - a parabola
+    - a hyperbola
+    - always a straight line
+  correct: 0
+
+- id: 99
+  text: |
+    The eccentricity (e) of the orbit of a satellite having maximum and minimum velocities as v$_1$ and v$_2$
+  options:
+    - v$_1$ / v$_2$
+    - v$_2$ / v$_1$
+    - (v$_1$ - v$_2$) / (v$_1$ + v$_2$)
+    - (v$_1$ + v$_2$) / (v$_1$ - v$_2$)
+  correct: 2
+
+- id: 100
+  text: |
+    A uniform rod is placed vertically on a smooth surface and then released . Then
+  options:
+    - the centre of rod follows a straight line path
+    - the centre of mass follows circular path
+    - the instantaneous axis is passing through the point of contact
+    - all the three before
+  correct: 2
+
+
