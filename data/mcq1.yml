@@ -887,7 +887,7 @@
    correct: 1
 
  - id: 89
-  text: |
+   text: |
     Given $\int_{-\infty}^{\infty} dx e^{-ax^2} = \sqrt{\frac{\pi}{a}}$, the value of the integral $\int_{-\infty}^{\infty} dx x^2 e^{-ax^2}$ is
   options:
     - $\sqrt{\frac{\pi}{a}}$
