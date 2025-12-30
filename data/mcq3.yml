@@ -1,0 +1,1218 @@
+- id: 1
+  text: |
+    A person throws balls into air
+    vertically upward in regular
+    intervals of time of one second.
+    The next ball is thrown when
+    velocity of ball thrown earlier
+    becomes zero height to which ball
+    rise is, $[g=10ms^{-2}]$
+  options:
+    - 5m
+    - 10m
+    - 7.5m
+    - 20m
+  correct: 0
+
+- id: 2
+  text: |
+    Circular motion of particle with
+    constant speed is,
+  options:
+    - periodic but not SHM
+    - SHM but not periodic
+    - periodic and also SHM
+    - neither periodic nor SHM
+  correct: 0
+
+- id: 3
+  text: |
+    A planet moving around Sun
+    sweeps area $A_{1}$ in 2 days, $A_{2}$ in 3
+    days and $A_{3}$ in 6 days. Then
+    relation between $A_{1},$ $A_{2}\&$ $A_{3}$ is,
+  options:
+    - $3A_{1}=2A_{2}=A_{3}$
+    - $2A_{1}=3A_{2}=6A_{1}$
+    - $3A_{1}=2A_{2}=6A_{3}$
+    - $6A_{1}=3A_{2}=2A_{3}$
+  correct: 3
+
+- id: 4
+  text: |
+    Intensity level of sound whose
+    intensity is $10^{-8}wm^{-2}$ is... dB
+  options:
+    - 8
+    - 4.
+    - 40
+    - 80
+  correct: 2
+
+- id: 5
+  text: |
+    Equation of plane progressive wave is
+    given below
+    $y=10~sin~\pi[0.01x-2.00t]$
+    where y and x are in seconds phase
+    difference between two points 40cm
+    apart is
+  options:
+    - π radian
+    - $\frac{\pi}{2}$ radian
+    - $\frac{3}{4}\pi$ radian
+    - $\frac{2}{5}\pi$ radian
+  correct: 3
+
+- id: 6
+  text: |
+    A velocity vector is given as
+    $\overline{V}=5xy\hat{i}+2y^{2}\hat{j}+3yz^{2}\hat{k}$
+    The
+    divergence of this velocity vector at
+    (1, 1, 1) is
+  options:
+    - 9
+    - 10
+    - 14
+    - 15
+  correct: 3
+
+- id: 7
+  text: |
+    How many points are collinear
+    with centre of gravity of pendulum
+    about which its time period is
+    same.
+  options:
+    - 2.
+    - 3
+    - 4
+    - 5
+  correct: 2
+
+- id: 8
+  text: |
+    A flow of liquid is streamline if
+    Reynold number is
+  options:
+    - less than 1000
+    - greater than 1000
+    - between 2000 to 3000
+    - between 4000 to 5000
+  correct: 0
+
+- id: 9
+  text: |
+    Out of following four dimensional
+    quantities, which one qualifies to
+    be called as dimensional constant?
+  options:
+    - acceleration due to gravity
+    - surface tension of water
+    - weight of a standard kilogram mass
+    - velocity of light in vacuum
+  correct: 3
+
+- id: 10
+  text: |
+    A student unable to answer on
+    Newton's law of motion attempts
+    to pull himself up by tugging on
+    his hair. He will not success
+  options:
+    - as force exerted is small
+    - frictional force while gripping is small
+    - Newton's law of inertia is not applicable to living beings
+    - as force applied is internal to system
+  correct: 3
+
+  - id: 11
+  text: |
+    Wavelength of radiation emitted by
+    body depends upon
+  options:
+    - nature of surface
+    - area of surface
+    - temperature of surface
+    - all of above factors
+  correct: 2
+
+- id: 12
+  text: |
+    A piece of blue glass heated to high
+    temperature and piece of red glass
+    at room temperature, are taken
+    inside a dimly lit room.
+    Then
+  options:
+    - blue piece will look blue and red will look as usual
+    - red look brighter red and blue look ordinary blue
+    - blue shines like brighter red compared to red piece
+    - both pieces will look equally red
+  correct: 2
+
+- id: 13
+  text: |
+    A cycle tyre bursts suddenly. What
+    is type of this process?
+  options:
+    - Isothermal
+    - Adiabatic
+    - Isochoric
+    - Isobaric
+  correct: 1
+
+- id: 14
+  text: |
+    During an adiabatic process, cube
+    of pressure is found to be inversely
+    proportional to fourth power of
+    volume. Then ratio of specific
+    heats is
+  options:
+    - 1.4
+    - 1.67
+    - 1.33
+    - 1
+  correct: 2
+
+- id: 15
+  text: |
+    310J of heat is required to raise
+    temperature of 2 moles of an ideal
+    gas at constant pressure from $25^{\circ}C$
+    to $35^{\circ}C$. Amount of heat required
+    to raise temperature of gas through
+    same range at constant volume is
+  options:
+    - 452J
+    - 276J
+    - 144J
+    - 384J
+  correct: 2
+
+- id: 16
+  text: |
+    During melting of a slab of ice at
+    273K at atmospheric pressure
+  options:
+    - positive work is done by the ice-water system on atmosphere
+    - positive work is done on ice-water system by atmosphere
+    - internal energy of ice-water system increases
+    - internal energy of ice-water system decreases
+  correct: 2
+
+- id: 17
+  text: |
+    A gaseous mixture consists of 16g
+    of Helium and 16g of Oxygen ratio
+    of $C_{p}$ & $C_{v}$ of mixture is
+  options:
+    - 1.62
+    - 1.59
+    - 1.54
+    - 1.4
+  correct: 0
+
+- id: 18
+  text: |
+    Which of following parameter does
+    not characterize thermodynamic
+    state of matter?
+  options:
+    - work
+    - volume
+    - pressure
+    - temperature
+  correct: 0
+
+- id: 19
+  text: |
+    The quantities that remain same in
+    micro canonical ensemble by 'n'
+    system is
+  options:
+    - N,V,T
+    - N,T,E
+    - N,V,E
+    - V,E
+  correct: 2
+
+- id: 20
+  text: |
+    At room temperature, r.m.s speed
+    of molecules of certain diatomic
+    gas is found to be
+    $1930m/s.$ Gas is
+  options:
+    - $H_{2}$
+    - $F_{2}$
+    - $O_{2}$
+    - $Cl_{2}$
+  correct: 0
+
+- id: 21
+  text: |
+    When a low flying aircraft passes
+    over head, we sometimes notice a
+    slight shaking of picture on our TV
+    screen. This is due to
+  options:
+    - diffraction of signal received from antenna
+    - interference of direct signal received by antenna with weak signal reflected by passing aircraft
+    - change in magnetic flux occurring due to passage of aircraft
+    - vibrations created by passage of aircraft
+  correct: 2
+
+- id: 22
+  text: |
+    A beam of light of wavelength
+    600nm from distant source falls on
+    single slit 1mm wide and resulting
+    diffraction pattern is observed on
+    screen 2m away. Distance between
+    first dark fringes on either side of
+    central bright fringe is
+  options:
+    - 1.2cm
+    - 1.2mm
+    - 2.4cm
+    - 2.4mm
+  correct: 0
+
+- id: 23
+  text: |
+    Twinkling effect of star light is due
+    to
+  options:
+    - total internal reflection
+    - high dense matter of star
+    - constant burning of hydrogen in star
+    - fluctuating apparent position of star being slightly different from actual position of star
+  correct: 3
+
+- id: 24
+  text: |
+    Width of diffraction band varies
+  options:
+    - inversely as wavelength
+    - directly as width of slit
+    - directly as distance between slit and screen
+    - inversely as size of source from which slit is illuminated
+  correct: 2
+
+- id: 25
+  text: |
+    An unpolarized beam of intensity $I_{0}$
+    is incident on pair of Nicols
+    making an angle of $60^{\circ}$ with each
+    other. Intensity of light emerging
+    from pair is
+  options:
+    - $I_{0}$
+    - $I_{0}/2$
+    - $I_{0}/4$
+    - $I_{0}/8$
+  correct: 3
+
+- id: 26
+  text: |
+    Select right option in following
+  options:
+    - Christian Huygens, a contemporary of Newton established wave theory of light by assuming that light waves were transverse
+    - Maxwell provided compelling theoretical evidence that light is a transverse wave
+    - Thomas Young experimentally proved wave behavior of light and Huygens assumption
+    - All three statements given above correctly answers question "what is light?"
+  correct: 1
+
+- id: 27
+  text: |
+    Astronomers using a telescope
+    whose diameter had diameter of
+    one meter using telescope of
+    diameter 2.54m. This resulted in
+  options:
+    - increase in resolving power by 2.54 times for same λ
+    - increase in limiting angle by 2.54 times for same λ
+    - decrease in resolving power
+    - no effect in limiting angle
+  correct: 0
+
+- id: 28
+  text: |
+    Two coherent light beams of
+    intensity I & 4I are superposed
+    maximum and minimum possible
+    intensities in resulting beam are
+  options:
+    - 9I & I
+    - 9I & 3I
+    - 5I & I
+    - 5I & 3I
+  correct: 0
+
+- id: 29
+  text: |
+    A 20cm length of certain solution
+    causes right handed rotation of 38°.
+    A 30cm length of another solution
+    causes left hand rotation of 24°
+    optical rotation caused by 30cm
+    length of mixture of above solution
+    in volume ratio 1:2 is
+  options:
+    - right handed rotation of 3°
+    - left handed rotation of 3°
+    - right handed rotation of 14°
+    - left handed rotation of 14°
+  correct: 0
+
+- id: 30
+  text: |
+    Head light of jeep are 1.2m apart if
+    pupil of eye of an observer has a
+    diameter of 2mm and light of
+    wavelength 5896A is used, what
+    should be maximum distance of
+    jeep from observer id two head
+    lights are just separated?
+  options:
+    - 3.39m
+    - 3.39Km
+    - 33.9m
+    - 33.9Km
+  correct: 1
+
+- id: 31
+  text: |
+    Given a magnetic vector potential
+    $A(X,Y,Z) = -1/2 (Y B_{0} \hat{i} - X B_{0} \hat{j})$
+    where $B_{0}$ is a constant. Magnetic
+    induction produced is
+  options:
+    - $B_{0}\hat{k}$
+    - $B_{0}\hat{j}$
+    - $B_{0}\hat{i}$
+    - $B_{0}XY/(X^{2}+Y^{2})\hat{k}$
+  correct: 0
+
+- id: 32
+  text: |
+    A long wire carries a steady current
+    I. Then magnetic induction at
+    distance r from wire
+  options:
+    - varies as 1/r and is along direction of wire
+    - varies as $1/r^{2}$ and is along direction of wire
+    - varies as $1/r^{2}$ and is at right angles to wire
+    - varies as 1/r and is at right angles to wire
+  correct: 3
+
+- id: 33
+  text: |
+    Given a spherical charge
+    distribution
+    $\rho=\rho_{0}(1-r^{2}/a^{2})$ $r\le a$
+    $=0$ $r>a$
+    The electric field inside
+    distribution is
+  options:
+    - $E = constant$ and is radial direction
+    - $E=(\rho_{0}/\epsilon_{0})[\frac{r}{3}-\frac{r^{3}}{5a^{2}}]$ and is in radial direction
+    - $E=(\rho_{0}/\epsilon_{0})(r^{5}/5a^{2})$ and is in axial direction
+    - $E=(8\pi a^{3}\rho_{0}/4\pi \epsilon_{0})(1/r)$ and is in radial direction
+  correct: 1
+
+- id: 34
+  text: |
+    For electromagnetic wave in vacuum
+  options:
+    - Group and phase velocity are same
+    - Group velocity is C but phase velocity is smaller than C
+    - Phase velocity is C and group velocity is smaller than C
+    - Phase velocity can exceed C but groups velocity is always less than C
+  correct: 0
+
+- id: 35
+  text: |
+    Poynting' vector:
+  options:
+    - Is proportional to $(E^{2}+B^{2})/2 \mu_{0}$ and is also called energy density
+    - is proportional to $\vec{E}\cdot\vec{B}$ gives intensity of e.m waves
+    - is proportional to angular momentum of wave
+    - is proportional to $\vec{E}\times\vec{B}$ and is proportional to intensity of wave
+  correct: 3
+
+- id: 36
+  text: |
+    A Gaussian sphere encloses an
+    electric dipole within it. Total flux
+    across sphere is
+  options:
+    - zero
+    - half that due to single charge
+    - double that due to single charge
+    - dependent on position of dipole
+  correct: 0
+
+- id: 37
+  text: |
+    Specific charge of proton is
+    $9.6\times10^{7} C Kg^{-1}$. The specific
+    charge of an alpha particle will be
+  options:
+    - $9.6\times10^{7} C Kg^{-1}$
+    - $19.2\times10^{7} C Kg^{-1}$
+    - $4.8\times10^{7} C Kg^{-1}$
+    - $2.4\times10^{7} C Kg^{-1}$
+  correct: 2
+
+- id: 38
+  text: |
+    A Resistor of 500Ω, an inductance
+    of 0.5H are in series with an a.c
+    which is given by $v=100\sqrt{2} sin(1000t)$.
+    Power factor of combination is
+  options:
+    - $1/\sqrt{2}$
+    - $1/\sqrt{3}$
+    - 0.5
+    - 0.6
+  correct: 0
+
+- id: 39
+  text: |
+    A straight current carrying
+    conductor is kept along axis of
+    circular loop carrying current. The
+    force exerted by straight conductor
+    on loop is
+  options:
+    - perpendicular to plane of loop
+    - in plane of loop, away from center
+    - in plane of loop, towards center
+    - zero
+  correct: 3
+
+- id: 40
+  text: |
+    A susceptibility of certain material
+    is 400. What is class of magnetic
+    materials?
+  options:
+    - Diamagnetic
+    - Paramagnetic
+    - Ferromagnetic
+    - Ferroelectric
+  correct: 2
+
+- id: 41
+  text: |
+    Bohr's atom model assumes
+  options:
+    - Nucleus is of infinite mass and is at Rest
+    - Electrons in a quantized orbit will not radiate energy
+    - Mass of electron remains constant
+    - All above conditions
+  correct: 3
+
+- id: 42
+  text: |
+    Two nucleons are at a separation of
+    one Fermi. Protons have a charge
+    of $+1.6\times10^{-19}C$. The net nuclear
+    force between them is $F_{1}$, if both
+    are neutrons, $F_{2}$ if both are protons
+    and $F_{3}$, if one is proton and other is
+    neutron. Then
+  options:
+    - $F_{1}=F_{2}>F_{3}$
+    - $F_{1}=F_{2}=F_{3}$
+    - $F_{1}<F_{2}<F_{3}$
+    - $F_{1}>F_{2}>F_{3}$
+  correct: 0
+
+- id: 43
+  text: |
+    Maximum kinetic energy of
+    photoelectrons depends only on
+  options:
+    - potential
+    - frequency
+    - incident angle
+    - pressure
+  correct: 1
+
+- id: 44
+  text: |
+    Which of following spectral series
+    of hydrogen atom is lying in visible
+    range of electromagnetic wave?
+  options:
+    - Paschen series
+    - P-fund series
+    - Lyman series
+    - Balmer series
+  correct: 3
+
+- id: 45
+  text: |
+    A force between two protons is
+    same as force between proton &
+    neutron. Nature of force is
+  options:
+    - weak nuclear force
+    - strong nuclear force
+    - electrical force
+    - gravitational force
+  correct: 1
+
+- id: 46
+  text: |
+    Most stable particle in Baryon
+    group is
+  options:
+    - neutron
+    - proton
+    - lambda particle
+    - sigma particle
+  correct: 1
+
+- id: 47
+  text: |
+    Spectrum of sunlight is an example
+    for
+  options:
+    - Band emission spectrum
+    - Line absorption spectrum
+    - Continuous emission spectrum
+    - Continuous absorption spectrum
+  correct: 1
+
+- id: 48
+  text: |
+    Decay constants of two radio-
+    active samples A and B are 15x
+    and 3x respectively. They have
+    equal number of initial nuclei.
+    Ratio of number of nuclei left in A
+    and B after time $1/6x$ is
+  options:
+    - e
+    - $e^{2}$
+    - $e^{-1}$
+    - $e^{-2}$
+  correct: 3
+
+- id: 49
+  text: |
+    Intensity of a beam of following
+    particles passing through matter
+    undergoes an exponential
+    attenuation:
+  options:
+    - Electrons
+    - Protons
+    - Gamma rays
+    - β-particles
+  correct: 2
+
+- id: 50
+  text: |
+    A Radioactive element forms its
+    own isotope after 3 consecutive
+    disintegrations. The particle
+    emitted are
+  options:
+    - 2α particles and 1β particle
+    - 2β particles and 1γ particle
+    - 2β particles and 1α particle
+    - 3β particles
+  correct: 2
+
+- id: 51
+  text: |
+    An ideal voltage source has
+  options:
+    - Zero internal resistance
+    - Infinite internal resistance
+    - A load-dependent voltage
+    - A load-dependent current
+  correct: 0
+
+- id: 52
+  text: |
+    Norton current is sometimes called the
+  options:
+    - Shorted-load current
+    - Open-load current
+    - Thevenin current
+    - Thevenin voltage
+  correct: 0
+
+- id: 53
+  text: |
+    How many free electrons does a p-
+    type semiconductor contain?
+  options:
+    - Many
+    - None
+    - Only those produced by thermal energy
+    - Same number as holes
+  correct: 2
+
+- id: 54
+  text: |
+    If filter capacitance is increased,
+    ripple will
+  options:
+    - Decrease
+    - Stay same
+    - Increase
+    - Can't say anything
+  correct: 3
+
+- id: 55
+  text: |
+    Transconductance indicates how
+    effectively input voltage controls
+  options:
+    - Voltage gain
+    - Input resistance
+    - Supply voltage
+    - Output current
+  correct: 3
+
+- id: 56
+  text: |
+    The OP amp can amplify
+  options:
+    - AC signals only
+    - DC signals only
+    - Both AC and DC signals
+    - Neither AC nor DC signals
+  correct: 2
+
+- id: 57
+  text: |
+    The phase shift oscillator usually
+    has
+  options:
+    - Two lead or lag circuits
+    - Three lead or lag circuits
+    - A lead-lag circuit
+    - 4 lead and 2 lag circuits
+  correct: 1
+
+- id: 58
+  text: |
+    An XOR gate produces and output
+    only when its two inputs are
+  options:
+    - high
+    - low
+    - different
+    - same
+  correct: 2
+
+- id: 59
+  text: |
+    Expression $\overline{ABC}$ can be simplified
+    to (using Boolean Algebra)
+  options:
+    - $\overline{A}.\overline{B}.\overline{C}$
+    - $AB+BC+CA$
+    - $AB+\overline{C}$
+    - $\overline{A}+\overline{B}+\overline{C}$
+  correct: 3
+
+- id: 60
+  text: |
+    Which one of following gate is also
+    called inverter?
+  options:
+    - NOT
+    - AND
+    - OR
+    - NOR
+  correct: 0
+
+- id: 61
+  text: |
+    The value of "a" in unit vector
+    $\vec{V}=(1/3)\hat{i}+a\hat{j}$ is
+  options:
+    - $8/9$
+    - $2/3$
+    - $\sqrt{2}/3$
+    - $2\sqrt{2}/3$
+  correct: 3
+
+- id: 62
+  text: |
+    Order and degree of differential
+    equation $y''-2y'+y^{3}=0$
+    are
+  options:
+    - 2,3
+    - 3,2
+    - 2,2
+    - 3,3
+  correct: 0
+
+- id: 63
+  text: |
+    Which of following relations is
+    incorrect?
+  options:
+    - $J_{n}(x)=(-1)^{n}J_{-n}(x)$
+    - $J_{1/2}(x)=(2/\pi x)^{1/2}Sin x$
+    - $P_{n}(x)=P_{n}(-x)$
+    - $H_{n}(x)=(-1)^{n}H_{n}(-x)$
+  correct: 2
+
+- id: 64
+  text: |
+    Laplace transform of $e^{at}$ is
+  options:
+    - $1/(s-a)$
+    - $1/(n^{2}-1)$
+    - $1/(s+a)$
+    - $1/(n^{2}+1)$
+  correct: 0
+
+- id: 65
+  text: |
+    Solution of that in function of
+    velocity is given by
+  options:
+    - $t-t_{0}=\int_{v_{0}}^{v}F(v)/m dv$
+    - $t-t_{0}=\int_{v_{0}}^{v}m F(v)dv$
+    - $t-t_{0}=\int_{v_{0}}^{v}F(v)/m dv$
+    - $t-t_{0}=\int_{v_{0}}^{v}m dv/F(v)$
+  correct: 3
+
+- id: 66
+  text: |
+    If signal $x(t+T)=-x(t)$ with T is
+    period of its signal, the signal is
+  options:
+    - Even function
+    - Odd function
+    - Energy function
+    - Even-odd function
+  correct: 1
+
+- id: 67
+  text: |
+    Inner product of two tensors $A^{i}$ and.
+    $B_{jk}$ is
+  options:
+    - $C_{k}$
+    - B
+    - $C^{i}_{jk}$
+    - A
+  correct: 0
+
+- id: 68
+  text: |
+    Which of following vector is
+    orthogonal to vector ($a\hat{i}+b\hat{j}$) where
+    a and b $(a/b)$ are constant and $\hat{i}$ and
+    $\hat{j}$ are unit orthogonal vectors?
+  options:
+    - $-b\hat{i}+a\hat{j}$
+    - $-a\hat{i}+b\hat{j}$
+    - $b\hat{i}-a\hat{j}$
+    - $a\hat{i}-b\hat{j}$
+  correct: 0
+
+- id: 69
+  text: |
+    Phase of complex number (1+i) in
+    polar representation is
+  options:
+    - π/4
+    - π/2
+    - 3π/4
+    - 5π/4
+  correct: 2
+
+- id: 70
+  text: |
+    Consider matrix
+    $M = \begin{pmatrix}1&1&1\\ 1&1&1\\ 1&1&1\end{pmatrix}$
+    Eigen values of M are
+  options:
+    - 0,1,2
+    - 0,0,3
+    - 1,1,1
+    - -1,1,3
+  correct: 1
+
+- id: 71
+  text: |
+    Hamiltonian of charged particle
+    moving in an electromagnetic field
+    is given by
+  options:
+    - $H = \frac{1}{2}m(p^{2} - eA^{2}) + e\phi$
+    - $H = \frac{1}{2m}(p - eA)^{2} + e\phi$
+    - $H = \frac{1}{2}m(p \cdot eA)^{2} + e\phi$
+    - $H = \frac{1}{2m}(p \cdot eA)^{2} + e\phi$
+  correct: 1
+
+- id: 72
+  text: |
+    If $q_{i}$ cyclic co-ordinate, then
+    Lagrange's equation of motion
+    reduces to
+  options:
+    - $\frac{d}{dt}(\partial L/\partial \dot{q}_{i})=0,i=1,2,...,n$
+    - $\partial L/\partial q_{i}=0,i=1,2,...,n$
+    - $\frac{d}{dt}(\partial L/\partial q_{i})=0,i=1,2,...,n$
+    - $\partial L/\partial \dot{q}_{i}=0,i=1,2,...,n$
+  correct: 0
+
+- id: 73
+  text: |
+    Number of independent co-ordinates needed to describe motion of rigid body
+  options:
+    - 6
+    - 5
+    - 4
+    - 3
+  correct: 0
+
+- id: 74
+  text: |
+    A Rod is moving with speed of
+    0.8c in direction at 60° to its own
+    length. The percentage contraction
+    in length of rod is
+  options:
+    - 10%
+    - 9%
+    - 8%
+    - 7%
+  correct: 1
+
+- id: 75
+  text: |
+    Velocity of particle at which
+    kinetic energy is equal to its rest
+    energy is (in terms of speed of
+    light, c)
+  options:
+    - $\sqrt{3}c/2$
+    - $3c/4$
+    - $\sqrt{3/5}c$
+    - $c/\sqrt{2}$
+  correct: 0
+
+- id: 76
+  text: |
+    A satellite moves around earth in
+    circular orbit of radius R centred at
+    earth. A second satellite moves in
+    an elliptical orbit of major axis 8R,
+    with earth at one of foci. If former
+    takes 1 day to complete revolution,
+    latter would take
+  options:
+    - 21.6 days
+    - 8 days
+    - 3 hours
+    - 1.1 hour
+  correct: 1
+
+- id: 77
+  text: |
+    If mass of 3.6g is fully converted
+    into energy, how many kilowatt
+    hour of electrical energy will be
+    obtained?
+  options:
+    - $3\times10^{7}KWh$
+    - $9\times10^{7}KWh$
+    - $4\times10^{7}KWh$
+    - $6\times10^{7}KWh$
+  correct: 1
+
+- id: 78
+  text: |
+    If a constant force acts on particle,
+    its acceleration will
+  options:
+    - remain constant
+    - Gradually increase
+    - gradually increase
+    - be undefined
+  correct: 1
+
+- id: 79
+  text: |
+    Which of following quantities
+    related to an electron have upper
+    finite limit?
+  options:
+    - mass
+    - momentum
+    - speed
+    - kinetic energy
+  correct: 2
+
+- id: 80
+  text: |
+    Increase in mass when body of rest
+    mass 1Kg is lifted up through 1m
+    near earth's surface.
+  options:
+    - $4.26\times10^{-16}Kg$
+    - $1.1\times10^{-16}Kg$
+    - $2.18\times10^{-14}Kg$
+    - $3.68\times10^{-14}Kg$
+  correct: 1
+
+- id: 81
+  text: |
+    A narrow beam of x-rays with
+    wavelength 1.5A is reflected from
+    an ionic crystal with fcc lattice
+    structure with density of $3.32g cm^{-3}$.
+    The molecular weight is 108
+    AMU ($1AMU=1.66\times10^{-24}g$).
+    Lattice constant is
+  options:
+    - 6.00
+    - 4.56
+    - 4.00
+    - 2.56
+  correct: 0
+
+- id: 82
+  text: |
+    Sine of angle corresponding to
+    (111) reflection is
+  options:
+    - $\sqrt{3}/4$
+    - $\sqrt{3}/8$
+    - 1/4
+    - 1/8
+  correct: 1
+
+- id: 83
+  text: |
+    Potential of diatomic molecule as
+    function of distance r between
+    atoms is given by
+    $V(r)= -a/r^{6} + b/r^{12}$. Value of
+    potential at equilibrium separation
+    between atoms is
+  options:
+    - $-4a^{2}/b$
+    - $-2a^{2}/b$
+    - $-a^{2}/2b$
+    - $-a^{2}/4b$
+  correct: 3
+
+- id: 84
+  text: |
+    If number density of free electron
+    gas in 3 dimension is increased
+    eight times, its Fermi temperature
+    will
+  options:
+    - increase by factor of 4
+    - decrease by factor of 4
+    - increase by factor of 8
+    - decrease by factor of 8
+  correct: 0
+
+- id: 85
+  text: |
+    Radius of Fermi sphere of free
+    electrons in monovalent metal with
+    fcc structure, in which volume of
+    unit cell is $a^{3}$, is
+  options:
+    - $(12\pi^{2}a^{3})^{1/3}$
+    - $(3\pi^{2}/a^{3})^{1/3}$
+    - $(\pi^{2}/a^{3})^{1/3}$
+    - 1/a
+  correct: 0
+
+- id: 86
+  text: |
+    Manifestation of band structure in
+    solids is due to
+  options:
+    - Heisenberg's uncertainty principle
+    - Pauli's exclusion principle
+    - Bohr's correspondence principle
+    - Boltzmann's law
+  correct: 1
+
+- id: 87
+  text: |
+    Holes are charge carriers in
+  options:
+    - intrinsic semiconductors
+    - ionic solids
+    - p-type semiconductors
+    - metals
+  correct: 2
+
+- id: 88
+  text: |
+    Positive holes acquires a drift
+    velocity in an electric field
+  options:
+    - in opposite direction to field
+    - in same direction as field
+    - perpendicular to field
+    - due to magnetic field
+  correct: 1
+
+- id: 89
+  text: |
+    An electron with negative effective
+    mass is known as
+  options:
+    - hole
+    - positron
+    - polaron
+    - heavy electron
+  correct: 0
+
+- id: 90
+  text: |
+    Unit cell of aluminum is face
+    centred with lattice constant,
+    a=0.405nm. Number of unit cells
+    there in aluminum foil 0.005cm
+    thick and side 25cm square.
+  options:
+    - $1.9 \times 10^{19}$
+    - $1.9 \times 10^{20}$
+    - $1.9 \times 10^{21}$
+    - $1.9 \times 10^{22}$
+  correct: 2
+
+- id: 91
+  text: |
+    Spacing between successive energy
+    levels of linear harmonic oscillator
+    is
+  options:
+    - ℏω
+    - ½ℏω
+    - (ℏ+1/2)ℏω
+    - ½
+  correct: 2
+
+- id: 92
+  text: |
+    Internuclear distance between two
+    dumbell molecules of same nearly
+    masses is 0.75. The energy
+    difference between first two
+    rotational level is (mass of
+    atom=$1.7\times10^{-27}Kg$)
+  options:
+    - $1.45 \times 10^{-2}ev$
+    - $1.45 \times 10^{-3}ev$
+    - $1.32 \times 10^{-2}ev$
+    - $7.6 \times 10^{-2}ev$
+  correct: 0
+
+- id: 93
+  text: |
+    Maximum particle velocity in wave
+    motion is half wave velocity. Then
+    amplitude of wave is equal to
+  options:
+    - λ
+    - λ/2π
+    - 2π/λ
+    - λ/4π
+  correct: 1
+
+- id: 94
+  text: |
+    Line of best fit can be obtained by
+    principle of
+  options:
+    - Least squares
+    - Moments
+    - Mixed moment
+    - Minimum chi square
+  correct: 3
+
+- id: 95
+  text: |
+    Number of significant figures in
+    3.00 is
+  options:
+    - 1
+    - 2
+    - 3
+    - Not defined
+  correct: 0
+
+- id: 96
+  text: |
+    Of following observations most
+    accurate is
+  options:
+    - $4 \times 10^{3}Kg$
+    - $4.0 \times 10^{3}Kg$
+    - $4.0 \times 10^{2}Kg$
+    - $4.000 \times 10^{3}Kg$
+  correct: 2
+
+- id: 97
+  text: |
+    Least count of vernier callipers is
+    0.01cm. probable error in
+    measurement can be
+  options:
+    - 0.005cm
+    - 0.01cm
+    - 0.05cm
+    - 0.02cm
+  correct: 3
+
+- id: 98
+  text: |
+    Error in measurement of radius of
+    sphere is 1%, error in measurement
+    of its volume is
+  options:
+    - 1%
+    - 3%
+    - 4π%
+    - 4/3π
+  correct: 1
+
+- id: 99
+  text: |
+    Distribution in which mean and
+    variance are equal is
+  options:
+    - Poisson
+    - Binomial
+    - Normal
+    - Geometric
+  correct: 1
+
+- id: 100
+  text: |
+    [Question text missing in source for ID 100, but present in answer key]
+  options:
+    - [Option A]
+    - [Option B]
+    - [Option C]
+    - [Option D]
+  correct: 0
